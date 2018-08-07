@@ -150,7 +150,8 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Unofficial Nano Community Wiki](https://github.com/georgehara/nano/wiki/unofficial)
 * [Nano Node Scripts](https://github.com/dbachm123/nanoNodeScripts)
 * [Nano Node Monitor](https://github.com/NanoTools/nanoNodeMonitor)
-* [Nano Vanity Generator](https://github.com/frankh/nano-vanity)
+* [Nano Vanity Generator (frankh)](https://github.com/frankh/nano-vanity)
+* [Nano Vanity Generator (PlasmaPower)](https://github.com/PlasmaPower/nano-vanity)
 * [Telegram Bot Source Code](https://github.com/SergiySW/NanoWalletBot)
 * [RaiSharp - C# Lib for RPC](https://github.com/vardthomas/Aggrex.RaiSharp)
 * [RaiBlocksJS - JS Lib for RPC](https://github.com/orrybaram/RaiBlocksJS)
@@ -182,8 +183,6 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
 * [Nano-rs - Nano in Rust](https://github.com/termhn/nano-rs)
 * [Nanopow-rs-node - JS Wrapper for Nanopow-rs](https://github.com/termhn/nanopow-rs-node)
-* [Nano Vanity Generator 1](https://github.com/PlasmaPower/nano-vanity)
-* [Nano Vanity Generator 2](https://github.com/frankh/nano-vanity)
 * [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
 
 ### Games, Gambling, Betting
