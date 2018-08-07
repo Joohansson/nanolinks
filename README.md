@@ -1,4 +1,4 @@
-## NanoLinks - The Ultimate Link Guide Into Nano ![](https://github.com/Joohansson/nanolinks/blob/master/nanomark.png "")
+## NanoLinks - The Ultimate Link Guide Into Nano ![](https://github.com/Joohansson/nanolinks/blob/master/nano.png "")
 A curated URL guide to find anything about Nano; The fast, free and green digital currency for the real world!
 
 ### Main Development
