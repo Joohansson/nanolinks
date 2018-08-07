@@ -131,7 +131,6 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [NanoMate - Spread Nano](https://nanomate.co/)
 * [Nano Resource List](https://github.com/RaiMakers/awesome-nano)
 * [Easy Nano Node](https://nanotools.github.io/easy-nano-node/)
-* [Nano Community Documentation](https://github.com/georgehara/nano/wiki/unofficial)
 
 ### Network Stats and Explorers
 * [Nanode.co - Explorer|Stats](https://www.nanode.co/)
