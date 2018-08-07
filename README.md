@@ -18,6 +18,9 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Facebook](https://www.facebook.com/nanocurrency/)
 * [Bitcointalk](https://bitcointalk.org/index.php?topic=1381323.0)
 
+### Scientific Papers
+* [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
+
 ### 3rd Party Development Discord Channels
 * [Canoe](https://discord.gg/ecVcJM3)
 * [Nanonode.ninja](https://discord.me/nanonodeninja)
@@ -151,6 +154,3 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Nano Poker Club](https://nanopoker.club/)
 * [Eternity Tower - Game](https://eternitytower.net/)
 * [Allin - Poker](https://beta.allin.bet)
-
-### Scientific Papers
-* [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
