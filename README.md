@@ -140,6 +140,7 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Prailude - Nano node in Lua and C](https://github.com/slact/prailude)
 * [Raimixer - Scrambler](https://github.com/juanjux/raimixer)
 * [EZNano - Mine ZCash](https://github.com/Ankonian1/EZNANO)
+* [Nano-Prettify - Format Nano Raw Amounts](https://github.com/kilkelly/nano-prettify)
 
 ### Games, Gambling, Betting
 * [PVP - Betting](https://pvp.me/)
@@ -152,3 +153,4 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Allin - Poker](https://beta.allin.bet)
 
 ### Scientific Papers
+* [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
