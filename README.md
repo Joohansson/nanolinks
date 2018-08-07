@@ -98,17 +98,20 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 
 ### Point of Sale
 * [Brainblocks Pod - Hardware Node](https://nexus.brainblocks.io/store/brainblocks-pods)
+* [Nano Blackbox - PoS Software](https://www.nanoblackbox.net/)
 
 ### Video Channels
 * [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
 * [NanoCast](https://www.youtube.com/channel/UC_KCdNCWQcb5Z4vsPBY18yQ)
 * [The Nano Center](https://www.youtube.com/channel/UCwB_g6LBPGv_anMhywH4BWA)
+* [Nano Blackbox](https://www.youtube.com/channel/UCehRwOEJsNb_0c6CwVSmCxw)
+* [Jolt Wallet](https://www.youtube.com/channel/UCLfilzzY4NmwNjWtEIibdkA)
 
-### Informative Video Material
-* [Nano Blackbox](https://www.youtube.com/watch?v=dD4bt-1pqFg)
+### Informative Video Material (Not in channels above)
 * [Nano Speed Test](https://youtu.be/e7jLFroW_NE)
 * [Colin LeMahieu Interview](https://youtu.be/hAy4GDV7tvQ)
-* [Jolt Wallet](https://youtu.be/PzRuHgmLCPA)
+* [Everything you need to know about Nano](https://youtu.be/ywgMlJBli7g)
+* [Nano simply explained](https://youtu.be/dlRhUwLQWXc)
 
 ### Video Advertisement
 * [Nano The Future of Money](https://youtu.be/lw-rpO0jqYQ)
