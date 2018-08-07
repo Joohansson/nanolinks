@@ -5,6 +5,7 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Main Site](https://nano.org)
 * [Roadmap, Guides, Docs](https://developers.nano.org/roadmap)
 * [Whitepaper (Eng)](https://nano.org/en/whitepaper)
+* [Official Nano GitHub Wiki](https://github.com/nanocurrency/raiblocks/wiki)
 * [Nano Source Code](https://github.com/nanocurrency)
 * [Media](https://medium.com/@nanocurrency)
 * [FAQ](https://nano.org/en/faq)
@@ -144,6 +145,7 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 ### Development Tools [Source Code]
 * [Brainblocks](https://github.com/brainblocks)
 * [BIP39 Demo](https://github.com/roosmaa/nano-bip39-demo)
+* [Unofficial Nano Community Wiki](https://github.com/georgehara/nano/wiki/unofficial)
 * [Nano Node Scripts](https://github.com/dbachm123/nanoNodeScripts)
 * [Nano Node Monitor](https://github.com/NanoTools/nanoNodeMonitor)
 * [Nano Vanity Generator](https://github.com/frankh/nano-vanity)
