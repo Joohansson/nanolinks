@@ -1,6 +1,27 @@
 ## NanoLinks - The Ultimate Link Guide Into Nano ![](https://github.com/Joohansson/nanolinks/blob/master/nano.png "")
 A curated URL guide to find anything about Nano; The fast, free and green digital currency for the real world!
 
+### This Guide Quick Index
+* [Main Development](#main-development)
+* [Nano Social Media & Contribution Channels](#nano-social-media--contribution-channels)
+* [Scientific Papers](#scientific-papers)
+* [3rd Party Development Channels](#3rd-party-development-channels)
+* [Exchanges](#exchanges)
+* [Wallets [Usage and Downloads]](#wallets-usage-and-downloads)
+* [Wallets [Source Code]](wallets-source-code)
+* [Hardware Wallets](#hardware-wallets)
+* [Nano Related Mobile Apps](#nano-related-mobile-apps)
+* [Market Data, Analysis & Tickers](#market-data-analysis--tickers)
+* [Merchant Related](#merchant-related-no-shops-too-many)
+* [Point of Sale](point-of-sale)
+* [Video Channels](video-channels)
+* [Informative Video Material](informative-video-material-not-in-channels-above)
+* [Video Advertisement](video-advertisement)
+* [Random Community Projects](random-community-projects)
+* [Network Stats and Explorers](network-stats-and-explorers)
+* [Development Tools [Source Code]](development-tools-source-code)
+* [Games, Gambling, Betting](games-gambling-betting)
+
 ### Main Development
 * [Main Site](https://nano.org)
 * [Roadmap, Guides, Docs](https://developers.nano.org/roadmap)
@@ -10,6 +31,7 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Media](https://medium.com/@nanocurrency)
 * [FAQ](https://nano.org/en/faq)
 * [Bug Bounty](https://hackerone.com/nano)
+* [Unofficial Nano Community Wiki](https://github.com/georgehara/nano/wiki/unofficial)
 
 ### Nano Social Media & Contribution Channels
 * [Twitter](https://twitter.com/nano)
@@ -22,7 +44,7 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 ### Scientific Papers
 * [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
 
-### 3rd Party Development Discord Channels
+### 3rd Party Development Channels
 * [Canoe](https://discord.gg/ecVcJM3)
 * [Nanonode.ninja](https://discord.me/nanonodeninja)
 * [The Nano Center](https://discord.gg/yhBuXMm)
@@ -46,7 +68,7 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Localnanos - P2P](https://www.localnanos.com/)
 * [PaFair - Escrow](https://payfair.io/)
 
-### Wallets (Usage and Downloads)
+### Wallets [Usage and Downloads]
 * [OSX|Win|Linux|iOS|Android: **Nano Wallet Company**](https://nanowalletcompany.com/)
 * [OSX|Win|Linux|iOS|Android|WinPhone: **Canoe**](https://getcanoe.io/)
 * [iOS: **Nanoblocks**](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
@@ -58,7 +80,7 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Paper: **Rai Paper Wallet**](https://numtel.github.io/rai-paper-wallet/)
 * [Wallet Generator: **NanoWarpWallet**](https://termhn.github.io/nanowarpwallet/)
 
-### Wallets (Source Code)
+### Wallets [Source Code]
 * [Nano Wallet Company](https://github.com/nano-wallet-company)
 * [Canoe](https://github.com/getcanoe/canoe)
 * [Nanoblocks](https://github.com/nebyark/nano-blocks)
@@ -74,7 +96,7 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Ledger Nano S](https://www.ledger.fr/)
 * [Jolt](https://www.joltwallet.com/)
 
-### Other Related Mobile Apps
+### Nano Related Mobile Apps
 * [Nano Track](https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8)
 
 ### Market Data, Analysis & Tickers
@@ -84,10 +106,9 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Cryptoreport](https://cryptoreport.com/nano/NANO)
 * [WorldCoinIndex](https://www.worldcoinindex.com/coin/nano)
 * [Nanoticker - Price and TPS](https://nanoticker.info/)
-* [Cryptolights - Visualizer](https://cryptolights.info/)
 * [Nano/USD Converter](http://raiw.krampe.se/value.html?currency=raiblocks&to=usd&value=100)
 
-### Merchant Related (No specific shops, too many)
+### Merchant Related [No shops, too many]
 * [Brainblocks - Nano Payment Service](https://brainblocks.io/)
 * [ArrowPay - Nano Payment Service](https://arrowpay.io/)
 * [KitePay - Nano Payment Service](https://kitepay.io/)
@@ -107,18 +128,19 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Nano Blackbox](https://www.youtube.com/channel/UCehRwOEJsNb_0c6CwVSmCxw)
 * [Jolt Wallet](https://www.youtube.com/channel/UCLfilzzY4NmwNjWtEIibdkA)
 
-### Informative Video Material (Not in channels above)
+### Informative Video Material [Not in channels above]
 * [Nano Speed Test](https://youtu.be/e7jLFroW_NE)
 * [Colin LeMahieu Interview](https://youtu.be/hAy4GDV7tvQ)
 * [Everything you need to know about Nano](https://youtu.be/ywgMlJBli7g)
 * [Nano simply explained](https://youtu.be/dlRhUwLQWXc)
+* [Nano explained (Deep dive)](https://youtu.be/LcqPLlduE0w)
 
 ### Video Advertisement
 * [Nano The Future of Money](https://youtu.be/lw-rpO0jqYQ)
 * [Nano Overview](https://youtu.be/JynwiU2D_K0)
 * [Nano is Green](https://youtu.be/JChBTohSHlM)
 
-###  Random Community Projects
+### Random Community Projects
 * [All Things Nano - Project and Resource Repository](https://www.allthingsnano.net/)
 * [The Nano Center - Community Driven Projects](https://nanocenter.org/)
 * [Wall of Nano](https://wallofnano.com/)
@@ -143,48 +165,50 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Nanode.ninja - Stats](https://nanonode.ninja/)
 * [Raiblocks.net - Representatives list](https://raiblocks.net/page/representatives)
 * [XRB Network - Map Visualizer](http://xrb.network/)
+* [Cryptolights - Flow Visualizer](https://cryptolights.info/)
 
 ### Development Tools [Source Code]
+#### -Applications
 * [Brainblocks](https://github.com/brainblocks)
+* [Nanode.co](https://github.com/mikepaszkiewicz/nanode)
 * [BIP39 Demo](https://github.com/roosmaa/nano-bip39-demo)
-* [Unofficial Nano Community Wiki](https://github.com/georgehara/nano/wiki/unofficial)
-* [Nano Node Scripts](https://github.com/dbachm123/nanoNodeScripts)
-* [Nano Node Monitor](https://github.com/NanoTools/nanoNodeMonitor)
+* [Telegram Bot Source Code](https://github.com/SergiySW/NanoWalletBot)
 * [Nano Vanity Generator (frankh)](https://github.com/frankh/nano-vanity)
 * [Nano Vanity Generator (PlasmaPower)](https://github.com/PlasmaPower/nano-vanity)
-* [Telegram Bot Source Code](https://github.com/SergiySW/NanoWalletBot)
-* [RaiSharp - C# Lib for RPC](https://github.com/vardthomas/Aggrex.RaiSharp)
-* [RaiBlocksJS - JS Lib for RPC](https://github.com/orrybaram/RaiBlocksJS)
-* [RaiBlocksJS 2 - JS Lib for RPC](https://github.com/SergiySW/RaiBlocksJS)
-* [SwiftyRai - Swift Lib for RPC](https://github.com/xcadaverx/SwiftyRai)
-* [RAI - Pythonic Lib for RPC](https://github.com/kennell/rai)
-* [Nanook - Ruby Lib for RPC](https://github.com/lukes/nanook)
-* [RainServer - Wallet/Node Communicator](https://github.com/thehen101/RainServer)
-* [Rubo Nano RPC - RPC Wrapper for Rubu](https://github.com/jcraigk/ruby_nano_rpc)
-* [JS Toolkit](https://github.com/marvinroger/nanocurrency-js)
-* [Python Nano Tools](https://github.com/paulmelis/nano-tools)
-* [Nanode.co](https://github.com/mikepaszkiewicz/nanode)
-* [Raiblocks PHP](https://github.com/jaimehgb/RaiBlocksPHP)
-* [PyRai](https://github.com/icarusglider/PyRai)
-* [RaiBlocksWebAssemblyPoW](https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW)
-* [Rai Ex - Elixir Client](https://github.com/willHol/rai_ex)
-* [Easy Rai Kit Php](https://github.com/SergiySW/easyraikitphp)
-* [Easyraikit - Python](https://github.com/AuliaYF/easyraikit-python)
-* [Prailude - Nano node in Lua and C](https://github.com/slact/prailude)
 * [Raimixer - Scrambler](https://github.com/juanjux/raimixer)
 * [EZNano - Mine ZCash](https://github.com/Ankonian1/EZNANO)
 * [Nano-Prettify - Format Nano Raw Amounts](https://github.com/kilkelly/nano-prettify)
-* [Nano protocol in Golang](https://github.com/frankh/nano)
+* [RaiMoon - Price in Mac Menu Bar](https://github.com/dannytatom/RaiMoon)
+* [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
+#### -Node, Protocol, RPC, Libraries
+* [Nano Node Monitor](https://github.com/NanoTools/nanoNodeMonitor)
+* [Nano Node Scripts](https://github.com/dbachm123/nanoNodeScripts)
 * [Easy Nano Node](https://github.com/NanoTools/easy-nano-node)
 * [Nano Node Docker Stack](https://github.com/lephleg/nano-node-docker)
-* [NanoDotNet - .Net Lib](https://github.com/Flufd/NanoDotNet)
+* [RaiSharp - C# Lib for RPC](https://github.com/vardthomas/Aggrex.RaiSharp)
+* [Prailude - Nano node in Lua and C](https://github.com/slact/prailude)
+* [RaiBlocksJS - JS Lib for RPC](https://github.com/orrybaram/RaiBlocksJS)
+* [RaiBlocksJS 2 - JS Lib for RPC](https://github.com/SergiySW/RaiBlocksJS)
+* [JS Toolkit](https://github.com/marvinroger/nanocurrency-js)
+* [SwiftyRai - Swift Lib for RPC](https://github.com/xcadaverx/SwiftyRai)
+* [RAI - Pythonic Lib for RPC](https://github.com/kennell/rai)
+* [Python Nano Tools](https://github.com/paulmelis/nano-tools)
 * [PRai - Python RPC Client](https://github.com/jxub/prai)
-* [NanoLightServer](https://github.com/NanoDevs/NanoLightServer)
-* [RaiMoon - Price in Mac Menu Bar](https://github.com/dannytatom/RaiMoon)
-* [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
+* [Easyraikit - Python](https://github.com/AuliaYF/easyraikit-python)
+* [Nanook - Ruby Lib for RPC](https://github.com/lukes/nanook)
+* [Ruby Nano RPC - RPC Wrapper for Ruby](https://github.com/jcraigk/ruby_nano_rpc)
+* [Raiblocks PHP](https://github.com/jaimehgb/RaiBlocksPHP)
+* [Easy Rai Kit PHP](https://github.com/SergiySW/easyraikitphp)
+* [Nano protocol in Golang](https://github.com/frankh/nano)
+* [NanoDotNet - .Net Lib](https://github.com/Flufd/NanoDotNet)
+* [PyRai](https://github.com/icarusglider/PyRai)
 * [Nano-rs - Nano in Rust](https://github.com/termhn/nano-rs)
 * [Nanopow-rs-node - JS Wrapper for Nanopow-rs](https://github.com/termhn/nanopow-rs-node)
-* [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
+* [RainServer - Wallet/Node Communicator](https://github.com/thehen101/RainServer)
+* [RaiBlocksWebAssemblyPoW](https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW)
+* [Rai Ex - Elixir Client](https://github.com/willHol/rai_ex)
+* [NanoLightServer](https://github.com/NanoDevs/NanoLightServer)
+* [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
 
 ### Games, Gambling, Betting
 * [PVP - Betting](https://pvp.me/)
@@ -193,5 +217,5 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [LuckyNano](https://luckynano.com/)
 * [Raffle Miner](https://www.raffleminer.com/)
 * [Nano Poker Club](https://nanopoker.club/)
-* [Eternity Tower - Game](https://eternitytower.net/)
 * [Allin - Poker](https://beta.allin.bet)
+* [Eternity Tower - Game](https://eternitytower.net/)
