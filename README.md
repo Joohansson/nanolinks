@@ -93,10 +93,10 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [The Nano Center](https://discord.gg/yhBuXMm)
 
 ### Network Stats and Explorers
-* [Nanode.co - Explorer|Stats](https://www.nanode.co/)
-* [MeltingIce.net - Explorer|Stats](https://nano.meltingice.net/)
-* [Nanoexplorer - Explorer|Stats](https://nanoexplorer.io)
-* [Nanowatch - Explorer|Graphic Visualizer](https://nanowat.ch/)
+* [Nanode.co - Explorer | Stats](https://www.nanode.co/)
+* [MeltingIce.net - Explorer | Stats](https://nano.meltingice.net/)
+* [Nanoexplorer - Explorer | Stats](https://nanoexplorer.io)
+* [Nanowatch - Explorer | Graphic Visualizer](https://nanowat.ch/)
 * [Nanode.ninja - Stats](https://nanonode.ninja/)
 * [Raiblocks.net - Representatives list](https://raiblocks.net/page/representatives)
 * [XRB Network - Map Visualizer](http://xrb.network/)
