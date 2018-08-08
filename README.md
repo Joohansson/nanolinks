@@ -49,6 +49,7 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 
 ### Informative Media
 * [What is Nano](https://www.tokendaily.co/blog/what-is-nano)
+* [Third Generation Cryptocurrencies](https://hackernoon.com/why-third-generation-cryptocurrencies-are-game-changers-for-venezuela-cb8c9b016f9d)
 
 ### Video Channels
 * [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
