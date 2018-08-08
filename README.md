@@ -5,6 +5,10 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Main Development](#main-development)
 * [Nano Social Media & Contribution Channels](#nano-social-media--contribution-channels)
 * [Scientific Papers](#scientific-papers)
+* [Informative Media](#informative-media)
+* [Video Channels](#video-channels)
+* [Informative Video Material](#informative-video-material-not-in-channels-above)
+* [Video Advertisement](#video-advertisement)
 * [Development Tools [Source Code]](#development-tools-source-code)
 * [3rd Party Development Channels](#3rd-party-development-channels)
 * [Network Stats and Explorers](#network-stats-and-explorers)
@@ -16,9 +20,6 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Market Data, Analysis & Tickers](#market-data-analysis--tickers)
 * [Merchant Related](#merchant-related-no-shops-too-many)
 * [Point of Sale](#point-of-sale)
-* [Video Channels](#video-channels)
-* [Informative Video Material](#informative-video-material-not-in-channels-above)
-* [Video Advertisement](#video-advertisement)
 * [Random Community Projects](#random-community-projects)
 * [Games, Gambling, Betting](#games-gambling-betting)
 
@@ -43,6 +44,28 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 
 ### Scientific Papers
 * [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
+
+### Informative Media
+* [What is Nano](https://www.tokendaily.co/blog/what-is-nano)
+
+### Video Channels
+* [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
+* [NanoCast](https://www.youtube.com/channel/UC_KCdNCWQcb5Z4vsPBY18yQ)
+* [The Nano Center](https://www.youtube.com/channel/UCwB_g6LBPGv_anMhywH4BWA)
+* [Nano Blackbox](https://www.youtube.com/channel/UCehRwOEJsNb_0c6CwVSmCxw)
+* [Jolt Wallet](https://www.youtube.com/channel/UCLfilzzY4NmwNjWtEIibdkA)
+
+### Informative Video Material [Not in channels above]
+* [Nano Speed Test](https://youtu.be/e7jLFroW_NE)
+* [Colin LeMahieu Interview](https://youtu.be/hAy4GDV7tvQ)
+* [Everything you need to know about Nano](https://youtu.be/ywgMlJBli7g)
+* [Nano simply explained](https://youtu.be/dlRhUwLQWXc)
+* [Nano explained (Deep dive)](https://youtu.be/LcqPLlduE0w)
+
+### Video Advertisement
+* [Nano The Future of Money](https://youtu.be/lw-rpO0jqYQ)
+* [Nano Overview](https://youtu.be/JynwiU2D_K0)
+* [Nano is Green](https://youtu.be/JChBTohSHlM)
 
 ### Development Tools [Source Code]
 #### -Applications
@@ -173,25 +196,6 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 ### Point of Sale
 * [Brainblocks Pod - Hardware Node](https://nexus.brainblocks.io/store/brainblocks-pods)
 * [Nano Blackbox - PoS Software](https://www.nanoblackbox.net/)
-
-### Video Channels
-* [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
-* [NanoCast](https://www.youtube.com/channel/UC_KCdNCWQcb5Z4vsPBY18yQ)
-* [The Nano Center](https://www.youtube.com/channel/UCwB_g6LBPGv_anMhywH4BWA)
-* [Nano Blackbox](https://www.youtube.com/channel/UCehRwOEJsNb_0c6CwVSmCxw)
-* [Jolt Wallet](https://www.youtube.com/channel/UCLfilzzY4NmwNjWtEIibdkA)
-
-### Informative Video Material [Not in channels above]
-* [Nano Speed Test](https://youtu.be/e7jLFroW_NE)
-* [Colin LeMahieu Interview](https://youtu.be/hAy4GDV7tvQ)
-* [Everything you need to know about Nano](https://youtu.be/ywgMlJBli7g)
-* [Nano simply explained](https://youtu.be/dlRhUwLQWXc)
-* [Nano explained (Deep dive)](https://youtu.be/LcqPLlduE0w)
-
-### Video Advertisement
-* [Nano The Future of Money](https://youtu.be/lw-rpO0jqYQ)
-* [Nano Overview](https://youtu.be/JynwiU2D_K0)
-* [Nano is Green](https://youtu.be/JChBTohSHlM)
 
 ### Random Community Projects
 * [All Things Nano - Project and Resource Repository](https://www.allthingsnano.net/)
