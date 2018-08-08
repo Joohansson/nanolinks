@@ -158,6 +158,7 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [RaiBlocksJS 2 - JS Lib for RPC](https://github.com/SergiySW/RaiBlocksJS)
 * [SwiftyRai - Swift Lib for RPC](https://github.com/xcadaverx/SwiftyRai)
 * [RAI - Pythonic Lib for RPC](https://github.com/kennell/rai)
+* [Nanook - Ruby Lib for RPC](https://github.com/lukes/nanook)
 * [RainServer - Wallet/Node Communicator](https://github.com/thehen101/RainServer)
 * [Rubo Nano RPC - RPC Wrapper for Rubu](https://github.com/jcraigk/ruby_nano_rpc)
 * [JS Toolkit](https://github.com/marvinroger/nanocurrency-js)
