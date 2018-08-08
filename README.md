@@ -123,7 +123,7 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [MeltingIce.net - Explorer | Stats](https://nano.meltingice.net/)
 * [Nanoexplorer - Explorer | Stats](https://nanoexplorer.io)
 * [Nanowatch - Explorer | Graphic Visualizer](https://nanowat.ch/)
-* [Nanode.ninja - Stats](https://nanonode.ninja/)
+* [Nano Node Ninja - Stats](https://nanonode.ninja/)
 * [Raiblocks.net - Representatives list](https://raiblocks.net/page/representatives)
 * [XRB Network - Map Visualizer](http://xrb.network/)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
