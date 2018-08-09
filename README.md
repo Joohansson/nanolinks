@@ -5,7 +5,7 @@ Check out the [Formatted Web Page](https://joohansson.github.io/nanolinks/)
 
 **Want something added? Just edit this file and make a pull request or reach out on [Reddit](https://www.reddit.com/user/Joohansson/). The content will be evaluated.**
 
-### Quick Index
+## Quick Index
 * [Information & Education](#information--education)
 * [Market](#market)
 * [Development](#development)
