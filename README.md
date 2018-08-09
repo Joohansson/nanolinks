@@ -1,4 +1,4 @@
-## NanoLinks - The Ultimate Link Guide Into Nano ![](https://github.com/Joohansson/nanolinks/blob/master/nano.png "")
+## NanoLinks - The Ultimate Link Guide Into Nano ![](https://i.imgur.com/msXORlc.png)
 A curated URL guide to find anything about Nano; The fast, free and green digital currency for the real world!
 
 **Want something added? Just edit this file and make a pull request or reach out on [Reddit](https://www.reddit.com/user/Joohansson/). The content will be evaluated.**
@@ -126,10 +126,10 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [The Nano Center](https://discord.gg/yhBuXMm)
 
 ### Network Stats and Explorers
-* [Nanode.co - Explorer | Stats](https://www.nanode.co/)
-* [MeltingIce.net - Explorer | Stats](https://nano.meltingice.net/)
-* [Nanoexplorer - Explorer | Stats](https://nanoexplorer.io)
-* [Nanowatch - Explorer | Graphic Visualizer](https://nanowat.ch/)
+* [Nanode.co - Explorer, Stats](https://www.nanode.co/)
+* [MeltingIce.net - Explorer, Stats](https://nano.meltingice.net/)
+* [Nanoexplorer - Explorer, Stats](https://nanoexplorer.io)
+* [Nanowatch - Explorer, Graphic Visualizer](https://nanowat.ch/)
 * [Nano Node Ninja - Stats](https://nanonode.ninja/)
 * [Raiblocks.net - Representatives list](https://raiblocks.net/page/representatives)
 * [XRB Network - Map Visualizer](http://xrb.network/)
@@ -157,11 +157,11 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [PaFair - Escrow](https://payfair.io/)
 
 ### Wallets [Usage and Downloads]
-* [OSX|Win|Linux|iOS|Android: **Nano Wallet Company**](https://nanowalletcompany.com/)
-* [OSX|Win|Linux|iOS|Android|WinPhone: **Canoe**](https://getcanoe.io/)
+* [OSX,Win,Linux,iOS,Android: **Nano Wallet Company**](https://nanowalletcompany.com/)
+* [OSX,Win,Linux,iOS,Android,WinPhone: **Canoe**](https://getcanoe.io/)
 * [iOS: **Nanoblocks**](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 * [Web: **Nanowallet**](https://nanowallet.io/)
-* [Web|Desktop: **Nanovault**](https://nanovault.io/)
+* [Web,Desktop: **Nanovault**](https://nanovault.io/)
 * [Paper: **Nano Paper Wallet 1**](https://vitorcremonez.github.io/nano-paper-wallet/)
 * [Paper: **Nano Paper Wallet 2**](https://jelofsson.github.io/nano-paper-wallet/)
 * [Paper: **RaiPaper**](https://blootoon.github.io/rai-paper/)
@@ -200,7 +200,7 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Brainblocks - Nano Payment Service](https://brainblocks.io/)
 * [ArrowPay - Nano Payment Service](https://arrowpay.io/)
 * [KitePay - Nano Payment Service](https://kitepay.io/)
-* [Bitback - Payment Service | Address book](https://bitback.me/)
+* [Bitback - Payment Service, Address book](https://bitback.me/)
 * [NanoMate - Nano Send Service](https://nanomate.co/)
 * [Nanofaucet - Free nano](https://www.nanofaucet.org/)
 * [NanoTwitch - Gaming donation service](https://nanotwit.ch/)
