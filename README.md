@@ -23,10 +23,10 @@ Learn everything there is to know about Nano!
 * [FAQ](https://nano.org/en/faq)
 
 ### -Core Social Media & Contribution Channels
-* [Twitter](https://twitter.com/nano)
+* [Reddit](https://www.reddit.com/r/nanocurrency/)
 * [Discord Main](https://discordapp.com/invite/JphbBas)
 * [Discord Trade](https://discordapp.com/invite/RT4wzGV)
-* [Reddit](https://www.reddit.com/r/nanocurrency/)
+* [Twitter](https://twitter.com/nano)
 * [Facebook](https://www.facebook.com/nanocurrency/)
 * [Bitcointalk](https://bitcointalk.org/index.php?topic=1381323.0)
 
