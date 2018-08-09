@@ -229,7 +229,6 @@ Check out [Formatted Github Page](https://joohansson.github.io/nanolinks/)
 * [Nano Games](https://nanogames.io/)
 * [LuckyNano](https://luckynano.com/)
 * [Raffle Miner](https://www.raffleminer.com/)
-* [Nano Poker Club](https://nanopoker.club/)
 * [Allin - Poker](https://beta.allin.bet)
 * [Eternity Tower - Game](https://eternitytower.net/)
 
