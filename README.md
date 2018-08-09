@@ -12,6 +12,7 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Informative Video Material](#informative-video-material-not-in-channels-above)
 * [Video Advertisement](#video-advertisement)
 * [Development Tools [Source Code]](#development-tools-source-code)
+* [Node & Account Applications](#node--account-applications)
 * [3rd Party Development Channels](#3rd-party-development-channels)
 * [Network Stats and Explorers](#network-stats-and-explorers)
 * [Exchanges](#exchanges)
@@ -20,7 +21,7 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Hardware Wallets](#hardware-wallets)
 * [Nano Related Mobile Apps](#nano-related-mobile-apps)
 * [Market Data, Analysis & Tickers](#market-data-analysis--tickers)
-* [Merchant Related](#merchant-related-no-shops-too-many)
+* [Merchant Related](#merchant--donation-related-no-shops-too-many)
 * [Point of Sale](#point-of-sale)
 * [Random Community Projects](#random-community-projects)
 * [Games, Gambling, Betting](#games-gambling-betting)
@@ -35,6 +36,7 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [FAQ](https://nano.org/en/faq)
 * [Bug Bounty](https://hackerone.com/nano)
 * [Unofficial Nano Community Wiki](https://github.com/georgehara/nano/wiki/unofficial)
+* [The Nano Center - Community Driven Projects](https://nanocenter.org/)
 
 ### Nano Social Media & Contribution Channels
 * [Twitter](https://twitter.com/nano)
@@ -113,9 +115,14 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [NanoLightServer](https://github.com/NanoDevs/NanoLightServer)
 * [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
 
+### Node & Account Applications
+* [Nanod.es - Node Service](https://nanod.es/)
+* [Easy Nano Node](https://nanotools.github.io/easy-nano-node/)
+* [NanoAddr - Address Generator](https://nanoaddr.io/)
+
 ### 3rd Party Development Channels
 * [Canoe](https://discord.gg/ecVcJM3)
-* [Nanonode.ninja](https://discord.me/nanonodeninja)
+* [Nano Node Ninja](https://discord.me/nanonodeninja)
 * [The Nano Center](https://discord.gg/yhBuXMm)
 
 ### Network Stats and Explorers
@@ -127,6 +134,8 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Raiblocks.net - Representatives list](https://raiblocks.net/page/representatives)
 * [XRB Network - Map Visualizer](http://xrb.network/)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
+* [Nano fees tracker =)](http://nanofees.live/)
+* [Are We Decentralized Yet](https://arewedecentralizedyet.com/)
 
 ### Exchanges
 * [Nanex](https://nanex.co/)
@@ -187,15 +196,21 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Nanoticker - Price and TPS](https://nanoticker.info/)
 * [Nano/USD Converter](http://raiw.krampe.se/value.html?currency=raiblocks&to=usd&value=100)
 
-### Merchant Related [No shops, too many]
+### Merchant & Donation Related [No shops, too many]
 * [Brainblocks - Nano Payment Service](https://brainblocks.io/)
 * [ArrowPay - Nano Payment Service](https://arrowpay.io/)
 * [KitePay - Nano Payment Service](https://kitepay.io/)
 * [Bitback - Payment Service | Address book](https://bitback.me/)
+* [NanoMate - Nano Send Service](https://nanomate.co/)
+* [Nanofaucet - Free nano](https://www.nanofaucet.org/)
+* [NanoTwitch - Gaming donation service](https://nanotwit.ch/)
+* [Do rai me - Donation Widget](https://doraime.com/)
 * [UseNano - Merchant Directory](https://usenano.org/)
 * [Nexus - Marketplace](https://nexus.brainblocks.io/)
 * [Nanobox - Marketplace](https://nanobox.es/)
 * [Eutrino - Ebay with Nano](https://eutrino.com/)
+* [Nanotify - Account Notifications](https://nanotify.co/)
+* [Nanotifier - Account Notifications](https://nanotifier.com/)
 
 ### Point of Sale
 * [Brainblocks Pod - Hardware Node](https://nexus.brainblocks.io/store/brainblocks-pods)
@@ -203,20 +218,8 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 
 ### Random Community Projects
 * [All Things Nano - Project and Resource Repository](https://www.allthingsnano.net/)
-* [The Nano Center - Community Driven Projects](https://nanocenter.org/)
 * [Wall of Nano](https://wallofnano.com/)
-* [Are We Decentralized Yet](https://arewedecentralizedyet.com/)
-* [Nanod.es - Node Service](https://nanod.es/)
-* [Do rai me - Donation Widget](https://doraime.com/)
-* [Nanotify - Account Notifications](https://nanotify.co/)
-* [Nanotifier - Account Notifications](https://nanotifier.com/)
-* [Nano fees tracker =)](http://nanofees.live/)
-* [NanoTwitch - Gaming donation service](https://nanotwit.ch/)
-* [Nanofaucet - Free nano](https://www.nanofaucet.org/)
-* [NanoAddr - Address Generator](https://nanoaddr.io/)
-* [NanoMate - Spread Nano](https://nanomate.co/)
 * [Nano Resource List](https://github.com/RaiMakers/awesome-nano)
-* [Easy Nano Node](https://nanotools.github.io/easy-nano-node/)
 
 ### Games, Gambling, Betting
 * [PVP - Betting](https://pvp.me/)
