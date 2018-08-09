@@ -191,6 +191,7 @@ A curated URL guide to find anything about Nano; The fast, free and green digita
 * [Brainblocks - Nano Payment Service](https://brainblocks.io/)
 * [ArrowPay - Nano Payment Service](https://arrowpay.io/)
 * [KitePay - Nano Payment Service](https://kitepay.io/)
+* [Bitback - Payment Service | Address book](https://bitback.me/)
 * [UseNano - Merchant Directory](https://usenano.org/)
 * [Nexus - Marketplace](https://nexus.brainblocks.io/)
 * [Nanobox - Marketplace](https://nanobox.es/)
