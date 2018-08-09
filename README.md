@@ -1,5 +1,7 @@
 ## NanoLinks - The Ultimate Link Guide Into Nano ![](https://raw.githubusercontent.com/joohansson/nanolinks/master/nano.png)
-A curated URL guide to find anything about Nano; The fast, free and green digital currency for the real world!
+A curated guide to find anything about Nano.
+
+Check out [Formatted Github Page](https://joohansson.github.io/nanolinks/)
 
 **Want something added? Just edit this file and make a pull request or reach out on [Reddit](https://www.reddit.com/user/Joohansson/). The content will be evaluated.**
 
