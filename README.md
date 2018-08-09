@@ -232,3 +232,5 @@ Check out [Formatted Github Page](https://joohansson.github.io/nanolinks/)
 * [Nano Poker Club](https://nanopoker.club/)
 * [Allin - Poker](https://beta.allin.bet)
 * [Eternity Tower - Game](https://eternitytower.net/)
+
+[![Analytics](https://ga-beacon.appspot.com/UA-113887773-2/nanolist?pixel&useReferer)](https://github.com/igrigorik/ga-beacon)
