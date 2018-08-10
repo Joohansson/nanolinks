@@ -2,11 +2,13 @@
 #HOW TO (needs at least python3)
 #pip install httplib2
 #pip install requests
-#python3 checkValidLinks.py
+#git clone https://github.com/Joohansson/nanolinks.git
+#cd nanolinks
+#python3 src/checkValidLinks.py
 
 import httplib2
 import requests
-file = open('README.md', 'r') #File to check
+file = open('../README.md', 'r') #File to check
 
 #Filters to find URL from markdown syntax
 start = '* ['
