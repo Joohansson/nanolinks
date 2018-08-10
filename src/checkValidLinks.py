@@ -3,8 +3,8 @@
 #pip install httplib2
 #pip install requests
 #git clone https://github.com/Joohansson/nanolinks.git
-#cd nanolinks
-#python3 src/checkValidLinks.py
+#cd nanolinks/src
+#python3 checkValidLinks.py
 
 import httplib2
 import requests
