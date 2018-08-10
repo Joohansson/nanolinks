@@ -1,4 +1,4 @@
-# NanoLinks - The Ultimate Link Guide ![](https://raw.githubusercontent.com/joohansson/nanolinks/master/nano.png)
+# NanoLinks - The Ultimate Link Guide ![](https://raw.githubusercontent.com/joohansson/nanolinks/master/src/nano.png)
 A curated guide to find anything about Nano.
 
 Check out the [Formatted Web Page](https://joohansson.github.io/nanolinks/)
