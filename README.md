@@ -13,11 +13,11 @@
 
 ## Latest Additions
 The 5 latest links to keep you updated (last is latest).
-* [Library: Nanook - Ruby Lib for RPC](https://github.com/lukes/nanook)
 * [Info: Raiblocks.net - Top Accounts](https://raiblocks.net/page/frontiers.php)
 * [Mobile App: Coin Stats - Multi Market](https://coinstats.app/)
 * [Service: Bitback - Payment Service, Address book](https://bitback.me/)
 * [Video: Visualizing 1560 Days of Development](https://youtu.be/br8tcS8gcqE)
+* [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
 
 ## Information & Education
 Learn everything there is to know about Nano!
@@ -178,7 +178,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Raimixer - Scrambler](https://github.com/juanjux/raimixer)
 * [EZNano - Mine ZCash](https://github.com/Ankonian1/EZNANO)
 * [Nano-Prettify - Format Nano Raw Amounts](https://github.com/kilkelly/nano-prettify)
-* [RaiMoon - Price in Mac Menu Bar](https://github.com/dannytatom/RaiMoon)
+* [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
 * [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
 #### --Wallets
 * [Nano Wallet Company](https://github.com/nano-wallet-company)
