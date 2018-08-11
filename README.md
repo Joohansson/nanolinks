@@ -1,7 +1,7 @@
 # NanoLinks - The Ultimate Link Guide ![](https://raw.githubusercontent.com/joohansson/nanolinks/master/src/nano.png)
 A curated guide to find anything about Nano.
 
-Check out the [Formatted Web Page](https://joohansson.github.io/nanolinks/)
+[https://nanolinks.info](https://nanolinks.info)
 
 **Want something added? Just edit this file and make a pull request or reach out on [Reddit](https://www.reddit.com/user/Joohansson/). The content will be evaluated.**
 
