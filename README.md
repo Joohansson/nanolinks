@@ -4,16 +4,25 @@
 **Want something added? Just edit this file on [Github](https://github.com/Joohansson/nanolinks) and make a pull request or reach out on [Reddit](https://www.reddit.com/user/Joohansson/). The content will be evaluated.**
 
 ## Quick Index
+* [Latest Additions](#latest-additions)
 * [Information & Education](#information--education)
 * [Market](#market)
 * [Development](#development)
 * [Entertainment](#entertainment)
 * [Other Project Resources](#other-project-resources)
 
+## Latest Additions
+The 5 latest links to keep you updated (last is latest).
+* [Library: Nanook - Ruby Lib for RPC](https://github.com/lukes/nanook)
+* [Info: Raiblocks.net - Top Accounts](https://raiblocks.net/page/frontiers.php)
+* [Mobile App: Coin Stats - Multi Market](https://coinstats.app/)
+* [Service: Bitback - Payment Service, Address book](https://bitback.me/)
+* [Video: Visualizing 1560 Days of Development](https://youtu.be/br8tcS8gcqE)
+
 ## Information & Education
 Learn everything there is to know about Nano!
 ### -Core Team
-* [Main Site](https://nano.org)
+* [Main Site - nano.org](https://nano.org)
 * [Roadmap, Guides, Docs](https://developers.nano.org/roadmap)
 * [Whitepaper (Eng)](https://nano.org/en/whitepaper)
 * [Official Nano GitHub Wiki](https://github.com/nanocurrency/raiblocks/wiki)
@@ -42,12 +51,13 @@ Learn everything there is to know about Nano!
 * [Nano Blackbox](https://www.youtube.com/channel/UCehRwOEJsNb_0c6CwVSmCxw)
 * [Jolt Wallet](https://www.youtube.com/channel/UCLfilzzY4NmwNjWtEIibdkA)
 
-### -Informative Video Material [Not in channels above]
+### -Interesting Videos [Not in channels above]
 * [Nano Speed Test](https://youtu.be/e7jLFroW_NE)
 * [Colin LeMahieu Interview](https://youtu.be/hAy4GDV7tvQ)
 * [Everything you need to know about Nano](https://youtu.be/ywgMlJBli7g)
 * [Nano simply explained](https://youtu.be/dlRhUwLQWXc)
 * [Nano explained (Deep dive)](https://youtu.be/LcqPLlduE0w)
+* [Visualizing 1560 Days of Development](https://youtu.be/br8tcS8gcqE)
 
 ### -Video Advertisement
 * [Nano The Future of Money](https://youtu.be/lw-rpO0jqYQ)
@@ -61,7 +71,7 @@ Learn everything there is to know about Nano!
 * [Nanowatch - Explorer, Graphic Visualizer](https://nanowat.ch/)
 * [Nano Node Ninja - Stats](https://nanonode.ninja/)
 * [Raiblocks.net - Top Representatives](https://raiblocks.net/page/representatives)
-* [Raiblocks.net - Top Wallets](https://raiblocks.net/page/frontiers.php)
+* [Raiblocks.net - Top Accounts](https://raiblocks.net/page/frontiers.php)
 * [XRB Network - Map Visualizer](http://xrb.network/)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
 * [Nano fees tracker =)](http://nanofees.live/)
