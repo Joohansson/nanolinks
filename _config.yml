@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+title: NanoLinks - The Ultimate Link Guide
+description: A curated URL guide to find anything about Nano; The fast, free and green digital currency for the real world!
+url: https://nanolinks.info/
+author: Joohansson
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+webmaster_verifications:
+  google: l52SUVycHsXnZNVZF03Ud_CfSAL79bFW0TnTQ1-dUFU
+google_analytics: UA-113887773-2
