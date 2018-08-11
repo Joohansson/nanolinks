@@ -7,3 +7,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 google_analytics: UA-113887773-2
+social:
+  name: Joohansson
+  links:
+    - https://github.com/Joohansson
+    - https://www.reddit.com/user/Joohansson/
