@@ -240,5 +240,3 @@ Have some spare time? There are soo much fun to do!
 * [All Things Nano - Project and Resource Repository](https://www.allthingsnano.net/)
 * [Wall of Nano](https://wallofnano.com/)
 * [Nano Resource List](https://github.com/RaiMakers/awesome-nano)
-
-[![Hidden Site Analytics](https://ga-beacon.appspot.com/UA-113887773-2/nanolist?pixel&useReferer)](https://github.com/igrigorik/ga-beacon)
