@@ -10,6 +10,7 @@
 * [Development](#development)
 * [Entertainment](#entertainment)
 * [Other Project Resources](#other-project-resources)
+* [Contribution](#contribution)
 
 ## Latest Additions
 The 5 latest links to keep you updated (last is latest).
@@ -240,3 +241,7 @@ Have some spare time? There are soo much fun to do!
 * [All Things Nano - Project and Resource Repository](https://www.allthingsnano.net/)
 * [Wall of Nano](https://wallofnano.com/)
 * [Nano Resource List](https://github.com/RaiMakers/awesome-nano)
+
+## Contribution
+### -Voting Representative
+If you have a nano account you can help decentralize the network by choosing a representative other than the official reps that is default. Best is to choose someone you really trust. If you want you can choose [This Node](https://nanonode.ninja/account/xrb_1iuz18n4g4wfp9gf7p1s8qkygxw7wx9qfjq6a9aq68uyrdnningdcjontgar) that has been running 24/7 since Feb 2018. I intend to keep it running for a long time and upgrade hardware when necessary!
