@@ -6,6 +6,4 @@ author: Joohansson
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-webmaster_verifications:
-  bing: 93D80C28BA946C10BFE47BCF033610A1
 google_analytics: UA-113887773-2
