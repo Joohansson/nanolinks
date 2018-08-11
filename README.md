@@ -139,7 +139,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nano Blackbox - PoS Software](https://www.nanoblackbox.net/)
 
 ## Development
-Do you have a great idea? Jump in and start coding. Everyone can join!
+Have a great idea? Jump in and start coding. Anyone can join!
 * [The Nano Center - Community Driven Projects](https://nanocenter.org/)
 
 ### -Nano Main Protocol
@@ -212,7 +212,7 @@ Do you have a great idea? Jump in and start coding. Everyone can join!
 * [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
 
 ## Entertainment
-Have some spare time, there are soo much fun to do!
+Have some spare time? There are soo much fun to do!
 ### -Gambling, Betting
 * [PVP - Betting](https://pvp.me/)
 * [BetNano - Betting](https://betnano.io/)
