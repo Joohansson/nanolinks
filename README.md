@@ -14,7 +14,6 @@
 
 ## Latest Additions
 The 5 latest links to keep you updated (last is latest).
-* [Info: Raiblocks.net - Top Accounts](https://raiblocks.net/page/frontiers.php)
 * [Mobile App: Coin Stats - Multi Market](https://coinstats.app/)
 * [Service: Bitback - Payment Service, Address book](https://bitback.me/)
 * [Video: Visualizing 1560 Days of Development](https://youtu.be/br8tcS8gcqE)
