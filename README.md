@@ -165,15 +165,14 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [The Nano Center](https://discord.gg/yhBuXMm)
 
 ### -Node & Account Applications
+* [Brainblocks](https://github.com/brainblocks)
+* [Nanode.co](https://github.com/mikepaszkiewicz/nanode)
+* [Nano Node Monitor](https://github.com/NanoTools/nanoNodeMonitor)
+* [Nano Node Scripts](https://github.com/dbachm123/nanoNodeScripts)
 * [Nanod.es - Node Service](https://nanod.es/)
 * [Easy Nano Node](https://nanotools.github.io/easy-nano-node/)
 * [Nano Node Docker](https://github.com/lephleg/nano-node-docker)
 * [NanoAddr - Address Generator](https://nanoaddr.io/)
-
-### -Source Code
-#### --Applications
-* [Brainblocks](https://github.com/brainblocks)
-* [Nanode.co](https://github.com/mikepaszkiewicz/nanode)
 * [BIP39 Demo](https://github.com/roosmaa/nano-bip39-demo)
 * [Telegram Bot Source Code](https://github.com/SergiySW/NanoWalletBot)
 * [Nano Vanity Generator (frankh)](https://github.com/frankh/nano-vanity)
@@ -183,7 +182,9 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano-Prettify - Format Nano Raw Amounts](https://github.com/kilkelly/nano-prettify)
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
 * [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
-#### --Wallets
+* [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
+
+### -Wallets
 * [Nano Wallet Company](https://github.com/nano-wallet-company)
 * [Canoe](https://github.com/getcanoe/canoe)
 * [Nanoblocks](https://github.com/nebyark/nano-blocks)
@@ -194,11 +195,8 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Light Wallet](https://github.com/numtel/open-nano-wallet)
 * [Nano Paper Wallet 1](https://github.com/vitorcremonez/nano-paper-wallet)
 * [Nano Paper Wallet 2](https://github.com/jelofsson/nano-paper-wallet)
-#### --Node, Protocol, RPC, Libraries
-* [Nano Node Monitor](https://github.com/NanoTools/nanoNodeMonitor)
-* [Nano Node Scripts](https://github.com/dbachm123/nanoNodeScripts)
-* [Easy Nano Node](https://github.com/NanoTools/easy-nano-node)
-* [Nano Node Docker](https://github.com/lephleg/nano-node-docker)
+
+### -Protocol, RPC, Libraries, Tools, Servers
 * [RaiSharp - C# Lib for RPC](https://github.com/vardthomas/Aggrex.RaiSharp)
 * [Prailude - Nano node in Lua and C](https://github.com/slact/prailude)
 * [RaiBlocksJS - JS Lib for RPC](https://github.com/orrybaram/RaiBlocksJS)
@@ -222,7 +220,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [RaiBlocksWebAssemblyPoW](https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW)
 * [Rai Ex - Elixir Client](https://github.com/willHol/rai_ex)
 * [NanoLightServer](https://github.com/NanoDevs/NanoLightServer)
-* [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
 
 ## Entertainment
 Have some spare time? There are soo much fun to do!
