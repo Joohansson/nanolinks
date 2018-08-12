@@ -167,6 +167,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 ### -Node & Account Applications
 * [Nanod.es - Node Service](https://nanod.es/)
 * [Easy Nano Node](https://nanotools.github.io/easy-nano-node/)
+* [Nano Node Docker](https://github.com/lephleg/nano-node-docker)
 * [NanoAddr - Address Generator](https://nanoaddr.io/)
 
 ### -Source Code
@@ -197,7 +198,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Node Monitor](https://github.com/NanoTools/nanoNodeMonitor)
 * [Nano Node Scripts](https://github.com/dbachm123/nanoNodeScripts)
 * [Easy Nano Node](https://github.com/NanoTools/easy-nano-node)
-* [Nano Node Docker Stack](https://github.com/lephleg/nano-node-docker)
+* [Nano Node Docker](https://github.com/lephleg/nano-node-docker)
 * [RaiSharp - C# Lib for RPC](https://github.com/vardthomas/Aggrex.RaiSharp)
 * [Prailude - Nano node in Lua and C](https://github.com/slact/prailude)
 * [RaiBlocksJS - JS Lib for RPC](https://github.com/orrybaram/RaiBlocksJS)
