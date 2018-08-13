@@ -16,11 +16,11 @@ Nano is a 3rd generation cryptocurrency with zero fees, instant transactions and
 
 ## Latest Additions
 The 5 latest links to keep you updated (last is latest).
-* [Mobile App: Coin Stats - Multi Market](https://coinstats.app/)
-* [Service: Bitback - Payment Service, Address book](https://bitback.me/)
 * [Video: Visualizing 1560 Days of Development](https://youtu.be/br8tcS8gcqE)
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
+* [Is Nano Green Yet - Environmental Impact](https://isnanogreenyet.com/)
+* [Nano Venezuela](http://www.nanovenezuela.org/)
 
 ## Information & Education
 Learn everything there is to know about Nano!
