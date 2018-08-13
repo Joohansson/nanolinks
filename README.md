@@ -36,7 +36,7 @@
   <p>*Depends on wallet and node hardware. Transaction Proof of Work can be pre-calculated making the transactions instant.</p>
   <p>**Current estimate. Only limited by node hardware. A real stress test will be done when protocol is optimized.</p>
   <p>***Typically around 0.1-1 USD/transaction but has been as high as $37 when network was saturated. There is no upper limit and thus  controlled by demand given the static supply of 7 TPS.</p>
-  <p>****Depends on the fee. A high fee typically results transaction to be cleared in 10min but with lower fee take 1h or more.</p>
+  <p>****Depends on the fee. A high fee typically results in transactions to be cleared in 10min but with lower fee take 1h or more.</p>
 </div>
 
 [NanoLinks.info](https://nanolinks.info)
@@ -288,7 +288,7 @@ Have some spare time? There are soo much fun to do!
 * [Nano Resource List](https://github.com/RaiMakers/awesome-nano)
 
 ## Contribution
-Want something added on this page? Just edit this file on [Github](https://github.com/Joohansson/nanolinks) and make a pull request or contact me at [Reddit](https://www.reddit.com/user/Joohansson/). All content will be evaluated.
+Want something added on this page? Just edit the README.md on [Github](https://github.com/Joohansson/nanolinks) and make a pull request or contact me at [Reddit](https://www.reddit.com/user/Joohansson/). All content will be evaluated.
 
 ### -Voting Representative
 If you have a nano account you can help decentralize the network by choosing a representative other than the official reps that is default. Best is to choose someone you really trust. If you want you can choose [This Node](https://nanonode.ninja/account/xrb_1iuz18n4g4wfp9gf7p1s8qkygxw7wx9qfjq6a9aq68uyrdnningdcjontgar) that has been running 24/7 since Feb 2018. I intend to keep it running for a long time and upgrade hardware when necessary!
