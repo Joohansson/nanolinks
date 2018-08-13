@@ -5,7 +5,6 @@ url: https://nanolinks.info
 author: Joohansson
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap
 google_analytics: UA-113887773-2
 social:
   name: Joohansson
