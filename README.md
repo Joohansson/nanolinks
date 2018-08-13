@@ -15,12 +15,15 @@ Nano is a 3rd generation cryptocurrency with zero fees, instant transactions and
 * [Contribution](#contribution)
 
 ## Latest Additions
-The 5 latest links to keep you updated (last is latest).
+The latest links to keep you updated (last is latest).
 * [Video: Visualizing 1560 Days of Development](https://youtu.be/br8tcS8gcqE)
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
 * [Is Nano Green Yet - Environmental Impact](https://isnanogreenyet.com/)
 * [Nano Venezuela](http://www.nanovenezuela.org/)
+* [Learn Nano](https://learnnano.com/)
+* [Nanoo Tools - Unofficial Developer Wiki + Toolbox](https://nanoo.tools/)
+* [Nanote - Hosted Payment Forms](https://nanote.net/)
 
 ## Information & Education
 Learn everything there is to know about Nano!
@@ -43,8 +46,9 @@ Learn everything there is to know about Nano!
 ### -Scientific Papers
 * [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
 
-### -Informative Media & Adoption
+### -Education & Adoption
 * [What is Nano](https://www.tokendaily.co/blog/what-is-nano)
+* [Learn Nano](https://learnnano.com/)
 * [Third Generation Cryptocurrencies](https://hackernoon.com/why-third-generation-cryptocurrencies-are-game-changers-for-venezuela-cb8c9b016f9d)
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
 * [Is Nano Green Yet - Environmental Impact](https://isnanogreenyet.com/)
@@ -140,6 +144,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [KitePay - Nano Payment Service](https://kitepay.io/)
 * [Bitback - Payment Service, Address book](https://bitback.me/)
 * [NanoMate - Nano Send Service](https://nanomate.co/)
+* [Nanote - Hosted Payment Forms](https://nanote.net/)
 * [Nanofaucet - Free nano](https://www.nanofaucet.org/)
 * [NanoTwitch - Gaming donation service](https://nanotwit.ch/)
 * [Do rai me - Donation Widget](https://doraime.com/)
@@ -162,6 +167,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Source Code](https://github.com/nanocurrency)
 * [Bug Bounty](https://hackerone.com/nano)
 * [Unofficial Nano Community Wiki](https://github.com/georgehara/nano/wiki/unofficial)
+* [Nanoo Tools - Unofficial Developer Wiki + Toolbox](https://nanoo.tools/)
 
 ### -Project Specific Development Channels
 * [Canoe](https://discord.gg/ecVcJM3)
