@@ -3,8 +3,7 @@ title: NanoLinks - The Ultimate Link Guide
 description: A curated URL guide to find anything about Nano; The fast, free and green digital currency for the real world! Links to Information, Education, Markets, Merchants, Exchanges, Wallets, Videos, Media, Applications, Development tools, Source Code and Entertainment. A cryptocurrency library.
 url: https://nanolinks.info
 author: Joohansson
-baseurl: /
-favicon: src/favicon.ico
+favicon: favicon.ico
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
