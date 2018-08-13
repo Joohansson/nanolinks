@@ -32,11 +32,12 @@
     <td>8,500,000x</td>
   </tr>
 </table>
-
-<p>*Depends on wallet and node hardware. Transaction Proof of Work can be pre-calculated making the transactions instant.</p>
-<p>**Current estimate. Only limited by node hardware. A real stress test will be done when protocol is optimized.</p>
-<p>***Typically around 0.1-1 USD/transaction but has been as high as $37 when network was saturated. There is no upper limit and thus controlled by demand given the static supply of 7 TPS.</p>
-<p>****Depends on the fee. A high fee typically results transaction to be cleared in 10min but with lower fee take 1h or more.</p>
+<div class="stext">
+  <p>*Depends on wallet and node hardware. Transaction Proof of Work can be pre-calculated making the transactions instant.</p>
+  <p>**Current estimate. Only limited by node hardware. A real stress test will be done when protocol is optimized.</p>
+  <p>***Typically around 0.1-1 USD/transaction but has been as high as $37 when network was saturated. There is no upper limit and thus  controlled by demand given the static supply of 7 TPS.</p>
+  <p>****Depends on the fee. A high fee typically results transaction to be cleared in 10min but with lower fee take 1h or more.</p>
+</div>
 
 [NanoLinks.info](https://nanolinks.info)
 
