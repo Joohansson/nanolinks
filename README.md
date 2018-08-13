@@ -1,9 +1,44 @@
 # NanoLinks - The Ultimate Link Guide ![](https://raw.githubusercontent.com/joohansson/nanolinks/master/src/nano.png)
-[https://nanolinks.info](https://nanolinks.info)
+**Nano is a 3rd generation cryptocurrency with zero fees, instant transactions and high scalability. Each account is part of a Directed Acyclic Graph (DAG), which results in lightweight nodes that requires no mining, thus very low environmental impact. These features makes Nano ideal for peer-to-peer transactions, donations and purchases in everyday life all around the world! Feel free to browse this page to know more about Nano, how it can be used and how to obtain it.**
 
-Nano is a 3rd generation cryptocurrency with zero fees, instant transactions and high scalability. Each account is part of a Directed Acyclic Graph (DAG), which results in lightweight nodes that requires no mining, thus very low environmental impact. These features makes Nano ideal for peer-to-peer transactions, donations and purchases in everyday life all around the world! Feel free to browse this page to know more about Nano, how it can be used and how to obtain it.
+**Simple Comparison**
+<table>
+  <tr>
+    <th>Coin</th>
+    <th>Fee</th> 
+    <th>Speed [Sec]</th>
+    <th>Scalability [TPS]</th>
+    <th>Energy [Wh/Tx]</th>
+  </tr>
+  <tr>
+    <td>Nano</td>
+    <td>0</td>
+    <td>3-20*</td>
+    <td>7000**</td>
+    <td>0.112</td>
+  </tr>
+  <tr>
+    <td>Bitcoin</td>
+    <td>Fee market***</td>
+    <td>600-3600 ****</td>
+    <td>7</td>
+    <td>950,000</td>
+  </tr>
+  <tr>
+    <td>Multiplier</td>
+    <td>Infinite</td>
+    <td>200x</td>
+    <td>1000x</td>
+    <td>8,500,000x</td>
+  </tr>
+</table>
 
-**Want something added? Just edit this file on [Github](https://github.com/Joohansson/nanolinks) and make a pull request or reach out on [Reddit](https://www.reddit.com/user/Joohansson/). The content will be evaluated.**
+<p>*Depends on wallet and node hardware. Transaction Proof of Work can be pre-calculated making the transactions instant.</p>
+<p>**Current estimate. Only limited by node hardware. A real stress test will be done when protocol is optimized.</p>
+<p>***Typically around 0.1-1 USD/transaction but has been as high as $37 when network was saturated. There is no upper limit and thus controlled by demand given the static supply of 7 TPS.</p>
+<p>****Depends on the fee. A high fee typically results transaction to be cleared in 10min but with lower fee take 1h or more.</p>
+
+[NanoLinks.info](https://nanolinks.info)
 
 ## Quick Index
 * [Latest Additions](#latest-additions)
@@ -252,5 +287,7 @@ Have some spare time? There are soo much fun to do!
 * [Nano Resource List](https://github.com/RaiMakers/awesome-nano)
 
 ## Contribution
+Want something added on this page? Just edit this file on [Github](https://github.com/Joohansson/nanolinks) and make a pull request or contact me at [Reddit](https://www.reddit.com/user/Joohansson/). All content will be evaluated.
+
 ### -Voting Representative
 If you have a nano account you can help decentralize the network by choosing a representative other than the official reps that is default. Best is to choose someone you really trust. If you want you can choose [This Node](https://nanonode.ninja/account/xrb_1iuz18n4g4wfp9gf7p1s8qkygxw7wx9qfjq6a9aq68uyrdnningdcjontgar) that has been running 24/7 since Feb 2018. I intend to keep it running for a long time and upgrade hardware when necessary!
