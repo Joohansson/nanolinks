@@ -1,6 +1,8 @@
 # NanoLinks - The Ultimate Link Guide ![](https://raw.githubusercontent.com/joohansson/nanolinks/master/src/nano.png)
 [https://nanolinks.info](https://nanolinks.info)
 
+Nano is a 3rd generation cryptocurrency with zero fees, instant transactions and high scalability. Each account is part of a Directed Acyclic Graph (DAG), which results in lightweight nodes that requires no mining, thus very low environmental impact. These features makes Nano ideal for peer-to-peer transactions, donations and purchases in everyday life all around the world! Feel free to browse this page to know more about Nano, how it can be used and how to obtain it.
+
 **Want something added? Just edit this file on [Github](https://github.com/Joohansson/nanolinks) and make a pull request or reach out on [Reddit](https://www.reddit.com/user/Joohansson/). The content will be evaluated.**
 
 ## Quick Index
@@ -41,10 +43,12 @@ Learn everything there is to know about Nano!
 ### -Scientific Papers
 * [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
 
-### -Informative Media
+### -Informative Media & Adoption
 * [What is Nano](https://www.tokendaily.co/blog/what-is-nano)
 * [Third Generation Cryptocurrencies](https://hackernoon.com/why-third-generation-cryptocurrencies-are-game-changers-for-venezuela-cb8c9b016f9d)
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
+* [Is Nano Green Yet - Environmental Impact](https://isnanogreenyet.com/)
+* [Nano Venezuela](http://www.nanovenezuela.org/)
 
 ### -Video Channels
 * [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
