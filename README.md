@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td><strong>Multiplier</strong></td>
-    <td><strong><strong>Infinite</strong></td>
+    <td><strong>Infinite</strong></td>
     <td><strong>200x</strong></td>
     <td><strong>1000x</strong></td>
     <td><strong>8,500,000x</strong></td>
