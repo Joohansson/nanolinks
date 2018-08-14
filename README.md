@@ -13,13 +13,13 @@
   <tr>
     <td>Nano</td>
     <td>0</td>
-    <td>3-20*</td>
-    <td>7000**</td>
+    <td>3-20 *</td>
+    <td>7000 **</td>
     <td>0.112</td>
   </tr>
   <tr>
     <td>Bitcoin</td>
-    <td>Fee market***</td>
+    <td>Fee market ***</td>
     <td>600-3600 ****</td>
     <td>7</td>
     <td>950,000</td>
