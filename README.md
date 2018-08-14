@@ -25,11 +25,11 @@
     <td>950,000</td>
   </tr>
   <tr>
-    <td>Multiplier</td>
-    <td>Infinite</td>
-    <td>200x</td>
-    <td>1000x</td>
-    <td>8,500,000x</td>
+    <td><strong>Multiplier</strong></td>
+    <td><strong><strong>Infinite</strong></td>
+    <td><strong>200x</strong></td>
+    <td><strong>1000x</strong></td>
+    <td><strong>8,500,000x</strong></td>
   </tr>
 </table>
 <div class="stext">
