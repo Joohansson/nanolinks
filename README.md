@@ -51,7 +51,7 @@
 * [Contribution](#contribution)
 
 ## Latest Additions
-The latest links to keep you updated (last is latest).
+10 latest links to keep you updated (last is latest).
 * [Video: Visualizing 1560 Days of Development](https://youtu.be/br8tcS8gcqE)
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
@@ -60,6 +60,7 @@ The latest links to keep you updated (last is latest).
 * [Learn Nano](https://learnnano.com/)
 * [Nanoo Tools - Unofficial Developer Wiki + Toolbox](https://nanoo.tools/)
 * [Nanote - Hosted Payment Forms](https://nanote.net/)
+* [N.Exchange - NANO/USD Exchange](https://n.exchange/)
 
 ## Information & Education
 Learn everything there is to know about Nano!
@@ -138,6 +139,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [RightBTC](https://www.rightbtc.com)
 * [Bit-Z](https://www.bit-z.com/)
 * [LBX](https://lbx.com)
+* [N.Exchange](https://n.exchange/)
 * [Coindeal](https://coindeal.com/)
 * [Gate.io](https://gate.io/)
 * [Koinex](https://koinex.in/)
