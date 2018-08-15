@@ -52,7 +52,6 @@
 
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
-* [Video: Visualizing 1560 Days of Development](https://youtu.be/br8tcS8gcqE)
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
 * [Is Nano Green Yet - Environmental Impact](https://isnanogreenyet.com/)
@@ -61,6 +60,8 @@
 * [Nanoo Tools - Unofficial Developer Wiki + Toolbox](https://nanoo.tools/)
 * [Nanote - Hosted Payment Forms](https://nanote.net/)
 * [N.Exchange - NANO/USD Exchange](https://n.exchange/)
+* [Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
+* [Nano Beta Network](https://beta.nano.org/)
 
 ## Information & Education
 Learn everything there is to know about Nano!
@@ -206,6 +207,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Bug Bounty](https://hackerone.com/nano)
 * [Unofficial Nano Community Wiki](https://github.com/georgehara/nano/wiki/unofficial)
 * [Nanoo Tools - Unofficial Developer Wiki + Toolbox](https://nanoo.tools/)
+* [Nano Beta Network](https://beta.nano.org/)
 
 ### -Project Specific Development Channels
 * [Canoe](https://discord.gg/ecVcJM3)
@@ -268,6 +270,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [RaiBlocksWebAssemblyPoW](https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW)
 * [Rai Ex - Elixir Client](https://github.com/willHol/rai_ex)
 * [NanoLightServer](https://github.com/NanoDevs/NanoLightServer)
+* [Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
 
 ## Entertainment
 Have some spare time? There are soo much fun to do!
