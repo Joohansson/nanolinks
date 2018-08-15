@@ -7,7 +7,27 @@
   margin-left: 20px;
   font-size: 0.6em;
 }
+
 table {
   font-size: 0.8em;
   margin-left: 20px;
 }
+
+.page-header {
+
+  @include large {
+    padding: 3rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
+}
+
+// Breakpoints
+$large-breakpoint: 75em !default;
+$medium-breakpoint: 42em !default;
