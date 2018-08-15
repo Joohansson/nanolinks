@@ -35,7 +35,7 @@
 <div class="stext">
   <p>*Depends on wallet and node hardware. Transaction Proof of Work can be pre-calculated making the transactions instant.</p>
   <p>**Limited by node hardware. 7000 from early lab test. No test on mainnet has been made yet since optimization.</p>
-  <p>***Typically around 0.1-1 USD/transaction but was $37 while network was saturated. No upper limit and controlled by demand</p>
+  <p>***Typically around 0.1-1 USD/transaction but was $37 while network was saturated. No upper limit and controlled by demand.</p>
   <p>****Depends on the fee. A high fee typically results in transactions to be cleared in 10min but with lower fee take 1h or more.</p>
 </div>
 
