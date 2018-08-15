@@ -2,10 +2,33 @@
 ---
 
 // Breakpoints
-$large-breakpoint: 75em !default;
-$medium-breakpoint: 42em !default;
+$large-breakpoint: 75em; //Custom
+$medium-breakpoint: 42em;
 
+// Headers
+$header-heading-color: #fff;
+$header-bg-color: #159957;
+$header-bg-color-secondary: #155799;
+
+// Text
+$section-headings-color: #159957;
+$body-text-color: #606c71;
+$body-link-color: #1e6bb8;
+$blockquote-text-color: #819198;
+
+// Code
+$code-bg-color: #f3f6fa;
+$code-text-color: #567482;
+
+// Borders
+$border-color: #dce6f0;
+$table-border-color: #e9ebec;
+$hr-border-color: #eff0f1;
+
+//Default theme
 @import "{{ site.theme }}";
+
+//Small text
 .stext {
   margin-top: 0.5em;
   margin-left: 20px;
@@ -13,18 +36,17 @@ $medium-breakpoint: 42em !default;
 }
 
 table {
-  font-size: 0.8em;
-  margin-left: 20px;
+  font-size: 0.8em; //Custom
+  margin-left: 20px; //Custom
 }
 
 .page-header {
-
   @include large {
-    padding: 2rem 6rem;
+    padding: 2rem 6rem; //custom
   }
 
   @include medium {
-    padding: 2rem 4rem;
+    padding: 2rem 4rem; //custom
   }
 
   @include small {
