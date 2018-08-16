@@ -57,5 +57,5 @@ for line in file:
           badURL = badURL + 1
           print('BAD, HTTP=%s %s' % (httpCode,urlFinal))
 
-print('%s link were ok' % (URLs))
-print('%s links were bad' % (badURL))
+print('Ok: %s' % (URLs))
+print('Error: %s' % (badURL))
