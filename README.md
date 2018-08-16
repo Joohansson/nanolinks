@@ -52,16 +52,16 @@
 
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
-* [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
-* [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
-* [Is Nano Green Yet - Environmental Impact](https://isnanogreenyet.com/)
-* [Nano Venezuela](http://www.nanovenezuela.org/)
-* [Learn Nano](https://learnnano.com/)
-* [Nanoo Tools - Unofficial Developer Wiki + Toolbox](https://nanoo.tools/)
-* [Nanote - Hosted Payment Forms](https://nanote.net/)
-* [N.Exchange - NANO/USD Exchange](https://n.exchange/)
-* [Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
-* [Nano Beta Network](https://beta.nano.org/)
+* [Education: Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
+* [Education: Is Nano Green Yet - Environmental Impact](https://isnanogreenyet.com/)
+* [Adoption: Nano Venezuela](http://www.nanovenezuela.org/)
+* [Education: Learn Nano](https://learnnano.com/)
+* [Dev: Nanoo Tools - Unofficial Developer Wiki + Toolbox](https://nanoo.tools/)
+* [Payment: Nanote - Hosted Payment Forms](https://nanote.net/)
+* [Exchange: N.Exchange - NANO/USD Exchange](https://n.exchange/)
+* [Dev: Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
+* [Dev: Nano Beta Network](https://beta.nano.org/)
+* [Dev: Nano Work Server](https://github.com/nanocurrency/nano-work-server)
 
 ## Information & Education
 Learn everything there is to know about Nano!
@@ -268,6 +268,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanopow-rs-node - JS Wrapper for Nanopow-rs](https://github.com/termhn/nanopow-rs-node)
 * [RainServer - Wallet/Node Communicator](https://github.com/thehen101/RainServer)
 * [RaiBlocksWebAssemblyPoW](https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW)
+* [Dev: Nano Work Server](https://github.com/nanocurrency/nano-work-server)
 * [Rai Ex - Elixir Client](https://github.com/willHol/rai_ex)
 * [NanoLightServer](https://github.com/NanoDevs/NanoLightServer)
 * [Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
