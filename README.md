@@ -42,15 +42,17 @@
 [NanoLinks.info](https://nanolinks.info)
 
 ## Quick Index
-<ul class="index-text">
-  <li><a href="#latest-additions">Latest Additions</a></li>
-  <li><a href="#information--education">Information &amp; Education</a></li>
-  <li><a href="#market">Market</a></li>
-  <li><a href="#development">Development</a></li>
-  <li><a href="#entertainment">Entertainment</a></li>
-  <li><a href="#other-project-resources">Other Project Resources</a></li>
-  <li><a href="#contribution">Contribution</a></li>
-</ul>
+<div class="index-text">
+  <ul>
+    <li><a href="#latest-additions">Latest Additions</a></li>
+    <li><a href="#information--education">Information &amp; Education</a></li>
+    <li><a href="#market">Market</a></li>
+    <li><a href="#development">Development</a></li>
+    <li><a href="#entertainment">Entertainment</a></li>
+    <li><a href="#other-project-resources">Other Project Resources</a></li>
+    <li><a href="#contribution">Contribution</a></li>
+  </ul>
+</div>
 
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
