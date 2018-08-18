@@ -56,9 +56,6 @@
 
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
-* [Education: Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
-* [Education: Is Nano Green Yet - Environmental Impact](https://isnanogreenyet.com/)
-* [Adoption: Nano Venezuela](http://www.nanovenezuela.org/)
 * [Education: Learn Nano](https://learnnano.com/)
 * [Dev: Nanoo Tools - Unofficial Developer Wiki + Toolbox](https://nanoo.tools/)
 * [Payment: Nanote - Hosted Payment Forms](https://nanote.net/)
@@ -66,6 +63,9 @@
 * [Dev: Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Dev: Nano Beta Network](https://beta.nano.org/)
 * [Dev: Nano Work Server](https://github.com/nanocurrency/nano-work-server)
+* [BuySellNano - P2P](https://buysellnano.com/)
+* [NanoCashier - Nano Payment Service](https://nanocashier.com/)
+* [GetFreeNano - Free Nano project from Nano Chinese](https://getfreenano.com/)
 
 ## Information & Education
 Learn everything there is to know about Nano!
