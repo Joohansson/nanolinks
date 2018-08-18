@@ -14,7 +14,7 @@
     <td>Nano</td>
     <td>0</td>
     <td>3-20 *</td>
-    <td>700-7000 **</td>
+    <td>70-7000 **</td>
     <td>0.112</td>
   </tr>
   <tr>
@@ -28,13 +28,13 @@
     <td><strong>Multiplier</strong></td>
     <td><strong>Infinite</strong></td>
     <td><strong>200x</strong></td>
-    <td><strong>100-1000x</strong></td>
+    <td><strong>10-1000x</strong></td>
     <td><strong>8,500,000x</strong></td>
   </tr>
 </table>
 <div class="stext">
   <p>*Depends on wallet and node hardware. Transaction Proof of Work can be pre-calculated making the transactions instant.</p>
-  <p>**Limited by node hardware. 7000 from early lab test. No test on mainnet has been made yet since optimization.</p>
+  <p>**Limited by node hardware. 7000 tps from early lab test. No test on mainnet has been made yet but at least 70 is verified.</p>
   <p>***Typically around 0.1-1 USD/transaction but was $37 while network was saturated. No upper limit and controlled by demand.</p>
   <p>****Depends on the fee. A high fee typically results in transactions to be cleared in 10min but with lower fee take 1h or more.</p>
 </div>
