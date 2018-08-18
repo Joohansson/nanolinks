@@ -150,6 +150,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Koinex](https://koinex.in/)
 * [Localnano - P2P](https://www.localnano.com/)
 * [Localnanos - P2P](https://www.localnanos.com/)
+* [BuySellNano - P2P](https://buysellnano.com/)
 * [PaFair - Escrow](https://payfair.io/)
 
 ### -Wallets [Usage and Downloads]
@@ -185,10 +186,12 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Brainblocks - Nano Payment Service](https://brainblocks.io/)
 * [ArrowPay - Nano Payment Service](https://arrowpay.io/)
 * [KitePay - Nano Payment Service](https://kitepay.io/)
+* [NanoCashier - Nano Payment Service](https://nanocashier.com/)
 * [Bitback - Payment Service, Address book](https://bitback.me/)
 * [NanoMate - Nano Send Service](https://nanomate.co/)
 * [Nanote - Hosted Payment Forms](https://nanote.net/)
 * [Nanofaucet - Free nano](https://www.nanofaucet.org/)
+* [GetFreeNano - Free Nano project from Nano Chinese](https://getfreenano.com/)
 * [NanoTwitch - Gaming donation service](https://nanotwit.ch/)
 * [Do rai me - Donation Widget](https://doraime.com/)
 * [UseNano - Merchant Directory](https://usenano.org/)
