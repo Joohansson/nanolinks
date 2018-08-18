@@ -56,9 +56,6 @@
 
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
-* [Education: Learn Nano](https://learnnano.com/)
-* [Dev: Nanoo Tools - Unofficial Developer Wiki + Toolbox](https://nanoo.tools/)
-* [Payment: Nanote - Hosted Payment Forms](https://nanote.net/)
 * [Exchange: N.Exchange - NANO/USD Exchange](https://n.exchange/)
 * [Dev: Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Dev: Nano Beta Network](https://beta.nano.org/)
@@ -66,6 +63,9 @@
 * [BuySellNano - P2P](https://buysellnano.com/)
 * [NanoCashier - Nano Payment Service](https://nanocashier.com/)
 * [GetFreeNano - Free Nano project from Nano Chinese](https://getfreenano.com/)
+* [Beta Net Explorer - Meltingice](https://beta.nano.meltingice.net)
+* [Beta Net Graph - Nanowat.ch](https://beta.nanowat.ch/graph)
+* [Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
 
 ## Information & Education
 Learn everything there is to know about Nano!
@@ -214,7 +214,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Bug Bounty](https://hackerone.com/nano)
 * [Unofficial Nano Community Wiki](https://github.com/georgehara/nano/wiki/unofficial)
 * [Nanoo Tools - Unofficial Developer Wiki + Toolbox](https://nanoo.tools/)
-* [Nano Beta Network](https://beta.nano.org/)
 
 ### -Project Specific Development Channels
 * [Canoe](https://discord.gg/ecVcJM3)
@@ -278,6 +277,11 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Dev: Nano Work Server](https://github.com/nanocurrency/nano-work-server)
 * [Rai Ex - Elixir Client](https://github.com/willHol/rai_ex)
 * [NanoLightServer](https://github.com/NanoDevs/NanoLightServer)
+
+### -Beta Network
+* [Nano Beta Network Resources](https://beta.nano.org/)
+* [Beta Net Explorer - Meltingice](https://beta.nano.meltingice.net)
+* [Beta Net Graph - Nanowat.ch](https://beta.nanowat.ch/graph)
 * [Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
 
 ## Entertainment
