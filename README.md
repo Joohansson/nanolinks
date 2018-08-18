@@ -56,7 +56,6 @@
 
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
-* [Dev: Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Dev: Nano Beta Network](https://beta.nano.org/)
 * [Dev: Nano Work Server](https://github.com/nanocurrency/nano-work-server)
 * [BuySellNano - P2P](https://buysellnano.com/)
@@ -66,6 +65,7 @@
 * [Beta Net Graph - Nanowat.ch](https://beta.nanowat.ch/graph)
 * [Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Nano Python - RPC Client](https://github.com/dourvaris/nano-python)
+* [Niuyan Market Data](https://niuyan.com/currencies/raiblocks)
 
 ## Information & Education
 Learn everything there is to know about Nano!
