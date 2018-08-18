@@ -66,6 +66,7 @@
 * [Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Nano Python - RPC Client](https://github.com/dourvaris/nano-python)
 * [Niuyan Market Data](https://niuyan.com/currencies/raiblocks)
+* [Dev: Nano Python Block Counter](https://github.com/Joohansson/nano-python-block-counter)
 
 ## Information & Education
 Learn everything there is to know about Nano!
@@ -285,6 +286,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Beta Net Explorer - Meltingice](https://beta.nano.meltingice.net)
 * [Beta Net Graph - Nanowat.ch](https://beta.nanowat.ch/graph)
 * [Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
+* [Nano Python Block Counter](https://github.com/Joohansson/nano-python-block-counter)
 
 ## Entertainment
 Have some spare time? There are soo much fun to do!
