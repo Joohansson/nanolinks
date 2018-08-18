@@ -56,7 +56,6 @@
 
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
-* [Exchange: N.Exchange - NANO/USD Exchange](https://n.exchange/)
 * [Dev: Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Dev: Nano Beta Network](https://beta.nano.org/)
 * [Dev: Nano Work Server](https://github.com/nanocurrency/nano-work-server)
@@ -66,6 +65,7 @@
 * [Beta Net Explorer - Meltingice](https://beta.nano.meltingice.net)
 * [Beta Net Graph - Nanowat.ch](https://beta.nanowat.ch/graph)
 * [Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
+* [Nano Python - RPC Client](https://github.com/dourvaris/nano-python)
 
 ## Information & Education
 Learn everything there is to know about Nano!
@@ -262,14 +262,15 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [RAI - Pythonic Lib for RPC](https://github.com/kennell/rai)
 * [Python Nano Tools](https://github.com/paulmelis/nano-tools)
 * [PRai - Python RPC Client](https://github.com/jxub/prai)
+* [PyRai](https://github.com/icarusglider/PyRai)
 * [Easyraikit - Python](https://github.com/AuliaYF/easyraikit-python)
+* [Nano Python - RPC Client](https://github.com/dourvaris/nano-python)
 * [Nanook - Ruby Lib for RPC](https://github.com/lukes/nanook)
 * [Ruby Nano RPC - RPC Wrapper for Ruby](https://github.com/jcraigk/ruby_nano_rpc)
 * [Raiblocks PHP](https://github.com/jaimehgb/RaiBlocksPHP)
 * [Easy Rai Kit PHP](https://github.com/SergiySW/easyraikitphp)
 * [Nano protocol in Golang](https://github.com/frankh/nano)
 * [NanoDotNet - .Net Lib](https://github.com/Flufd/NanoDotNet)
-* [PyRai](https://github.com/icarusglider/PyRai)
 * [Nano-rs - Nano in Rust](https://github.com/termhn/nano-rs)
 * [Nanopow-rs-node - JS Wrapper for Nanopow-rs](https://github.com/termhn/nanopow-rs-node)
 * [RainServer - Wallet/Node Communicator](https://github.com/thehen101/RainServer)
