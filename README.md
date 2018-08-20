@@ -56,8 +56,6 @@
 
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
-* [Dev: Nano Beta Network](https://beta.nano.org/)
-* [Dev: Nano Work Server](https://github.com/nanocurrency/nano-work-server)
 * [BuySellNano - P2P](https://buysellnano.com/)
 * [NanoCashier - Nano Payment Service](https://nanocashier.com/)
 * [GetFreeNano - Free Nano project from Nano Chinese](https://getfreenano.com/)
@@ -67,6 +65,7 @@
 * [Nano Python - RPC Client](https://github.com/dourvaris/nano-python)
 * [Niuyan Market Data](https://niuyan.com/currencies/raiblocks)
 * [Dev: Nano Python Block Counter](https://github.com/Joohansson/nano-python-block-counter)
+* [Nano Twitter Tip Bot](https://nanotipbot.com/)
 
 ## Information & Education
 Learn everything there is to know about Nano!
@@ -194,6 +193,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nanote - Hosted Payment Forms](https://nanote.net/)
 * [Nanofaucet - Free nano](https://www.nanofaucet.org/)
 * [GetFreeNano - Free Nano project from Nano Chinese](https://getfreenano.com/)
+* [Nano Twitter Tip Bot - Donation service](https://nanotipbot.com/)
 * [NanoTwitch - Gaming donation service](https://nanotwit.ch/)
 * [Do rai me - Donation Widget](https://doraime.com/)
 * [UseNano - Merchant Directory](https://usenano.org/)
