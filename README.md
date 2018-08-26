@@ -56,7 +56,6 @@
 
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
-* [BuySellNano - P2P](https://buysellnano.com/)
 * [NanoCashier - Nano Payment Service](https://nanocashier.com/)
 * [GetFreeNano - Free Nano project from Nano Chinese](https://getfreenano.com/)
 * [Beta Net Explorer - Meltingice](https://beta.nano.meltingice.net)
@@ -66,6 +65,7 @@
 * [Niuyan Market Data](https://niuyan.com/currencies/raiblocks)
 * [Nano Twitter Tip Bot](https://nanotipbot.com/)
 * [Beta Net TPS Monitor](https://nanoticker.info/tps_beta.php)
+* [Nano Faucet #2 - Free Nano](https://nano-faucet.org/)
 
 ## Information & Education
 Learn everything there is to know about Nano!
@@ -191,7 +191,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Bitback - Payment Service, Address book](https://bitback.me/)
 * [NanoMate - Nano Send Service](https://nanomate.co/)
 * [Nanote - Hosted Payment Forms](https://nanote.net/)
-* [Nanofaucet - Free nano](https://www.nanofaucet.org/)
+* [Nano Faucet #1 - Free Nano](https://www.nanofaucet.org/)
+* [Nano Faucet #2 - Free Nano](https://nano-faucet.org/)
 * [GetFreeNano - Free Nano project from Nano Chinese](https://getfreenano.com/)
 * [Nano Twitter Tip Bot - Donation service](https://nanotipbot.com/)
 * [NanoTwitch - Gaming donation service](https://nanotwit.ch/)
