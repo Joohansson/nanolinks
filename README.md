@@ -56,7 +56,6 @@
 
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
-* [NanoCashier - Nano Payment Service](https://nanocashier.com/)
 * [GetFreeNano - Free Nano project from Nano Chinese](https://getfreenano.com/)
 * [Beta Net Explorer - Meltingice](https://beta.nano.meltingice.net)
 * [Beta Net Graph - Nanowat.ch](https://beta.nanowat.ch/graph)
@@ -66,6 +65,7 @@
 * [Nano Twitter Tip Bot](https://nanotipbot.com/)
 * [Beta Net TPS Monitor](https://nanoticker.info/tps_beta.php)
 * [Nano Faucet #2 - Free Nano](https://nano-faucet.org/)
+* [Swaplab - Easy exchange & supports VISA/Mastercard](https://swaplab.cc/)
 
 ## Information & Education
 Learn everything there is to know about Nano!
@@ -152,6 +152,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Localnanos - P2P](https://www.localnanos.com/)
 * [BuySellNano - P2P](https://buysellnano.com/)
 * [PaFair - Escrow](https://payfair.io/)
+* [Swaplab - Easy exchange & supports VISA/Mastercard](https://swaplab.cc/)
 
 ### -Wallets [Usage and Downloads]
 * [OSX,Win,Linux,iOS,Android: **Nano Wallet Company**](https://nanowalletcompany.com/)
