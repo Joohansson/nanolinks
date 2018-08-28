@@ -309,7 +309,7 @@ Have some spare time? There are soo much fun to do!
 
 ### -Video, Music
 
-## -Services
+## Services
 * [Put.io - File Serving](https://put.io)
 
 ## Other Project Resources
