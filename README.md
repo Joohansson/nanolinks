@@ -56,8 +56,6 @@
 
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
-* [GetFreeNano - Free Nano project from Nano Chinese](https://getfreenano.com/)
-* [Beta Net Explorer - Meltingice](https://beta.nano.meltingice.net)
 * [Beta Net Graph - Nanowat.ch](https://beta.nanowat.ch/graph)
 * [Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Nano Python - RPC Client](https://github.com/dourvaris/nano-python)
@@ -66,6 +64,8 @@
 * [Beta Net TPS Monitor](https://nanoticker.info/tps_beta.php)
 * [Nano Faucet #2 - Free Nano](https://nano-faucet.org/)
 * [Swaplab - Easy exchange & supports VISA/Mastercard](https://swaplab.cc/)
+* [Guide - How to Setup a Node at DigitalOcean](https://1nano.co/support-the-network/)
+* [Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
 
 ## Information & Education
 Learn everything there is to know about Nano!
@@ -91,6 +91,7 @@ Learn everything there is to know about Nano!
 ### -Education & Adoption
 * [What is Nano](https://www.tokendaily.co/blog/what-is-nano)
 * [Learn Nano](https://learnnano.com/)
+* [Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
 * [Third Generation Cryptocurrencies](https://hackernoon.com/why-third-generation-cryptocurrencies-are-game-changers-for-venezuela-cb8c9b016f9d)
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
 * [Is Nano Green Yet - Environmental Impact](https://isnanogreenyet.com/)
@@ -232,6 +233,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanod.es - Node Service](https://nanod.es/)
 * [Easy Nano Node](https://nanotools.github.io/easy-nano-node/)
 * [Nano Node Docker](https://github.com/lephleg/nano-node-docker)
+* [Guide - How to Setup a Node at DigitalOcean](https://1nano.co/support-the-network/)
 * [NanoAddr - Address Generator](https://nanoaddr.io/)
 * [BIP39 Demo](https://github.com/roosmaa/nano-bip39-demo)
 * [Telegram Bot Source Code](https://github.com/SergiySW/NanoWalletBot)
