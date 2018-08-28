@@ -49,6 +49,7 @@
     <li><a href="#market">Market</a></li>
     <li><a href="#development">Development</a></li>
     <li><a href="#entertainment">Entertainment</a></li>
+    <li><a href="#services">Services</a></li>
     <li><a href="#other-project-resources">Other Project Resources</a></li>
     <li><a href="#contribution">Contribution</a></li>
   </ul>
@@ -56,7 +57,6 @@
 
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
-* [Beta Net Graph - Nanowat.ch](https://beta.nanowat.ch/graph)
 * [Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Nano Python - RPC Client](https://github.com/dourvaris/nano-python)
 * [Niuyan Market Data](https://niuyan.com/currencies/raiblocks)
@@ -66,6 +66,7 @@
 * [Swaplab - Easy exchange & supports VISA/Mastercard](https://swaplab.cc/)
 * [Guide - How to Setup a Node at DigitalOcean](https://1nano.co/support-the-network/)
 * [Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
+* [Put.io - File Serving](https://put.io)
 
 ## Information & Education
 Learn everything there is to know about Nano!
@@ -307,6 +308,9 @@ Have some spare time? There are soo much fun to do!
 * [Eternity Tower](https://eternitytower.net/)
 
 ### -Video, Music
+
+## -Services
+* [Put.io - File Serving](https://put.io)
 
 ## Other Project Resources
 * [All Things Nano - Project and Resource Repository](https://www.allthingsnano.net/)
