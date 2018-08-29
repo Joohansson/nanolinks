@@ -1,5 +1,5 @@
-<h1>Nano - The Currency</h1>
-<img class="logo" src="https://raw.githubusercontent.com/joohansson/nanolinks/master/src/nano.gif" alt="" />
+<div><h1>Nano - The Currency</h1>
+<img class="logo" src="https://raw.githubusercontent.com/joohansson/nanolinks/master/src/nano.gif" alt="" /></div>
 <p><strong>Nano is a 3rd generation cryptocurrency with zero fees, instant transactions and high scalability. Each account is part of a Directed Acyclic Graph (DAG), which results in lightweight nodes that requires no mining, thus very low environmental impact. These features makes Nano ideal for peer-to-peer transactions, donations and purchases in everyday life all around the world! Feel free to browse this page to know more about Nano, how it can be used and how to obtain it.</strong></p>
 
 <p><strong>Simple Comparison</strong></p>
