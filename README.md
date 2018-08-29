@@ -40,8 +40,8 @@
 </div>
 
 [NanoLinks.info](https://nanolinks.info)
-<div class="line"></div>
 
+<div class="line"></div>
 ## Quick Index
 <div class="index-text">
   <ul>
@@ -56,6 +56,7 @@
   </ul>
 </div>
 
+<div class="line"></div>
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
 * [Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
@@ -70,6 +71,7 @@
 * [Put.io - File Serving](https://put.io)
 * [Getting Started with Nano](https://gettingstarted.nanocenter.org/)
 
+<div class="line"></div>
 ## Information & Education
 Learn everything there is to know about Nano!
 ### -Core Team
@@ -134,6 +136,7 @@ Learn everything there is to know about Nano!
 * [Nano fees tracker =)](http://nanofees.live/)
 * [Are We Decentralized Yet](https://arewedecentralizedyet.com/)
 
+<div class="line"></div>
 ## Market
 Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
@@ -214,6 +217,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Brainblocks Pod - Hardware Node](https://nexus.brainblocks.io/store/brainblocks-pods)
 * [Nano Blackbox - PoS Software](https://www.nanoblackbox.net/)
 
+<div class="line"></div>
 ## Development
 Have a great idea? Jump in and start coding. Anyone can join!
 * [The Nano Center - Community Driven Projects](https://nanocenter.org/)
@@ -297,6 +301,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Beta Net TPS Monitor](https://nanoticker.info/tps_beta.php)
 * [Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
 
+<div class="line"></div>
 ## Entertainment
 Have some spare time? There are soo much fun to do!
 ### -Gambling, Betting
@@ -312,9 +317,11 @@ Have some spare time? There are soo much fun to do!
 
 ### -Video, Music
 
+<div class="line"></div>
 ## Services
 * [Put.io - File Serving](https://put.io)
 
+<div class="line"></div>
 ## Other Project Resources
 * [All Things Nano - Project and Resource Repository](https://www.allthingsnano.net/)
 * [Wall of Nano](https://wallofnano.com/)
