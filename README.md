@@ -40,6 +40,7 @@
 </div>
 
 [NanoLinks.info](https://nanolinks.info)
+<div class="line"></div>
 
 ## Quick Index
 <div class="index-text">
@@ -67,6 +68,7 @@
 * [Guide - How to Setup a Node at DigitalOcean](https://1nano.co/support-the-network/)
 * [Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
 * [Put.io - File Serving](https://put.io)
+* [Getting Started with Nano](https://gettingstarted.nanocenter.org/)
 
 ## Information & Education
 Learn everything there is to know about Nano!
@@ -90,6 +92,7 @@ Learn everything there is to know about Nano!
 * [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
 
 ### -Education & Adoption
+* [Getting Started with Nano](https://gettingstarted.nanocenter.org/)
 * [What is Nano](https://www.tokendaily.co/blog/what-is-nano)
 * [Learn Nano](https://learnnano.com/)
 * [Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
