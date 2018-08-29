@@ -327,6 +327,7 @@ Have some spare time? There are soo much fun to do!
 * [Wall of Nano](https://wallofnano.com/)
 * [Nano Resource List](https://github.com/RaiMakers/awesome-nano)
 
+<div class="line"></div>
 ## Contribution
 Want something added on this page? Just edit the README.md on [Github](https://github.com/Joohansson/nanolinks) and make a pull request or contact me at [Reddit](https://www.reddit.com/user/Joohansson/). All content will be evaluated.
 
