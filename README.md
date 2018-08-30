@@ -65,11 +65,12 @@
 * [Nano Twitter Tip Bot](https://nanotipbot.com/)
 * [Beta Net TPS Monitor](https://nanoticker.info/tps_beta.php)
 * [Nano Faucet #2 - Free Nano](https://nano-faucet.org/)
-* [Swaplab - Easy exchange & supports VISA/Mastercard](https://swaplab.cc/)
+* [Swaplab - Crypto Swap & supports VISA/Mastercard](https://swaplab.cc/)
 * [Guide - How to Setup a Node at DigitalOcean](https://1nano.co/support-the-network/)
 * [Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
 * [Put.io - File Serving](https://put.io)
 * [Getting Started with Nano](https://gettingstarted.nanocenter.org/)
+* [Exchange - Coinbene](https://www.coinbene.com)
 
 <div class="line"></div>
 ## Information & Education
@@ -156,11 +157,13 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Coindeal](https://coindeal.com/)
 * [Gate.io](https://gate.io/)
 * [Koinex](https://koinex.in/)
+* [Coinbene](https://www.coinbene.com)
+
 * [Localnano - P2P](https://www.localnano.com/)
 * [Localnanos - P2P](https://www.localnanos.com/)
 * [BuySellNano - P2P](https://buysellnano.com/)
 * [PaFair - Escrow](https://payfair.io/)
-* [Swaplab - Easy exchange & supports VISA/Mastercard](https://swaplab.cc/)
+* [Swaplab - Crypto Swap & supports VISA/Mastercard](https://swaplab.cc/)
 
 ### -Wallets [Usage and Downloads]
 * [OSX,Win,Linux,iOS,Android: **Nano Wallet Company**](https://nanowalletcompany.com/)
