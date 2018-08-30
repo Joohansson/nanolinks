@@ -60,7 +60,6 @@
 <div class="line"></div>
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
-* [Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Nano Python - RPC Client](https://github.com/dourvaris/nano-python)
 * [Niuyan Market Data](https://niuyan.com/currencies/raiblocks)
 * [Nano Twitter Tip Bot](https://nanotipbot.com/)
@@ -300,7 +299,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Beta Net Graph - Nanowat.ch](https://beta.nanowat.ch/graph)
 * [Beta Net Stats - Nanode21](https://nanode21.cloud/stats.php)
 * [Beta Net TPS Monitor](https://nanoticker.info/tps_beta.php)
-* [Nano Shell - Nano Node Bash Convenience Wrapper](https://github.com/VenKamikaze/nano-shell)
 
 <div class="line"></div>
 ## Entertainment
