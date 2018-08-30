@@ -43,6 +43,7 @@
 [NanoLinks.info](https://nanolinks.info)
 
 <div class="line"></div>
+
 ## Quick Index
 <div class="index-text">
   <ul>
@@ -58,13 +59,15 @@
 </div>
 
 <div class="line"></div>
+
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
+
 * [Nano Python - RPC Client](https://github.com/dourvaris/nano-python)
 * [Niuyan Market Data](https://niuyan.com/currencies/raiblocks)
 * [Nano Twitter Tip Bot](https://nanotipbot.com/)
 * [Beta Net TPS Monitor](https://nanoticker.info/tps_beta.php)
-* [Nano Faucet #2 - Free Nano](https://nano-faucet.org/)
+* [Nano Faucet 2 - Free Nano](https://nano-faucet.org/)
 * [Swaplab - Crypto Swap & supports VISA/Mastercard](https://swaplab.cc/)
 * [Guide - How to Setup a Node at DigitalOcean](https://1nano.co/support-the-network/)
 * [Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
@@ -73,9 +76,12 @@
 * [Exchange - Coinbene](https://www.coinbene.com)
 
 <div class="line"></div>
+
 ## Information & Education
 Learn everything there is to know about Nano!
+
 ### -Core Team
+
 * [Main Site - nano.org](https://nano.org)
 * [Roadmap, Guides, Docs](https://developers.nano.org/roadmap)
 * [Whitepaper (Eng)](https://nano.org/en/whitepaper)
@@ -138,6 +144,7 @@ Learn everything there is to know about Nano!
 * [Are We Decentralized Yet](https://arewedecentralizedyet.com/)
 
 <div class="line"></div>
+
 ## Market
 Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
@@ -221,6 +228,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nano Blackbox - PoS Software](https://www.nanoblackbox.net/)
 
 <div class="line"></div>
+
 ## Development
 Have a great idea? Jump in and start coding. Anyone can join!
 * [The Nano Center - Community Driven Projects](https://nanocenter.org/)
@@ -304,6 +312,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Beta Net TPS Monitor](https://nanoticker.info/tps_beta.php)
 
 <div class="line"></div>
+
 ## Entertainment
 Have some spare time? There are soo much fun to do!
 ### -Gambling, Betting
@@ -320,16 +329,19 @@ Have some spare time? There are soo much fun to do!
 ### -Video, Music
 
 <div class="line"></div>
+
 ## Services
 * [Put.io - File Serving](https://put.io)
 
 <div class="line"></div>
+
 ## Other Project Resources
 * [All Things Nano - Project and Resource Repository](https://www.allthingsnano.net/)
 * [Wall of Nano](https://wallofnano.com/)
 * [Nano Resource List](https://github.com/RaiMakers/awesome-nano)
 
 <div class="line"></div>
+
 ## Contribution
 Want something added on this page? Just edit the README.md on [Github](https://github.com/Joohansson/nanolinks) and make a pull request or contact me at [Reddit](https://www.reddit.com/user/Joohansson/). All content will be evaluated.
 
