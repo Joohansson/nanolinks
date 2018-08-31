@@ -63,8 +63,6 @@
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
 
-* [Nano Python - RPC Client](https://github.com/dourvaris/nano-python)
-* [Niuyan Market Data](https://niuyan.com/currencies/raiblocks)
 * [Nano Twitter Tip Bot](https://nanotipbot.com/)
 * [Beta Net TPS Monitor](https://nanoticker.info/tps_beta.php)
 * [Nano Faucet 2 - Free Nano](https://nano-faucet.org/)
@@ -73,7 +71,8 @@
 * [Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
 * [Put.io - File Serving](https://put.io)
 * [Getting Started with Nano](https://gettingstarted.nanocenter.org/)
-* [Exchange - Coinbene](https://www.coinbene.com)
+* [Coinbene - Exchange](https://www.coinbene.com)
+* [Coinmatch - Compare Crypto](https://coinmatch.info/NANO/BTC)
 
 <div class="line"></div>
 
@@ -200,6 +199,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nanoticker - Price and TPS](https://nanoticker.info/)
 * [Nano/USD Converter](http://raiw.krampe.se/value.html?currency=raiblocks&to=usd&value=100)
 * [Niuyan Market Data](https://niuyan.com/currencies/raiblocks)
+* [Coinmatch - Compare Crypto](https://coinmatch.info/NANO/BTC)
 
 ### -Merchant & Donation Related [No shops, too many]
 * [Brainblocks - Nano Payment Service](https://brainblocks.io/)
