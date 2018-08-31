@@ -133,7 +133,6 @@ Learn everything there is to know about Nano!
 ### -Network Stats and Explorers
 * [Nanode.co - Explorer, Stats](https://www.nanode.co/)
 * [MeltingIce.net - Explorer, Stats](https://nano.meltingice.net/)
-* [Nanoexplorer - Explorer, Stats](https://nanoexplorer.io)
 * [Nanowatch - Explorer, Graphic Visualizer](https://nanowat.ch/)
 * [Nano Node Ninja - Stats](https://nanonode.ninja/)
 * [Raiblocks.net - Top Representatives](https://raiblocks.net/page/representatives)
