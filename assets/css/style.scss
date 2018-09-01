@@ -42,9 +42,21 @@ $hr-border-color: #eff0f1;
 
 //Nano logo
 .logo {
-  position: absolute;
-  top: 0;
-  right: 10px;
+  @include large {
+    position: absolute;
+    top: 0;
+    right: 10px;
+  }
+
+  @include medium {
+    position: absolute;
+    top: 0;
+    right: 10px;
+  }
+
+  @include small {
+    padding: 0;
+  }
 }
 
 .firstHeader {
@@ -54,8 +66,24 @@ $hr-border-color: #eff0f1;
 }
 
 table {
-  font-size: 0.8em; //Custom
-  margin-left: 20px; //Custom
+  @include large {
+    font-size: 0.8em; //Custom
+    margin-left: 20px; //Custom
+    padding: 20px;
+  }
+
+  @include medium {
+    font-size: 0.7em; //Custom
+    margin-left: 10px; //Custom
+    padding: 8px;
+  }
+
+  @include small {
+    font-size: 0.5em; //Custom
+    margin-left: 0; //Custom
+    padding: 4px;
+  }
+  
 }
 
 .page-header {
