@@ -28,11 +28,29 @@ $hr-border-color: #eff0f1;
 //Default theme
 @import "{{ site.theme }}";
 
+h1 {
+  margin-top: 0 !important;
+}
+
 //Small text
 .stext {
-  margin-top: 0.5em;
-  margin-left: 20px;
-  font-size: 0.6em;
+  @include large {
+    margin-top: 0.5em;
+    margin-left: 20px;
+    font-size: 0.6em;
+  }
+
+  @include medium {
+    margin-top: 0.5em;
+    margin-left: 15px;
+    font-size: 0.6em;
+  }
+
+  @include small {
+    margin-top: 0.5em;
+    margin-left: 10px;
+    font-size: 0.5em;
+  }
 }
 
 //Index text
@@ -56,6 +74,7 @@ $hr-border-color: #eff0f1;
 
   @include small {
     padding: 0;
+    margin: 0;
   }
 }
 
@@ -94,15 +113,15 @@ table {
 
 th, td {
   @include large {
-    padding: 20px;
+    padding: 8px 20px !important;
   }
 
   @include medium {
-    padding: 8px;
+    padding: 4px 8px !important;
   }
 
   @include small {
-    padding: 4px;
+    padding: 2px 4px !important;
   }
 }
 
