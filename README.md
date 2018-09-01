@@ -65,16 +65,16 @@
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
 
-* [Nano Twitter Tip Bot](https://nanotipbot.com/)
-* [Beta Net TPS Monitor](https://nanoticker.info/tps_beta.php)
-* [Nano Faucet 2 - Free Nano](https://nano-faucet.org/)
-* [Swaplab - Crypto Swap & supports VISA/Mastercard](https://swaplab.cc/)
-* [Guide - How to Setup a Node at DigitalOcean](https://1nano.co/support-the-network/)
-* [Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
-* [Put.io - File Serving](https://put.io)
-* [Getting Started with Nano](https://gettingstarted.nanocenter.org/)
-* [Coinbene - Exchange](https://www.coinbene.com)
-* [Coinmatch - Compare Crypto](https://coinmatch.info/NANO/BTC)
+* [2018-08: Nano Faucet 2 - Free Nano](https://nano-faucet.org/)
+* [2018-08: Swaplab - Crypto Swap & supports VISA/Mastercard](https://swaplab.cc/)
+* [2018-08: Guide - How to Setup a Node at DigitalOcean](https://1nano.co/support-the-network/)
+* [2018-08: Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
+* [2018-08: Put.io - File Serving](https://put.io)
+* [2018-08: Getting Started with Nano](https://gettingstarted.nanocenter.org/)
+* [2018-08: Coinbene - Exchange](https://www.coinbene.com)
+* [2018-08: Coinmatch - Compare Crypto](https://coinmatch.info/NANO/BTC)
+* [2018-08: Ledger Nano - Text Guide](http://blog.nanovault.io/guides/use-your-ledger-device-with-nanovault/)
+* [2018-09: Ledger Nano - Video Guide](https://youtu.be/OoTfRjXsxNk)
 
 <div class="line"></div>
 
@@ -186,6 +186,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 ### -Hardware Wallets
 * [Ledger Nano S](https://www.ledger.fr/)
+* [Ledger Nano - Text Guide](http://blog.nanovault.io/guides/use-your-ledger-device-with-nanovault/)
+* [Ledger Nano - Video Guide](https://youtu.be/OoTfRjXsxNk)
 * [Jolt](https://www.joltwallet.com/)
 
 ### -Related Mobile Apps
