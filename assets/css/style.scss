@@ -60,30 +60,50 @@ $hr-border-color: #eff0f1;
 }
 
 .firstHeader {
-  position: relative;
-  height: 75px;
-  line-height: 75px;
+  @include large {
+    position: relative;
+    height: 75px;
+    line-height: 75px;
+  }
+
+  @include medium {
+    
+  }
+
+  @include small {
+    
+  }
 }
 
 table {
   @include large {
     font-size: 0.8em; //Custom
     margin-left: 20px; //Custom
-    padding: 20px;
   }
 
   @include medium {
     font-size: 0.7em; //Custom
     margin-left: 10px; //Custom
-    padding: 8px;
   }
 
   @include small {
     font-size: 0.5em; //Custom
     margin-left: 0; //Custom
+  }
+}
+
+th, td {
+  @include large {
+    padding: 20px;
+  }
+
+  @include medium {
+    padding: 8px;
+  }
+
+  @include small {
     padding: 4px;
   }
-  
 }
 
 .page-header {
