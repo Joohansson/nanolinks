@@ -1,3 +1,18 @@
+<nav id="nav" role="navigation">
+	<a href="#nav" title="Show navigation">Show Menu</a>
+	<a href="#" title="Hide navigation">Hide Menu</a>
+	<ul class="clearfix">
+		<li><a href="#latest-additions">Latest Additions</a></li>
+		<li><a href="#information--education">Information &amp; Education</a></li>
+		<li><a href="#market">Market</a></li>
+		<li><a href="#development">Development</a></li>
+		<li><a href="#entertainment">Entertainment</a></li>
+		<li><a href="#services">Services</a></li>
+		<li><a href="#other-project-resources">Other Project Resources</a></li>
+		<li><a href="#contribution">Contribution</a></li>
+	</ul>
+</nav>
+
 <div class="firstHeader">
   <img class="logo" src="https://raw.githubusercontent.com/joohansson/nanolinks/master/src/nano.gif" alt="" />
   <h1>Nano - The Currency</h1>
