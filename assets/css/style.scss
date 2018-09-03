@@ -144,18 +144,18 @@ h2 {
     width: 12em;
     font-size: 1.2em;
     position: fixed;
-    top: 1em;
+    top: 0.5em;
     right: 0.5em;
   }
 
   #nav > a
   {
-    width: 3em;
-    height: 3em;
+    width: 2em;
+    height: 2em;
   }
 
   #nav > a {
-    left: 9em;
+    left: 10em;
   }
 }
 
@@ -187,6 +187,7 @@ h2 {
 
 //Nano logo
 .logo {
+  z-index: -999;
   @include large {
     position: absolute;
     top: 0;
