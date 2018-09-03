@@ -40,7 +40,7 @@ h2 {
 //Navigation menu
 #nav
 {
-	width: 12em;
+	width: 13em;
 	position: fixed;
 	top: 0.5em;
 	right: 0.5em;
@@ -57,7 +57,7 @@ h2 {
 	text-indent: -9999px;
 	background-color: #5fab9a;
 	position: relative;
-	left: 10em;
+	left: 11em;
 }
 
 //Menu button lines
@@ -122,8 +122,8 @@ h2 {
 	}
 		#nav > ul > li > a
 		{
-			font-size: 1em;
-			line-height: 1.7em;
+			font-size: 0.9em;
+			line-height: 1.8em;
 			height: auto;
 			text-align: right;
 			padding: 0 0.6em 0 0.6em;
@@ -142,7 +142,7 @@ h2 {
 @include small {
   #nav
   {
-    width: 12em;
+    width: 13em;
     font-size: 1.2em;
     position: fixed;
     top: 0.5em;
@@ -156,7 +156,7 @@ h2 {
   }
 
   #nav > a {
-    left: 10em;
+    left: 11em;
   }
 }
 
