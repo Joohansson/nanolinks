@@ -2,7 +2,7 @@
 ---
 
 // Breakpoints
-$large-breakpoint: 90em; //Custom
+$large-breakpoint: 80rem; //Custom
 $medium-breakpoint: 42em;
 
 // Headers
@@ -157,6 +157,12 @@ h2 {
 
   #nav > a {
     left: 11em;
+  }
+}
+
+.main-content {
+  @include large {
+    max-width: 80rem !important;
   }
 }
 
