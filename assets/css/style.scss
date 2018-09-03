@@ -37,6 +37,128 @@ h2 {
   margin-top: 0.5em !important;
 }
 
+//Navigation menu
+#nav
+{
+	width: 12em;
+	position: fixed;
+	top: 0.5em;
+	right: 0.5em;
+}
+
+//Menu button
+#nav > a
+{
+	display: none;
+	width: 2em;
+	height: 2em;
+	text-align: left;
+	text-indent: -9999px;
+	background-color: #5fab9a;
+	position: relative;
+	left: 10em;
+}
+
+//Menu button lines
+	#nav > a:before,
+			#nav > a:after //First line
+			{
+				position: absolute;
+				border: 2px solid #fff;
+				top: 35%;
+				left: 25%;
+				right: 25%;
+				content: '';
+			}
+			#nav > a:after
+			{
+				top: 60%; //Second line
+			}
+
+		#nav:not( :target ) > a:first-of-type,
+		#nav:target > a:last-of-type
+		{
+			display: block;
+		}
+
+//Menu Item
+#nav li
+{
+	position: relative;
+}
+	#nav li a
+	{
+		color: #fff; //Text color
+		display: block;
+	}
+	#nav li a:active
+	{
+		background-color: #6dc5b2 !important; //Selected item
+	}
+
+//Menu first level
+#nav > ul
+{
+	background-color: #5fab9a;
+	list-style: none;
+	height: auto;
+	display: none;
+	position: absolute;
+	left: 0;
+	right: 0;
+	padding-left: 0.6em;
+}
+	#nav:target > ul
+	{
+		display: block;
+	}
+		
+	#nav > ul > li
+	{
+		height: 100%;
+		width: 100%;
+		float: none;
+	}
+		#nav > ul > li > a
+		{
+			font-size: 1em;
+			line-height: 1.7em;
+			height: auto;
+			text-align: right;
+			padding: 0 0.6em 0 0.6em;
+		}
+			#nav > ul > li:not( :last-child ) > a
+			{
+				border-right: none;
+				border-bottom: 1px solid #6dc5b2;
+			}
+			#nav > ul > li:hover > a,
+			#nav > ul:not( :hover ) > li.active > a
+			{
+				background-color: #6dc5b2;
+			}
+
+@include small {
+  #nav
+  {
+    width: 12em;
+    font-size: 1.2em;
+    position: fixed;
+    top: 1em;
+    right: 0.5em;
+  }
+
+  #nav > a
+  {
+    width: 3em;
+    height: 3em;
+  }
+
+  #nav > a {
+    left: 9em;
+  }
+}
+
 //Small text
 .stext {
   @include large {
@@ -117,12 +239,12 @@ table {
 
   @include medium {
     font-size: 0.7em; //Custom
-    margin-left: 10px; //Custom
+    margin-left: 15px; //Custom
   }
 
   @include small {
     font-size: 0.5em; //Custom
-    margin-left: 0; //Custom
+    margin-left: 10; //Custom
   }
 }
 
