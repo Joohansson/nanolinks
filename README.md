@@ -2,7 +2,7 @@
 	<a href="#nav" title="Show navigation">Show Menu</a>
 	<a href="#" title="Hide navigation">Hide Menu</a>
 	<ul class="clearfix">
-		<li><a href="/">Page Top</a></li>
+		<li><a href="#">Page Top</a></li>
 		<li><a href="#latest-additions">Latest Additions</a></li>
 		<li><a href="#information--education">Information &amp; Education</a></li>
 		<li><a href="#market">Market</a></li>
