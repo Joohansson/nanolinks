@@ -14,8 +14,8 @@
 	</ul>
 </nav>
 
-<div class="firstHeader">
-  <img class="logo" src="https://raw.githubusercontent.com/joohansson/nanolinks/master/src/nano.gif" alt="" />
+<div id="firstHeader">
+  <img id="logo" src="https://raw.githubusercontent.com/joohansson/nanolinks/master/src/nano.gif" alt="" />
   <h1>Nano - The Currency</h1>
 </div>
 <p class="intro"><strong>Nano is a 3rd generation cryptocurrency with zero fees, instant transactions and high scalability. Each account is part of a Directed Acyclic Graph (DAG), which results in lightweight nodes that requires no mining, thus very low environmental impact. These features makes Nano ideal for peer-to-peer transactions, donations and purchases in everyday life all around the world! Feel free to browse this page to know more about Nano, how it can be used and how to obtain it.</strong></p>
@@ -366,3 +366,11 @@ Want something added on this page? Just edit the README.md on [Github](https://g
 
 ### -Voting Representative
 If you have a nano account you can help decentralize the network by choosing a representative other than the official reps that is default. Best is to choose someone you really trust. If you want you can choose [This Node](https://nanonode.ninja/account/xrb_1iuz18n4g4wfp9gf7p1s8qkygxw7wx9qfjq6a9aq68uyrdnningdcjontgar) that has been running 24/7 since Feb 2018. I intend to keep it running for a long time and upgrade hardware when necessary!
+
+### -Donations
+Maintaining the content take some effort. If you want to contribute to this cause then every small donation is greatly appreciated!
+<br>
+<figure>
+	<img id="qrImage" src="https://raw.githubusercontent.com/joohansson/nanolinks/master/src/qr.png" alt="Nano Donation" />
+	<br><figcaption class="subtext">xrb_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo</figcaption>
+</figure>
