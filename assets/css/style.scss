@@ -181,13 +181,50 @@ h2 {
   }
 }
 
+//Image subtitle
+.subtext {
+  margin-top: 0 !important;
+  padding: 0 !important;
+  @include large {
+    margin-left: 20px;
+    font-size: 0.6em;
+  }
+
+  @include medium {
+    margin-left: 15px;
+    font-size: 0.6em;
+  }
+
+  @include small {
+    margin-left: 10px;
+    font-size: 0.5em;
+  }
+}
+
+//QR Image
+#qrImage {
+  margin: 0 !important;
+  padding: 0 !important;
+  @include large {
+    margin-left: 20px;
+  }
+
+  @include medium {
+    margin-left: 15px;
+  }
+
+  @include small {
+    margin-left: 10px;
+  }
+}
+
 //Index text
 .index-text a {
   color: #e24a4a !important;
 }
 
 //Nano logo
-.logo {
+#logo {
   z-index: -999;
   @include large {
     position: absolute;
@@ -208,7 +245,7 @@ h2 {
 }
 
 //First header plus logo
-.firstHeader {
+#firstHeader {
   @include large {
     position: relative;
     height: 75px;
