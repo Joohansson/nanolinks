@@ -202,16 +202,19 @@ h2 {
 #qrImage {
   margin: 0 !important;
   padding: 0 !important;
+}
+
+figure {
   @include large {
-    margin-left: 20px;
+    margin: 0.5em 20px !important;
   }
 
   @include medium {
-    margin-left: 15px;
+    margin: 0.5em 15px !important;
   }
 
   @include small {
-    margin-left: 10px;
+    margin: 0.5em 10px !important;
   }
 }
 
