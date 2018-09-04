@@ -58,8 +58,6 @@
   <p>****Depends on the fee. A high fee typically results in transactions to be cleared in 10min but with lower fee take 1h or more.</p>
 </div>
 
-[NanoLinks.info](https://nanolinks.info)
-
 <div class="line"></div>
 
 ## Quick Index
