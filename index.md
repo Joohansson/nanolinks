@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <nav id="nav" role="navigation">
 	<a href="#nav" title="Show navigation">Show Menu</a>
 	<a href="#" title="Hide navigation">Hide Menu</a>
