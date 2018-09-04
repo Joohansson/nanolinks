@@ -81,7 +81,6 @@
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
 
-* [2018-08: Nano Faucet 2 - Free Nano](https://nano-faucet.org/)
 * [2018-08: Swaplab - Crypto Swap & supports VISA/Mastercard](https://swaplab.cc/)
 * [2018-08: Guide - How to Setup a Node at DigitalOcean](https://1nano.co/support-the-network/)
 * [2018-08: Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
@@ -91,6 +90,8 @@
 * [2018-08: Coinmatch - Compare Crypto](https://coinmatch.info/NANO/BTC)
 * [2018-08: Ledger Nano - Text Guide](http://blog.nanovault.io/guides/use-your-ledger-device-with-nanovault/)
 * [2018-09: Ledger Nano - Video Guide](https://youtu.be/OoTfRjXsxNk)
+* [2018-09: Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
+* [2018-09: Paytomat - Payment Service. Terminal, Web, QR, Fiat gateway](https://paytomat.com/)
 
 <div class="line"></div>
 
@@ -241,10 +242,12 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Eutrino - Ebay with Nano](https://eutrino.com/)
 * [Nanotify - Account Notifications](https://nanotify.co/)
 * [Nanotifier - Account Notifications](https://nanotifier.com/)
+* [Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
 
 ### -Point of Sale
 * [Brainblocks Pod - Hardware Node](https://nexus.brainblocks.io/store/brainblocks-pods)
 * [Nano Blackbox - PoS Software](https://www.nanoblackbox.net/)
+* [Paytomat - Payment Service. Terminal, Web, QR, Fiat gateway](https://paytomat.com/)
 
 <div class="line"></div>
 
