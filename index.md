@@ -366,7 +366,8 @@ Have some spare time? There are soo much fun to do!
 <div class="line"></div>
 
 ## Contribution
-Want something added on this page? Just edit the README.md on [Github](https://github.com/Joohansson/nanolinks) and make a pull request or contact me at [Reddit](https://www.reddit.com/user/Joohansson/). All content will be evaluated.
+Want to add a link to your own project or you found something else? Just clone repo at [Github](https://github.com/Joohansson/nanolinks) , edit index.md and make a pull request. You can also contact me at [Reddit](https://www.reddit.com/user/Joohansson/). All content will be evaluated.
+
 
 ### -Voting Representative
 If you have a nano account you can help decentralize the network by choosing a representative other than the official reps that is default. Best is to choose someone you really trust. If you want you can choose [This Node](https://nanonode.ninja/account/xrb_1iuz18n4g4wfp9gf7p1s8qkygxw7wx9qfjq6a9aq68uyrdnningdcjontgar) that has been running 24/7 since Feb 2018. I intend to keep it running for a long time and upgrade hardware when necessary!
