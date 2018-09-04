@@ -2,19 +2,19 @@
 layout: default
 ---
 <nav id="nav" role="navigation">
-	<a href="#nav" title="Show navigation">Show Menu</a>
-	<a href="#" title="Hide navigation">Hide Menu</a>
-	<ul class="clearfix">
-		<li><a href="#">Home</a></li>
-		<li><a href="#latest-additions">Latest Additions</a></li>
-		<li><a href="#information--education">Information &amp; Education</a></li>
-		<li><a href="#market">Market</a></li>
-		<li><a href="#development">Development</a></li>
-		<li><a href="#entertainment">Entertainment</a></li>
-		<li><a href="#services">Services</a></li>
-		<li><a href="#other-project-resources">Other Project Resources</a></li>
-		<li><a href="#contribution">Contribution</a></li>
-	</ul>
+  <a href="#nav" title="Show navigation">Show Menu</a>
+  <a href="#" title="Hide navigation">Hide Menu</a>
+  <ul class="clearfix">
+    <li><a href="#">Home</a></li>
+    <li><a href="#latest-additions">Latest Additions</a></li>
+    <li><a href="#information--education">Information &amp; Education</a></li>
+    <li><a href="#market">Market</a></li>
+    <li><a href="#development">Development</a></li>
+    <li><a href="#entertainment">Entertainment</a></li>
+    <li><a href="#services">Services</a></li>
+    <li><a href="#other-project-resources">Other Project Resources</a></li>
+    <li><a href="#contribution">Contribution</a></li>
+  </ul>
 </nav>
 
 <div id="firstHeader">
@@ -151,7 +151,7 @@ Learn everything there is to know about Nano!
 
 ### -Network Stats and Explorers
 * [Nanode.co - Explorer, Stats](https://www.nanode.co/)
-* [MeltingIce.net - Explorer, Stats](https://nano.meltingice.net/)
+* [NanoCrawler.cc - Explorer, Stats](https://nanocrawler.cc/)
 * [Nanowatch - Explorer, Graphic Visualizer](https://nanowat.ch/)
 * [Nano Node Ninja - Stats](https://nanonode.ninja/)
 * [Raiblocks.net - Top Representatives](https://raiblocks.net/page/representatives)
@@ -329,7 +329,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 
 ### -Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
-* [Beta Net Explorer - Meltingice](https://beta.nano.meltingice.net)
+* [Beta Net Explorer - NanoCrawler](https://beta.nanocrawler.cc/)
 * [Beta Net Graph - Nanowat.ch](https://beta.nanowat.ch/graph)
 * [Beta Net Stats - Nanode21](https://nanode21.cloud/stats.php)
 * [Beta Net TPS Monitor](https://nanoticker.info/tps_beta.php)
