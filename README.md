@@ -1,9 +1,3 @@
----
-layout: page
-title: NanoLinks - The Ultimate Link Guide
-tagline: Find anything related to the Nano Currency
-description: A curated URL guide to find anything about Nano; The fast, free and green digital currency for the real world! Links to Information, Education, Markets, Merchants, Exchanges, Wallets, Videos, Media, Applications, Development tools, Source Code, Entertainment and Services.
----
 <nav id="nav" role="navigation">
 	<a href="#nav" title="Show navigation">Show Menu</a>
 	<a href="#" title="Hide navigation">Hide Menu</a>
