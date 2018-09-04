@@ -368,7 +368,7 @@ Want something added on this page? Just edit the README.md on [Github](https://g
 If you have a nano account you can help decentralize the network by choosing a representative other than the official reps that is default. Best is to choose someone you really trust. If you want you can choose [This Node](https://nanonode.ninja/account/xrb_1iuz18n4g4wfp9gf7p1s8qkygxw7wx9qfjq6a9aq68uyrdnningdcjontgar) that has been running 24/7 since Feb 2018. I intend to keep it running for a long time and upgrade hardware when necessary!
 
 ### -Donations
-Maintaining the content take some effort. If you want to contribute to this cause then every small donation is greatly appreciated!
+Maintaining the content take some effort. If you want to contribute to this cause then any small donation is greatly appreciated!
 <br>
 <figure>
 	<img id="qrImage" src="https://raw.githubusercontent.com/joohansson/nanolinks/master/src/qr.png" alt="Nano Donation" />
