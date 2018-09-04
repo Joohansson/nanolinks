@@ -57,9 +57,9 @@ h2 {
 	text-indent: -9999px;
 	background-color: #5fab9a;
 	opacity:0.85;
+	border-radius: 0.22em;
 	position: relative;
 	left: 11em;
-	border-radius: 0.3em;
 }
 
 //Menu button lines
@@ -110,6 +110,9 @@ h2 {
 	left: 0;
 	right: 0;
 	padding-left: 0;
+	padding-top: 0.5em;
+	opacity:0.85;
+	border-radius: 0.22em;
 }
 	#nav:target > ul
 	{
