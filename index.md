@@ -218,6 +218,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [CoinFYI](https://coin.fyi/coins/nano)
 * [Cryptoreport](https://cryptoreport.com/nano/NANO)
 * [WorldCoinIndex](https://www.worldcoinindex.com/coin/nano)
+* [Cryptowat.ch - Nano/Binance](https://cryptowat.ch/markets/binance/nano/btc/5m)
 * [Nanoticker - Price and TPS](https://nanoticker.info/)
 * [Nano/USD Converter](http://raiw.krampe.se/value.html?currency=raiblocks&to=usd&value=100)
 * [Niuyan Market Data](https://niuyan.com/currencies/raiblocks)
