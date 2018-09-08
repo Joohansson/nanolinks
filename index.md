@@ -1,20 +1,26 @@
 ---
 layout: default
 ---
-<nav id="nav" role="navigation">
-  <a href="#nav" title="Show navigation">Show Menu</a>
-  <a href="#" title="Hide navigation">Hide Menu</a>
-  <ul class="clearfix">
-    <li><a href="#">Home</a></li>
-    <li><a href="#latest-additions">Latest Additions</a></li>
-    <li><a href="#information--education">Information &amp; Education</a></li>
-    <li><a href="#market">Market</a></li>
-    <li><a href="#development">Development</a></li>
-    <li><a href="#entertainment">Entertainment</a></li>
-    <li><a href="#services">Services</a></li>
-    <li><a href="#other-project-resources">Other Project Resources</a></li>
-    <li><a href="#contribution">Contribution</a></li>
-  </ul>
+<nav id="dropdown">
+  <div id="dropbtn">
+    <span></span>
+    <span></span>
+  </div>
+  <div id="dropdown-container">
+    <div id="dropdown-content">
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#latest-additions">Latest Additions</a></li>
+        <li><a href="#information--education">Information &amp; Education</a></li>
+        <li><a href="#market">Market</a></li>
+        <li><a href="#development">Development</a></li>
+        <li><a href="#entertainment">Entertainment</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#other-project-resources">Other Project Resources</a></li>
+        <li><a href="#contribution">Contribution</a></li>
+      </ul>
+    </div>
+  </div>
 </nav>
 
 <div id="firstHeader">
@@ -380,3 +386,21 @@ Maintaining the content take some effort. If you want to contribute to this caus
 	<img id="qrImage" src="https://raw.githubusercontent.com/joohansson/nanolinks/master/src/qr.png" alt="Nano Donation" />
 	<br><figcaption class="subtext">xrb_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo</figcaption>
 </figure>
+
+<!-- Enable open close menu on touch devices -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    /*$('#dropdown-container').show();*/
+    $('#dropbtn').click(function(event) {
+      $('#dropdown-container').show();
+    });
+    $(document).on('touchstart click', function(event) { 
+      if(!$(event.target).closest('#dropbtn').length && !$(event.target).closest('#dropdown-container').length) {
+        if($('#dropdown-container').is(":visible")) {
+          $('#dropdown-container').hide();
+        }
+      }        
+    });
+  });
+</script>
