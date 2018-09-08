@@ -37,132 +37,113 @@ h2 {
   margin-top: 0.5em !important;
 }
 
-//Navigation menu
-#nav
-{
-	width: 13em;
-	position: fixed;
-	top: 0.5em;
-	right: 0.5em;
-	z-index: 999;
-}
-
-//Menu button
-#nav > a
-{
-	display: none;
-	width: 2em;
-	height: 2em;
-	text-align: left;
-	text-indent: -9999px;
-	background-color: #5fab9a;
-	opacity:0.95;
-	border-radius: 0.22em;
-	position: relative;
-	left: 11em;
-}
-
-//Menu button lines
-	#nav > a:before,
-			#nav > a:after //First line
-			{
-				position: absolute;
-				border: 2px solid #fff;
-				top: 35%;
-				left: 25%;
-				right: 25%;
-				content: '';
-			}
-			#nav > a:after
-			{
-				top: 60%; //Second line
-			}
-
-		#nav:not( :target ) > a:first-of-type,
-		#nav:target > a:last-of-type
-		{
-			display: block;
-		}
-
-//Menu Item
-#nav li
-{
-	position: relative;
-}
-	#nav li a
-	{
-		color: #fff; //Text color
-		display: block;
-	}
-	#nav li a:active
-	{
-		background-color: #6dc5b2 !important; //Selected item
-	}
-
-//Menu first level
-#nav > ul
-{
-	background-color: #5fab9a;
-	list-style: none;
-	height: auto;
-	display: none;
-	position: absolute;
-	left: 0;
-	right: 0;
-	padding-left: 0;
-	margin-top: 0.5em;
-	opacity:0.95;
-	border-radius: 0.22em;
-}
-	#nav:target > ul
-	{
-		display: block;
-	}
-		
-	#nav > ul > li
-	{
-		height: 100%;
-		width: 100%;
-		float: none;
-	}
-		#nav > ul > li > a
-		{
-			font-size: 0.9em;
-			line-height: 2.5em;
-			height: auto;
-			text-align: right;
-			padding: 0 0.6em 0 0.6em;
-		}
-			#nav > ul > li:not( :last-child ) > a
-			{
-				border-right: none;
-				border-bottom: 1px solid #6dc5b2;
-			}
-			#nav > ul > li:hover > a,
-			#nav > ul:not( :hover ) > li.active > a
-			{
-				background-color: #6dc5b2;
-			}
-
-@include small {
-  #nav
-  {
-    width: 13em;
-    font-size: 1.2em;
+/* Menu */
+#dropdown {
     position: fixed;
     top: 0.5em;
     right: 0.5em;
-  }
+    width: 12em;
+    z-index: 999;
+}
 
-  #nav > a
+/* Menu button */
+#dropbtn {
+  top: 0;
+  right: 0;
+  width: 2.5em;
+  height: 1.9em;
+  background-color: #5fab9a;
+  opacity:0.95;
+  cursor: pointer;
+  position: relative;
+  left: 9.5em;
+  padding-top: 0.5em;
+  border-radius: 0.2em;
+}
+
+#dropbtn a {
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0;
+}
+
+/* Button lines (hamburger) */
+#dropbtn span
+{
+  position: relative;
+  top: 0;
+  left: 0;
+  display: block;
+  height: 0.25em;
+  margin-left: 0.4em;
+  margin-right: 0.4em;
+  margin-bottom: 0.4em;
+  background: #eee;
+  border-radius: 0.125em;
+  z-index: 2;
+}
+
+/* Menu main container including top margin */
+#dropdown-container {
+    display: block;
+    visibility: hidden;
+    position: absolute;
+    min-width: 12em;
+    z-index: 1;
+}
+
+/* Menu content */
+#dropdown-content {
+    display: block;
+    padding: 0;
+    margin-top: 0.5em !important;
+    background-color: #5fab9a;
+    opacity:0.95;
+    border-radius: 0.2em;
+}
+
+/* No list bullets or padding*/ 
+#dropdown-content ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0;
+}
+
+  /* Line between items*/
+  #dropdown-content > ul > li:not( :last-child ) > a
   {
-    width: 2em;
-    height: 2em;
+    border-right: none;
+    border-bottom: 1px solid #6dc5b2;
   }
 
-  #nav > a {
-    left: 11em;
-  }
+#dropdown-content a {
+    float: none;
+    color: #eee;
+    padding: 0.6em 0.5em;
+    text-decoration: none;
+    display: block;
+    text-align: right;
+}
+
+#dropdown-content a:hover {
+    background-color: #6dc5b2;
+    border-radius: 0.2em;
+}
+
+#dropdown-container:hover {
+    visibility: visible;
+}
+
+#dropbtn:hover {
+    /*background-color: #6dc5b2;*/
+}
+
+/* Show dropdown */
+#dropbtn:hover + #dropdown-container {
+    visibility: visible;
 }
 
 .main-content {
