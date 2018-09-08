@@ -393,7 +393,12 @@ Maintaining the content take some effort. If you want to contribute to this caus
   $(document).ready(function() {
     /*$('#dropdown-container').show();*/
     $('#dropbtn').click(function(event) {
-      $('#dropdown-container').show();
+      if($('#dropdown-container').is(":visible")) {
+        $('#dropdown-container').hide();
+      }
+      else {
+        $('#dropdown-container').show();
+      }
     });
     $(document).on('touchstart click', function(event) { 
       if(!$(event.target).closest('#dropbtn').length && !$(event.target).closest('#dropdown-container').length) {
