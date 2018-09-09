@@ -195,7 +195,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [PaFair - Escrow](https://payfair.io/)
 * [Swaplab - Crypto Swap & supports VISA/Mastercard](https://swaplab.cc/)
 
-### -Wallets [Usage and Downloads]
+### -Wallets
 * [OSX,Win,Linux,iOS,Android: **Nano Wallet Company**](https://nanowalletcompany.com/)
 * [OSX,Win,Linux,iOS,Android,WinPhone: **Canoe**](https://getcanoe.io/)
 * [iOS: **Nanoblocks**](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
@@ -295,7 +295,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
 * [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
 
-### -Wallets
+### -Wallets [Source Code]
 * [Nano Wallet Company](https://github.com/nano-wallet-company)
 * [Canoe](https://github.com/getcanoe/canoe)
 * [Nanoblocks](https://github.com/nebyark/nano-blocks)
@@ -380,7 +380,7 @@ Want to add a link to your own project or you found something else? Just clone r
 If you have a nano account you can help decentralize the network by choosing a representative other than the official reps that is default. Best is to choose someone you really trust. If you want you can choose [This Node](https://nanonode.ninja/account/xrb_1iuz18n4g4wfp9gf7p1s8qkygxw7wx9qfjq6a9aq68uyrdnningdcjontgar) that has been running 24/7 since Feb 2018. I intend to keep it running for a long time and upgrade hardware when necessary!
 
 ### -Donations
-Maintaining the content take some effort. If you want to contribute to this cause then any small donation is greatly appreciated!
+Maintaining of content take some effort. If you want to contribute to this cause then any small donation is greatly appreciated!
 <br>
 <figure>
 	<img id="qrImage" src="https://raw.githubusercontent.com/joohansson/nanolinks/master/src/qr.png" alt="Nano Donation" />
