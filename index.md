@@ -88,8 +88,6 @@ layout: default
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
 
-* [2018-08: Swaplab - Crypto Swap & supports VISA/Mastercard](https://swaplab.cc/)
-* [2018-08: Guide - How to Setup a Node at DigitalOcean](https://1nano.co/support-the-network/)
 * [2018-08: Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
 * [2018-08: Put.io - File Serving](https://put.io)
 * [2018-08: Getting Started with Nano](https://gettingstarted.nanocenter.org/)
@@ -99,6 +97,7 @@ layout: default
 * [2018-09: Ledger Nano - Video Guide](https://youtu.be/OoTfRjXsxNk)
 * [2018-09: Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
 * [2018-09: Paytomat - Payment Service. Terminal, Web, QR, Fiat gateway](https://paytomat.com/)
+* [2018-09: Tradingview - Nano/BTC Binance](https://www.tradingview.com/symbols/NANOBTC/)
 
 <div class="line"></div>
 
@@ -224,7 +223,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [CoinFYI](https://coin.fyi/coins/nano)
 * [Cryptoreport](https://cryptoreport.com/nano/NANO)
 * [WorldCoinIndex](https://www.worldcoinindex.com/coin/nano)
-* [Cryptowat.ch - Nano/Binance](https://cryptowat.ch/markets/binance/nano/btc/5m)
+* [Cryptowat.ch - Nano/BTC Binance](https://cryptowat.ch/markets/binance/nano/btc/5m)
+* [Tradingview - Nano/BTC Binance](https://www.tradingview.com/symbols/NANOBTC/)
 * [Nanoticker - Price and TPS](https://nanoticker.info/)
 * [Nano/USD Converter](http://raiw.krampe.se/value.html?currency=raiblocks&to=usd&value=100)
 * [Niuyan Market Data](https://niuyan.com/currencies/raiblocks)
