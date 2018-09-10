@@ -94,7 +94,7 @@ layout: default
 * [2018-09: Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
 * [2018-09: Paytomat - Payment Service. Terminal, Web, QR, Fiat gateway](https://paytomat.com/)
 * [2018-09: Tradingview - Nano/BTC Binance](https://www.tradingview.com/symbols/NANOBTC/)
-* [2018-09: Why Change Your Nano Representative?](https://youtu.be/bS7cfZtwKeM)
+* [2018-09: Why Change Your Nano Representative?](https://youtu.be/dnOTiixhPrk)
 * [2018-09: Distributed PoW System - Python Client](https://github.com/jamescoxon/nano_distributed_pow_client)
 * [2018-09: Distributed PoW System - Web Client](https://nanopow.github.io/web/)
 * [2018-09: Distributed PoW System - Server](https://github.com/jamescoxon/nano_dpow_server)
@@ -133,7 +133,7 @@ Learn everything there is to know about Nano!
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
 * [Is Nano Green Yet - Environmental Impact](https://isnanogreenyet.com/)
 * [Nano Venezuela](http://www.nanovenezuela.org/)
-* [Why Change Your Nano Representative?](https://youtu.be/bS7cfZtwKeM)
+* [Why Change Your Nano Representative?](https://youtu.be/dnOTiixhPrk)
 
 ### -Video Channels
 * [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
@@ -383,7 +383,7 @@ Want to add a link to your own project or you found something else? Just clone r
 ### -Voting Representative
 If you have a nano account you can help decentralize the network by choosing a representative other than the official reps that is default. Best is to choose someone you really trust. If you want you can choose [This Node](https://nanonode.ninja/account/xrb_1iuz18n4g4wfp9gf7p1s8qkygxw7wx9qfjq6a9aq68uyrdnningdcjontgar) that has been running 24/7 since Feb 2018. I intend to keep it running for a long time and upgrade hardware when necessary!
 
-[Video education and why it matters](https://youtu.be/bS7cfZtwKeM)
+[Video about reps and why it matters](https://youtu.be/dnOTiixhPrk)
 
 ### -Donations
 Maintaining of content take some effort. If you want to contribute to this cause then any small donation is greatly appreciated!
