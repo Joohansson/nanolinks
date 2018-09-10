@@ -88,16 +88,16 @@ layout: default
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
 
-* [2018-08: Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
-* [2018-08: Put.io - File Serving](https://put.io)
-* [2018-08: Getting Started with Nano](https://gettingstarted.nanocenter.org/)
-* [2018-08: Coinbene - Exchange](https://www.coinbene.com)
 * [2018-08: Coinmatch - Compare Crypto](https://coinmatch.info/NANO/BTC)
 * [2018-08: Ledger Nano - Text Guide](http://blog.nanovault.io/guides/use-your-ledger-device-with-nanovault/)
 * [2018-09: Ledger Nano - Video Guide](https://youtu.be/OoTfRjXsxNk)
 * [2018-09: Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
 * [2018-09: Paytomat - Payment Service. Terminal, Web, QR, Fiat gateway](https://paytomat.com/)
 * [2018-09: Tradingview - Nano/BTC Binance](https://www.tradingview.com/symbols/NANOBTC/)
+* [2018-09: Why Change Your Nano Representative?](https://youtu.be/bS7cfZtwKeM)
+* [2018-09: Distributed PoW System - Python Client](https://github.com/jamescoxon/nano_distributed_pow_client)
+* [2018-09: Distributed PoW System - Web Client](https://nanopow.github.io/web/)
+* [2018-09: Distributed PoW System - Server](https://github.com/jamescoxon/nano_dpow_server)
 
 <div class="line"></div>
 
@@ -133,6 +133,7 @@ Learn everything there is to know about Nano!
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
 * [Is Nano Green Yet - Environmental Impact](https://isnanogreenyet.com/)
 * [Nano Venezuela](http://www.nanovenezuela.org/)
+* [Why Change Your Nano Representative?](https://youtu.be/bS7cfZtwKeM)
 
 ### -Video Channels
 * [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
@@ -333,6 +334,9 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Dev: Nano Work Server](https://github.com/nanocurrency/nano-work-server)
 * [Rai Ex - Elixir Client](https://github.com/willHol/rai_ex)
 * [NanoLightServer](https://github.com/NanoDevs/NanoLightServer)
+* [Distributed PoW System - Python Client](https://github.com/jamescoxon/nano_distributed_pow_client)
+* [Distributed PoW System - Web Client](https://nanopow.github.io/web/)
+* [Distributed PoW System - Server](https://github.com/jamescoxon/nano_dpow_server)
 
 ### -Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
@@ -378,6 +382,8 @@ Want to add a link to your own project or you found something else? Just clone r
 
 ### -Voting Representative
 If you have a nano account you can help decentralize the network by choosing a representative other than the official reps that is default. Best is to choose someone you really trust. If you want you can choose [This Node](https://nanonode.ninja/account/xrb_1iuz18n4g4wfp9gf7p1s8qkygxw7wx9qfjq6a9aq68uyrdnningdcjontgar) that has been running 24/7 since Feb 2018. I intend to keep it running for a long time and upgrade hardware when necessary!
+
+[Video education and why it matters](https://youtu.be/bS7cfZtwKeM)
 
 ### -Donations
 Maintaining of content take some effort. If you want to contribute to this cause then any small donation is greatly appreciated!
