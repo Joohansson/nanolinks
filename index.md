@@ -98,6 +98,7 @@ layout: default
 * [2018-09: Distributed PoW System - Python Client](https://github.com/jamescoxon/nano_distributed_pow_client)
 * [2018-09: Distributed PoW System - Web Client](https://nanopow.github.io/web/)
 * [2018-09: Distributed PoW System - Server](https://github.com/jamescoxon/nano_dpow_server)
+* [2018-09: Nano Faucet #3 - Free Nano](https://nanofaucet.co/)
 
 <div class="line"></div>
 
@@ -241,6 +242,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nanote - Hosted Payment Forms](https://nanote.net/)
 * [Nano Faucet #1 - Free Nano](https://www.nanofaucet.org/)
 * [Nano Faucet #2 - Free Nano](https://nano-faucet.org/)
+* [Nano Faucet #3 - Free Nano](https://nanofaucet.co/)
 * [GetFreeNano - Free Nano project from Nano Chinese](https://getfreenano.com/)
 * [Nano Twitter Tip Bot - Donation service](https://nanotipbot.com/)
 * [NanoTwitch - Gaming donation service](https://nanotwit.ch/)
