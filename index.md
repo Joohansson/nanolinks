@@ -88,9 +88,6 @@ layout: default
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
 
-* [2018-08: Coinmatch - Compare Crypto](https://coinmatch.info/NANO/BTC)
-* [2018-08: Ledger Nano - Text Guide](http://blog.nanovault.io/guides/use-your-ledger-device-with-nanovault/)
-* [2018-09: Ledger Nano - Video Guide](https://youtu.be/OoTfRjXsxNk)
 * [2018-09: Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
 * [2018-09: Paytomat - Payment Service. Terminal, Web, QR, Fiat gateway](https://paytomat.com/)
 * [2018-09: Tradingview - Nano/BTC Binance](https://www.tradingview.com/symbols/NANOBTC/)
@@ -99,6 +96,8 @@ layout: default
 * [2018-09: Distributed PoW System - Web Client](https://nanopow.github.io/web/)
 * [2018-09: Distributed PoW System - Server](https://github.com/jamescoxon/nano_dpow_server)
 * [2018-09: Nano Faucet #3 - Free Nano](https://nanofaucet.co/)
+* [2018-09: Blocktivity - Utilization Comparision](https://blocktivity.info/)
+* [2018-09: Brainex](https://www.brainex.io/)
 
 <div class="line"></div>
 
@@ -167,6 +166,7 @@ Learn everything there is to know about Nano!
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
 * [Nano fees tracker =)](http://nanofees.live/)
 * [Are We Decentralized Yet](https://arewedecentralizedyet.com/)
+* [Blocktivity - Utilization Comparision](https://blocktivity.info/)
 
 <div class="line"></div>
 
@@ -174,7 +174,11 @@ Learn everything there is to know about Nano!
 Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 ### -Exchanges
+#### -Nano
 * [Nanex](https://nanex.co/)
+* [Brainex](https://www.brainex.io/)
+
+#### -Crypto
 * [Binance](https://www.binance.com)
 * [KuCoin](https://www.kucoin.com)
 * [OkEx](https://www.okex.com/)
@@ -190,12 +194,13 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Gate.io](https://gate.io/)
 * [Koinex](https://koinex.in/)
 * [Coinbene](https://www.coinbene.com)
-
-* [Localnano - P2P](https://www.localnano.com/)
-* [Localnanos - P2P](https://www.localnanos.com/)
-* [BuySellNano - P2P](https://buysellnano.com/)
-* [PaFair - Escrow](https://payfair.io/)
 * [Swaplab - Crypto Swap & supports VISA/Mastercard](https://swaplab.cc/)
+
+#### -P2P
+* [Localnano](https://www.localnano.com/)
+* [Localnanos](https://www.localnanos.com/)
+* [BuySellNano](https://buysellnano.com/)
+* [PaFair](https://payfair.io/)
 
 ### -Wallets
 * [OSX,Win,Linux,iOS,Android: **Nano Wallet Company**](https://nanowalletcompany.com/)
