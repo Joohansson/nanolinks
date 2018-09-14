@@ -86,7 +86,7 @@ layout: default
 <div class="line"></div>
 
 ## Latest Additions
-10 latest links to keep you updated (last is latest).
+Latest links to keep you updated (last is latest).
 
 * [2018-09: Paytomat - Payment Service. Terminal, Web, QR, Fiat gateway](https://paytomat.com/)
 * [2018-09: Tradingview - Nano/BTC Binance](https://www.tradingview.com/symbols/NANOBTC/)
@@ -98,6 +98,7 @@ layout: default
 * [2018-09: Blocktivity - Utilization Comparision](https://blocktivity.info/)
 * [2018-09: Brainex](https://www.brainex.io/)
 * [2018-09: Tradingview App - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
+* [2018-09: Brainblocks Web PoS](https://pos.brainblocks.io/)
 
 <div class="line"></div>
 
@@ -214,11 +215,12 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Paper: **Rai Paper Wallet**](https://numtel.github.io/rai-paper-wallet/)
 * [Wallet Generator: **NanoWarpWallet**](https://termhn.github.io/nanowarpwallet/)
 
-### -Hardware Wallets
+### -Hardware Wallets and Nodes
 * [Ledger Nano S](https://www.ledger.fr/)
 * [Ledger Nano - Text Guide](http://blog.nanovault.io/guides/use-your-ledger-device-with-nanovault/)
 * [Ledger Nano - Video Guide](https://youtu.be/OoTfRjXsxNk)
 * [Jolt](https://www.joltwallet.com/)
+* [Brainblocks Pod - Hardware Node](https://nexus.brainblocks.io/store/brainblocks-pods)
 
 ### -Related Mobile Apps
 * [Nano Track - Nano Ticker](https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8)
@@ -262,7 +264,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
 
 ### -Point of Sale
-* [Brainblocks Pod - Hardware Node](https://nexus.brainblocks.io/store/brainblocks-pods)
+* [Brainblocks Web PoS](https://pos.brainblocks.io/)
 * [Nano Blackbox - PoS Software](https://www.nanoblackbox.net/)
 * [Paytomat - Payment Service. Terminal, Web, QR, Fiat gateway](https://paytomat.com/)
 
