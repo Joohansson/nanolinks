@@ -88,7 +88,6 @@ layout: default
 ## Latest Additions
 10 latest links to keep you updated (last is latest).
 
-* [2018-09: Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
 * [2018-09: Paytomat - Payment Service. Terminal, Web, QR, Fiat gateway](https://paytomat.com/)
 * [2018-09: Tradingview - Nano/BTC Binance](https://www.tradingview.com/symbols/NANOBTC/)
 * [2018-09: Why Change Your Nano Representative?](https://youtu.be/dnOTiixhPrk)
@@ -98,6 +97,7 @@ layout: default
 * [2018-09: Nano Faucet #3 - Free Nano](https://nanofaucet.co/)
 * [2018-09: Blocktivity - Utilization Comparision](https://blocktivity.info/)
 * [2018-09: Brainex](https://www.brainex.io/)
+* [2018-09: Tradingview App - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
 
 <div class="line"></div>
 
@@ -133,7 +133,6 @@ Learn everything there is to know about Nano!
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
 * [Is Nano Green Yet - Environmental Impact](https://isnanogreenyet.com/)
 * [Nano Venezuela](http://www.nanovenezuela.org/)
-* [Why Change Your Nano Representative?](https://youtu.be/dnOTiixhPrk)
 
 ### -Video Channels
 * [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
@@ -149,6 +148,7 @@ Learn everything there is to know about Nano!
 * [Nano simply explained](https://youtu.be/dlRhUwLQWXc)
 * [Nano explained (Deep dive)](https://youtu.be/LcqPLlduE0w)
 * [Visualizing 1560 Days of Development](https://youtu.be/br8tcS8gcqE)
+* [Why Change Your Nano Representative?](https://youtu.be/dnOTiixhPrk)
 
 ### -Video Advertisement
 * [Nano The Future of Money](https://youtu.be/lw-rpO0jqYQ)
@@ -221,8 +221,9 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Jolt](https://www.joltwallet.com/)
 
 ### -Related Mobile Apps
-* [Nano Track](https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8)
-* [Coin Stats - Multi Market](https://coinstats.app/)
+* [Nano Track - Nano Ticker](https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8)
+* [Coin Stats - Portfolio Stats](https://coinstats.app/)
+* [Tradingview - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
 
 ### -Market Data, Analysis & Tickers
 * [Coinmarketcap](https://coinmarketcap.com/currencies/nano/)
@@ -393,7 +394,7 @@ If you have a nano account you can help decentralize the network by choosing a r
 [Video about reps and why it matters](https://youtu.be/dnOTiixhPrk)
 
 ### -Donations
-Maintaining of content take some effort. If you want to contribute to this cause then any small donation is greatly appreciated!
+Maintaining the content requires some effort. If you want to contribute to this cause then any small donation is greatly appreciated!
 <br>
 <figure>
 	<img id="qrImage" src="https://raw.githubusercontent.com/joohansson/nanolinks/master/src/qr.png" alt="Nano Donation" />
