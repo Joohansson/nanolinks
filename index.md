@@ -211,11 +211,11 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nanollet** - Windows,Linux](https://github.com/brokenbydefault/Nanollet)
 
 #### -Address Generators
-* [**Nano Paper Wallet 1**](https://vitorcremonez.github.io/nano-paper-wallet/)
-* [**Nano Paper Wallet 2**](https://jelofsson.github.io/nano-paper-wallet/)
-* [**RaiPaper**](https://blootoon.github.io/rai-paper/)
-* [**Rai Paper Wallet**](https://numtel.github.io/rai-paper-wallet/)
-* [**NanoWarpWallet**](https://termhn.github.io/nanowarpwallet/)
+* [Nano Paper Wallet 1](https://vitorcremonez.github.io/nano-paper-wallet/)
+* [Nano Paper Wallet 2](https://jelofsson.github.io/nano-paper-wallet/)
+* [RaiPaper](https://blootoon.github.io/rai-paper/)
+* [Rai Paper Wallet](https://numtel.github.io/rai-paper-wallet/)
+* [NanoWarpWallet](https://termhn.github.io/nanowarpwallet/)
 
 ### -Hardware Wallets and Nodes
 * [Ledger Nano S](https://www.ledger.fr/)
