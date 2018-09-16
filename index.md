@@ -88,9 +88,6 @@ layout: default
 ## Latest Additions
 Latest links to keep you updated (last is latest).
 
-* [2018-09: Paytomat - Payment Service. Terminal, Web, QR, Fiat gateway](https://paytomat.com/)
-* [2018-09: Tradingview - Nano/BTC Binance](https://www.tradingview.com/symbols/NANOBTC/)
-* [2018-09: Why Change Your Nano Representative?](https://youtu.be/dnOTiixhPrk)
 * [2018-09: Distributed PoW System - Python Client](https://github.com/jamescoxon/nano_distributed_pow_client)
 * [2018-09: Distributed PoW System - Web Client](https://nanopow.github.io/web/)
 * [2018-09: Distributed PoW System - Server](https://github.com/jamescoxon/nano_dpow_server)
@@ -100,6 +97,7 @@ Latest links to keep you updated (last is latest).
 * [2018-09: Tradingview App - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
 * [2018-09: Brainblocks Web PoS](https://pos.brainblocks.io/)
 * [2018-09: Docker Repo](https://hub.docker.com/u/nanocurrency/)
+* [2018-09: Nanollet Ultra light wallet](https://github.com/brokenbydefault/Nanollet)
 
 <div class="line"></div>
 
@@ -205,16 +203,19 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [PaFair](https://payfair.io/)
 
 ### -Wallets
-* [OSX,Win,Linux,iOS,Android: **Nano Wallet Company**](https://nanowalletcompany.com/)
-* [OSX,Win,Linux,iOS,Android,WinPhone: **Canoe**](https://getcanoe.io/)
-* [iOS: **Nanoblocks**](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
-* [Web: **Nanowallet**](https://nanowallet.io/)
-* [Web,Desktop: **Nanovault**](https://nanovault.io/)
-* [Paper: **Nano Paper Wallet 1**](https://vitorcremonez.github.io/nano-paper-wallet/)
-* [Paper: **Nano Paper Wallet 2**](https://jelofsson.github.io/nano-paper-wallet/)
-* [Paper: **RaiPaper**](https://blootoon.github.io/rai-paper/)
-* [Paper: **Rai Paper Wallet**](https://numtel.github.io/rai-paper-wallet/)
-* [Wallet Generator: **NanoWarpWallet**](https://termhn.github.io/nanowarpwallet/)
+* [**Nano Wallet Company** - OSX,Win,Linux,iOS,Android](https://nanowalletcompany.com/)
+* [**Canoe** - OSX,Win,Linux,iOS,Android,WinPhone](https://getcanoe.io/)
+* [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
+* [**Nanowallet** - Web](https://nanowallet.io/)
+* [**Nanovault** - Web,Desktop](https://nanovault.io/)
+* [**Nanollet** - Windows,Linux](https://github.com/brokenbydefault/Nanollet)
+
+#### -Address Generators
+* [**Nano Paper Wallet 1**](https://vitorcremonez.github.io/nano-paper-wallet/)
+* [**Nano Paper Wallet 2**](https://jelofsson.github.io/nano-paper-wallet/)
+* [**RaiPaper**](https://blootoon.github.io/rai-paper/)
+* [**Rai Paper Wallet**](https://numtel.github.io/rai-paper-wallet/)
+* [**NanoWarpWallet**](https://termhn.github.io/nanowarpwallet/)
 
 ### -Hardware Wallets and Nodes
 * [Ledger Nano S](https://www.ledger.fr/)
