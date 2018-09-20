@@ -98,6 +98,7 @@ Latest links to keep you updated (last is latest).
 * [2018-09: Brainblocks Web PoS](https://pos.brainblocks.io/)
 * [2018-09: Docker Repo](https://hub.docker.com/u/nanocurrency/)
 * [2018-09: Nanollet Ultra light wallet](https://github.com/brokenbydefault/Nanollet)
+* [2018-09: Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 
 <div class="line"></div>
 
@@ -308,6 +309,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
 * [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
 * [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
+* [Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 
 ### -Wallets [Source Code]
 * [Nano Wallet Company](https://github.com/nano-wallet-company)
