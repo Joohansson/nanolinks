@@ -99,6 +99,7 @@ Latest links to keep you updated (last is latest).
 * [2018-09: Docker Repo](https://hub.docker.com/u/nanocurrency/)
 * [2018-09: Nanollet Ultra light wallet](https://github.com/brokenbydefault/Nanollet)
 * [2018-09: Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
+* [2018-09: NanoPoW - PoW Generator in Golang](https://github.com/serdaroquai/nanopow)
 
 <div class="line"></div>
 
@@ -348,6 +349,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [RaiBlocksWebAssemblyPoW](https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW)
 * [Dev: Nano Work Server](https://github.com/nanocurrency/nano-work-server)
 * [Rai Ex - Elixir Client](https://github.com/willHol/rai_ex)
+* [NanoPoW - PoW Generator in Golang](https://github.com/serdaroquai/nanopow)
 * [NanoLightServer](https://github.com/NanoDevs/NanoLightServer)
 * [Distributed PoW System - Python Client](https://github.com/jamescoxon/nano_distributed_pow_client)
 * [Distributed PoW System - Web Client](https://nanopow.github.io/web/)
