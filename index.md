@@ -88,9 +88,6 @@ layout: default
 ## Latest Additions
 Latest links to keep you updated (last is latest).
 
-* [2018-09: Distributed PoW System - Python Client](https://github.com/jamescoxon/nano_distributed_pow_client)
-* [2018-09: Distributed PoW System - Web Client](https://nanopow.github.io/web/)
-* [2018-09: Distributed PoW System - Server](https://github.com/jamescoxon/nano_dpow_server)
 * [2018-09: Nano Faucet #3 - Free Nano](https://nanofaucet.co/)
 * [2018-09: Blocktivity - Utilization Comparision](https://blocktivity.info/)
 * [2018-09: Brainex](https://www.brainex.io/)
@@ -100,6 +97,7 @@ Latest links to keep you updated (last is latest).
 * [2018-09: Nanollet Ultra light wallet](https://github.com/brokenbydefault/Nanollet)
 * [2018-09: Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 * [2018-09: NanoPoW - PoW Generator in Golang](https://github.com/serdaroquai/nanopow)
+* [2018-09: Ogdolo - Crypto Address Alias](https://ogdolo.com)
 
 <div class="line"></div>
 
@@ -300,6 +298,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Node Docker](https://github.com/lephleg/nano-node-docker)
 * [Guide - How to Setup a Node at DigitalOcean](https://1nano.co/support-the-network/)
 * [NanoAddr - Address Generator](https://nanoaddr.io/)
+* [Ogdolo - Crypto Address Alias](https://ogdolo.com)
 * [BIP39 Demo](https://github.com/roosmaa/nano-bip39-demo)
 * [Telegram Bot Source Code](https://github.com/SergiySW/NanoWalletBot)
 * [Nano Vanity Generator (frankh)](https://github.com/frankh/nano-vanity)
