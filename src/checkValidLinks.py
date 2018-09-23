@@ -8,7 +8,7 @@
 
 import httplib2
 import requests
-file = open('../README.md', 'r') #File to check
+file = open('../index.md', 'r') #File to check
 
 #Filters to find URL from markdown syntax
 start = '* ['
