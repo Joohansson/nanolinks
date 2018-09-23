@@ -88,7 +88,6 @@ layout: default
 ## Latest Additions
 Latest links to keep you updated (last is latest).
 
-* [2018-09: Nano Faucet #3 - Free Nano](https://nanofaucet.co/)
 * [2018-09: Blocktivity - Utilization Comparision](https://blocktivity.info/)
 * [2018-09: Brainex](https://www.brainex.io/)
 * [2018-09: Tradingview App - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
@@ -98,6 +97,7 @@ Latest links to keep you updated (last is latest).
 * [2018-09: Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 * [2018-09: NanoPoW - PoW Generator in Golang](https://github.com/serdaroquai/nanopow)
 * [2018-09: Ogdolo - Crypto Address Alias](https://ogdolo.com)
+* [2018-09: Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
 
 <div class="line"></div>
 
@@ -159,9 +159,8 @@ Learn everything there is to know about Nano!
 * [Nanode.co - Explorer, Stats](https://www.nanode.co/)
 * [NanoCrawler.cc - Explorer, Stats](https://nanocrawler.cc/)
 * [Nanowatch - Explorer, Graphic Visualizer](https://nanowat.ch/)
+* [Nano-Faucet.org - Explorer, Stats, Top Accounts](https://nano-faucet.org/stats/)
 * [Nano Node Ninja - Stats](https://nanonode.ninja/)
-* [Raiblocks.net - Top Representatives](https://raiblocks.net/page/representatives)
-* [Raiblocks.net - Top Accounts](https://raiblocks.net/page/frontiers.php)
 * [XRB Network - Map Visualizer](http://xrb.network/)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
 * [Nano fees tracker =)](http://nanofees.live/)
@@ -200,7 +199,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Localnano](https://www.localnano.com/)
 * [Localnanos](https://www.localnanos.com/)
 * [BuySellNano](https://buysellnano.com/)
-* [PaFair](https://payfair.io/)
+* [PayFair](https://payfair.io/)
 
 ### -Wallets
 * [**Nano Wallet Company** - OSX,Win,Linux,iOS,Android](https://nanowalletcompany.com/)
@@ -336,6 +335,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [PyRai](https://github.com/icarusglider/PyRai)
 * [Easyraikit - Python](https://github.com/AuliaYF/easyraikit-python)
 * [Nano Python - RPC Client](https://github.com/dourvaris/nano-python)
+* [Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
 * [Nanook - Ruby Lib for RPC](https://github.com/lukes/nanook)
 * [Ruby Nano RPC - RPC Wrapper for Ruby](https://github.com/jcraigk/ruby_nano_rpc)
 * [Raiblocks PHP](https://github.com/jaimehgb/RaiBlocksPHP)
