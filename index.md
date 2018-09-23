@@ -307,7 +307,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano-Prettify - Format Nano Raw Amounts](https://github.com/kilkelly/nano-prettify)
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
 * [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
-* [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
 * [Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 
 ### -Wallets [Source Code]
@@ -345,14 +344,15 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano-rs - Nano in Rust](https://github.com/termhn/nano-rs)
 * [Nanopow-rs-node - JS Wrapper for Nanopow-rs](https://github.com/termhn/nanopow-rs-node)
 * [RainServer - Wallet/Node Communicator](https://github.com/thehen101/RainServer)
+* [NanoLightServer](https://github.com/NanoDevs/NanoLightServer)
 * [RaiBlocksWebAssemblyPoW](https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW)
-* [Dev: Nano Work Server](https://github.com/nanocurrency/nano-work-server)
+* [Nano Work Server](https://github.com/nanocurrency/nano-work-server)
 * [Rai Ex - Elixir Client](https://github.com/willHol/rai_ex)
 * [NanoPoW - PoW Generator in Golang](https://github.com/serdaroquai/nanopow)
-* [NanoLightServer](https://github.com/NanoDevs/NanoLightServer)
 * [Distributed PoW System - Python Client](https://github.com/jamescoxon/nano_distributed_pow_client)
 * [Distributed PoW System - Web Client](https://nanopow.github.io/web/)
 * [Distributed PoW System - Server](https://github.com/jamescoxon/nano_dpow_server)
+* [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
 
 ### -Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
