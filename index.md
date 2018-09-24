@@ -88,7 +88,6 @@ layout: default
 ## Latest Additions
 Latest links to keep you updated (last is latest).
 
-* [2018-09: Blocktivity - Utilization Comparision](https://blocktivity.info/)
 * [2018-09: Brainex](https://www.brainex.io/)
 * [2018-09: Tradingview App - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
 * [2018-09: Brainblocks Web PoS](https://pos.brainblocks.io/)
@@ -98,6 +97,7 @@ Latest links to keep you updated (last is latest).
 * [2018-09: NanoPoW - PoW Generator in Golang](https://github.com/serdaroquai/nanopow)
 * [2018-09: Ogdolo - Crypto Address Alias](https://ogdolo.com)
 * [2018-09: Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
+* [2018-09: Natrium Android Wallet](https://play.google.com/store/apps/details?id=co.banano.natriumwallet)
 
 <div class="line"></div>
 
@@ -204,10 +204,11 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 ### -Wallets
 * [**Nano Wallet Company** - OSX,Win,Linux,iOS,Android](https://nanowalletcompany.com/)
 * [**Canoe** - OSX,Win,Linux,iOS,Android,WinPhone](https://getcanoe.io/)
-* [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 * [**Nanowallet** - Web](https://nanowallet.io/)
 * [**Nanovault** - Web,Desktop](https://nanovault.io/)
 * [**Nanollet** - Windows,Linux](https://github.com/brokenbydefault/Nanollet)
+* [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
+* [**Natrium** - Android](https://play.google.com/store/apps/details?id=co.banano.natriumwallet)
 
 #### -Address Generators
 * [Nano Paper Wallet 1](https://vitorcremonez.github.io/nano-paper-wallet/)
@@ -312,9 +313,10 @@ Have a great idea? Jump in and start coding. Anyone can join!
 ### -Wallets [Source Code]
 * [Nano Wallet Company](https://github.com/nano-wallet-company)
 * [Canoe](https://github.com/getcanoe/canoe)
-* [Nanoblocks](https://github.com/nebyark/nano-blocks)
 * [Nanowallet Source Code](https://github.com/jaimehgb/RaiWalletV2)
 * [Nanovault](https://github.com/cronoh/nanovault)
+* [Nanoblocks](https://github.com/nebyark/nano-blocks)
+* [Natrium](https://github.com/BananoCoin/natrium-android-wallet)
 * [Rain - Light Raiblocks Wallet](https://github.com/thehen101/Rain)
 * [Nano Light Wallet - NodeJS](https://github.com/NanoDevs/NanoLightWallet)
 * [Nano Light Wallet](https://github.com/numtel/open-nano-wallet)
