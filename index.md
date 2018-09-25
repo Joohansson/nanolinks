@@ -88,14 +88,14 @@ layout: default
 ## Latest Additions
 Latest links to keep you updated.
 
-* [Sept 13: 2018-09: Brainex](https://www.brainex.io/)
-* [Sept 14: 2018-09: Tradingview App - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
-* [Sept 14: 2018-09: Brainblocks Web PoS](https://pos.brainblocks.io/)
-* [Sept 15: 2018-09: Docker Repo](https://hub.docker.com/u/nanocurrency/)
+* [Sept 13: Brainex](https://www.brainex.io/)
+* [Sept 14: Tradingview App - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
+* [Sept 14: Brainblocks Web PoS](https://pos.brainblocks.io/)
+* [Sept 15: Docker Repo](https://hub.docker.com/u/nanocurrency/)
 * [Sept 16: Nanollet Ultra light wallet](https://github.com/brokenbydefault/Nanollet)
-* [Sept 20: 2018-09: Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
+* [Sept 20: Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 * [Sept 20: NanoPoW - PoW Generator in Golang](https://github.com/serdaroquai/nanopow)
-* [Sept 20: 2018-09: Ogdolo - Crypto Address Alias](https://ogdolo.com)
+* [Sept 20: Ogdolo - Crypto Address Alias](https://ogdolo.com)
 * [Sept 23: Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
 * [Sept 24: Natrium Android Wallet](https://play.google.com/store/apps/details?id=co.banano.natriumwallet)
 * [Sept 25: JNano - Java RPC Client](https://github.com/rotilho/jnano-client)
