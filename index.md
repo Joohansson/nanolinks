@@ -88,16 +88,17 @@ layout: default
 ## Latest Additions
 Latest links to keep you updated (last is latest).
 
-* [2018-09: Brainex](https://www.brainex.io/)
-* [2018-09: Tradingview App - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
-* [2018-09: Brainblocks Web PoS](https://pos.brainblocks.io/)
-* [2018-09: Docker Repo](https://hub.docker.com/u/nanocurrency/)
-* [2018-09: Nanollet Ultra light wallet](https://github.com/brokenbydefault/Nanollet)
-* [2018-09: Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
-* [2018-09: NanoPoW - PoW Generator in Golang](https://github.com/serdaroquai/nanopow)
-* [2018-09: Ogdolo - Crypto Address Alias](https://ogdolo.com)
-* [2018-09: Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
-* [2018-09: Natrium Android Wallet](https://play.google.com/store/apps/details?id=co.banano.natriumwallet)
+* [Sept 13: 2018-09: Brainex](https://www.brainex.io/)
+* [Sept 14: 2018-09: Tradingview App - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
+* [Sept 14: 2018-09: Brainblocks Web PoS](https://pos.brainblocks.io/)
+* [Sept 15: 2018-09: Docker Repo](https://hub.docker.com/u/nanocurrency/)
+* [Sept 16: Nanollet Ultra light wallet](https://github.com/brokenbydefault/Nanollet)
+* [Sept 20: 2018-09: Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
+* [Sept 20: NanoPoW - PoW Generator in Golang](https://github.com/serdaroquai/nanopow)
+* [Sept 20: 2018-09: Ogdolo - Crypto Address Alias](https://ogdolo.com)
+* [Sept 23: Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
+* [Sept 24: Natrium Android Wallet](https://play.google.com/store/apps/details?id=co.banano.natriumwallet)
+* [Sept 25: JNano - Java RPC Client](https://github.com/rotilho/jnano-client)
 
 <div class="line"></div>
 
@@ -329,6 +330,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [RaiBlocksJS - JS Lib for RPC](https://github.com/orrybaram/RaiBlocksJS)
 * [RaiBlocksJS 2 - JS Lib for RPC](https://github.com/SergiySW/RaiBlocksJS)
 * [JS Toolkit](https://github.com/marvinroger/nanocurrency-js)
+* [JNano - Java RPC Client](https://github.com/rotilho/jnano-client)
 * [SwiftyRai - Swift Lib for RPC](https://github.com/xcadaverx/SwiftyRai)
 * [RAI - Pythonic Lib for RPC](https://github.com/kennell/rai)
 * [Python Nano Tools](https://github.com/paulmelis/nano-tools)
@@ -404,7 +406,7 @@ If you have a nano account you can help decentralize the network by choosing a r
 [Video about reps and why it matters](https://youtu.be/dnOTiixhPrk)
 
 ### -Donations
-Maintaining the content requires some effort. If you want to contribute to this cause then any small donation is greatly appreciated!
+Maintaining this content requires some effort. If you want to contribute to this cause then any small donation is greatly appreciated!
 <br>
 <figure>
 	<img id="qrImage" src="https://raw.githubusercontent.com/joohansson/nanolinks/master/src/qr.png" alt="Nano Donation" />
