@@ -86,7 +86,7 @@ layout: default
 <div class="line"></div>
 
 ## Latest Additions
-Latest links to keep you updated (last is latest).
+Latest links to keep you updated.
 
 * [Sept 13: 2018-09: Brainex](https://www.brainex.io/)
 * [Sept 14: 2018-09: Tradingview App - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
