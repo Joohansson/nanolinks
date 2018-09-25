@@ -160,7 +160,7 @@ Learn everything there is to know about Nano!
 * [Nanode.co - Explorer, Stats](https://www.nanode.co/)
 * [NanoCrawler.cc - Explorer, Stats](https://nanocrawler.cc/)
 * [Nanowatch - Explorer, Graphic Visualizer](https://nanowat.ch/)
-* [Nano-Faucet.org - Explorer, Stats, Top Accounts](https://nano-faucet.org/stats/)
+* [Nano-Faucet.org - Explorer, Stats, Map, Top Accounts](https://nano-faucet.org/stats/)
 * [Nano Node Ninja - Stats](https://nanonode.ninja/)
 * [XRB Network - Map Visualizer](http://xrb.network/)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
