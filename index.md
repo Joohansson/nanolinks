@@ -99,6 +99,7 @@ Latest links to keep you updated.
 * [Sept 23: Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
 * [Sept 24: Natrium Android Wallet](https://play.google.com/store/apps/details?id=co.banano.natriumwallet)
 * [Sept 25: JNano - Java RPC Client](https://github.com/rotilho/jnano-client)
+* [Sept 25: Bitinka](https://www.bitinka.com)
 
 <div class="line"></div>
 
@@ -194,7 +195,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Gate.io](https://gate.io/)
 * [Koinex](https://koinex.in/)
 * [Coinbene](https://www.coinbene.com)
-* [Swaplab - Crypto Swap & supports VISA/Mastercard](https://swaplab.cc/)
+* [Bitinka](https://www.bitinka.com)
+* [Swaplab - Crypto Swap](https://swaplab.cc/)
 
 #### -P2P
 * [Localnano](https://www.localnano.com/)
