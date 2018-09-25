@@ -99,7 +99,8 @@ Latest links to keep you updated.
 * [Sept 23: Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
 * [Sept 24: Natrium Android Wallet](https://play.google.com/store/apps/details?id=co.banano.natriumwallet)
 * [Sept 25: JNano - Java RPC Client](https://github.com/rotilho/jnano-client)
-* [Sept 25: Bitinka](https://www.bitinka.com)
+* [Sept 25: Bitinka Exchange](https://www.bitinka.com)
+* [Sept 25: LinkedIn - Nano Foundation](https://www.linkedin.com/company/nano-foundation/)
 
 <div class="line"></div>
 
@@ -121,6 +122,7 @@ Learn everything there is to know about Nano!
 * [Discord Trade](https://discordapp.com/invite/RT4wzGV)
 * [Twitter](https://twitter.com/nano)
 * [Facebook](https://www.facebook.com/nanocurrency/)
+* [LinkedIn](https://www.linkedin.com/company/nano-foundation/)
 * [Bitcointalk](https://bitcointalk.org/index.php?topic=1381323.0)
 
 ### -Scientific Papers
