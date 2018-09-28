@@ -88,10 +88,6 @@ layout: default
 ## Latest Additions
 Latest links to keep you updated.
 
-* [Sept 13: Brainex](https://www.brainex.io/)
-* [Sept 14: Tradingview App - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
-* [Sept 14: Brainblocks Web PoS](https://pos.brainblocks.io/)
-* [Sept 15: Docker Repo](https://hub.docker.com/u/nanocurrency/)
 * [Sept 16: Nanollet Ultra light wallet](https://github.com/brokenbydefault/Nanollet)
 * [Sept 20: Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 * [Sept 20: NanoPoW - PoW Generator in Golang](https://github.com/serdaroquai/nanopow)
@@ -101,6 +97,7 @@ Latest links to keep you updated.
 * [Sept 25: JNano - Java RPC Client](https://github.com/rotilho/jnano-client)
 * [Sept 25: Bitinka Exchange](https://www.bitinka.com)
 * [Sept 25: LinkedIn - Nano Foundation](https://www.linkedin.com/company/nano-foundation/)
+* [Sept 28: Nano explained (Another deep dive)](https://youtu.be/1ciokw6ZQvE)
 
 <div class="line"></div>
 
@@ -151,6 +148,7 @@ Learn everything there is to know about Nano!
 * [Everything you need to know about Nano](https://youtu.be/ywgMlJBli7g)
 * [Nano simply explained](https://youtu.be/dlRhUwLQWXc)
 * [Nano explained (Deep dive)](https://youtu.be/LcqPLlduE0w)
+* [Nano explained (Another deep dive)](https://youtu.be/1ciokw6ZQvE)
 * [Visualizing 1560 Days of Development](https://youtu.be/br8tcS8gcqE)
 * [Why Change Your Nano Representative?](https://youtu.be/dnOTiixhPrk)
 
