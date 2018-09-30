@@ -88,7 +88,6 @@ layout: default
 ## Latest Additions
 Latest links to keep you updated.
 
-* [Sept 20: Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 * [Sept 20: NanoPoW - PoW Generator in Golang](https://github.com/serdaroquai/nanopow)
 * [Sept 20: Ogdolo - Crypto Address Alias](https://ogdolo.com)
 * [Sept 23: Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
@@ -98,6 +97,7 @@ Latest links to keep you updated.
 * [Sept 25: LinkedIn - Nano Foundation](https://www.linkedin.com/company/nano-foundation/)
 * [Sept 28: Nano explained (Another deep dive)](https://youtu.be/1ciokw6ZQvE)
 * [Sept 30: Nanoodle - Account Toolbox](https://nanoodle.io/home)
+* [Sept 30: Representative Charts](https://monivea.com/nano-rep-charts/)
 
 <div class="line"></div>
 
@@ -313,6 +313,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
 * [Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 * [Nanoodle - Account Toolbox](https://nanoodle.io/home)
+* [Representative Charts](https://monivea.com/nano-rep-charts/)
 
 ### -Wallets [Source Code]
 * [Nano Wallet Company](https://github.com/nano-wallet-company)
