@@ -88,7 +88,6 @@ layout: default
 ## Latest Additions
 Latest links to keep you updated.
 
-* [Sept 16: Nanollet Ultra light wallet](https://github.com/brokenbydefault/Nanollet)
 * [Sept 20: Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 * [Sept 20: NanoPoW - PoW Generator in Golang](https://github.com/serdaroquai/nanopow)
 * [Sept 20: Ogdolo - Crypto Address Alias](https://ogdolo.com)
@@ -98,6 +97,7 @@ Latest links to keep you updated.
 * [Sept 25: Bitinka Exchange](https://www.bitinka.com)
 * [Sept 25: LinkedIn - Nano Foundation](https://www.linkedin.com/company/nano-foundation/)
 * [Sept 28: Nano explained (Another deep dive)](https://youtu.be/1ciokw6ZQvE)
+* [Sept 30: Nanoodle - Account Toolbox](https://nanoodle.io/home)
 
 <div class="line"></div>
 
@@ -312,6 +312,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
 * [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
 * [Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
+* [Nanoodle - Account Toolbox](https://nanoodle.io/home)
 
 ### -Wallets [Source Code]
 * [Nano Wallet Company](https://github.com/nano-wallet-company)
