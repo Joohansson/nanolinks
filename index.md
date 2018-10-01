@@ -168,6 +168,7 @@ Learn everything there is to know about Nano!
 * [Nano fees tracker =)](http://nanofees.live/)
 * [Are We Decentralized Yet](https://arewedecentralizedyet.com/)
 * [Blocktivity - Utilization Comparision](https://blocktivity.info/)
+* [Representative Charts](https://monivea.com/nano-rep-charts/)
 
 <div class="line"></div>
 
@@ -313,7 +314,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
 * [Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 * [Nanoodle - Account Toolbox](https://nanoodle.io/home)
-* [Representative Charts](https://monivea.com/nano-rep-charts/)
 
 ### -Wallets [Source Code]
 * [Nano Wallet Company](https://github.com/nano-wallet-company)
@@ -366,7 +366,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Beta Network Resources](https://beta.nano.org/)
 * [Beta Net Explorer - NanoCrawler](https://beta.nanocrawler.cc/)
 * [Beta Net Graph - Nanowat.ch](https://beta.nanowat.ch/graph)
-* [Beta Net Stats - Nanode21](https://nanode21.cloud/stats.php)
+* [Beta Net Stats - Nanode21](https://nanode21.cloud/testnetstats.php)
 * [Beta Net TPS Monitor](https://nanoticker.info/tps_beta.php)
 
 <div class="line"></div>
