@@ -97,8 +97,8 @@ h4 {
 
 /* Menu main container including top margin */
 #dropdown-container {
-    display: block;
-    visibility: hidden;
+    display: none;
+    /*visibility: hidden;*/
     position: absolute;
     min-width: 13em;
     z-index: 1;
@@ -144,16 +144,16 @@ h4 {
 }
 
 #dropdown-container:hover {
-    visibility: visible;
+    /*visibility: visible;*/
 }
 
 #dropbtn:hover {
     /*background-color: #6dc5b2;*/
 }
 
-/* Show dropdown */
+/* Show dropdown on hover (need to click twice on touch first time)*/
 #dropbtn:hover + #dropdown-container {
-    visibility: visible;
+    /*visibility: visible;*/
 }
 
 .main-content {
