@@ -88,16 +88,16 @@ layout: default
 ## Latest Additions
 Latest links to keep you updated.
 
-* [Sept 20: NanoPoW - PoW Generator in Golang](https://github.com/serdaroquai/nanopow)
-* [Sept 20: Ogdolo - Crypto Address Alias](https://ogdolo.com)
-* [Sept 23: Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
-* [Sept 24: Natrium Android Wallet](https://play.google.com/store/apps/details?id=co.banano.natriumwallet)
-* [Sept 25: JNano - Java RPC Client](https://github.com/rotilho/jnano-client)
-* [Sept 25: Bitinka Exchange](https://www.bitinka.com)
-* [Sept 25: LinkedIn - Nano Foundation](https://www.linkedin.com/company/nano-foundation/)
-* [Sept 28: Nano explained (Another deep dive)](https://youtu.be/1ciokw6ZQvE)
-* [Sept 30: Nanoodle - Account Toolbox](https://nanoodle.io/home)
-* [Sept 30: Representative Charts](https://monivea.com/nano-rep-charts/)
+* [Sep 20: Ogdolo - Crypto Address Alias](https://ogdolo.com)
+* [Sep 23: Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
+* [Sep 24: Natrium Android Wallet](https://play.google.com/store/apps/details?id=co.banano.natriumwallet)
+* [Sep 25: JNano - Java RPC Client](https://github.com/rotilho/jnano-client)
+* [Sep 25: Bitinka Exchange](https://www.bitinka.com)
+* [Sep 25: LinkedIn - Nano Foundation](https://www.linkedin.com/company/nano-foundation/)
+* [Sep 28: Nano explained (Another deep dive)](https://youtu.be/1ciokw6ZQvE)
+* [Sep 30: Nanoodle - Account Toolbox](https://nanoodle.io/home)
+* [Sep 30: Representative Charts](https://monivea.com/nano-rep-charts/)
+* [Oct 2: TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
 
 <div class="line"></div>
 
@@ -165,6 +165,7 @@ Learn everything there is to know about Nano!
 * [Nano Node Ninja - Stats](https://nanonode.ninja/)
 * [XRB Network - Map Visualizer](http://xrb.network/)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
+* [TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
 * [Nano fees tracker =)](http://nanofees.live/)
 * [Are We Decentralized Yet](https://arewedecentralizedyet.com/)
 * [Blocktivity - Utilization Comparision](https://blocktivity.info/)
