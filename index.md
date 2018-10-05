@@ -88,7 +88,6 @@ layout: default
 ## Latest Additions
 Latest links to keep you updated.
 
-* [Sep 20: Ogdolo - Crypto Address Alias](https://ogdolo.com)
 * [Sep 23: Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
 * [Sep 24: Natrium Android Wallet](https://play.google.com/store/apps/details?id=co.banano.natriumwallet)
 * [Sep 25: JNano - Java RPC Client](https://github.com/rotilho/jnano-client)
@@ -98,6 +97,7 @@ Latest links to keep you updated.
 * [Sep 30: Nanoodle - Account Toolbox](https://nanoodle.io/home)
 * [Sep 30: Representative Charts](https://monivea.com/nano-rep-charts/)
 * [Oct 2: TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
+* [Oct 5: FastX](https://fastx.io/)
 
 <div class="line"></div>
 
@@ -198,7 +198,10 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Koinex](https://koinex.in/)
 * [Coinbene](https://www.coinbene.com)
 * [Bitinka](https://www.bitinka.com)
-* [Swaplab - Crypto Swap](https://swaplab.cc/)
+
+#### -Quick Crypto Swap (Worse exchange rate)
+* [Swaplab](https://swaplab.cc/)
+* [FastX](https://fastx.io/)
 
 #### -P2P
 * [Localnano](https://www.localnano.com/)
