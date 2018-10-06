@@ -10,6 +10,7 @@ layout: default
     <div id="dropdown-content">
       <ul>
         <li><a href="#">Home</a></li>
+	<li><a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info&edit-text=&act=url">Translated Site</a></li>
         <li><a href="#latest-additions">Latest Additions</a></li>
         <li><a href="#information--education">Information &amp; Education</a></li>
         <li><a href="#market">Market</a></li>
@@ -72,6 +73,7 @@ layout: default
 ## Quick Index
 <div class="index-text">
   <ul>
+    <li><a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info&edit-text=&act=url">Google Translate This Site</a></li>
     <li><a href="#latest-additions">Latest Additions</a></li>
     <li><a href="#information--education">Information &amp; Education</a></li>
     <li><a href="#market">Market</a></li>
