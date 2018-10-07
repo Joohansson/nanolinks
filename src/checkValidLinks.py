@@ -28,8 +28,13 @@ for line in file:
       urlFinal = url[url.find(startURL) + len(startURL):]
       #Check connectivity by only checking HEAD (fast method)
       h = httplib2.Http(".cache", disable_ssl_certificate_validation=True)
-      resp = h.request(urlFinal, 'HEAD')
-      httpCode = int(resp[0]['status'])
+      try:
+        resp = h.request(urlFinal, 'HEAD')
+        httpCode = int(resp[0]['status'])
+      except Exception as e:
+        #print('Failed to check link. Error: %r' %e)
+        httpCode = 504
+
       if(httpCode < 400):
         urlOK = True
       elif(httpCode == 404):
@@ -40,8 +45,13 @@ for line in file:
         print('Service Unavailable: %s' % (urlFinal))
       else:
         #Try connect with request instead (download site, slow method)
-        response = requests.get(urlFinal)
-        httpCode = response.status_code
+        try:
+          response = requests.get(urlFinal)
+          httpCode = response.status_code
+        except Exception as e:
+          #print('Failed to check link. Error: %r' %e)
+          httpCode = 504
+
         if(httpCode < 400):
           urlOK = True
         #Everything has failed
