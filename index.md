@@ -90,7 +90,6 @@ layout: default
 ## Latest Additions
 Latest links to keep you updated.
 
-* [Sep 23: Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
 * [Sep 24: Natrium Android Wallet](https://play.google.com/store/apps/details?id=co.banano.natriumwallet)
 * [Sep 25: JNano - Java RPC Client](https://github.com/rotilho/jnano-client)
 * [Sep 25: Bitinka Exchange](https://www.bitinka.com)
@@ -100,6 +99,7 @@ Latest links to keep you updated.
 * [Sep 30: Representative Charts](https://monivea.com/nano-rep-charts/)
 * [Oct 2: TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
 * [Oct 5: FastX](https://fastx.io/)
+* [Oct 7: Repnode.org - Explorer, Stats, Reps](https://repnode.org/)
 
 <div class="line"></div>
 
@@ -163,8 +163,9 @@ Learn everything there is to know about Nano!
 * [Nanode.co - Explorer, Stats](https://www.nanode.co/)
 * [NanoCrawler.cc - Explorer, Stats, Account list](https://nanocrawler.cc/)
 * [Nano-Faucet.org - Explorer, Stats, Map, Account list](https://nano-faucet.org/stats/)
+* [Repnode.org - Explorer, Stats, Reps](https://repnode.org/)
 * [Nanowatch - Explorer, Graphic Visualizer](https://nanowat.ch/)
-* [Nano Node Ninja - Stats](https://nanonode.ninja/)
+* [Nano Node Ninja - Stats, Representatives](https://nanonode.ninja/)
 * [XRB Network - Map Visualizer](http://xrb.network/)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
 * [TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
