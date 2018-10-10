@@ -90,7 +90,6 @@ layout: default
 ## Latest Additions
 Latest links to keep you updated.
 
-* [Sep 24: Natrium Android Wallet](https://play.google.com/store/apps/details?id=co.banano.natriumwallet)
 * [Sep 25: JNano - Java RPC Client](https://github.com/rotilho/jnano-client)
 * [Sep 25: Bitinka Exchange](https://www.bitinka.com)
 * [Sep 25: LinkedIn - Nano Foundation](https://www.linkedin.com/company/nano-foundation/)
@@ -100,6 +99,7 @@ Latest links to keep you updated.
 * [Oct 2: TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
 * [Oct 5: FastX](https://fastx.io/)
 * [Oct 7: Repnode.org - Explorer, Stats, Reps](https://repnode.org/)
+* [Oct 10: Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto/id1375812090?mt=8)
 
 <div class="line"></div>
 
@@ -237,7 +237,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 ### -Related Mobile Apps
 * [Nano Track - Nano Ticker](https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8)
-* [Coin Stats - Portfolio Stats](https://coinstats.app/)
+* [Coin Stats - Multi-coin, Portfolio, Stats](https://coinstats.app/)
+* [Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto/id1375812090?mt=8)
 * [Tradingview - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
 
 ### -Market Data, Analysis & Tickers
