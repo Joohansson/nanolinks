@@ -90,7 +90,6 @@ layout: default
 ## Latest Additions
 Latest links to keep you updated.
 
-* [Sep 25: JNano - Java RPC Client](https://github.com/rotilho/jnano-client)
 * [Sep 25: Bitinka Exchange](https://www.bitinka.com)
 * [Sep 25: LinkedIn - Nano Foundation](https://www.linkedin.com/company/nano-foundation/)
 * [Sep 28: Nano explained (Another deep dive)](https://youtu.be/1ciokw6ZQvE)
@@ -100,6 +99,7 @@ Latest links to keep you updated.
 * [Oct 5: FastX](https://fastx.io/)
 * [Oct 7: Repnode.org - Explorer, Stats, Reps](https://repnode.org/)
 * [Oct 10: Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto/id1375812090?mt=8)
+* [Oct 14: Nano Vanity Generator (vitorcremonez)](https://github.com/vitorcremonez/nano-vanity)
 
 <div class="line"></div>
 
@@ -309,12 +309,13 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Easy Nano Node](https://nanotools.github.io/easy-nano-node/)
 * [Nano Node Docker](https://github.com/lephleg/nano-node-docker)
 * [Guide - How to Setup a Node at DigitalOcean](https://1nano.co/support-the-network/)
-* [NanoAddr - Address Generator](https://nanoaddr.io/)
 * [Ogdolo - Crypto Address Alias](https://ogdolo.com)
 * [BIP39 Demo](https://github.com/roosmaa/nano-bip39-demo)
 * [Telegram Bot Source Code](https://github.com/SergiySW/NanoWalletBot)
+* [Nano Vanity Generator (njakob)](https://nanoaddr.io/)
 * [Nano Vanity Generator (frankh)](https://github.com/frankh/nano-vanity)
 * [Nano Vanity Generator (PlasmaPower)](https://github.com/PlasmaPower/nano-vanity)
+* [Nano Vanity Generator (vitorcremonez)](https://github.com/vitorcremonez/nano-vanity)
 * [Raimixer - Scrambler](https://github.com/juanjux/raimixer)
 * [EZNano - Mine ZCash](https://github.com/Ankonian1/EZNANO)
 * [Nano-Prettify - Format Nano Raw Amounts](https://github.com/kilkelly/nano-prettify)
