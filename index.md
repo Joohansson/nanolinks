@@ -448,5 +448,18 @@ Maintaining this content requires some effort. If you want to contribute to this
         }
       }        
     });
+
+    <!-- Enable link tracking -->
+    $('a').click(function(e) {
+      if (!ga.q) {
+        var url = $(this).attr("href");
+        ga("send", "event", "outbound", "click", url, {"hitCallback":
+          function () {
+            document.location = url;
+          }
+        });
+        e.preventDefault();
+      }
+    });
   });
 </script>
