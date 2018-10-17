@@ -453,10 +453,10 @@ Maintaining this content requires some effort. If you want to contribute to this
     $('a').click(function(e) {
       if (!ga.q) {
         var url = $(this).attr("href");
-	console.log(url)
         ga("send", "event", "outbound", "click", url, {"hitCallback":
           function () {
             document.location = url;
+	    console.log(url)
           }
         });
         e.preventDefault();
