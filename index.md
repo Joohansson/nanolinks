@@ -100,6 +100,7 @@ Latest links to keep you updated.
 * [Oct 7: Repnode.org - Explorer, Stats, Reps](https://repnode.org/)
 * [Oct 10: Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto/id1375812090?mt=8)
 * [Oct 14: Nano Vanity Generator (vitorcremonez)](https://github.com/vitorcremonez/nano-vanity)
+* [Oct 17: Nano Giftcard](https://jiikuy.github.io/nano-giftcard/)
 
 <div class="line"></div>
 
@@ -276,6 +277,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nanotify - Account Notifications](https://nanotify.co/)
 * [Nanotifier - Account Notifications](https://nanotifier.com/)
 * [Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
+* [Nano Giftcard](https://jiikuy.github.io/nano-giftcard/)
 
 ### -Point of Sale
 * [Brainblocks Web PoS](https://pos.brainblocks.io/)
