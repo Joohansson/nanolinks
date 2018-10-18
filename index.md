@@ -298,9 +298,11 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Docker Repo](https://hub.docker.com/u/nanocurrency/)
 
 ### -Project Specific Development Channels
-* [Canoe](https://discord.gg/ecVcJM3)
+* [Canoe Wallet](https://discord.gg/ecVcJM3)
+* [Nanoblocks Wallet](https://discord.gg/n76DkEt)
 * [Nano Node Ninja](https://discord.me/nanonodeninja)
 * [The Nano Center](https://discord.gg/yhBuXMm)
+* [Brainblocks](https://discord.gg/MwaQcVM)
 
 ### -Node & Account Applications
 * [Brainblocks](https://github.com/brainblocks)
