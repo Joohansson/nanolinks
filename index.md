@@ -327,6 +327,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
 * [Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 * [Nanoodle - Account Toolbox](https://nanoodle.io/home)
+* [Stylish QR Code Guide](https://www.reddit.com/r/nanocurrency/comments/8ym9cr/stylish_nano_qr_code_generator/)
 
 ### -Wallets [Source Code]
 * [Nano Wallet Company](https://github.com/nano-wallet-company)
