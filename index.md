@@ -398,7 +398,7 @@ Have some spare time? There are soo much fun to do!
 ### -Games
 * [Eternity Tower](https://eternitytower.net/)
 
-### -Video, Music
+### -Video, Music, Art
 
 <div class="line"></div>
 
