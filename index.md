@@ -399,7 +399,7 @@ Have some spare time? There are much fun to do!
 ### -Games
 * [Eternity Tower](https://eternitytower.net/)
 
-### -Video, Music, Art
+### -Video, Music and Art
 * [The Nanoji Generator](https://www.nanojigenerator.com/)
 
 <div class="line"></div>
