@@ -46,6 +46,18 @@ h4 {
   padding-left: 0.5em !important;
 }
 
+/* Arrange divs depending of screen size */
+#sort{
+  float : left;
+  width : 50%;
+}
+@media (max-width: 1000px) {  
+  #sort {
+    float: none;
+    width: auto;
+  }
+}
+
 /* Menu */
 #dropdown {
     position: fixed;
