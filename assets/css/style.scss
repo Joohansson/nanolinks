@@ -50,12 +50,12 @@ h4 {
 @include large {
   #div-left {
     float : left !important;
-    width : 50% !important;
+    width : 48% !important;
     margin: 0 !important;
   }
   #div-right {
     float : right !important;
-    width : 50% !important;
+    width : 48% !important;
     margin: 0 !important;
   }
 }
@@ -353,4 +353,17 @@ th, td {
   background-color: #89b1da;
   margin-top: 1em;
   display:inline-block;
+}
+
+//Hide certain lines on small and medium screen
+@include medium {
+  .line-small {
+    display:none !important;
+  }
+}
+
+@include small {
+  .line-small {
+    display:none !important;
+  }
 }
