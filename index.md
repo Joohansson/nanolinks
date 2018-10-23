@@ -70,8 +70,8 @@ layout: default
 
 <div class="line"></div>
 
-## Quick Index
 <div class="index-text" id="div-left">
+  <h2 id="quick-index">Quick Index</h2>
   <ul>
     <li><a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info&edit-text=&act=url">Google Translate This Site</a></li>
     <li><a href="#latest-additions">Latest Additions</a></li>
@@ -85,20 +85,21 @@ layout: default
   </ul>
 </div>
 
-<div id="div-right">
-## Latest Additions
-Latest links to keep you updated.
-
-* [Sep 30: Representative Charts](https://monivea.com/nano-rep-charts/)
-* [Oct 2: TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
-* [Oct 5: FastX](https://fastx.io/)
-* [Oct 7: Repnode.org - Explorer, Stats, Reps](https://repnode.org/)
-* [Oct 10: Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto/id1375812090?mt=8)
-* [Oct 14: Nano Vanity Generator (vitorcremonez)](https://github.com/vitorcremonez/nano-vanity)
-* [Oct 17: Nano Giftcard](https://jiikuy.github.io/nano-giftcard/)
-* [Oct 22: The Nanoji Generator](https://www.nanojigenerator.com/)
-* [Oct 22: Custom QR Generator](http://nanosign.org)
-* [Oct 22: The Micrypto Marketplace - Hash Power Trading](https://www.micrypto.co)
+<div class="index-text" id="div-right">
+  <h2 id="quick-index">Latest Additions</h2>
+  <p>Latest links to keep you updated.</p>
+  <ul>
+    <li><a href="https://monivea.com/nano-rep-charts/">Sep 30: Representative Charts</a></li>
+    <li><a href="https://bitdesert.github.io/txhighway-nano/">Oct 2: TX Highway - Nano Vs BTC Visualizer</a></li>
+    <li><a href="https://fastx.io/">Oct 5: FastX</a></li>
+    <li><a href="https://repnode.org/">Oct 7: Repnode.org - Explorer, Stats, Reps</a></li>
+    <li><a href="https://itunes.apple.com/us/app/cold-crypto/id1375812090?mt=8">Oct 10: Cold Crypto - Multi-coin, Address Tracker, Balance</a></li>
+    <li><a href="https://github.com/vitorcremonez/nano-vanity">Oct 14: Nano Vanity Generator (vitorcremonez)</a></li>
+    <li><a href="https://jiikuy.github.io/nano-giftcard/">Oct 17: Nano Giftcard</a></li>
+    <li><a href="https://www.nanojigenerator.com/">Oct 22: The Nanoji Generator</a></li>
+    <li><a href="http://nanosign.org">Oct 22: Custom QR Generator</a></li>
+    <li><a href="https://www.micrypto.co">Oct 22: The Micrypto Marketplace - Hash Power Trading</a></li>
+  </ul>
 </div>
 
 <div class="line"></div>
