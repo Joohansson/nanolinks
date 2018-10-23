@@ -85,12 +85,10 @@ layout: default
   </ul>
 </div>
 
-<div class="line"></div>
-
+<div id="div-right">
 ## Latest Additions
 Latest links to keep you updated.
 
-<div id="div-right">
 * [Sep 30: Representative Charts](https://monivea.com/nano-rep-charts/)
 * [Oct 2: TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
 * [Oct 5: FastX](https://fastx.io/)
