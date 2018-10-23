@@ -1,6 +1,5 @@
 ---
 ---
-$div-screen: "only screen and (max-width : 1400px)";
 
 // Breakpoints
 $large-breakpoint: 80rem; //Custom
@@ -51,7 +50,7 @@ h4 {
 @include large {
   #sort {
     float : left;
-    width : 50%;
+    width : 30%;
   }
 }
 
