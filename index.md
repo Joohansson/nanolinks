@@ -89,7 +89,6 @@ layout: default
 
 ## Latest Additions
 
-* [Sep 30: Representative Charts](https://monivea.com/nano-rep-charts/)
 * [Oct 2: TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
 * [Oct 5: FastX](https://fastx.io/)
 * [Oct 7: Repnode.org - Explorer, Stats, Reps](https://repnode.org/)
@@ -99,6 +98,7 @@ layout: default
 * [Oct 22: The Nanoji Generator](https://www.nanojigenerator.com/)
 * [Oct 22: Custom QR Generator](http://nanosign.org)
 * [Oct 22: The Micrypto Marketplace - Hash Power Trading](https://www.micrypto.co)
+* [Oct 23: Medium - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 
 </div>
 
@@ -115,7 +115,7 @@ Learn everything there is to know about Nano!
 * [Roadmap, Guides, Docs](https://developers.nano.org/roadmap)
 * [Whitepaper (Eng)](https://nano.org/en/whitepaper)
 * [Official Nano GitHub Wiki](https://github.com/nanocurrency/raiblocks/wiki)
-* [Media](https://medium.com/@nanocurrency)
+* [Medium Channel](https://medium.com/@nanocurrency)
 * [FAQ](https://nano.org/en/faq)
 
 ### -Core Social Media & Contribution Channels
@@ -139,6 +139,7 @@ Learn everything there is to know about Nano!
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
 * [Is Nano Green Yet - Environmental Impact](https://isnanogreenyet.com/)
 * [Nano Venezuela](http://www.nanovenezuela.org/)
+* [Medium - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 
 ### -Video Channels
 * [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
