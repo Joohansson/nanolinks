@@ -27,6 +27,7 @@ $hr-border-color: #eff0f1;
 
 //Default theme
 @import "{{ site.theme }}";
+$div-screen: "only screen and (max-width : 1000px)";
 
 //Override default
 h1 {
@@ -47,11 +48,11 @@ h4 {
 }
 
 /* Arrange divs depending of screen size */
-#sort{
+#sort {
   float : left;
   width : 50%;
 }
-@media (max-width: 1000px) {  
+@media #{$div-screen} {  
   #sort {
     float: none;
     width: auto;
