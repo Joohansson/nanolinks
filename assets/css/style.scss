@@ -2,7 +2,7 @@
 ---
 
 // Breakpoints
-$large-breakpoint: 80rem; //Custom
+$large-breakpoint: 80%; //Custom
 $medium-breakpoint: 42em;
 
 // Headers
@@ -50,11 +50,13 @@ h4 {
 @include large {
   #div-left {
     float : left !important;
-    width : 45%;
+    width : 50% !important;
+    margin: 0 !important;
   }
   #div-right {
     float : right !important;
-    width : 45%;
+    width : 50% !important;
+    margin: 0 !important;
   }
 }
 
