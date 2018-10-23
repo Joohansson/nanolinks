@@ -299,7 +299,8 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [The Nano Center - Community Driven Projects](https://nanocenter.org/)
 
 ### -Nano Main Protocol
-* [Nano Source Code](https://github.com/nanocurrency)
+* [Nano Source Code Main Repositories](https://github.com/nanocurrency)
+* [Node Milestones](https://github.com/nanocurrency/raiblocks/milestones)
 * [Bug Bounty](https://hackerone.com/nano)
 * [Unofficial Nano Community Wiki](https://github.com/georgehara/nano/wiki/unofficial)
 * [Nanoo Tools - Unofficial Developer Wiki + Toolbox](https://nanoo.tools/)
