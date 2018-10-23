@@ -48,9 +48,13 @@ h4 {
 
 /* Arrange divs depending of screen size */
 @include large {
-  #sort {
-    float : left;
-    width : 30%;
+  #a-left {
+    float : left !important;
+    width : 20%;
+  }
+  #a-right {
+    float : right !important;
+    width : 20%;
   }
 }
 
