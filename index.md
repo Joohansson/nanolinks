@@ -71,7 +71,7 @@ layout: default
 <div class="line"></div>
 
 ## Quick Index
-<div class="index-text" id="sort">
+<div class="index-text" id="div-left">
   <ul>
     <li><a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info&edit-text=&act=url">Google Translate This Site</a></li>
     <li><a href="#latest-additions">Latest Additions</a></li>
@@ -90,7 +90,7 @@ layout: default
 ## Latest Additions
 Latest links to keep you updated.
 
-<div id="sort">
+<div id="div-right">
 * [Sep 30: Representative Charts](https://monivea.com/nano-rep-charts/)
 * [Oct 2: TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
 * [Oct 5: FastX](https://fastx.io/)
