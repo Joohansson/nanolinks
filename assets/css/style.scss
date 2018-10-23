@@ -2,7 +2,7 @@
 ---
 
 // Breakpoints
-$large-breakpoint: 100em; //Custom
+$large-breakpoint: 80em; //Custom
 $medium-breakpoint: 42em;
 
 // Headers
@@ -186,7 +186,7 @@ h4 {
 
 .main-content {
   @include large {
-    max-width: 80rem !important;
+    max-width: 110em !important;
   }
 }
 
