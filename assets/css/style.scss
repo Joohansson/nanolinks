@@ -1,5 +1,6 @@
 ---
 ---
+$div-screen: "only screen and (max-width : 1000px)";
 
 // Breakpoints
 $large-breakpoint: 80rem; //Custom
@@ -27,7 +28,6 @@ $hr-border-color: #eff0f1;
 
 //Default theme
 @import "{{ site.theme }}";
-$div-screen: "only screen and (max-width : 1000px)";
 
 //Override default
 h1 {
