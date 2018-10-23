@@ -48,25 +48,25 @@ h4 {
 
 /* Arrange divs depending of screen size */
 @include large {
-  #a-left {
+  #div-left {
     float : left !important;
     width : 20%;
   }
-  #a-right {
+  #div-right {
     float : right !important;
     width : 20%;
   }
 }
 
 @include medium {
-  #sort {
+  #div-left, #div-right {
     float: none;
     width: auto;
   }  
 }
 
 @include small {
-  #sort {
+  #div-left, #div-right {
     float: none;
     width: auto;
   }
