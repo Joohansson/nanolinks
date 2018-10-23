@@ -90,10 +90,6 @@ layout: default
 ## Latest Additions
 Latest links to keep you updated.
 
-* [Sep 25: Bitinka Exchange](https://www.bitinka.com)
-* [Sep 25: LinkedIn - Nano Foundation](https://www.linkedin.com/company/nano-foundation/)
-* [Sep 28: Nano explained (Another deep dive)](https://youtu.be/1ciokw6ZQvE)
-* [Sep 30: Nanoodle - Account Toolbox](https://nanoodle.io/home)
 * [Sep 30: Representative Charts](https://monivea.com/nano-rep-charts/)
 * [Oct 2: TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
 * [Oct 5: FastX](https://fastx.io/)
@@ -101,6 +97,9 @@ Latest links to keep you updated.
 * [Oct 10: Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto/id1375812090?mt=8)
 * [Oct 14: Nano Vanity Generator (vitorcremonez)](https://github.com/vitorcremonez/nano-vanity)
 * [Oct 17: Nano Giftcard](https://jiikuy.github.io/nano-giftcard/)
+* [Oct 22: The Nanoji Generator](https://www.nanojigenerator.com/)
+* [Oct 22: Custom QR Generator](http://nanosign.org)
+* [Oct 22: The Micrypto Marketplace - Hash Power Trading](https://www.micrypto.co)
 
 <div class="line"></div>
 
@@ -278,6 +277,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nanotifier - Account Notifications](https://nanotifier.com/)
 * [Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
 * [Nano Giftcard](https://jiikuy.github.io/nano-giftcard/)
+* [The Micrypto Marketplace - Hash Power Trading](https://www.micrypto.co)
 
 ### -Point of Sale
 * [Brainblocks Web PoS](https://pos.brainblocks.io/)
@@ -328,6 +328,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 * [Nanoodle - Account Toolbox](https://nanoodle.io/home)
 * [Stylish QR Code Guide](https://www.reddit.com/r/nanocurrency/comments/8ym9cr/stylish_nano_qr_code_generator/)
+* [Custom QR Generator](http://nanosign.org)
 
 ### -Wallets [Source Code]
 * [Nano Wallet Company](https://github.com/nano-wallet-company)
@@ -386,7 +387,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 <div class="line"></div>
 
 ## Entertainment
-Have some spare time? There are soo much fun to do!
+Have some spare time? There are much fun to do!
 ### -Gambling, Betting
 * [PVP - Betting](https://pvp.me/)
 * [BetNano - Betting](https://betnano.io/)
@@ -399,6 +400,7 @@ Have some spare time? There are soo much fun to do!
 * [Eternity Tower](https://eternitytower.net/)
 
 ### -Video, Music, Art
+* [The Nanoji Generator](https://www.nanojigenerator.com/)
 
 <div class="line"></div>
 
@@ -427,7 +429,7 @@ If you have a nano account you can help decentralize the network by choosing a r
 Maintaining this content requires some effort. If you want to contribute to this cause then any small donation is greatly appreciated!
 <br>
 <figure>
-	<img id="qrImage" src="https://github.com/Joohansson/nanolinks/blob/master/src/qr_new.png?raw=true" alt="Nano Donation" />
+	<img id="qrImage" src="https://raw.githubusercontent.com/Joohansson/nanolinks/master/src/qr.png" alt="Nano Donation" />
 	<br><figcaption class="subtext">xrb_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo</figcaption>
 </figure>
 
