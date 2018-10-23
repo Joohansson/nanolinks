@@ -71,7 +71,7 @@ layout: default
 <div class="line"></div>
 
 ## Quick Index
-<div class="index-text">
+<div class="index-text" id="sort">
   <ul>
     <li><a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info&edit-text=&act=url">Google Translate This Site</a></li>
     <li><a href="#latest-additions">Latest Additions</a></li>
@@ -90,6 +90,7 @@ layout: default
 ## Latest Additions
 Latest links to keep you updated.
 
+<div id="sort">
 * [Sep 30: Representative Charts](https://monivea.com/nano-rep-charts/)
 * [Oct 2: TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
 * [Oct 5: FastX](https://fastx.io/)
@@ -100,6 +101,7 @@ Latest links to keep you updated.
 * [Oct 22: The Nanoji Generator](https://www.nanojigenerator.com/)
 * [Oct 22: Custom QR Generator](http://nanosign.org)
 * [Oct 22: The Micrypto Marketplace - Hash Power Trading](https://www.micrypto.co)
+</div>
 
 <div class="line"></div>
 
