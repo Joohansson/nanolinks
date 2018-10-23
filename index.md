@@ -85,9 +85,8 @@ layout: default
   </ul>
 </div>
 
-<div class="index-text" id="div-right">
+<div id="div-right">
   <h2 id="quick-index">Latest Additions</h2>
-  <p>Latest links to keep you updated.</p>
   <ul>
     <li><a href="https://monivea.com/nano-rep-charts/">Sep 30: Representative Charts</a></li>
     <li><a href="https://bitdesert.github.io/txhighway-nano/">Oct 2: TX Highway - Nano Vs BTC Visualizer</a></li>
