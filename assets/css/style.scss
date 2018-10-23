@@ -355,14 +355,8 @@ th, td {
   display:inline-block;
 }
 
-//Hide certain lines on small and medium screen
-@include medium {
-  .line-small {
-    display:none !important;
-  }
-}
-
-@include small {
+//Hide certain lines on large screen (divs in two columns)
+@include large {
   .line-small {
     display:none !important;
   }
