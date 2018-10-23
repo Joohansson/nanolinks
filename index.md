@@ -102,6 +102,7 @@ layout: default
 
 <div class="line"></div>
 
+<div id="div-left" markdown="1">
 ## Information & Education
 Learn everything there is to know about Nano!
 
@@ -172,9 +173,9 @@ Learn everything there is to know about Nano!
 * [Are We Decentralized Yet](https://arewedecentralizedyet.com/)
 * [Blocktivity - Utilization Comparision](https://blocktivity.info/)
 * [Representative Charts](https://monivea.com/nano-rep-charts/)
+</div>
 
-<div class="line"></div>
-
+<div id="div-right" markdown="1">
 ## Market
 Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
@@ -282,9 +283,10 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Brainblocks Web PoS](https://pos.brainblocks.io/)
 * [Nano Blackbox - PoS Software](https://www.nanoblackbox.net/)
 * [Paytomat - Payment Service. Terminal, Web, QR, Fiat gateway](https://paytomat.com/)
-
+</div>
 <div class="line"></div>
 
+<div id="div-left" markdown="1">
 ## Development
 Have a great idea? Jump in and start coding. Anyone can join!
 * [The Nano Center - Community Driven Projects](https://nanocenter.org/)
@@ -382,9 +384,9 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Beta Net Graph - Nanowat.ch](https://beta.nanowat.ch/graph)
 * [Beta Net Stats - Nanode21](https://nanode21.cloud/testnetstats.php)
 * [Beta Net TPS Monitor](https://nanoticker.info/tps_beta.php)
+</div>
 
-<div class="line"></div>
-
+<div id="div-right" markdown="1">
 ## Entertainment
 Have some spare time? There are much fun to do!
 ### -Gambling, Betting
@@ -401,18 +403,14 @@ Have some spare time? There are much fun to do!
 ### -Video, Music, Art
 * [The Nanoji Generator](https://www.nanojigenerator.com/)
 
-<div class="line"></div>
-
 ## Services
 * [Put.io - File Serving](https://put.io)
-
-<div class="line"></div>
 
 ## Other Project Resources
 * [All Things Nano - Project and Resource Repository](https://www.allthingsnano.net/)
 * [Wall of Nano](https://wallofnano.com/)
 * [Nano Resource List](https://github.com/RaiMakers/awesome-nano)
-
+</div>
 <div class="line"></div>
 
 ## Contribution
