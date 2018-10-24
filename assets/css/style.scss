@@ -47,6 +47,11 @@ h4 {
   padding-left: 0.5em !important;
 }
 
+/* No underline in H2 tagline */
+.project-tagline {
+  text-decoration: none !important; 
+}
+
 /* Arrange divs depending of screen size */
 @include large {
   #div-left {
