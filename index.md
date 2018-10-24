@@ -123,7 +123,7 @@ Learn everything there is to know about Nano!
 * [Discord Main](https://discordapp.com/invite/JphbBas)
 * [Discord Trade](https://discordapp.com/invite/RT4wzGV)
 * [Twitter](https://twitter.com/nano)
-* [Facebook](https://www.facebook.com/nanocurrency/)
+* [Facebook](https://www.facebook.com/nanofoundation/)
 * [LinkedIn](https://www.linkedin.com/company/nano-foundation/)
 * [Bitcointalk](https://bitcointalk.org/index.php?topic=1381323.0)
 
