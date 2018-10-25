@@ -440,7 +440,7 @@ If you have a nano account you can help decentralize the network by choosing a r
 Maintaining this content requires some effort. If you want to contribute to this cause then any small donation is greatly appreciated!
 <br>
 <figure>
-	<img id="qrImage" src="https://raw.githubusercontent.com/Joohansson/nanolinks/master/src/qr.png" alt="Nano Donation" />
+	<img id="qrImage" src="https://raw.githubusercontent.com/Joohansson/nanolinks/master/src/qr_new.png" alt="Nano Donation" />
 	<br><figcaption class="subtext">xrb_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo</figcaption>
 </figure>
 
