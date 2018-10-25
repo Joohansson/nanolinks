@@ -89,8 +89,6 @@ layout: default
 
 ## Latest Additions
 
-* [Oct 2: TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
-* [Oct 5: FastX](https://fastx.io/)
 * [Oct 7: Repnode.org - Explorer, Stats, Reps](https://repnode.org/)
 * [Oct 10: Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto/id1375812090?mt=8)
 * [Oct 14: Nano Vanity Generator (vitorcremonez)](https://github.com/vitorcremonez/nano-vanity)
@@ -99,6 +97,8 @@ layout: default
 * [Oct 22: Custom QR Generator](http://nanosign.org)
 * [Oct 22: The Micrypto Marketplace - Hash Power Trading](https://www.micrypto.co)
 * [Oct 23: Medium - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
+* [Oct 25: Jolt Wallet Reddit](https://www.reddit.com/r/joltwallet)
+* [Oct 25: Colin LeMahieu Interview by DataDash](https://youtu.be/eWdOkIev_xM)
 
 </div>
 
@@ -150,7 +150,8 @@ Learn everything there is to know about Nano!
 
 ### -Interesting Videos [Not in channels above]
 * [Nano Speed Test](https://youtu.be/e7jLFroW_NE)
-* [Colin LeMahieu Interview](https://youtu.be/hAy4GDV7tvQ)
+* [Colin LeMahieu Interview by The Crypto Lark Feb 18](https://youtu.be/hAy4GDV7tvQ)
+* [Colin LeMahieu Interview by DataDash Oct 18](https://youtu.be/eWdOkIev_xM)
 * [Everything you need to know about Nano](https://youtu.be/ywgMlJBli7g)
 * [Nano simply explained](https://youtu.be/dlRhUwLQWXc)
 * [Nano explained (Deep dive)](https://youtu.be/LcqPLlduE0w)
@@ -308,11 +309,12 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Docker Repo](https://hub.docker.com/u/nanocurrency/)
 
 ### -Project Specific Development Channels
-* [Canoe Wallet](https://discord.gg/ecVcJM3)
-* [Nanoblocks Wallet](https://discord.gg/n76DkEt)
-* [Nano Node Ninja](https://discord.me/nanonodeninja)
-* [The Nano Center](https://discord.gg/yhBuXMm)
-* [Brainblocks](https://discord.gg/MwaQcVM)
+* [Discord: Canoe Wallet](https://discord.gg/ecVcJM3)
+* [Discord: Nanoblocks Wallet](https://discord.gg/n76DkEt)
+* [Discord: Nano Node Ninja](https://discord.me/nanonodeninja)
+* [Discord: The Nano Center](https://discord.gg/yhBuXMm)
+* [Discord: Brainblocks](https://discord.gg/MwaQcVM)
+* [Reddit: Jolt Wallet](https://www.reddit.com/r/joltwallet)
 
 ### -Node & Account Applications
 * [Brainblocks](https://github.com/brainblocks)
