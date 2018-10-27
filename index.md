@@ -89,8 +89,6 @@ layout: default
 
 ## Latest Additions
 
-* [Oct 7: Repnode.org - Explorer, Stats, Reps](https://repnode.org/)
-* [Oct 10: Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto/id1375812090?mt=8)
 * [Oct 14: Nano Vanity Generator (vitorcremonez)](https://github.com/vitorcremonez/nano-vanity)
 * [Oct 17: Nano Giftcard](https://jiikuy.github.io/nano-giftcard/)
 * [Oct 22: The Nanoji Generator](https://www.nanojigenerator.com/)
@@ -99,6 +97,8 @@ layout: default
 * [Oct 23: Medium - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 * [Oct 25: Jolt Wallet Reddit](https://www.reddit.com/r/joltwallet)
 * [Oct 25: Colin LeMahieu Interview by DataDash](https://youtu.be/eWdOkIev_xM)
+* [Oct 27: One Page Exchange](https://onepagex.com)
+* [Oct 27: Nano Node Graphics - Realtime charts](https://github.com/Joohansson/NanoNodeGraphics)
 
 </div>
 
@@ -188,10 +188,12 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 ### -Exchanges
 #### -Nano
+Dedicated for Nano
 * [Nanex](https://nanex.co/)
 * [Brainex](https://www.brainex.io/)
 
 #### -Crypto
+Exchanges for multiple cryptos
 * [Binance](https://www.binance.com)
 * [KuCoin](https://www.kucoin.com)
 * [OkEx](https://www.okex.com/)
@@ -209,11 +211,14 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Coinbene](https://www.coinbene.com)
 * [Bitinka](https://www.bitinka.com)
 
-#### -Quick Crypto Swap (Worse exchange rate)
+#### -Quick Crypto Swap
+Simplest way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.
 * [Swaplab](https://swaplab.cc/)
 * [FastX](https://fastx.io/)
+* [One Page Exchange](https://onepagex.com)
 
 #### -P2P
+Escrow and Peer-to-peer
 * [Localnano](https://www.localnano.com/)
 * [Localnanos](https://www.localnanos.com/)
 * [BuySellNano](https://buysellnano.com/)
@@ -320,6 +325,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Brainblocks](https://github.com/brainblocks)
 * [Nanode.co](https://github.com/mikepaszkiewicz/nanode)
 * [Nano Node Monitor](https://github.com/NanoTools/nanoNodeMonitor)
+* [Nano Node Graphics - Realtime charts](https://github.com/Joohansson/NanoNodeGraphics)
 * [Nano Node Scripts](https://github.com/dbachm123/nanoNodeScripts)
 * [Nanod.es - Node Service](https://nanod.es/)
 * [Easy Nano Node](https://nanotools.github.io/easy-nano-node/)
