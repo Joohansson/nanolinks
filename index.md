@@ -99,6 +99,7 @@ layout: default
 * [Oct 25: Colin LeMahieu Interview by DataDash](https://youtu.be/eWdOkIev_xM)
 * [Oct 27: One Page Exchange](https://onepagex.com)
 * [Oct 27: Nano Node Graphics - Realtime charts](https://github.com/Joohansson/NanoNodeGraphics)
+* [Oct 29: Nanofy - File Signing](https://nanofy.org/)
 
 </div>
 
@@ -347,12 +348,14 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanoodle - Account Toolbox](https://nanoodle.io/home)
 * [Stylish QR Code Guide](https://www.reddit.com/r/nanocurrency/comments/8ym9cr/stylish_nano_qr_code_generator/)
 * [Custom QR Generator](http://nanosign.org)
+* [Nanofy - File Signing](https://nanofy.org/)
 
 ### -Wallets [Source Code]
 * [Nano Wallet Company](https://github.com/nano-wallet-company)
 * [Canoe](https://github.com/getcanoe/canoe)
 * [Nanowallet Source Code](https://github.com/jaimehgb/RaiWalletV2)
 * [Nanovault](https://github.com/cronoh/nanovault)
+* [Nanollet](https://github.com/brokenbydefault/Nanollet)
 * [Nanoblocks](https://github.com/nebyark/nano-blocks)
 * [Natrium](https://github.com/BananoCoin/natrium-android-wallet)
 * [Rain - Light Raiblocks Wallet](https://github.com/thehen101/Rain)
