@@ -89,8 +89,6 @@ layout: default
 
 ## Latest Additions
 
-* [Oct 14: Nano Vanity Generator (vitorcremonez)](https://github.com/vitorcremonez/nano-vanity)
-* [Oct 17: Nano Giftcard](https://jiikuy.github.io/nano-giftcard/)
 * [Oct 22: The Nanoji Generator](https://www.nanojigenerator.com/)
 * [Oct 22: Custom QR Generator](http://nanosign.org)
 * [Oct 22: The Micrypto Marketplace - Hash Power Trading](https://www.micrypto.co)
@@ -100,6 +98,7 @@ layout: default
 * [Oct 27: One Page Exchange](https://onepagex.com)
 * [Oct 27: Nano Node Graphics - Realtime charts](https://github.com/Joohansson/NanoNodeGraphics)
 * [Oct 29: Nanofy - File Signing](https://nanofy.org/)
+* [Oct 31: New Exchange: Huobi](https://www.huobi.com/en-us/)
 
 </div>
 
@@ -211,6 +210,7 @@ Exchanges for multiple cryptos
 * [Koinex](https://koinex.in/)
 * [Coinbene](https://www.coinbene.com)
 * [Bitinka](https://www.bitinka.com)
+* [Huobi](https://www.huobi.com/en-us/)
 
 #### -Quick Crypto Swap
 Simplest way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.
