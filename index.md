@@ -263,6 +263,7 @@ Escrow and Peer-to-peer
 * [Cryptowat.ch - Nano/BTC Binance](https://cryptowat.ch/markets/binance/nano/btc/5m)
 * [Tradingview - Nano/BTC Binance](https://www.tradingview.com/symbols/NANOBTC/)
 * [Nanoticker - Price and TPS](https://nanoticker.info/)
+* [Nano/BRL/USD/BTC Converter](https://livecoins.com.br/nano-hoje-cotacao-nano/)
 * [Nano/USD Converter](http://raiw.krampe.se/value.html?currency=raiblocks&to=usd&value=100)
 * [Niuyan Market Data](https://niuyan.com/currencies/raiblocks)
 * [Coinmatch - Compare Crypto](https://coinmatch.info/NANO/BTC)
