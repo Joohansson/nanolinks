@@ -89,8 +89,6 @@ layout: default
 
 ## Latest Additions
 
-* [Oct 22: The Nanoji Generator](https://www.nanojigenerator.com/)
-* [Oct 22: Custom QR Generator](http://nanosign.org)
 * [Oct 22: The Micrypto Marketplace - Hash Power Trading](https://www.micrypto.co)
 * [Oct 23: Medium - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 * [Oct 25: Jolt Wallet Reddit](https://www.reddit.com/r/joltwallet)
@@ -99,6 +97,8 @@ layout: default
 * [Oct 27: Nano Node Graphics - Realtime charts](https://github.com/Joohansson/NanoNodeGraphics)
 * [Oct 29: Nanofy - File Signing](https://nanofy.org/)
 * [Oct 31: New Exchange: Huobi](https://www.huobi.com/en-us/)
+* [Nov 01: Livecoins - Nano/BRL/USD/BTC Converter](https://livecoins.com.br/nano-hoje-cotacao-nano/)
+* [Nov 02: Coinyep - Multi-Currencies Converter](https://coinyep.com/)
 
 </div>
 
@@ -263,7 +263,8 @@ Escrow and Peer-to-peer
 * [Cryptowat.ch - Nano/BTC Binance](https://cryptowat.ch/markets/binance/nano/btc/5m)
 * [Tradingview - Nano/BTC Binance](https://www.tradingview.com/symbols/NANOBTC/)
 * [Nanoticker - Price and TPS](https://nanoticker.info/)
-* [Nano/BRL/USD/BTC Converter](https://livecoins.com.br/nano-hoje-cotacao-nano/)
+* [Coinyep - Multi-Currencies Converter](https://coinyep.com/)
+* [Livecoins - Nano/BRL/USD/BTC Converter](https://livecoins.com.br/nano-hoje-cotacao-nano/)
 * [Nano/USD Converter](http://raiw.krampe.se/value.html?currency=raiblocks&to=usd&value=100)
 * [Niuyan Market Data](https://niuyan.com/currencies/raiblocks)
 * [Coinmatch - Compare Crypto](https://coinmatch.info/NANO/BTC)
