@@ -89,7 +89,6 @@ layout: default
 
 ## Latest Additions
 
-* [Oct 22: The Micrypto Marketplace - Hash Power Trading](https://www.micrypto.co)
 * [Oct 23: Medium - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 * [Oct 25: Jolt Wallet Reddit](https://www.reddit.com/r/joltwallet)
 * [Oct 25: Colin LeMahieu Interview by DataDash](https://youtu.be/eWdOkIev_xM)
@@ -99,6 +98,7 @@ layout: default
 * [Oct 31: New Exchange: Huobi](https://www.huobi.com/en-us/)
 * [Nov 01: Livecoins - Nano/BRL/USD/BTC Converter](https://livecoins.com.br/nano-hoje-cotacao-nano/)
 * [Nov 02: Coinyep - Multi-Currencies Converter](https://coinyep.com/)
+* [Nov 02: Betsy - Nano/Banano PoW Middleware](https://github.com/bbedward/betsy-middleware)
 
 </div>
 
@@ -399,6 +399,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Distributed PoW System - Web Client](https://nanopow.github.io/web/)
 * [Distributed PoW System - Server](https://github.com/jamescoxon/nano_dpow_server)
 * [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
+* [Betsy - Nano/Banano PoW Middleware](https://github.com/bbedward/betsy-middleware)
 
 ### -Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
