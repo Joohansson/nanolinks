@@ -89,7 +89,6 @@ layout: default
 
 ## Latest Additions
 
-* [Oct 23: Medium - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 * [Oct 25: Jolt Wallet Reddit](https://www.reddit.com/r/joltwallet)
 * [Oct 25: Colin LeMahieu Interview by DataDash](https://youtu.be/eWdOkIev_xM)
 * [Oct 27: One Page Exchange](https://onepagex.com)
@@ -99,6 +98,7 @@ layout: default
 * [Nov 01: Livecoins - Nano/BRL/USD/BTC Converter](https://livecoins.com.br/nano-hoje-cotacao-nano/)
 * [Nov 02: Coinyep - Multi-Currencies Converter](https://coinyep.com/)
 * [Nov 02: Betsy - Nano/Banano PoW Middleware](https://github.com/bbedward/betsy-middleware)
+* [Nov 07: NanoPy - Functions and Tools](https://github.com/nano128/nanopy)
 
 </div>
 
@@ -379,6 +379,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [PyRai](https://github.com/icarusglider/PyRai)
 * [Easyraikit - Python](https://github.com/AuliaYF/easyraikit-python)
 * [Nano Python - RPC Client](https://github.com/dourvaris/nano-python)
+* [NanoPy - Functions and Tools](https://github.com/nano128/nanopy)
 * [Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
 * [Nanook - Ruby Lib for RPC](https://github.com/lukes/nanook)
 * [Ruby Nano RPC - RPC Wrapper for Ruby](https://github.com/jcraigk/ruby_nano_rpc)
