@@ -413,7 +413,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 <div id="div-right" markdown="1">
 
 ## Entertainment
-Have some spare time? There are much fun to do!
+Do you have some free time? There are much fun to do but please proceed with caution.
 ### -Gambling, Betting
 * [PVP - Betting](https://pvp.me/)
 * [BetNano - Betting](https://betnano.io/)
@@ -421,6 +421,7 @@ Have some spare time? There are much fun to do!
 * [LuckyNano - Gambling](https://luckynano.com/)
 * [Raffle Miner](https://www.raffleminer.com/)
 * [Allin - Poker](https://beta.allin.bet)
+* [Luckygames.io - Gambling](https://luckygames.io/)
 
 ### -Games
 * [Eternity Tower](https://eternitytower.net/)
