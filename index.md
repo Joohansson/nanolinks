@@ -177,7 +177,7 @@ Learn everything there is to know about Nano!
 * [Nano fees tracker =)](http://nanofees.live/)
 * [Are We Decentralized Yet](https://arewedecentralizedyet.com/)
 * [Blocktivity - Utilization Comparision](https://blocktivity.info/)
-* [Representative Charts](https://monivea.com/nano-rep-charts/)
+* [Nano Charts](https://nanocharts.info/)
 
 </div>
 <div class="line line-small"></div>
@@ -343,7 +343,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Vanity Generator (vitorcremonez)](https://github.com/vitorcremonez/nano-vanity)
 * [Raimixer - Scrambler](https://github.com/juanjux/raimixer)
 * [EZNano - Mine ZCash](https://github.com/Ankonian1/EZNANO)
-* [Nano-Prettify - Format Nano Raw Amounts](https://github.com/kilkelly/nano-prettify)
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
 * [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
 * [Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
@@ -400,6 +399,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Distributed PoW System - Server](https://github.com/jamescoxon/nano_dpow_server)
 * [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
 * [Betsy - Nano/Banano PoW Middleware](https://github.com/bbedward/betsy-middleware)
+* [Nano-Prettify - Format Nano Raw Amounts in JavaScript](https://github.com/kilkelly/nano-prettify)
 
 ### -Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
