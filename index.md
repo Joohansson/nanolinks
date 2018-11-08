@@ -89,7 +89,6 @@ layout: default
 
 ## Latest Additions
 
-* [Oct 25: Jolt Wallet Reddit](https://www.reddit.com/r/joltwallet)
 * [Oct 25: Colin LeMahieu Interview by DataDash](https://youtu.be/eWdOkIev_xM)
 * [Oct 27: One Page Exchange](https://onepagex.com)
 * [Oct 27: Nano Node Graphics - Realtime charts](https://github.com/Joohansson/NanoNodeGraphics)
@@ -99,6 +98,7 @@ layout: default
 * [Nov 02: Coinyep - Multi-Currencies Converter](https://coinyep.com/)
 * [Nov 02: Betsy - Nano/Banano PoW Middleware](https://github.com/bbedward/betsy-middleware)
 * [Nov 07: NanoPy - Functions and Tools](https://github.com/nano128/nanopy)
+* [Nov 08: Informative Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
 
 </div>
 
@@ -139,7 +139,8 @@ Learn everything there is to know about Nano!
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
 * [Is Nano Green Yet - Environmental Impact](https://isnanogreenyet.com/)
 * [Nano Venezuela](http://www.nanovenezuela.org/)
-* [Medium - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
+* [Informative Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
+* [Informative Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
 
 ### -Video Channels
 * [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
