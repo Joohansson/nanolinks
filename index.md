@@ -89,8 +89,6 @@ layout: default
 
 ## Latest Additions
 
-* [Oct 25: Colin LeMahieu Interview by DataDash](https://youtu.be/eWdOkIev_xM)
-* [Oct 27: One Page Exchange](https://onepagex.com)
 * [Oct 27: Nano Node Graphics - Realtime charts](https://github.com/Joohansson/NanoNodeGraphics)
 * [Oct 29: Nanofy - File Signing](https://nanofy.org/)
 * [Oct 31: New Exchange: Huobi](https://www.huobi.com/en-us/)
@@ -99,6 +97,8 @@ layout: default
 * [Nov 02: Betsy - Nano/Banano PoW Middleware](https://github.com/bbedward/betsy-middleware)
 * [Nov 07: NanoPy - Functions and Tools](https://github.com/nano128/nanopy)
 * [Nov 08: Informative Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
+* [Nov 09: Dropil - Graphical Paper Wallet](https://paper.dropil.com)
+* [Nov 09: Nanocap - Protocol Analyzer](https://github.com/cryptocode/nanocap)
 
 </div>
 
@@ -235,12 +235,13 @@ Escrow and Peer-to-peer
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 * [**Natrium** - Android](https://play.google.com/store/apps/details?id=co.banano.natriumwallet)
 
-#### -Address Generators
+#### -Address Generators, Paper Wallets
 * [Nano Paper Wallet 1](https://vitorcremonez.github.io/nano-paper-wallet/)
 * [Nano Paper Wallet 2](https://jelofsson.github.io/nano-paper-wallet/)
 * [RaiPaper](https://blootoon.github.io/rai-paper/)
 * [Rai Paper Wallet](https://numtel.github.io/rai-paper-wallet/)
 * [NanoWarpWallet](https://termhn.github.io/nanowarpwallet/)
+* [Dropil - Graphical Templates](https://paper.dropil.com)
 
 ### -Hardware Wallets and Nodes
 * [Ledger Nano S](https://www.ledger.fr/)
@@ -345,7 +346,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Raimixer - Scrambler](https://github.com/juanjux/raimixer)
 * [EZNano - Mine ZCash](https://github.com/Ankonian1/EZNANO)
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
-* [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
 * [Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 * [Nanoodle - Account Toolbox](https://nanoodle.io/home)
 * [Stylish QR Code Guide](https://www.reddit.com/r/nanocurrency/comments/8ym9cr/stylish_nano_qr_code_generator/)
@@ -402,6 +402,8 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
 * [Betsy - Nano/Banano PoW Middleware](https://github.com/bbedward/betsy-middleware)
 * [Nano-Prettify - Format Nano Raw Amounts in JavaScript](https://github.com/kilkelly/nano-prettify)
+* [Nanocap - Protocol Analyzer](https://github.com/cryptocode/nanocap)
+* [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
 
 ### -Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
