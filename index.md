@@ -99,6 +99,8 @@ layout: default
 * [Nov 08: Informative Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
 * [Nov 09: Dropil - Graphical Paper Wallet](https://paper.dropil.com)
 * [Nov 09: Nanocap - Protocol Analyzer](https://github.com/cryptocode/nanocap)
+* [Nov 09: NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
+* [Nov 09: FreeNanoFaucet.com](https://www.freenanofaucet.com/)
 
 </div>
 
@@ -279,9 +281,10 @@ Escrow and Peer-to-peer
 * [Bitback - Payment Service, Address book](https://bitback.me/)
 * [NanoMate - Nano Send Service](https://nanomate.co/)
 * [Nanote - Hosted Payment Forms](https://nanote.net/)
-* [Nano Faucet #1 - Free Nano](https://www.nanofaucet.org/)
-* [Nano Faucet #2 - Free Nano](https://nano-faucet.org/)
-* [Nano Faucet #3 - Free Nano](https://nanofaucet.co/)
+* [NanoFaucet.org - Free Nano](https://www.nanofaucet.org/)
+* [Nano-Faucet.org - Free Nano](https://nano-faucet.org/)
+* [NanoFaucet.co - Free Nano](https://nanofaucet.co/)
+* [FreeNanoFaucet.com - Free Nano](https://www.freenanofaucet.com/)
 * [GetFreeNano - Free Nano project from Nano Chinese](https://getfreenano.com/)
 * [Nano Twitter Tip Bot - Donation service](https://nanotipbot.com/)
 * [NanoTwitch - Gaming donation service](https://nanotwit.ch/)
@@ -428,6 +431,7 @@ Do you have some free time? There are much fun to do but please proceed with cau
 * [Luckygames.io - Gambling](https://luckygames.io/)
 
 ### -Games
+* [NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
 * [Eternity Tower](https://eternitytower.net/)
 
 ### -Video, Music, Art
