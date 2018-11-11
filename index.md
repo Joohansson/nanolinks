@@ -215,11 +215,12 @@ Exchanges for multiple cryptos
 * [Bitinka](https://www.bitinka.com)
 * [Huobi](https://www.huobi.com/en-us/)
 
-#### -Quick Crypto Swap
+#### -Quick Crypto Swap/Buy
 Simplest way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.
 * [Swaplab](https://swaplab.cc/)
 * [FastX](https://fastx.io/)
 * [One Page Exchange](https://onepagex.com)
+* [Cryptowolf](https://cryptowolf.eu/)
 
 #### -P2P
 Escrow and Peer-to-peer
