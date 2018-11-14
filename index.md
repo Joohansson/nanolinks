@@ -191,7 +191,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 ### -Exchanges
 #### -Nano
-Dedicated for Nano
+##### Dedicated for Nano
 * [Nanex](https://nanex.co/)
 * [Brainex](https://www.brainex.io/)
 
@@ -216,14 +216,14 @@ Dedicated for Nano
 * [Huobi](https://www.huobi.com/en-us/)
 
 #### -Quick Crypto Swap/Buy
-<p class="h4text">Simplest way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.</p>
+##### Simplest way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.
 * [Swaplab](https://swaplab.cc/)
 * [FastX](https://fastx.io/)
 * [One Page Exchange](https://onepagex.com)
 * [Cryptowolf](https://cryptowolf.eu/)
 
 #### -P2P
-<p class="h4text">Escrow and Peer-to-peer</p>
+##### Escrow and Peer-to-peer
 * [Localnano](https://www.localnano.com/)
 * [Localnanos](https://www.localnanos.com/)
 * [BuySellNano](https://buysellnano.com/)
