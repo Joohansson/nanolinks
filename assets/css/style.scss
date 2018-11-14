@@ -217,6 +217,27 @@ h4 {
   }
 }
 
+//Small text for H4 subtitle
+.h4text {
+  @include large {
+    margin-top: 0.5em;
+    margin-left: 1em;
+    font-size: 0.8em;
+  }
+
+  @include medium {
+    margin-top: 0.5em;
+    margin-left: 1em;
+    font-size: 0.75em;
+  }
+
+  @include small {
+    margin-top: 0.5em;
+    margin-left: 1em;
+    font-size: 0.7em;
+  }
+}
+
 //Image subtitle
 .subtext {
   margin-top: 0 !important;
