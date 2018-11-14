@@ -196,7 +196,7 @@ Dedicated for Nano
 * [Brainex](https://www.brainex.io/)
 
 #### -Crypto
-Exchanges for multiple cryptos
+##### Exchanges for multiple cryptos
 * [Binance](https://www.binance.com)
 * [KuCoin](https://www.kucoin.com)
 * [OkEx](https://www.okex.com/)
@@ -216,14 +216,14 @@ Exchanges for multiple cryptos
 * [Huobi](https://www.huobi.com/en-us/)
 
 #### -Quick Crypto Swap/Buy
-Simplest way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.
+<p class="h4text">Simplest way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.</p>
 * [Swaplab](https://swaplab.cc/)
 * [FastX](https://fastx.io/)
 * [One Page Exchange](https://onepagex.com)
 * [Cryptowolf](https://cryptowolf.eu/)
 
 #### -P2P
-Escrow and Peer-to-peer
+<p class="h4text">Escrow and Peer-to-peer</p>
 * [Localnano](https://www.localnano.com/)
 * [Localnanos](https://www.localnanos.com/)
 * [BuySellNano](https://buysellnano.com/)
