@@ -48,7 +48,7 @@ h4 {
 }
 
 h5 {
-  margin-top: 0.5em !important;
+  margin-top: 0.1em !important;
   padding-left: 1em !important;
 }
 
@@ -219,27 +219,6 @@ h5 {
     margin-top: 0.5em;
     margin-left: 10px;
     font-size: 0.5em;
-  }
-}
-
-//Small text for H4 subtitle
-.h4text {
-  @include large {
-    margin-top: 0.5em;
-    margin-left: 1em;
-    font-size: 0.8em;
-  }
-
-  @include medium {
-    margin-top: 0.5em;
-    margin-left: 1em;
-    font-size: 0.75em;
-  }
-
-  @include small {
-    margin-top: 0.5em;
-    margin-left: 1em;
-    font-size: 0.7em;
   }
 }
 
