@@ -89,9 +89,6 @@ layout: default
 
 ## Latest Additions
 
-* [Oct 27: Nano Node Graphics - Realtime charts](https://github.com/Joohansson/NanoNodeGraphics)
-* [Oct 29: Nanofy - File Signing](https://nanofy.org/)
-* [Oct 31: New Exchange: Huobi](https://www.huobi.com/en-us/)
 * [Nov 01: Livecoins - Nano/BRL/USD/BTC Converter](https://livecoins.com.br/nano-hoje-cotacao-nano/)
 * [Nov 02: Coinyep - Multi-Currencies Converter](https://coinyep.com/)
 * [Nov 02: Betsy - Nano/Banano PoW Middleware](https://github.com/bbedward/betsy-middleware)
@@ -101,6 +98,7 @@ layout: default
 * [Nov 09: Nanocap - Protocol Analyzer](https://github.com/cryptocode/nanocap)
 * [Nov 09: NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
 * [Nov 09: FreeNanoFaucet.com](https://www.freenanofaucet.com/)
+* [Nov 16: Nanogate - Giftcards](https://nanogate.io/)
 
 </div>
 
@@ -298,6 +296,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nanotifier - Account Notifications](https://nanotifier.com/)
 * [Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
 * [Nano Giftcard](https://jiikuy.github.io/nano-giftcard/)
+* [Nanogate - Giftcards](https://nanogate.io/)
 * [The Micrypto Marketplace - Hash Power Trading](https://www.micrypto.co)
 
 ### -Point of Sale
