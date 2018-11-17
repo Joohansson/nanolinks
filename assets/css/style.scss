@@ -34,22 +34,27 @@ h1 {
 }
 
 h2 {
-  margin-top: 0.5em !important;
+  margin-top: 0 !important;
   text-decoration: underline !important;
 }
 
 h3 {
-  margin-top: 0.5em !important;
+  margin-top: 0 !important;
+  margin-left: 0.5em !important;
 }
 
 h4 {
-  margin-top: 0.5em !important;
-  padding-left: 0.5em !important;
+  margin-top: 0 !important;
+  margin-left: 1em !important;
 }
 
 h5 {
-  margin-top: 0.1em !important;
-  padding-left: 1em !important;
+  margin-top: 0 !important;
+  margin-left: 1.5em !important;
+}
+
+ul {
+  margin-left: 0.5em !important;
 }
 
 /* No underline in H2 tagline */
