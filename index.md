@@ -109,7 +109,7 @@ layout: default
 ## Information & Education
 Learn everything there is to know about Nano!
 
-### -Core Team
+### Core Team
 
 * [Main Site - nano.org](https://nano.org)
 * [Roadmap, Guides, Docs](https://developers.nano.org/roadmap)
@@ -118,7 +118,7 @@ Learn everything there is to know about Nano!
 * [Medium Channel](https://medium.com/@nanocurrency)
 * [FAQ](https://nano.org/en/faq)
 
-### -Core Social Media & Contribution Channels
+### Core Social Media & Contribution Channels
 * [Reddit](https://www.reddit.com/r/nanocurrency/)
 * [Discord Main](https://discordapp.com/invite/JphbBas)
 * [Discord Trade](https://discordapp.com/invite/RT4wzGV)
@@ -127,10 +127,10 @@ Learn everything there is to know about Nano!
 * [LinkedIn](https://www.linkedin.com/company/nano-foundation/)
 * [Bitcointalk](https://bitcointalk.org/index.php?topic=1381323.0)
 
-### -Scientific Papers
+### Scientific Papers
 * [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
 
-### -Education & Adoption
+### Education & Adoption
 * [Getting Started with Nano](https://gettingstarted.nanocenter.org/)
 * [What is Nano](https://www.tokendaily.co/blog/what-is-nano)
 * [Learn Nano](https://learnnano.com/)
@@ -142,14 +142,14 @@ Learn everything there is to know about Nano!
 * [Informative Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 * [Informative Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
 
-### -Video Channels
+### Video Channels
 * [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
 * [NanoCast](https://www.youtube.com/channel/UC_KCdNCWQcb5Z4vsPBY18yQ)
 * [The Nano Center](https://www.youtube.com/channel/UCwB_g6LBPGv_anMhywH4BWA)
 * [Nano Blackbox](https://www.youtube.com/channel/UCehRwOEJsNb_0c6CwVSmCxw)
 * [Jolt Wallet](https://www.youtube.com/channel/UCLfilzzY4NmwNjWtEIibdkA)
 
-### -Interesting Videos [Not in channels above]
+### Interesting Videos [Not in channels above]
 * [Nano Speed Test](https://youtu.be/e7jLFroW_NE)
 * [Colin LeMahieu Interview by The Crypto Lark Feb 18](https://youtu.be/hAy4GDV7tvQ)
 * [Colin LeMahieu Interview by DataDash Oct 18](https://youtu.be/eWdOkIev_xM)
@@ -160,12 +160,12 @@ Learn everything there is to know about Nano!
 * [Visualizing 1560 Days of Development](https://youtu.be/br8tcS8gcqE)
 * [Why Change Your Nano Representative?](https://youtu.be/dnOTiixhPrk)
 
-### -Video Advertisement
+### Video Advertisement
 * [Nano The Future of Money](https://youtu.be/lw-rpO0jqYQ)
 * [Nano Overview](https://youtu.be/JynwiU2D_K0)
 * [Nano is Green](https://youtu.be/JChBTohSHlM)
 
-### -Network Stats and Explorers
+### Network Stats and Explorers
 * [Nanode.co - Explorer, Stats](https://www.nanode.co/)
 * [NanoCrawler.cc - Explorer, Stats, Account list](https://nanocrawler.cc/)
 * [Nano-Faucet.org - Explorer, Stats, Map, Account list](https://nano-faucet.org/stats/)
@@ -187,12 +187,12 @@ Learn everything there is to know about Nano!
 ## Market
 Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
-### -Exchanges
-#### -Dedicated for Nano
+### Exchanges
+#### Dedicated for Nano
 * [Nanex](https://nanex.co/)
 * [Brainex](https://www.brainex.io/)
 
-#### -Multiple cryptos
+#### Multiple cryptos
 * [Binance](https://www.binance.com)
 * [KuCoin](https://www.kucoin.com)
 * [OkEx](https://www.okex.com/)
@@ -211,20 +211,20 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Bitinka](https://www.bitinka.com)
 * [Huobi](https://www.huobi.com/en-us/)
 
-#### -Quick Crypto Swap/Buy
+#### Quick Crypto Swap/Buy
 ##### Simplest way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.
 * [Swaplab](https://swaplab.cc/)
 * [FastX](https://fastx.io/)
 * [One Page Exchange](https://onepagex.com)
 * [Cryptowolf](https://cryptowolf.eu/)
 
-#### -Escrow and Peer-to-peer
+#### Escrow and Peer-to-peer
 * [Localnano](https://www.localnano.com/)
 * [Localnanos](https://www.localnanos.com/)
 * [BuySellNano](https://buysellnano.com/)
 * [PayFair](https://payfair.io/)
 
-### -Wallets
+### Wallets
 * [**Nano Wallet Company** - OSX,Win,Linux,iOS,Android](https://nanowalletcompany.com/)
 * [**Canoe** - OSX,Win,Linux,iOS,Android,WinPhone](https://getcanoe.io/)
 * [**Nanowallet** - Web](https://nanowallet.io/)
@@ -233,7 +233,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 * [**Natrium** - Android](https://play.google.com/store/apps/details?id=co.banano.natriumwallet)
 
-#### -Address Generators, Paper Wallets
+#### Address Generators, Paper Wallets
 * [Nano Paper Wallet 1](https://vitorcremonez.github.io/nano-paper-wallet/)
 * [Nano Paper Wallet 2](https://jelofsson.github.io/nano-paper-wallet/)
 * [RaiPaper](https://blootoon.github.io/rai-paper/)
@@ -241,20 +241,20 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [NanoWarpWallet](https://termhn.github.io/nanowarpwallet/)
 * [Dropil - Graphical Templates](https://paper.dropil.com)
 
-### -Hardware Wallets and Nodes
+### Hardware Wallets and Nodes
 * [Ledger Nano S](https://www.ledger.fr/)
 * [Ledger Nano - Text Guide](http://blog.nanovault.io/guides/use-your-ledger-device-with-nanovault/)
 * [Ledger Nano - Video Guide](https://youtu.be/OoTfRjXsxNk)
 * [Jolt](https://www.joltwallet.com/)
 * [Brainblocks Pod - Hardware Node](https://nexus.brainblocks.io/store/brainblocks-pods)
 
-### -Related Mobile Apps
+### Related Mobile Apps
 * [Nano Track - Nano Ticker](https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8)
 * [Coin Stats - Multi-coin, Portfolio, Stats](https://coinstats.app/)
 * [Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto/id1375812090?mt=8)
 * [Tradingview - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
 
-### -Market Data, Analysis & Tickers
+### Market Data, Analysis & Tickers
 * [Coinmarketcap](https://coinmarketcap.com/currencies/nano/)
 * [Bitscreener](https://bitscreener.com/coins/nano)
 * [CoinFYI](https://coin.fyi/coins/nano)
@@ -269,7 +269,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Niuyan Market Data](https://niuyan.com/currencies/raiblocks)
 * [Coinmatch - Compare Crypto](https://coinmatch.info/NANO/BTC)
 
-### -Merchant & Donation Related [No shops, too many]
+### Merchant & Donation Related [No shops, too many]
 * [Brainblocks - Nano Payment Service](https://brainblocks.io/)
 * [ArrowPay - Nano Payment Service](https://arrowpay.io/)
 * [KitePay - Nano Payment Service](https://kitepay.io/)
@@ -296,7 +296,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nanogate - Giftcards](https://nanogate.io/)
 * [The Micrypto Marketplace - Hash Power Trading](https://www.micrypto.co)
 
-### -Point of Sale
+### Point of Sale
 * [Brainblocks Web PoS](https://pos.brainblocks.io/)
 * [Nano Blackbox - PoS Software](https://www.nanoblackbox.net/)
 * [Paytomat - Payment Service. Terminal, Web, QR, Fiat gateway](https://paytomat.com/)
@@ -310,7 +310,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 Have a great idea? Jump in and start coding. Anyone can join!
 * [The Nano Center - Community Driven Projects](https://nanocenter.org/)
 
-### -Nano Main Protocol
+### Nano Main Protocol
 * [Nano Source Code Main Repositories](https://github.com/nanocurrency)
 * [Node Milestones](https://github.com/nanocurrency/raiblocks/milestones)
 * [Bug Bounty](https://hackerone.com/nano)
@@ -318,7 +318,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanoo Tools - Unofficial Developer Wiki + Toolbox](https://nanoo.tools/)
 * [Docker Repo](https://hub.docker.com/u/nanocurrency/)
 
-### -Project Specific Development Channels
+### Project Specific Development Channels
 * [Discord: Canoe Wallet](https://discord.gg/ecVcJM3)
 * [Discord: Nanoblocks Wallet](https://discord.gg/n76DkEt)
 * [Discord: Nano Node Ninja](https://discord.me/nanonodeninja)
@@ -326,7 +326,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Discord: Brainblocks](https://discord.gg/MwaQcVM)
 * [Reddit: Jolt Wallet](https://www.reddit.com/r/joltwallet)
 
-### -Node & Account Applications
+### Node & Account Applications
 * [Brainblocks](https://github.com/brainblocks)
 * [Nanode.co](https://github.com/mikepaszkiewicz/nanode)
 * [Nano Node Monitor](https://github.com/NanoTools/nanoNodeMonitor)
@@ -352,7 +352,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Custom QR Generator](http://nanosign.org)
 * [Nanofy - File Signing](https://nanofy.org/)
 
-### -Wallets [Source Code]
+### Wallets [Source Code]
 * [Nano Wallet Company](https://github.com/nano-wallet-company)
 * [Canoe](https://github.com/getcanoe/canoe)
 * [Nanowallet Source Code](https://github.com/jaimehgb/RaiWalletV2)
@@ -366,7 +366,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Paper Wallet 1](https://github.com/vitorcremonez/nano-paper-wallet)
 * [Nano Paper Wallet 2](https://github.com/jelofsson/nano-paper-wallet)
 
-### -Protocol, RPC, Libraries, Tools, Servers
+### Protocol, RPC, Libraries, Tools, Servers
 * [RaiSharp - C# Lib for RPC](https://github.com/vardthomas/Aggrex.RaiSharp)
 * [Prailude - Nano node in Lua and C](https://github.com/slact/prailude)
 * [RaiBlocksJS - JS Lib for RPC](https://github.com/orrybaram/RaiBlocksJS)
@@ -405,7 +405,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanocap - Protocol Analyzer](https://github.com/cryptocode/nanocap)
 * [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
 
-### -Beta Network
+### Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
 * [Beta Net Explorer - NanoCrawler](https://beta.nanocrawler.cc/)
 * [Beta Net Graph - Nanowat.ch](https://beta.nanowat.ch/graph)
@@ -418,7 +418,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 
 ## Entertainment
 Do you have some free time? There are much fun to do but please proceed with caution.
-### -Gambling, Betting
+### Gambling, Betting
 * [PVP - Betting](https://pvp.me/)
 * [BetNano - Betting](https://betnano.io/)
 * [Nano Games - Betting](https://nanogames.io/)
@@ -427,11 +427,11 @@ Do you have some free time? There are much fun to do but please proceed with cau
 * [Allin - Poker](https://beta.allin.bet)
 * [Luckygames.io - Gambling](https://luckygames.io/)
 
-### -Games
+### Games
 * [NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
 * [Eternity Tower](https://eternitytower.net/)
 
-### -Video, Music, Art
+### Video, Music, Art
 * [The Nanoji Generator](https://www.nanojigenerator.com/)
 
 ## Services
@@ -449,12 +449,12 @@ Do you have some free time? There are much fun to do but please proceed with cau
 Want to add a link to your own project or you found something else? Just clone repo at [Github](https://github.com/Joohansson/nanolinks) , edit index.md and make a pull request. You can also contact me at [Reddit](https://www.reddit.com/user/Joohansson/). All content will be evaluated.
 
 
-### -Voting Representative
+### Voting Representative
 If you have a nano account you can help decentralize the network by choosing a representative other than the official reps that is default. Best is to choose someone you really trust. If you want you can choose [This Node](https://nanonode.ninja/account/xrb_1iuz18n4g4wfp9gf7p1s8qkygxw7wx9qfjq6a9aq68uyrdnningdcjontgar) that has been running 24/7 since Feb 2018. I intend to keep it running for a long time and upgrade hardware when necessary!
 
 [Video about reps and why it matters](https://youtu.be/dnOTiixhPrk)
 
-### -Donations
+### Donations
 Maintaining this content requires some effort. If you want to contribute to this cause then any small donation is greatly appreciated!
 <br>
 <figure>
