@@ -178,7 +178,7 @@ Learn everything there is to know about Nano!
 * [Nano fees tracker =)](http://nanofees.live/)
 * [Are We Decentralized Yet](https://arewedecentralizedyet.com/)
 * [Blocktivity - Utilization Comparision](https://blocktivity.info/)
-* [Nano Charts](https://nanocharts.info/)
+* [Nano Charts - Representative stats](https://nanocharts.info/)
 
 </div>
 <div class="line line-small"></div>
