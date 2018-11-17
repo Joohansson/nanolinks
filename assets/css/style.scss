@@ -57,6 +57,19 @@ ul {
   margin-left: 0.5em !important;
 }
 
+/* Top buttons, increased contrast */
+.btn {
+  background-color: rgba(255,255,255,0.1) !important;
+  border-color: rgba(255,255,255,0.3) !important;
+  color: rgba(255,255,255,0.7) !important;
+}
+
+.btn:hover {
+  background-color: rgba(255,255,255,0.25) !important;
+  border-color: rgba(255,255,255,0.4) !important;
+  color: rgba(255,255,255,0.85) !important;
+}
+
 /* No underline in H2 tagline */
 .project-tagline {
   text-decoration: none !important; 
