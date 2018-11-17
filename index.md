@@ -188,13 +188,11 @@ Learn everything there is to know about Nano!
 Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 ### -Exchanges
-#### -Nano
-##### Dedicated for Nano
+#### -Dedicated for Nano
 * [Nanex](https://nanex.co/)
 * [Brainex](https://www.brainex.io/)
 
-#### -Crypto
-##### Exchanges for multiple cryptos
+#### -Multiple cryptos
 * [Binance](https://www.binance.com)
 * [KuCoin](https://www.kucoin.com)
 * [OkEx](https://www.okex.com/)
@@ -220,8 +218,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [One Page Exchange](https://onepagex.com)
 * [Cryptowolf](https://cryptowolf.eu/)
 
-#### -P2P
-##### Escrow and Peer-to-peer
+#### -Escrow and Peer-to-peer
 * [Localnano](https://www.localnano.com/)
 * [Localnanos](https://www.localnanos.com/)
 * [BuySellNano](https://buysellnano.com/)
