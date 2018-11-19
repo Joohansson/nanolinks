@@ -90,7 +90,6 @@ layout: default
 ## Latest Additions
 
 * [Nov 01: Livecoins - Nano/BRL/USD/BTC Converter](https://livecoins.com.br/nano-hoje-cotacao-nano/)
-* [Nov 02: Coinyep - Multi-Currencies Converter](https://coinyep.com/)
 * [Nov 02: Betsy - Nano/Banano PoW Middleware](https://github.com/bbedward/betsy-middleware)
 * [Nov 07: NanoPy - Functions and Tools](https://github.com/nano128/nanopy)
 * [Nov 08: Informative Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
@@ -99,6 +98,7 @@ layout: default
 * [Nov 09: NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
 * [Nov 09: FreeNanoFaucet.com](https://www.freenanofaucet.com/)
 * [Nov 16: Nanogate - Giftcards](https://nanogate.io/)
+* [Nov 19: Nanocrawler Backup](https://explorer.nano-node.space/)
 
 </div>
 
@@ -168,6 +168,7 @@ Learn everything there is to know about Nano!
 ### Network Stats and Explorers
 * [Nanode.co - Explorer, Stats](https://www.nanode.co/)
 * [NanoCrawler.cc - Explorer, Stats, Account list](https://nanocrawler.cc/)
+* [Nanocrawler Backup](https://explorer.nano-node.space/)
 * [Nano-Faucet.org - Explorer, Stats, Map, Account list](https://nano-faucet.org/stats/)
 * [Repnode.org - Explorer, Stats, Reps](https://repnode.org/)
 * [Nanowatch - Explorer, Graphic Visualizer](https://nanowat.ch/)
