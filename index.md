@@ -41,17 +41,17 @@ layout: default
   </tr>
   <tr>
     <td>Nano</td>
-    <td>0 *1</td>
-    <td>3-20 *3</td>
-    <td>70-7000 *5</td>
-    <td>0.112 *7</td>
+    <td>0 <span class="stext">*1</span></td>
+    <td>3-20 <span class="stext">*3</span></td>
+    <td>70-7000 <span class="stext">*5</span></td>
+    <td>0.112 <span class="stext">*7</span></td>
   </tr>
   <tr>
     <td>Bitcoin</td>
-    <td>Fee market *2</td>
-    <td>600-3600 *4</td>
-    <td>7 *6</td>
-    <td>950,000 *8</td>
+    <td>Fee market <span class="stext">*2</span></td>
+    <td>600-3600 <span class="stext">*4</span></td>
+    <td>7 <span class="stext">*6</span></td>
+    <td>950,000 <span class="stext">*8</span></td>
   </tr>
   <tr>
     <td><strong>Multipliers</strong></td>
@@ -71,6 +71,7 @@ layout: default
   <p>*7 Static value based on PoW needed for each transaction.</p>
   <p>*8 Dynamic value as of mid 2018. Depends on hashrate which depends on market. Also depends of current tps.</p>
 </div>
+<br/>
 <h3><strong>The Green Choice</strong></h3>
 <p><ul>
   <li>A Vestas V164 wind turbine can power 118,000 nano transactions PER REVOLUTION! Enough to power nano at 23,500 TPS.</li>
