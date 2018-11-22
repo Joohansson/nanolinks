@@ -44,7 +44,7 @@ layout: default
     <td>0<span class="stext2">*1</span></td>
     <td>3-20<span class="stext2">*3</span></td>
     <td>70-7000<span class="stext2">*5</span></td>
-    <td>0.112<span class="stext2">*7</span></td>
+    <td>0.032<span class="stext2">*7</span></td>
   </tr>
   <tr>
     <td>Bitcoin</td>
@@ -68,15 +68,15 @@ layout: default
   <p>*4 Depends on the fee. A high fee typically results in transactions to be cleared in 10min but with lower fee take 1h or more.</p>
   <p>*5 Limited by node hardware. 7000 tps from early lab test. No real test on mainnet has been made yet but 15000 peak tps and 75 sustained tps has been measured by the community.</p>
   <p>*6 Hardcoded maximum allowed per block.</p>
-  <p>*7 Static value based on PoW needed for each transaction.</p>
-  <p>*8 Dynamic value as of mid 2018. Depends on hashrate which depends on market. Also depends of current tps.</p>
+  <p>*7 Mid 2018 value based on PoW needed for each tx. Reference: GTX1070 GPU at 100W + 100W computer.</p>
+  <p>*8 Mid 2018 value. Depends on hashrate which depends on market. Also depends of current tps.</p>
 </div>
 <br/>
 <h3><strong>The Green Choice</strong></h3>
 <p><ul>
-  <li>A Vestas V164 wind turbine can power 117,500 nano transactions PER REVOLUTION! Enough to power nano at 23,500 TPS.</li>
-  <li>1 nano tx is equivalent of a 7W LED lamp to shine for 1 sec.</li>
-  <li>2 square meters of solar panels can power nano at 1 TPS.</li>
+  <li>A Vestas V164 wind turbine can power 411,250 nano transactions, per revolution! Enough to power 82,250 tx/sec.</li>
+  <li>4 square meters of solar panels can power 7 nano TPS.</li>
+  <li>1 nano tx is equivalent of a 2W LED lamp to shine for 1 sec.</li>
 </ul></p>
 
 <div class="line"></div>
