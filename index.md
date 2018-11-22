@@ -58,7 +58,7 @@ layout: default
     <td><strong>Infinite</strong></td>
     <td><strong>200x</strong></td>
     <td><strong>10-1000x</strong></td>
-    <td><strong>1/8,500,000x</strong></td>
+    <td><strong>1/29,750,000x</strong></td>
   </tr>
 </table>
 <div class="stext">
