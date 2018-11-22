@@ -219,7 +219,7 @@ ul {
   }
 }
 
-//Small text
+//Small text under table
 .stext {
   @include large {
     margin-top: 0.5em;
@@ -238,6 +238,12 @@ ul {
     margin-left: 10px;
     font-size: 0.5em;
   }
+}
+
+//Small text in table
+.stext2 {
+  margin-left: 5px;
+  font-size: 0.7em;
 }
 
 //Image subtitle
