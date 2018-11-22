@@ -41,17 +41,17 @@ layout: default
   </tr>
   <tr>
     <td>Nano</td>
-    <td>0 <span class="stext">*1</span></td>
-    <td>3-20 <span class="stext">*3</span></td>
-    <td>70-7000 <span class="stext">*5</span></td>
-    <td>0.112 <span class="stext">*7</span></td>
+    <td>0<span class="stext2">*1</span></td>
+    <td>3-20<span class="stext2">*3</span></td>
+    <td>70-7000<span class="stext2">*5</span></td>
+    <td>0.112<span class="stext2">*7</span></td>
   </tr>
   <tr>
     <td>Bitcoin</td>
-    <td>Fee market <span class="stext">*2</span></td>
-    <td>600-3600 <span class="stext">*4</span></td>
-    <td>7 <span class="stext">*6</span></td>
-    <td>950,000 <span class="stext">*8</span></td>
+    <td>Fee market<span class="stext2">*2</span></td>
+    <td>600-3600<span class="stext2">*4</span></td>
+    <td>7<span class="stext2">*6</span></td>
+    <td>950,000<span class="stext2">*8</span></td>
   </tr>
   <tr>
     <td><strong>Multipliers</strong></td>
