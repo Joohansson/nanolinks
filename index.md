@@ -76,7 +76,7 @@ layout: default
 <p><ul>
   <li>A Vestas V164 wind turbine can power 118,000 nano transactions PER REVOLUTION! Enough to power nano at 23,500 TPS.</li>
   <li>1 nano tx is equivalent of a 7W LED lamp to shine for 1 sec.</li>
-  <li>2 sqare meters of solar panels can power whole nano network at 1 TPS.</li>
+  <li>2 square meters of solar panels can power whole nano network at 1 TPS.</li>
 </ul></p>
 
 <div class="line"></div>
