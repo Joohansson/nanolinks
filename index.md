@@ -30,7 +30,7 @@ layout: default
 </div>
 <p class="intro"><strong>Nano is a 3rd generation cryptocurrency with zero fees, instant transactions and high scalability. Each account is part of a Directed Acyclic Graph (DAG), which results in lightweight nodes that requires no mining, thus very low environmental impact. These features makes Nano ideal for peer-to-peer transactions, donations and purchases in everyday life all around the world! Feel free to browse this page to know more about Nano, how it can be used and how to obtain it.</strong></p>
 
-<p><strong>Simple Comparison</strong></p>
+<h3><strong>Simple Comparison</strong></h3>
 <table>
   <tr>
     <th>Coin</th>
@@ -41,32 +41,42 @@ layout: default
   </tr>
   <tr>
     <td>Nano</td>
-    <td>0</td>
-    <td>3-20 *</td>
-    <td>70-7000 **</td>
-    <td>0.112</td>
+    <td>0 *1</td>
+    <td>3-20 *3</td>
+    <td>70-7000 *5</td>
+    <td>0.112 *7</td>
   </tr>
   <tr>
     <td>Bitcoin</td>
-    <td>Fee market ***</td>
-    <td>600-3600 ****</td>
-    <td>7</td>
-    <td>950,000</td>
+    <td>Fee market *2</td>
+    <td>600-3600 *4</td>
+    <td>7 *6</td>
+    <td>950,000 *8</td>
   </tr>
   <tr>
-    <td><strong>Multiplier</strong></td>
+    <td><strong>Multipliers</strong></td>
     <td><strong>Infinite</strong></td>
     <td><strong>200x</strong></td>
     <td><strong>10-1000x</strong></td>
-    <td><strong>8,500,000x</strong></td>
+    <td><strong>1/8,500,000x</strong></td>
   </tr>
 </table>
 <div class="stext">
-  <p>*Depends on wallet and node hardware. Transaction Proof of Work can be pre-calculated making the transactions instant.</p>
-  <p>**Limited by node hardware. 7000 tps from early lab test. No real test on mainnet has been made yet but 15000 peak tps and 75 sustained tps has been measured by the community.</p>
-  <p>***Typically around 0.1-1 USD/transaction but was $37 while network was saturated. No upper limit and controlled by demand.</p>
-  <p>****Depends on the fee. A high fee typically results in transactions to be cleared in 10min but with lower fee take 1h or more.</p>
+  <p>*1 No mining, no fees.</p>
+  <p>*2 Typically around 0.1-1 USD/transaction but was $37 while network was saturated. No upper limit and controlled by demand.</p>
+  <p>*3 Depends on wallet and node hardware. Transaction Proof of Work can be pre-calculated making the transactions very fast.</p>
+  <p>*4 Depends on the fee. A high fee typically results in transactions to be cleared in 10min but with lower fee take 1h or more.</p>
+  <p>*5 Limited by node hardware. 7000 tps from early lab test. No real test on mainnet has been made yet but 15000 peak tps and 75 sustained tps has been measured by the community.</p>
+  <p>*6 Hardcoded maximum allowed per block.</p>
+  <p>*7 Static value based on PoW needed for each transaction.</p>
+  <p>*8 Dynamic value as of mid 2018. Depends on hashrate which depends on market. Also depends of current tps.</p>
 </div>
+<h3><strong>The Green Choice</strong></h3>
+<p><ul>
+  <li>A Vestas V164 wind turbine can power 118,000 nano transactions PER REVOLUTION! Enough to power nano at 23,500 TPS.</li>
+  <li>1 nano tx is equivalent of a 7W LED lamp to shine for 1 sec.</li>
+  <li>2 sqare meters of solar panels can power whole nano network at 1 TPS.</li>
+</ul></p>
 
 <div class="line"></div>
 
