@@ -100,7 +100,6 @@ layout: default
 
 ## Latest Additions
 
-* [Nov 01: Livecoins - Nano/BRL/USD/BTC Converter](https://livecoins.com.br/nano-hoje-cotacao-nano/)
 * [Nov 02: Betsy - Nano/Banano PoW Middleware](https://github.com/bbedward/betsy-middleware)
 * [Nov 07: NanoPy - Functions and Tools](https://github.com/nano128/nanopy)
 * [Nov 08: Informative Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
@@ -110,6 +109,7 @@ layout: default
 * [Nov 09: FreeNanoFaucet.com](https://www.freenanofaucet.com/)
 * [Nov 16: Nanogate - Giftcards](https://nanogate.io/)
 * [Nov 19: Nanocrawler Backup](https://explorer.nano-node.space/)
+* [Nov 23: Nano Wallpapers](https://www.nano-wallpapers.com/)
 
 </div>
 
@@ -445,6 +445,7 @@ Do you have some free time? There are much fun to do but please proceed with cau
 
 ### Video, Music, Art
 * [The Nanoji Generator](https://www.nanojigenerator.com/)
+* [Nano Wallpapers](https://www.nano-wallpapers.com/)
 
 ## Services
 * [Put.io - File Serving](https://put.io)
