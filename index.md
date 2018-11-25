@@ -183,7 +183,7 @@ Learn everything there is to know about Nano!
 * [Nano-Faucet.org - Explorer, Stats, Map, Account list](https://nano-faucet.org/stats/)
 * [Repnode.org - Explorer, Stats, Reps](https://repnode.org/)
 * [Nanowatch - Explorer, Graphic Visualizer](https://nanowat.ch/)
-* [Nano Node Ninja - Stats, Representatives](https://nanonode.ninja/)
+* [My Nano Ninja - Representatives, Stats, Explorer](https://mynano.ninja/)
 * [XRB Network - Map Visualizer](http://xrb.network/)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
 * [TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
@@ -334,7 +334,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 ### Project Specific Development Channels
 * [Discord: Canoe Wallet](https://discord.gg/ecVcJM3)
 * [Discord: Nanoblocks Wallet](https://discord.gg/n76DkEt)
-* [Discord: Nano Node Ninja](https://discord.me/nanonodeninja)
+* [Discord: My Nano Ninja](https://discord.me/nanonodeninja)
 * [Discord: The Nano Center](https://discord.gg/yhBuXMm)
 * [Discord: Brainblocks](https://discord.gg/MwaQcVM)
 * [Reddit: Jolt Wallet](https://www.reddit.com/r/joltwallet)
