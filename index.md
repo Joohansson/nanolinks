@@ -100,7 +100,6 @@ layout: default
 
 ## Latest Additions
 
-* [Nov 02: Betsy - Nano/Banano PoW Middleware](https://github.com/bbedward/betsy-middleware)
 * [Nov 07: NanoPy - Functions and Tools](https://github.com/nano128/nanopy)
 * [Nov 08: Informative Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
 * [Nov 09: Dropil - Graphical Paper Wallet](https://paper.dropil.com)
@@ -110,6 +109,7 @@ layout: default
 * [Nov 16: Nanogate - Giftcards](https://nanogate.io/)
 * [Nov 19: Nanocrawler Backup](https://explorer.nano-node.space/)
 * [Nov 23: Nano Wallpapers](https://www.nano-wallpapers.com/)
+* [Nov 25: Coinpaprika](https://coinpaprika.com/coin/nano-nano/)
 
 </div>
 
@@ -268,6 +268,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 ### Market Data, Analysis & Tickers
 * [Coinmarketcap](https://coinmarketcap.com/currencies/nano/)
+* [Coinpaprika](https://coinpaprika.com/coin/nano-nano/)
 * [Bitscreener](https://bitscreener.com/coins/nano)
 * [CoinFYI](https://coin.fyi/coins/nano)
 * [Cryptoreport](https://cryptoreport.com/nano/NANO)
