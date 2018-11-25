@@ -58,7 +58,7 @@ layout: default
     <td><strong>Infinite</strong></td>
     <td><strong>200x</strong></td>
     <td><strong>10-1000x</strong></td>
-    <td><strong>1/29,687,500x</strong></td>
+    <td><strong>1/30,000,000x</strong></td>
   </tr>
 </table>
 <div class="stext">
@@ -74,7 +74,7 @@ layout: default
 <br/>
 <h3><strong>The Green Choice</strong></h3>
 <p><ul>
-  <li>A Vestas V164 wind turbine can power 411,250 nano transactions, per revolution! Enough to power 82,250 tx/sec.</li>
+  <li>A Vestas V164 wind turbine can power 400,000 nano transactions, per revolution! Enough to power 80,000 tx/sec.</li>
   <li>4 square meters of solar panels can power 7 nano TPS.</li>
   <li>1 nano tx is equivalent of a 2W LED lamp to shine for 1 sec.</li>
 </ul></p>
