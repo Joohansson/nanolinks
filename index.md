@@ -75,7 +75,7 @@ layout: default
 <h3><strong>The Green Choice</strong></h3>
 <p><ul>
   <li>A Vestas V164 wind turbine can power 400,000 nano transactions, per revolution! Enough to power 80,000 tx/sec.</li>
-  <li>4 square meters of solar panels can power 7 nano TPS.</li>
+  <li>4 square meters of solar panels can power 7 tx/sec.</li>
   <li>1 nano tx is equivalent of a 2W LED lamp to shine for 1 sec.</li>
 </ul></p>
 
