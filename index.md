@@ -109,7 +109,7 @@ layout: default
 * [Nov 19: Nanocrawler Backup](https://explorer.nano-node.space/)
 * [Nov 23: Nano Wallpapers](https://www.nano-wallpapers.com/)
 * [Nov 25: Coinpaprika](https://coinpaprika.com/coin/nano-nano/)
-* [Nov 26: Frequently_Asked_Concerns - Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAC_(Frequently_Asked_Concerns))
+* [Nov 26: Frequently Asked Concerns - Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAC_(Frequently_Asked_Concerns))
 
 </div>
 
@@ -152,7 +152,7 @@ Learn everything there is to know about Nano!
 * [Nano Venezuela](http://www.nanovenezuela.org/)
 * [Informative Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 * [Informative Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
-* [Frequently_Asked_Concerns - Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAC_(Frequently_Asked_Concerns))
+* [Frequently Asked Concerns - Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAC_(Frequently_Asked_Concerns))
 
 ### Video Channels
 * [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
