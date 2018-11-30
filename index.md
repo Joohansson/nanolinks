@@ -43,21 +43,21 @@ layout: default
     <td>Nano</td>
     <td>0<span class="stext2">*1</span></td>
     <td>3-20<span class="stext2">*3</span></td>
-    <td>70-7000<span class="stext2">*5</span></td>
+    <td>100-1000<span class="stext2">*5</span></td>
     <td>0.032<span class="stext2">*7</span></td>
   </tr>
   <tr>
     <td>Bitcoin</td>
     <td>Fee market<span class="stext2">*2</span></td>
     <td>600-3600<span class="stext2">*4</span></td>
-    <td>7<span class="stext2">*6</span></td>
+    <td>10<span class="stext2">*6</span></td>
     <td>950,000<span class="stext2">*8</span></td>
   </tr>
   <tr>
     <td><strong>Multipliers</strong></td>
     <td><strong>Infinite</strong></td>
     <td><strong>200x</strong></td>
-    <td><strong>10-1000x</strong></td>
+    <td><strong>10-100x</strong></td>
     <td><strong>1/30,000,000x</strong></td>
   </tr>
 </table>
@@ -66,8 +66,8 @@ layout: default
   <p>*2 Typically around 0.1-1 USD/transaction but was $37 while network was saturated. No upper limit and controlled by demand.</p>
   <p>*3 Depends on wallet and node hardware. Transaction Proof of Work can be pre-calculated making the transactions very fast.</p>
   <p>*4 Depends on the fee. A high fee typically results in transactions to be cleared in 10min but with lower fee take 1h or more.</p>
-  <p>*5 Limited by node hardware. 7000 tps from early lab test. No real test on mainnet has been made yet but 15000 peak tps and 75 sustained tps has been measured by the community.</p>
-  <p>*6 Hardcoded maximum allowed per block.</p>
+  <p>*5 Only limited by node hardware. 7000 TPS was done in early lab. No real test on mainnet has been made yet but will be as soon as planned protocol optimizations have been done. 100 TPS has already been seen on the network.</p>
+  <p>*6 Estimated hardcoded maximum allowed per block with Segwit.</p>
   <p>*7 Mid 2018 value based on PoW needed for each tx. Reference: GTX1070 GPU at 100W + 100W computer.</p>
   <p>*8 Mid 2018 value. Depends on hashrate which depends on market. Also depends of current tps.</p>
 </div>
