@@ -100,7 +100,6 @@ layout: default
 
 ## Latest Additions
 
-* [Nov 08: Informative Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
 * [Nov 09: Dropil - Graphical Paper Wallet](https://paper.dropil.com)
 * [Nov 09: Nanocap - Protocol Analyzer](https://github.com/cryptocode/nanocap)
 * [Nov 09: NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
@@ -110,6 +109,7 @@ layout: default
 * [Nov 23: Nano Wallpapers](https://www.nano-wallpapers.com/)
 * [Nov 25: Coinpaprika](https://coinpaprika.com/coin/nano-nano/)
 * [Nov 26: Frequently Asked Concerns - Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAC_(Frequently_Asked_Concerns))
+* [Nov 30: DPoW Work Server](https://github.com/guilhermelawless/dpow-work-server)
 
 </div>
 
@@ -408,6 +408,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [NanoLightServer](https://github.com/NanoDevs/NanoLightServer)
 * [RaiBlocksWebAssemblyPoW](https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW)
 * [Nano Work Server](https://github.com/nanocurrency/nano-work-server)
+* [DPoW Work Server](https://github.com/guilhermelawless/dpow-work-server)
 * [Rai Ex - Elixir Client](https://github.com/willHol/rai_ex)
 * [NanoPoW - PoW Generator in Golang](https://github.com/serdaroquai/nanopow)
 * [Distributed PoW System - Python Client](https://github.com/jamescoxon/nano_distributed_pow_client)
