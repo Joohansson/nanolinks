@@ -100,7 +100,6 @@ layout: default
 
 ## Latest Additions
 
-* [Nov 09: Nanocap - Protocol Analyzer](https://github.com/cryptocode/nanocap)
 * [Nov 09: NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
 * [Nov 09: FreeNanoFaucet.com](https://www.freenanofaucet.com/)
 * [Nov 16: Nanogate - Giftcards](https://nanogate.io/)
@@ -110,6 +109,7 @@ layout: default
 * [Nov 26: Frequently Asked Concerns - Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAC_(Frequently_Asked_Concerns))
 * [Nov 30: DPoW Work Server](https://github.com/guilhermelawless/dpow-work-server)
 * [Dec 02: Bitladon - Fiat gateway exchange](https://www.bitladon.com/nano)
+* [Dec 02: Distributed PoW System - Dashboard](https://distributedpow.tk/)
 
 </div>
 
@@ -415,6 +415,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Distributed PoW System - Python Client](https://github.com/jamescoxon/nano_distributed_pow_client)
 * [Distributed PoW System - Web Client](https://nanopow.github.io/web/)
 * [Distributed PoW System - Server](https://github.com/jamescoxon/nano_dpow_server)
+* [Distributed PoW System - Dashboard](https://distributedpow.tk/)
 * [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
 * [Betsy - Nano/Banano PoW Middleware](https://github.com/bbedward/betsy-middleware)
 * [Nano-Prettify - Format Nano Raw Amounts in JavaScript](https://github.com/kilkelly/nano-prettify)
