@@ -100,7 +100,6 @@ layout: default
 
 ## Latest Additions
 
-* [Nov 09: Dropil - Graphical Paper Wallet](https://paper.dropil.com)
 * [Nov 09: Nanocap - Protocol Analyzer](https://github.com/cryptocode/nanocap)
 * [Nov 09: NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
 * [Nov 09: FreeNanoFaucet.com](https://www.freenanofaucet.com/)
@@ -110,6 +109,7 @@ layout: default
 * [Nov 25: Coinpaprika](https://coinpaprika.com/coin/nano-nano/)
 * [Nov 26: Frequently Asked Concerns - Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAC_(Frequently_Asked_Concerns))
 * [Nov 30: DPoW Work Server](https://github.com/guilhermelawless/dpow-work-server)
+* [Dec 02: Bitladon - Fiat gateway exchange](https://www.bitladon.com/nano)
 
 </div>
 
@@ -209,6 +209,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Binance](https://www.binance.com)
 * [KuCoin](https://www.kucoin.com)
 * [OkEx](https://www.okex.com/)
+* [Huobi](https://www.huobi.com/en-us/)
 * [CoinFalcon](https://coinfalcon.com/)
 * [Mercatox](https://mercatox.com/)
 * [Bitflip](https://bitflip.li/)
@@ -222,7 +223,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Koinex](https://koinex.in/)
 * [Coinbene](https://www.coinbene.com)
 * [Bitinka](https://www.bitinka.com)
-* [Huobi](https://www.huobi.com/en-us/)
+* [Bitladon](https://www.bitladon.com/nano)
 
 #### Quick Crypto Swap/Buy
 ##### Simplest way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.
