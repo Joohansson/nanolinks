@@ -292,10 +292,7 @@ figure {
 //Nano logo
 #logo {
   z-index: -999;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: 0.2em;
-  width: 80%;
+  width: 100%;
   display: block;
 }
 
@@ -303,6 +300,11 @@ figure {
 .first-header {
   margin-top: 0;
   margin-bottom: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  padding-top: 0.2em;
 }
 
 //Intro text
