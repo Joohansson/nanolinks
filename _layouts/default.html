@@ -58,7 +58,7 @@
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
   <script src="../src/p.min.js"></script>
   <script>
-        w = Math.min(Math.round($(window).width()*0.85),convertRemToPixels(85));
+        w = Math.min(Math.round($(window).width()*0.85),convertRemToPixels(80));
         h = Math.round(w/10.37);
         nextParticle = new NextParticle({
                 image: document.all.logo,
@@ -79,10 +79,10 @@
                 //layerDistance: 5,
                 //depth: 6,
                 //color: '#000000',
-                initPosition: 'random',
-                initDirection: 'random',
-                fadePosition: 'random',
-                fadeDirection: 'random'
+                initPosition: 'top',
+                initDirection: 'top',
+                fadePosition: 'top',
+                fadeDirection: 'top'
         });
 
         //window.onclick = function() {
