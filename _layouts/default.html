@@ -85,13 +85,13 @@
                 fadeDirection: 'random'
         });
 
-        window.onclick = function() {
-                nextParticle.stop();
-        };
+        //window.onclick = function() {
+                //nextParticle.stop();
+        //};
 
-        nextParticle.on('stopped', function() {
-                nextParticle.start();
-        });
+        //nextParticle.on('stopped', function() {
+                //nextParticle.start();
+        //});
     
         window.onresize = function() {
                 w = Math.min(Math.round($(window).width()*0.8),convertRemToPixels(80));
