@@ -54,4 +54,57 @@
       </script>
     {% endif %}
   </body>
+  
+  <script src="src/nextparticle.min.js"></script>
+  <script>
+        w = Math.min(Math.round($(window).width()*0.8),convertRemToPixels(80));
+        h = Math.round(w/10.37);
+        nextParticle = new NextParticle({
+                image: document.all.logo,
+                addTimestamp: true,
+                width: w,
+                height: h,
+                minWidth: w,
+                minHeight: h,
+                maxWidth: w,
+                maxHeight: h,
+                particleGap: 1,
+                gravity: 0.1,
+                noise: 5,
+                mouseForce: 10,
+                //renderer:'webgl',
+                //particleSize: 2,
+                //layerCount: 1,
+                //layerDistance: 5,
+                //depth: 6,
+                //color: '#000000',
+                initPosition: 'random',
+                initDirection: 'random',
+                fadePosition: 'random',
+                fadeDirection: 'random'
+        });
+
+        window.onclick = function() {
+                nextParticle.stop();
+        };
+
+        nextParticle.on('stopped', function() {
+                nextParticle.start();
+        });
+    
+        window.onresize = function() {
+                w = Math.min(Math.round($(window).width()*0.8),convertRemToPixels(80));
+                h = Math.round(w/10.37);
+                nextParticle.width = w
+                nextParticle.height = h
+                nextParticle.minWidth = w
+                nextParticle.minHeight = h
+                nextParticle.maxWidth = w
+                nextParticle.maxHeight = h
+                nextParticle.start();
+        };
+
+        function convertRemToPixels(rem) {
+                return rem * parseFloat(getComputedStyle(document.documentElement).fontSize);
+        }
 </html>
