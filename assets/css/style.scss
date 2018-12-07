@@ -292,41 +292,17 @@ figure {
 //Nano logo
 #logo {
   z-index: -999;
-  @include large {
-    position: absolute;
-    top: 0;
-    right: 10px;
-  }
-
-  @include medium {
-    position: absolute;
-    top: 0;
-    right: 10px;
-  }
-
-  @include small {
-    padding: 0;
-    margin: 0;
-  }
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0.2em;
+  width: 100%;
+  display: block;
 }
 
-//First header plus logo
-#firstHeader {
-  @include large {
-    position: relative;
-    height: 75px;
-    line-height: 75px;
-  }
-
-  @include medium {
-    position: relative;
-    height: 75px;
-    line-height: 75px;
-  }
-
-  @include small {
-    
-  }
+//Logo container
+.first-header {
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 //Intro text
