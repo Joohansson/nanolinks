@@ -216,7 +216,7 @@ ul {
 .main-content {
   @include large {
     max-width: 90em !important;
-    padding: 0 !important;
+    padding: 0 2em !important;
   }
 }
 
