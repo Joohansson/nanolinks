@@ -67,80 +67,99 @@
         maxW = 800; //Max width to animate
         hasInit = false;
 
-        if (w >= maxW) {
-                init();
+        if (w >= maxW  && !isTouchDevice()) {
+          init();
         }
         else {
-                $("#logo").show();
+          $("#logo").show();
         }
 
         function init() {
-                hasInit = true;
-                nextParticle = new NextParticle({
-                        image: document.all.logo,
-                        addTimestamp: true,
-                        width: w,
-                        height: h,
-                        minWidth: w,
-                        minHeight: h,
-                        maxWidth: w,
-                        maxHeight: h,
-                        particleGap: 1,
-                        gravity: 0.1,
-                        noise: 5,
-                        mouseForce: 30,
-                        //renderer:'webgl',
-                        //particleSize: 2,
-                        //layerCount: 1,
-                        //layerDistance: 5,
-                        //depth: 6,
-                        //color: '#000000',
-                        initPosition: 'top',
-                        initDirection: 'top',
-                        fadePosition: 'top',
-                        fadeDirection: 'top'
-                });
+          hasInit = true;
+          nextParticle = new NextParticle({
+                  image: document.all.logo,
+                  addTimestamp: true,
+                  width: w,
+                  height: h,
+                  minWidth: w,
+                  minHeight: h,
+                  maxWidth: w,
+                  maxHeight: h,
+                  particleGap: 1,
+                  gravity: 0.1,
+                  noise: 5,
+                  mouseForce: 30,
+                  //renderer:'webgl',
+                  //particleSize: 2,
+                  //layerCount: 1,
+                  //layerDistance: 5,
+                  //depth: 6,
+                  //color: '#000000',
+                  initPosition: 'top',
+                  initDirection: 'top',
+                  fadePosition: 'top',
+                  fadeDirection: 'top'
+          });
 
-                nextParticle.on('stopped', function() {
-                        $("#logo").show();
-                });
+          nextParticle.on('stopped', function() {
+            $("#logo").show();
+          });
         };
     
         window.onresize = function() {
-                w = Math.min(Math.round($(window).width()*0.8),convertRemToPixels(80));
-                h = Math.round(w/10.37);
+          w = Math.min(Math.round($(window).width()*0.8),convertRemToPixels(80));
+          h = Math.round(w/10.37);
 
-                checkWidth(w,h);
+          checkWidth(w,h);
         };
 
         function convertRemToPixels(rem) {
-                return rem * parseFloat(getComputedStyle(document.documentElement).fontSize);
+          return rem * parseFloat(getComputedStyle(document.documentElement).fontSize);
         };
     
         function checkWidth(w,h) {
-                if (w < maxW && hasInit) {
-                        nextParticle.width = 10;
-                        nextParticle.height = 2;
-                        nextParticle.minWidth = 10;
-                        nextParticle.minHeight = 2;
-                        nextParticle.maxWidth = 10;
-                        nextParticle.maxHeight = 2;
-                        nextParticle.start();
-                        nextParticle.stop();
-                }
-                else if (w >= maxW) {
-                        if (!hasInit) {
-                                init();
-                        }
-                        nextParticle.width = w;
-                        nextParticle.height = h;
-                        nextParticle.minWidth = w;
-                        nextParticle.minHeight = h;
-                        nextParticle.maxWidth = w;
-                        nextParticle.maxHeight = h;
-                        $("#logo").hide();
-                        nextParticle.start();
-                }
+          if (isTouchDevice()) {
+            return;
+          }
+          if (w < maxW && hasInit) {
+            nextParticle.width = 10;
+            nextParticle.height = 2;
+            nextParticle.minWidth = 10;
+            nextParticle.minHeight = 2;
+            nextParticle.maxWidth = 10;
+            nextParticle.maxHeight = 2;
+            nextParticle.start();
+            nextParticle.stop();
+          }
+          else if (w >= maxW) {
+            if (!hasInit) {
+              init();
+            }
+            nextParticle.width = w;
+            nextParticle.height = h;
+            nextParticle.minWidth = w;
+            nextParticle.minHeight = h;
+            nextParticle.maxWidth = w;
+            nextParticle.maxHeight = h;
+            $("#logo").hide();
+            nextParticle.start();
+          }
+        };
+    
+        function isTouchDevice() {
+          var prefixes = ' -webkit- -moz- -o- -ms- '.split(' ');
+          var mq = function(query) {
+            return window.matchMedia(query).matches;
+          }
+
+          if (('ontouchstart' in window) || window.DocumentTouch && document instanceof DocumentTouch) {
+            return true;
+          }
+
+          // include the 'heartz' as a way to have a non matching MQ to help terminate the join
+          // https://git.io/vznFH
+          var query = ['(', prefixes.join('touch-enabled),('), 'heartz', ')'].join('');
+          return mq(query);
         };
     </script>
 </html>
