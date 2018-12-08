@@ -24,7 +24,7 @@ layout: default
   </div>
 </nav>
 
-<div class="first-header">
+<div id="logo-click" class="first-header">
   <img id="logo" class="part-logo" src="https://raw.githubusercontent.com/Joohansson/nanolinks/master/src/logo_wide2.png" alt="" style="display:none;"/>
   <img id="logo1" class="part-logo" src="https://raw.githubusercontent.com/Joohansson/nanolinks/master/src/logo_wide_s.png" alt="" style="display:none;"/>
   <img id="logo2" class="part-logo" src="https://raw.githubusercontent.com/Joohansson/nanolinks/master/src/logo_wide_2_s.png" alt="" style="display:none;"/>
