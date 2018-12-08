@@ -104,7 +104,6 @@ layout: default
 
 ## Latest Additions
 
-* [Nov 09: NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
 * [Nov 09: FreeNanoFaucet.com](https://www.freenanofaucet.com/)
 * [Nov 16: Nanogate - Giftcards](https://nanogate.io/)
 * [Nov 19: Nanocrawler Backup](https://explorer.nano-node.space/)
@@ -114,6 +113,7 @@ layout: default
 * [Nov 30: DPoW Work Server](https://github.com/guilhermelawless/dpow-work-server)
 * [Dec 02: Bitladon - Fiat gateway exchange](https://www.bitladon.com/nano)
 * [Dec 02: Distributed PoW System - Dashboard](https://distributedpow.tk/)
+* [Dec 08: Nanio - RPC Gateway, API Browser](https://github.com/rbw/nanio)
 
 </div>
 
@@ -401,6 +401,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Python - RPC Client](https://github.com/dourvaris/nano-python)
 * [NanoPy - Functions and Tools](https://github.com/nano128/nanopy)
 * [Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
+* [Nanio - RPC Gateway, API Browser](https://github.com/rbw/nanio)
 * [Nanook - Ruby Lib for RPC](https://github.com/lukes/nanook)
 * [Ruby Nano RPC - RPC Wrapper for Ruby](https://github.com/jcraigk/ruby_nano_rpc)
 * [Raiblocks PHP](https://github.com/jaimehgb/RaiBlocksPHP)
