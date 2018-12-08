@@ -65,19 +65,26 @@
         w = Math.min(Math.round($(window).width()*0.85),convertRemToPixels(85));
         h = Math.round(w/10.37);
         maxW = 800; //Max width to animate
-        hasInit = false;
+        logos = [document.all.logo1, document.all.logo2, document.all.logo3, document.all.logo4, document.all.logo5];
+        parts = []; //Containing particles (normally 1)
+        activePart = 0; //Current logo number
+        stopAnim = false; //Indicate if static logo should be shown when particles stop
+        switchLogo = false;
 
         if (w >= maxW  && !isTouchDevice()) {
-          init();
+          init(logos[0]);
         }
         else {
           $("#logo").show();
         }
 
-        function init() {
-          hasInit = true;
-          nextParticle = new NextParticle({
-                  image: document.all.logo1,
+        //Show pointer cursor when hover the logo
+        $("#logo-click").css( 'cursor', 'pointer' );
+
+        //Initialize particle animation
+        function init(logoName) {
+          part = new NextParticle({
+                  image: logoName,
                   addTimestamp: true,
                   width: w,
                   height: h,
@@ -101,11 +108,34 @@
                   fadeDirection: 'top'
           });
 
-          nextParticle.on('stopped', function() {
-            $("#logo").show();
+          //Set listener when animation has stopped
+          part.on('stopped', function() {
+            if (stopAnim) {
+              stopAnim = false; //reset var
+              $("#logo").show(); //Show static image
+            }
           });
+          
+          parts.push(part); //Add particle to array
         };
     
+        //User clicks on logo
+        $("#logo-click").click(function() {
+          activePart = activePart + 1;
+          if (activePart >= logos.length) {
+            activePart = 0
+          }
+
+          //Change source image and switch
+          parts[0].image = logos[activePart];
+          parts[0].start({
+                  initPosition: 'random',
+                  initDirection: 'random',
+                  fadePosition: 'random',
+                  fadeDirection: 'random'});
+        });
+    
+        //Browser window resize
         window.onresize = function() {
           w = Math.min(Math.round($(window).width()*0.8),convertRemToPixels(80));
           h = Math.round(w/10.37);
@@ -117,32 +147,37 @@
           return rem * parseFloat(getComputedStyle(document.documentElement).fontSize);
         };
     
+        //Check if valid screen width
         function checkWidth(w,h) {
           if (isTouchDevice()) {
             return;
           }
-          if (w < maxW && hasInit) {
-            nextParticle.width = 10;
-            nextParticle.height = 2;
-            nextParticle.minWidth = 10;
-            nextParticle.minHeight = 2;
-            nextParticle.maxWidth = 10;
-            nextParticle.maxHeight = 2;
-            nextParticle.start();
-            nextParticle.stop();
+          //Hide animation and show static image instead
+          if (w < maxW && parts.length > 0) {
+            parts[0].width = 10;
+            parts[0].height = 2;
+            parts[0].minWidth = 10;
+            parts[0].minHeight = 2;
+            parts[0].maxWidth = 10;
+            parts[0].maxHeight = 2;
+            parts[0].start();
+            stopAnim = true;
+            parts[0].stop();
           }
+          
+          //Change canvas size
           else if (w >= maxW) {
-            if (!hasInit) {
-              init();
+            if (parts.length == 0) {
+              init(logos[0]);
             }
-            nextParticle.width = w;
-            nextParticle.height = h;
-            nextParticle.minWidth = w;
-            nextParticle.minHeight = h;
-            nextParticle.maxWidth = w;
-            nextParticle.maxHeight = h;
+            parts[0].width = w;
+            parts[0].height = h;
+            parts[0].minWidth = w;
+            parts[0].minHeight = h;
+            parts[0].maxWidth = w;
+            parts[0].maxHeight = h;
             $("#logo").hide();
-            nextParticle.start();
+            parts[0].start();
           }
         };
     
