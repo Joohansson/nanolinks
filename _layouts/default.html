@@ -76,6 +76,7 @@
         stopAnim = false; //Indicate if static logo should be shown when particles stop
         switchLogo = false;
         updateInterval = 5000;
+        updateIntervalLast = 10000; //last logo longer wait time
 
         //Set automatic logo switch
         logoInterval = window.setInterval(switchImage, updateInterval);
@@ -133,7 +134,7 @@
         $("#logo-click").click(function() {
           //Reset timer
           window.clearInterval(logoInterval);
-          window.setInterval(switchImage, updateInterval);
+          logoInterval = window.setInterval(switchImage, updateInterval);
           switchImage();
         });
     
@@ -154,6 +155,18 @@
                   initDirection: 'random',
                   fadePosition: 'random',
                   fadeDirection: 'random'});
+          
+          //Last logo has longer wait time
+          if (activePart == logos.length - 1) {
+            window.clearInterval(logoInterval);
+            logoInterval = window.setInterval(switchImage, updateIntervalLast); 
+          }
+          
+          //Reset normal wait time
+          else if (activePart == 0) {
+            window.clearInterval(logoInterval);
+            logoInterval = window.setInterval(switchImage, updateInterval);
+          }
         };
     
         //Browser window resize
