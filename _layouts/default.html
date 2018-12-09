@@ -70,11 +70,16 @@
         activePart = 0; //Current logo number
         stopAnim = false; //Indicate if static logo should be shown when particles stop
         switchLogo = false;
+        updateInterval = 5000;
+
+        //Set automatic logo switch
+        logoInterval = window.setInterval(switchImage, updateInterval);
 
         if (w >= maxW  && !isTouchDevice()) {
           init(logos[0]);
         }
         else {
+          stopAnim = true;
           $("#logo").show();
         }
 
@@ -121,6 +126,14 @@
     
         //User clicks on logo
         $("#logo-click").click(function() {
+          switchImage();
+        });
+    
+        function switchImage() {
+          if (stopAnim) {
+            return;
+          }
+          
           activePart = activePart + 1;
           if (activePart >= logos.length) {
             activePart = 0
@@ -133,7 +146,7 @@
                   initDirection: 'random',
                   fadePosition: 'random',
                   fadeDirection: 'random'});
-        });
+        };
     
         //Browser window resize
         window.onresize = function() {
