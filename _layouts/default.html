@@ -65,7 +65,12 @@
         w = Math.min(Math.round($(window).width()*0.85),convertRemToPixels(85));
         h = Math.round(w/10.37);
         maxW = 800; //Max width to animate
-        logos = [document.all.logo1, document.all.logo2, document.all.logo3, document.all.logo4, document.all.logo5];
+        logos = [document.all.logo1,
+                 document.all.logo2,
+                 document.all.logo3,
+                 document.all.logo4,
+                 document.all.logo5,
+                 document.all.logo6];
         parts = []; //Containing particles (normally 1)
         activePart = 0; //Current logo number
         stopAnim = false; //Indicate if static logo should be shown when particles stop
