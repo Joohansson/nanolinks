@@ -131,6 +131,9 @@
     
         //User clicks on logo
         $("#logo-click").click(function() {
+          //Reset timer
+          window.clearInterval(logoInterval);
+          window.setInterval(switchImage, updateInterval);
           switchImage();
         });
     
