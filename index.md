@@ -105,7 +105,6 @@ layout: default
 
 ## Latest Additions
 
-* [Nov 09: FreeNanoFaucet.com](https://www.freenanofaucet.com/)
 * [Nov 16: Nanogate - Giftcards](https://nanogate.io/)
 * [Nov 19: Nanocrawler Backup](https://explorer.nano-node.space/)
 * [Nov 23: Nano Wallpapers](https://www.nano-wallpapers.com/)
@@ -115,6 +114,7 @@ layout: default
 * [Dec 02: Bitladon - Fiat gateway exchange](https://www.bitladon.com/nano)
 * [Dec 02: Distributed PoW System - Dashboard](https://distributedpow.tk/)
 * [Dec 08: Nanio - RPC Gateway, API Browser](https://github.com/rbw/nanio)
+* [Dec 10: Informative Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
 
 </div>
 
@@ -155,6 +155,7 @@ Learn everything there is to know about Nano!
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
 * [Is Nano Green Yet - Environmental Impact](https://isnanogreenyet.com/)
 * [Nano Venezuela](http://www.nanovenezuela.org/)
+* [Informative Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
 * [Informative Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 * [Informative Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
 * [Frequently Asked Concerns - Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAC_(Frequently_Asked_Concerns))
