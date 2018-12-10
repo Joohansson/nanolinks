@@ -132,15 +132,16 @@
     
         //User clicks on logo
         $("#logo-click").click(function() {
-          //Reset timer
+          //Reset timer, disallow auto switch once clicked
           window.clearInterval(logoInterval);
-          logoInterval = window.setInterval(switchImage, updateInterval);
+          //logoInterval = window.setInterval(switchImage, updateInterval);
           switchLogo = false; //Disable auto switch once clicked
           switchImage();
         });
     
+        //Switch no next logo
         function switchImage() {
-          if (stopAnim || !switchLogo) {
+          if (stopAnim) {
             return;
           }
           
@@ -158,13 +159,13 @@
                   fadeDirection: 'random'});
           
           //Last logo has longer wait time
-          if (activePart == logos.length - 1) {
+          if (activePart == logos.length - 1 && switchLogo) {
             window.clearInterval(logoInterval);
             logoInterval = window.setInterval(switchImage, updateIntervalLast); 
           }
           
           //Reset normal wait time
-          else if (activePart == 0) {
+          else if (activePart == 0 && switchLogo) {
             window.clearInterval(logoInterval);
             logoInterval = window.setInterval(switchImage, updateInterval);
           }
