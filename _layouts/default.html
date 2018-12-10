@@ -74,7 +74,7 @@
         parts = []; //Containing particles (normally 1)
         activePart = 0; //Current logo number
         stopAnim = false; //Indicate if static logo should be shown when particles stop
-        switchLogo = false;
+        switchLogo = true; //Indicate if automatic switching is allowed
         updateInterval = 5000;
         updateIntervalLast = 10000; //last logo longer wait time
 
@@ -135,11 +135,12 @@
           //Reset timer
           window.clearInterval(logoInterval);
           logoInterval = window.setInterval(switchImage, updateInterval);
+          switchLogo = false; //Disable auto switch once clicked
           switchImage();
         });
     
         function switchImage() {
-          if (stopAnim) {
+          if (stopAnim || !switchLogo) {
             return;
           }
           
