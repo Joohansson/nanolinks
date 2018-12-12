@@ -105,7 +105,6 @@ layout: default
 
 ## Latest Additions
 
-* [Nov 16: Nanogate - Giftcards](https://nanogate.io/)
 * [Nov 19: Nanocrawler Backup](https://explorer.nano-node.space/)
 * [Nov 23: Nano Wallpapers](https://www.nano-wallpapers.com/)
 * [Nov 25: Coinpaprika](https://coinpaprika.com/coin/nano-nano/)
@@ -115,6 +114,7 @@ layout: default
 * [Dec 02: Distributed PoW System - Dashboard](https://distributedpow.tk/)
 * [Dec 08: Nanio - RPC Gateway, API Browser](https://github.com/rbw/nanio)
 * [Dec 10: Informative Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
+* [Dec 12: Nano Paywall - Pay to unlock wordpress content](https://github.com/nanoble-org/nano-paywall)
 
 </div>
 
@@ -372,6 +372,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Stylish QR Code Guide](https://www.reddit.com/r/nanocurrency/comments/8ym9cr/stylish_nano_qr_code_generator/)
 * [Custom QR Generator](http://nanosign.org)
 * [Nanofy - File Signing](https://nanofy.org/)
+* [Nano Paywall - Pay to unlock wordpress content](https://github.com/nanoble-org/nano-paywall)
 
 ### Wallets [Source Code]
 * [Nano Wallet Company](https://github.com/nano-wallet-company)
