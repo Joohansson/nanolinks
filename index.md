@@ -105,7 +105,6 @@ layout: default
 
 ## Latest Additions
 
-* [Nov 19: Nanocrawler Backup](https://explorer.nano-node.space/)
 * [Nov 23: Nano Wallpapers](https://www.nano-wallpapers.com/)
 * [Nov 25: Coinpaprika](https://coinpaprika.com/coin/nano-nano/)
 * [Nov 26: Frequently Asked Concerns - Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAC_(Frequently_Asked_Concerns))
@@ -115,6 +114,7 @@ layout: default
 * [Dec 08: Nanio - RPC Gateway, API Browser](https://github.com/rbw/nanio)
 * [Dec 10: Informative Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
 * [Dec 12: Nano Paywall - Pay to unlock wordpress content](https://github.com/nanoble-org/nano-paywall)
+* [Dec 12: Nano Venezuela](https://nano.org.ve/)
 
 </div>
 
@@ -154,7 +154,8 @@ Learn everything there is to know about Nano!
 * [Third Generation Cryptocurrencies](https://hackernoon.com/why-third-generation-cryptocurrencies-are-game-changers-for-venezuela-cb8c9b016f9d)
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
 * [Is Nano Green Yet - Environmental Impact](https://isnanogreenyet.com/)
-* [Nano Venezuela](http://www.nanovenezuela.org/)
+* [Nano Venezuela 1](https://nano.org.ve/)
+* [Nano Venezuela 2](http://www.nanovenezuela.org/)
 * [Informative Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
 * [Informative Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 * [Informative Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
