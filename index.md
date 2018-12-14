@@ -105,7 +105,6 @@ layout: default
 
 ## Latest Additions
 
-* [Nov 23: Nano Wallpapers](https://www.nano-wallpapers.com/)
 * [Nov 25: Coinpaprika](https://coinpaprika.com/coin/nano-nano/)
 * [Nov 26: Frequently Asked Concerns - Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAC_(Frequently_Asked_Concerns))
 * [Nov 30: DPoW Work Server](https://github.com/guilhermelawless/dpow-work-server)
@@ -115,6 +114,7 @@ layout: default
 * [Dec 10: Informative Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
 * [Dec 12: Nano Paywall - Pay to unlock wordpress content](https://github.com/nanoble-org/nano-paywall)
 * [Dec 12: Nano Venezuela](https://nano.org.ve/)
+* [Dec 14: Coinlore - Ticker](https://www.coinlore.com/coin/nano)
 
 </div>
 
@@ -277,8 +277,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 ### Market Data, Analysis & Tickers
 * [Coinmarketcap](https://coinmarketcap.com/currencies/nano/)
-* [Coinlore](https://www.coinlore.com/coin/nano)
 * [Coinpaprika](https://coinpaprika.com/coin/nano-nano/)
+* [Coinlore](https://www.coinlore.com/coin/nano)
 * [Bitscreener](https://bitscreener.com/coins/nano)
 * [CoinFYI](https://coin.fyi/coins/nano)
 * [Cryptoreport](https://cryptoreport.com/nano/NANO)
