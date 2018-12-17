@@ -105,7 +105,6 @@ layout: default
 
 ## Latest Additions
 
-* [Nov 25: Coinpaprika](https://coinpaprika.com/coin/nano-nano/)
 * [Nov 26: Frequently Asked Concerns - Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAC_(Frequently_Asked_Concerns))
 * [Nov 30: DPoW Work Server](https://github.com/guilhermelawless/dpow-work-server)
 * [Dec 02: Bitladon - Fiat gateway exchange](https://www.bitladon.com/nano)
@@ -115,6 +114,7 @@ layout: default
 * [Dec 12: Nano Paywall - Pay to unlock wordpress content](https://github.com/nanoble-org/nano-paywall)
 * [Dec 12: Nano Venezuela](https://nano.org.ve/)
 * [Dec 14: Coinlore - Ticker](https://www.coinlore.com/coin/nano)
+* [Dec 17: Nano China](https://nanochina.co/)
 
 </div>
 
@@ -154,12 +154,16 @@ Learn everything there is to know about Nano!
 * [Third Generation Cryptocurrencies](https://hackernoon.com/why-third-generation-cryptocurrencies-are-game-changers-for-venezuela-cb8c9b016f9d)
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
 * [Is Nano Green Yet - Environmental Impact](https://isnanogreenyet.com/)
-* [Nano Venezuela 1](https://nano.org.ve/)
-* [Nano Venezuela 2](http://www.nanovenezuela.org/)
 * [Informative Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
 * [Informative Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 * [Informative Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
 * [Frequently Asked Concerns - Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAC_(Frequently_Asked_Concerns))
+
+#### Targeted Countries
+* [Nano Venezuela 1](https://nano.org.ve/)
+* [Nano Venezuela 2](http://www.nanovenezuela.org/)
+* [Nano China](https://nanochina.co/)
+* [Nano Brazil Facebook Group](https://www.facebook.com/groups/RaiBlocksBrasil/)
 
 ### Video Channels
 * [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
