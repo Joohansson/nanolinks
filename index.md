@@ -105,7 +105,6 @@ layout: default
 
 ## Latest Additions
 
-* [Nov 26: Frequently Asked Concerns - Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAC_(Frequently_Asked_Concerns))
 * [Nov 30: DPoW Work Server](https://github.com/guilhermelawless/dpow-work-server)
 * [Dec 02: Bitladon - Fiat gateway exchange](https://www.bitladon.com/nano)
 * [Dec 02: Distributed PoW System - Dashboard](https://distributedpow.tk/)
@@ -115,6 +114,7 @@ layout: default
 * [Dec 12: Nano Venezuela](https://nano.org.ve/)
 * [Dec 14: Coinlore - Ticker](https://www.coinlore.com/coin/nano)
 * [Dec 17: Nano China](https://nanochina.co/)
+* [Dec 20: CoinGate - Nano Payment Service & Gateway](https://coingate.com/)
 
 </div>
 
@@ -298,6 +298,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 ### Merchant & Donation Related [No shops, too many]
 * [Brainblocks - Nano Payment Service](https://brainblocks.io/)
+* [CoinGate - Nano Payment Service & Gateway](https://coingate.com/)
 * [ArrowPay - Nano Payment Service](https://arrowpay.io/)
 * [KitePay - Nano Payment Service](https://kitepay.io/)
 * [NanoCashier - Nano Payment Service](https://nanocashier.com/)
