@@ -105,7 +105,6 @@ layout: default
 
 ## Latest Additions
 
-* [Nov 30: DPoW Work Server](https://github.com/guilhermelawless/dpow-work-server)
 * [Dec 02: Bitladon - Fiat gateway exchange](https://www.bitladon.com/nano)
 * [Dec 02: Distributed PoW System - Dashboard](https://distributedpow.tk/)
 * [Dec 08: Nanio - RPC Gateway, API Browser](https://github.com/rbw/nanio)
@@ -115,6 +114,7 @@ layout: default
 * [Dec 14: Coinlore - Ticker](https://www.coinlore.com/coin/nano)
 * [Dec 17: Nano China](https://nanochina.co/)
 * [Dec 20: CoinGate - Nano Payment Service & Gateway](https://coingate.com/)
+* [Dec 21: Coinsave - Buy/Sell Nano in Canada](https://coinsave.io/)
 
 </div>
 
@@ -242,6 +242,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [FastX](https://fastx.io/)
 * [One Page Exchange](https://onepagex.com)
 * [Cryptowolf](https://cryptowolf.eu/)
+* [Coinsave](https://coinsave.io/)
 
 #### Escrow and Peer-to-peer
 * [Localnano](https://www.localnano.com/)
