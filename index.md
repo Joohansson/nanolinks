@@ -254,7 +254,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nano Wallet Company** - OSX,Win,Linux,iOS,Android](https://nanowalletcompany.com/)
 * [**Canoe** - OSX,Win,Linux,iOS,Android,WinPhone](https://getcanoe.io/)
 * [**Nanowallet** - Web](https://nanowallet.io/)
-* [**Nanovault** - Web,Desktop](https://nanovault.io/)
+* [**Nanovault** - Web,Linux,Mac](https://nanovault.io/)
 * [**Nanollet** - Windows,Linux,Darwin](https://github.com/brokenbydefault/Nanollet)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 * [**Natrium** - Android](https://play.google.com/store/apps/details?id=co.banano.natriumwallet)
