@@ -157,7 +157,7 @@ Learn everything there is to know about Nano!
 * [Informative Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
 * [Informative Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 * [Informative Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
-* [Frequently Asked Concerns - Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAC_(Frequently_Asked_Concerns))
+* [Frequently Asked Questions and Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAQ)
 
 #### Targeted Countries
 * [Nano Venezuela 1](https://nano.org.ve/)
