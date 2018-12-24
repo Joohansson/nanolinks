@@ -105,8 +105,6 @@ layout: default
 
 ## Latest Additions
 
-* [Dec 02: Bitladon - Fiat gateway exchange](https://www.bitladon.com/nano)
-* [Dec 02: Distributed PoW System - Dashboard](https://distributedpow.tk/)
 * [Dec 08: Nanio - RPC Gateway, API Browser](https://github.com/rbw/nanio)
 * [Dec 10: Informative Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
 * [Dec 12: Nano Paywall - Pay to unlock wordpress content](https://github.com/nanoble-org/nano-paywall)
@@ -115,6 +113,8 @@ layout: default
 * [Dec 17: Nano China](https://nanochina.co/)
 * [Dec 20: CoinGate - Nano Payment Service & Gateway](https://coingate.com/)
 * [Dec 21: Coinsave - Buy/Sell Nano in Canada](https://coinsave.io/)
+* [Dec 24: Nano SpeedTest - Test real nano transactions](https://nanospeed.live)
+* [Dec 24: Guide: How to secure your Nano](https://medium.com/@d84/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
 
 </div>
 
@@ -157,6 +157,7 @@ Learn everything there is to know about Nano!
 * [Informative Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
 * [Informative Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 * [Informative Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
+* [Guide: How to secure your Nano](https://medium.com/@d84/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
 * [Frequently Asked Questions and Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAQ)
 
 #### Targeted Countries
@@ -203,6 +204,7 @@ Learn everything there is to know about Nano!
 * [Are We Decentralized Yet](https://arewedecentralizedyet.com/)
 * [Blocktivity - Utilization Comparision](https://blocktivity.info/)
 * [Nano Charts - Representative stats](https://nanocharts.info/)
+* [Nano SpeedTest - Test real nano transactions](https://nanospeed.live)
 
 </div>
 <div class="line line-small"></div>
