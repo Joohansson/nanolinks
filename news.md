@@ -17,10 +17,9 @@ layout: default
   </div>
 </nav>
 
-<div class="first-header">
-	<img class="logo" src="../src/logo_news.png" alt="Logo"/>
-</div>
-<p class="intro"><strong>Great news easily gets buried in a continuous media flow like Reddit and Discord. Here we try to keep track of the most important ones as a news archive.</strong></p>
+<img class="logo" src="src/logo_news.png" alt="Logo"/>
+<p class="intro"><strong>Great news easily gets buried in a continuous media flow like Reddit and Discord. Here we try to keep track of the most important ones as a news archive.</strong><br>
+<a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info/news&edit-text=&act=url">Translate this page or any sub page to other languages</a></p>
 
 ## Reddit
 Protocol, Exchanges, Wallets, Special projects, General news
@@ -37,7 +36,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [We're Adding a New Community Manager](https://www.reddit.com/r/nanocurrency/comments/a25c8w/were_adding_a_new_community_manager_nano_medium/)
 
 ### Nov 2018
-* [Huobi Global Launches Nano on October 31, 16:30 (GMT +8)](https://www.reddit.com/r/nanocurrency/comments/9swykj/huobi_global_launches_nano_on_october_31_1630_gmt/)
+* [Huobi Global Launches Nano](https://www.reddit.com/r/nanocurrency/comments/9swykj/huobi_global_launches_nano_on_october_31_1630_gmt/)
 
 ### Oct 2018
 * [NANO is sponsoring Bitconf (the largest conference about cryptocurrency in Latin America)](https://www.reddit.com/r/nanocurrency/comments/9pjx9p/nano_is_sponsoring_bitconf_the_largest_conference/)
