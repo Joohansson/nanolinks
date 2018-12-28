@@ -56,6 +56,8 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Node v16.1 Released - Fixing sync issues](https://www.reddit.com/r/nanocurrency/comments/9jzxzp/nano_node_v161_released/)
 
 ### Sep 2018
+* [NANO listed on Paytomat -- Adoption in Eastern Europe](https://www.reddit.com/r/nanocurrency/comments/9cb4vs/nano_listed_on_paytomat_adoption_in_eastern_europe/)
+* [Nano.meltingice.net becomes NanoCrawler.cc](https://www.reddit.com/r/nanocurrency/comments/9cxvuf/nanomeltingicenet_is_now_known_as_the_nanocrawler/)
 * [Brainblocks + Nanowallet integration](https://www.reddit.com/r/nanocurrency/comments/9ikn2k/brainblocks_nanowallet_integration_brainblocks/)
 * [Brainblocks acquires NanoMate](https://www.reddit.com/r/nanocurrency/comments/9htmwe/brainblocks_acquires_nanomate_brainblocks_medium/)
 * [Looks like Nano will have FIAT pairs](https://www.reddit.com/r/nanocurrency/comments/9fog1r/looks_like_nano_will_have_btc_eth_and_ltc_pair/)
@@ -87,11 +89,13 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Node v14.0 Released - Bandwidth Reduction](https://www.reddit.com/r/nanocurrency/comments/8qb6gn/nano_node_version_140_released/)
 
 ### May 2018
+* [Nanode is now Nano’s Official Block Explorer](https://www.reddit.com/r/nanocurrency/comments/8lcc5v/nanode_is_now_nanos_official_block_explorer/)
 * [CCN interview with lead developer of NANO, Colin LeMahieu!](https://www.reddit.com/r/nanocurrency/comments/8ief1b/heres_my_interview_with_lead_developer_of_nano/)
 * [Node v13.0 Released - General Improvements](https://www.reddit.com/r/nanocurrency/comments/8igcz5/version_130_of_the_nano_node_released/)
 * [CoinFalcon Exchange: NANO/EUR will open tomorrow](https://www.reddit.com/r/nanocurrency/comments/8jaulb/coinfalcon_nanoeur_will_open_tomorrow_at_8am_utc/)
 
 ### Apr 2018
+* [MyNano.Ninja Announced - Easy verified community representatives](https://www.reddit.com/r/nanocurrency/comments/8ahvd1/nano_node_ninja_easy_verified_community/)
 * [Node v12 Released - Performance Improvements](https://www.reddit.com/r/nanocurrency/comments/8daji0/version_12_of_nano_node_released/)
 * [Nano Foundation Announces Legal Fund For BitGrail Victims](https://www.reddit.com/r/nanocurrency/comments/8b0cj8/nano_foundation_announces_legal_fund_for_bitgrail/)
 * [Information on the Upcoming Transition to Universal Blocks](https://www.reddit.com/r/nanocurrency/comments/8aau5k/information_on_the_upcoming_transition_to/)
@@ -103,6 +107,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Canoe Nano Wallet - Now available on Google Play](https://www.reddit.com/r/nanocurrency/comments/87uwjk/canoe_nano_wallet_now_available_on_google_play/)
 
 ### Feb 2018
+* [Nanofaucet.org Announced](https://www.reddit.com/r/nanocurrency/comments/7y81sm/i_made_a_nano_faucet_if_you_are_interested_in/)
 * [An update on the various developments at Nanex.co (formerly RaiExchange)](https://www.reddit.com/r/nanocurrency/comments/7w7bjt/an_update_on_the_various_developments_at_nanexco/)
 * [(XRB) now listed as (NANO) on coinmarketcap](https://www.reddit.com/r/nanocurrency/comments/7yh7h2/xrb_now_listed_as_nano_on_coinmarketcap/)
 * [Nano on OKEX Exchange](https://www.reddit.com/r/nanocurrency/comments/7uhily/nano_on_okex/)
@@ -122,8 +127,10 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Kucoin Exchange just listed Raiblocks](https://www.reddit.com/r/RaiBlocks/comments/7o5hmn/kucoin_just_listed_raiblocks/)
 * [We are featured in CNBC news today](https://www.reddit.com/r/RaiBlocks/comments/7tw81u/we_are_featured_in_cnbc_news_today/)
 * [Bit-Z Exchange now lists XRB](https://www.reddit.com/r/RaiBlocks/comments/7o1gsb/bitz_now_lists_xrb/)
+* [Rai.watch (Nanowat.ch) Announced](https://www.reddit.com/r/RaiBlocks/comments/7qe5a8/watch_the_raiblocks_network_grow_in_real_time/)
 
 ### Dec 2017
+* [Raiblocks.club (Nanode.co) Announced](https://www.reddit.com/r/RaiBlocks/comments/7n3qah/raiblocksclub_a_fun_block_explorer_with_live/)
 * [Colin LeMahieu, founder and lead developer of RaiBlocks, AMA - Ask your questions here!](https://www.reddit.com/r/RaiBlocks/comments/7ko5l7/colin_lemahieu_founder_and_lead_developer_of/)
 * [Colin, the lead developer of XRB goes full-time on XRB development](https://www.reddit.com/r/RaiBlocks/comments/7jch9q/colin_the_lead_developer_of_xrb_goes_fulltime_on/)
 
