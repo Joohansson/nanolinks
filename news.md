@@ -74,7 +74,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 ### Jul 2018
 * [Community Project - NANO KPI - Dreamhack Valencia 2018](https://www.reddit.com/r/nanocurrency/comments/8yb2vw/community_project_nano_kpi_dreamhack_valencia_2018/)
 * [Canoe Official V1.0.0 Release & now available on the iOS App Store](https://www.reddit.com/r/nanocurrency/comments/91dgpt/canoe_official_v100_release_now_available_on_the/)
-* [Announcing: BrainBlocks Nexus, the one-stop Nano marketplace. Featuring the general release of the BrainBlocks Pod!](https://www.reddit.com/r/nanocurrency/comments/902yoh/announcing_brainblocks_nexus_the_onestop_nano/)
+* [Announcing: BrainBlocks Nexus, the one-stop Nano marketplace](https://www.reddit.com/r/nanocurrency/comments/902yoh/announcing_brainblocks_nexus_the_onestop_nano/)
 * [Introducing the Nano Bug Bounty Program](https://www.reddit.com/r/nanocurrency/comments/8y1qr5/introducing_the_nano_bug_bounty_program/)
 * [Nano Wallet Desktop 1.0.0 has been released!](https://www.reddit.com/r/nanocurrency/comments/8z4uhx/nano_wallet_desktop_100_has_been_released/)
 * [Nano Blocks iOS Wallet now available on Apple App Store](https://www.reddit.com/r/nanocurrency/comments/8vped0/nano_blocks_ios_wallet_now_available_on_apple_app/)
