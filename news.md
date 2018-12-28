@@ -114,8 +114,8 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### Jan 2018
 * [Raiblocks has been renamed to Nano!](https://www.reddit.com/r/nanocurrency/comments/7ub8z6/raiblocks_has_been_renamed_to_nano/)
-* [The Core Team is excited to announce our rebranding from RaiBlocks to Nano](https://www.reddit.com/r/RaiBlocks/comments/7uah6u/the_core_team_is_excited_to_announce_our/)
 * [rai.exchange rebranding to nanex.co](https://www.reddit.com/r/RaiBlocks/comments/7uamx8/raiexchange_rebranding_to_nanexco/)
+* [The Core Team is excited to announce our rebranding from RaiBlocks to Nano](https://www.reddit.com/r/RaiBlocks/comments/7uah6u/the_core_team_is_excited_to_announce_our/)
 * [More BrainBlocks updates! Currency support, woocommerce plugin, and more open source stuff!](https://www.reddit.com/r/RaiBlocks/comments/7r8e1r/more_brainblocks_updates_currency_support/)
 * [I built a quick checkout app with RaiBlocks over the weekend, called BrainBlocks](https://www.reddit.com/r/RaiBlocks/comments/7puh2h/i_built_a_quick_checkout_app_with_raiblocks_over/)
 * [ArrowPay - A payment processor for RaiBlocks, in partnership with raiwallet.com](https://www.reddit.com/r/RaiBlocks/comments/7sa722/arrowpay_a_payment_processor_for_raiblocks_in/)
