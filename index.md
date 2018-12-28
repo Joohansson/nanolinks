@@ -230,7 +230,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [RightBTC](https://www.rightbtc.com)
 * [Bit-Z](https://www.bit-z.com/)
 * [LBX](https://lbx.com)
-* [N.Exchange](https://n.exchange/)
 * [Coindeal](https://coindeal.com/)
 * [Gate.io](https://gate.io/)
 * [Koinex](https://koinex.in/)
@@ -240,6 +239,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 #### Quick Crypto Swap/Buy
 ##### Simplest way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.
+* [N.Exchange](https://n.exchange/)
 * [Swaplab](https://swaplab.cc/)
 * [FastX](https://fastx.io/)
 * [One Page Exchange](https://onepagex.com)
