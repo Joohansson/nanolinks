@@ -36,12 +36,26 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [We're Adding a New Community Manager](https://www.reddit.com/r/nanocurrency/comments/a25c8w/were_adding_a_new_community_manager_nano_medium/)
 
 ### Nov 2018
+* [NanoQuake2 - Launch of Open Beta](https://www.reddit.com/r/nanocurrency/comments/9vlagu/nanoquake2_launch_of_open_beta/)
+* [Nano node Version 16.3 Released](https://www.reddit.com/r/nanocurrency/comments/9ysmdt/nano_node_v163_is_now_available_fixes_recent/)
+* [Open position at Nano — Senior Software Engineer](https://www.reddit.com/r/nanocurrency/comments/a0kcqu/open_position_at_nano_senior_software_engineer/)
 * [Huobi Global Launches Nano](https://www.reddit.com/r/nanocurrency/comments/9swykj/huobi_global_launches_nano_on_october_31_1630_gmt/)
 
 ### Oct 2018
+* [We are pleased to announce that Andy Johnson has joined The Nano Foundation in a social media and community engagement role](https://www.reddit.com/r/nanocurrency/comments/9nlwwz/we_are_pleased_to_announce_that_andy_johnson_has/)
+* [NANOODLE](https://www.reddit.com/r/nanocurrency/comments/9k55bv/nanoodle/)
+* [New Tool - Representative Charts for Nano](https://www.reddit.com/r/nanocurrency/comments/9k6pj9/new_tool_representative_charts_for_nano/)
+* [New BrainBlocks Website](https://www.reddit.com/r/nanocurrency/comments/9l95o2/new_brainblocks_website/)
+* [Nano Wallet Desktop 1.3.0 released!](https://www.reddit.com/r/nanocurrency/comments/9loscp/nano_wallet_desktop_130_released/)
+* [Analysis Reveals Nano Is the Fastest Cryptocurrency on Binance](https://www.reddit.com/r/nanocurrency/comments/9n3lkm/analysis_reveals_nano_is_the_fastest/)
+* [Nano Node Version 16.2 Released](https://www.reddit.com/r/nanocurrency/comments/9ncw7h/nano_node_version_162_released/)
+* [Nanollet 3.8.15: MacOS, Epoch-Block, DNS-over-HTTPS](https://www.reddit.com/r/nanocurrency/comments/9qjdjq/nanollet_3815_macos_epochblock_dnsoverhttps/)
+* [DashCast Ep. 5 | Colin LeMahieu (Founder of Nano)](https://www.reddit.com/r/nanocurrency/comments/9r0p46/dashcast_ep_5_colin_lemahieu_founder_of_nano/)
 * [NANO is sponsoring Bitconf (the largest conference about cryptocurrency in Latin America)](https://www.reddit.com/r/nanocurrency/comments/9pjx9p/nano_is_sponsoring_bitconf_the_largest_conference/)
+* [Nano Node Version 16.1 Released](https://www.reddit.com/r/nanocurrency/comments/9jzxzp/nano_node_v161_released/)
 
 ### Sep 2018
+* [Brainblocks + Nanowallet integration](https://www.reddit.com/r/nanocurrency/comments/9ikn2k/brainblocks_nanowallet_integration_brainblocks/)
 * [Brainblocks acquires NanoMate](https://www.reddit.com/r/nanocurrency/comments/9htmwe/brainblocks_acquires_nanomate_brainblocks_medium/)
 * [Looks like Nano will have FIAT pairs](https://www.reddit.com/r/nanocurrency/comments/9fog1r/looks_like_nano_will_have_btc_eth_and_ltc_pair/)
 * [Nano Node Version 16.0 Released](https://www.reddit.com/r/nanocurrency/comments/9ezrsm/nano_node_version_160_released/)
@@ -49,6 +63,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Introducing Natrium (BETA) for Android - Fast, Secure, Robust NANO Wallet](https://www.reddit.com/r/nanocurrency/comments/9ic7nn/introducing_natrium_beta_for_android_fast_secure/)
 
 ### Aug 2018
+* [Stress Test Beta Network v15: Results in Here](https://www.reddit.com/r/nanocurrency/comments/982bq9/stress_test_beta_network_v15_results_in_here/)
 * [Distributed Nano PoW Subscription System](https://www.reddit.com/r/nanocurrency/comments/94lx28/distributed_nano_pow_subscription_system/)
 * [Nano Node Version 15.2 Released](https://www.reddit.com/r/nanocurrency/comments/99gres/nano_node_version_152_released/)
 * [BrainBlocks Acquires NanoWallet](https://www.reddit.com/r/nanocurrency/comments/99xgx9/brainblocks_acquires_nanowallet_medium/)
@@ -71,8 +86,9 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Nano Node Version 14.0 Released](https://www.reddit.com/r/nanocurrency/comments/8qb6gn/nano_node_version_140_released/)
 
 ### May 2018
+* [Here's my interview with lead developer of NANO, Colin LeMahieu!](https://www.reddit.com/r/nanocurrency/comments/8ief1b/heres_my_interview_with_lead_developer_of_nano/)
 * [Nano Node Version 13.0 Released](https://www.reddit.com/r/nanocurrency/comments/8igcz5/version_130_of_the_nano_node_released/)
-* [CoinFalcon: NANO/EUR will open tomorrow at 8AM UTC](https://www.reddit.com/r/nanocurrency/comments/8jaulb/coinfalcon_nanoeur_will_open_tomorrow_at_8am_utc/)
+* [CoinFalcon: NANO/EUR will open tomorrow](https://www.reddit.com/r/nanocurrency/comments/8jaulb/coinfalcon_nanoeur_will_open_tomorrow_at_8am_utc/)
 
 ### Apr 2018
 * [Nano Node Version 12 Released](https://www.reddit.com/r/nanocurrency/comments/8daji0/version_12_of_nano_node_released/)
