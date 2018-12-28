@@ -24,6 +24,7 @@ layout: default
 ## Reddit
 Protocol, Exchanges, Wallets, Special projects, General news
 ### Dec 2018
+* [The Nano Protocol Passes Rigorous Red4Sec Security Audit of the Consensus Algorithm and Node Software: No Critical Vulnerabilities Found](https://www.reddit.com/r/nanocurrency/comments/a96qro/the_nano_protocol_passes_rigorous_red4sec/)
 * [Students at the University of Wisconsin create Nano speed test tool](https://www.reddit.com/r/nanocurrency/comments/a8xl46/students_at_the_university_of_wisconsin_create/)
 * [NanoQuake 1.5 Release 'Quoulton'](https://www.reddit.com/r/nanocurrency/comments/a7r6e9/nanoquake_15_release_quoulton/)
 * [What happened with Nano in 2018](https://www.reddit.com/r/nanocurrency/comments/a8ant9/what_happened_with_nano_in_2018/)
