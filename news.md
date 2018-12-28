@@ -11,6 +11,7 @@ layout: newslayout
       <ul>
         <li><a href="#">Top</a></li>
 		<li><a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info/news&edit-text=&act=url">Translated Site</a></li>
+	<li><a href="#contribution">Contribution</a></li>
       </ul>
     </div>
   </div>
