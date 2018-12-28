@@ -51,7 +51,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Analysis Reveals Nano Is the Fastest Cryptocurrency on Binance](https://www.reddit.com/r/nanocurrency/comments/9n3lkm/analysis_reveals_nano_is_the_fastest/)
 * [Nano Node Version 16.2 Released](https://www.reddit.com/r/nanocurrency/comments/9ncw7h/nano_node_version_162_released/)
 * [Nanollet 3.8.15: MacOS, Epoch-Block, DNS-over-HTTPS](https://www.reddit.com/r/nanocurrency/comments/9qjdjq/nanollet_3815_macos_epochblock_dnsoverhttps/)
-* [DashCast Ep. 5 | Colin LeMahieu (Founder of Nano)](https://www.reddit.com/r/nanocurrency/comments/9r0p46/dashcast_ep_5_colin_lemahieu_founder_of_nano/)
+* [DashCast Ep. 5 - Colin LeMahieu (Founder of Nano)](https://www.reddit.com/r/nanocurrency/comments/9r0p46/dashcast_ep_5_colin_lemahieu_founder_of_nano/)
 * [NANO is sponsoring Bitconf (the largest conference about cryptocurrency in Latin America)](https://www.reddit.com/r/nanocurrency/comments/9pjx9p/nano_is_sponsoring_bitconf_the_largest_conference/)
 * [Nano Node Version 16.1 Released](https://www.reddit.com/r/nanocurrency/comments/9jzxzp/nano_node_v161_released/)
 
