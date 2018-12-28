@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: newslayout
 ---
 <nav id="dropdown">
   <div id="dropbtn">
