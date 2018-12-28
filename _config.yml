@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: Nano Currency Links
-description: A curated URL guide to find anything about Nano; The fast, free and green digital currency for the real world! Links to Information, Education, Markets, Merchants, Exchanges, Wallets, Videos, Media, Applications, Development tools, Source Code, Entertainment and Services.
+title: Nano Links
+description: A curated URL guide to find anything about Nano; The fast, free and green digital currency for the real world! Links to Information, Education, Markets, Merchants, Exchanges, Wallets, Videos, Media, News, Applications, Development tools, Source Code, Entertainment and Services.
 url: https://nanolinks.info
 author: Joohansson
 exclude: ["README.md", "LICENSE"]
