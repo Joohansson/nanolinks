@@ -23,6 +23,9 @@ layout: newslayout
 
 ## Reddit
 Protocol, Exchanges, Wallets, Special projects, General news
+### Jan 2019
+* [Brainblocks_vision_for_2019_and_beyond](https://www.reddit.com/r/nanocurrency/comments/abdsv9/brainblocks_vision_for_2019_and_beyond_brainblocks/)
+
 ### Dec 2018
 * [The Nano Protocol Passes Rigorous Red4Sec Security Audit of the Consensus Algorithm and Node Software: No Critical Vulnerabilities Found](https://www.reddit.com/r/nanocurrency/comments/a96qro/the_nano_protocol_passes_rigorous_red4sec/)
 * [Students at the University of Wisconsin create Nano speed test tool](https://www.reddit.com/r/nanocurrency/comments/a8xl46/students_at_the_university_of_wisconsin_create/)
