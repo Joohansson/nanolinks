@@ -105,7 +105,6 @@ layout: default
 
 ## Latest Additions
 
-* [Dec 10: Informative Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
 * [Dec 12: Nano Paywall - Pay to unlock wordpress content](https://github.com/nanoble-org/nano-paywall)
 * [Dec 12: Nano Venezuela](https://nano.org.ve/)
 * [Dec 14: Coinlore - Ticker](https://www.coinlore.com/coin/nano)
@@ -115,6 +114,7 @@ layout: default
 * [Dec 24: Nano SpeedTest - Test real nano transactions](https://nanospeed.live)
 * [Dec 24: Guide: How to secure your Nano](https://medium.com/@d84/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
 * [Dec 28: 247 Node - Free Nano Node Domain](https://247node.net/)
+* [Jan 01: Nano Development 2018](https://www.youtube.com/watch?v=FqLe12zJKEE)
 
 </div>
 
@@ -172,6 +172,7 @@ Learn everything there is to know about Nano!
 * [The Nano Center](https://www.youtube.com/channel/UCwB_g6LBPGv_anMhywH4BWA)
 * [Nano Blackbox](https://www.youtube.com/channel/UCehRwOEJsNb_0c6CwVSmCxw)
 * [Jolt Wallet](https://www.youtube.com/channel/UCLfilzzY4NmwNjWtEIibdkA)
+* [Brainblocks](https://www.youtube.com/channel/UCToyZ7QLqVX9mHWPTM8MNwg)
 
 ### Interesting Videos [Not in channels above]
 * [Nano Speed Test](https://youtu.be/e7jLFroW_NE)
@@ -182,6 +183,7 @@ Learn everything there is to know about Nano!
 * [Nano explained (Deep dive)](https://youtu.be/LcqPLlduE0w)
 * [Nano explained (Another deep dive)](https://youtu.be/1ciokw6ZQvE)
 * [Visualizing 1560 Days of Development](https://youtu.be/br8tcS8gcqE)
+* [Nano Development 2018](https://www.youtube.com/watch?v=FqLe12zJKEE)
 * [Why Change Your Nano Representative?](https://youtu.be/dnOTiixhPrk)
 
 ### Video Advertisement
