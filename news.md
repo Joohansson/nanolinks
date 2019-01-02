@@ -25,7 +25,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 ### Jan 2019
 * [Nano Plugin for Unreal Engine - Teaser](https://www.reddit.com/r/nanocurrency/comments/abm1wo/unreal_engine_nano/)
-* [Brainblocks_vision_for_2019_and_beyond](https://www.reddit.com/r/nanocurrency/comments/abdsv9/brainblocks_vision_for_2019_and_beyond_brainblocks/)
+* [Brainblocks vision for 2019 and beyond](https://www.reddit.com/r/nanocurrency/comments/abdsv9/brainblocks_vision_for_2019_and_beyond_brainblocks/)
 
 ### Dec 2018
 * [The Nano Protocol Passes Rigorous Red4Sec Security Audit of the Consensus Algorithm and Node Software: No Critical Vulnerabilities Found](https://www.reddit.com/r/nanocurrency/comments/a96qro/the_nano_protocol_passes_rigorous_red4sec/)
