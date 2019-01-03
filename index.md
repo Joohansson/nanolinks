@@ -240,13 +240,14 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Bitladon](https://www.bitladon.com/nano)
 
 #### Quick Crypto Swap/Buy
-##### Simplest way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.
+##### Simple way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution. None of these sites has been vetted by NanoLinks.
 * [N.Exchange](https://n.exchange/)
 * [Swaplab](https://swaplab.cc/)
 * [FastX](https://fastx.io/)
 * [One Page Exchange](https://onepagex.com)
 * [Cryptowolf](https://cryptowolf.eu/)
 * [Coinsave](https://coinsave.io/)
+* [Nanotrade.co.uk](https://nanotrade.co.uk/)
 
 #### Escrow and Peer-to-peer
 * [Localnano](https://www.localnano.com/)
