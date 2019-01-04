@@ -84,7 +84,7 @@ layout: default
   <li>1 nano tx is equivalent of a 2W LED lamp to shine for 1 sec.</li>
 </ul></p>
 </br>
-<h3><strong>Test Yourself</strong></h3>
+<h3><strong>Free Test</strong></h3>
 <p>Without owning any nano you can try the power of real, fast and fee-less transactions on live network!</p>
 <a href="http://nanospeed.live" class="btn-nanospeed-live btn-nanospeed-live-lg" target="_blank">Speed Test Nano <span role="img" aria-label="Timer">&#9200;</span></a>
 
