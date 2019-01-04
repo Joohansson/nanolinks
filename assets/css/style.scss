@@ -334,7 +334,22 @@ table {
 
   @include small {
     font-size: 0.5em; //Custom
-    margin-left: 10; //Custom
+    margin-left: 10px; //Custom
+  }
+}
+
+//Paragraph in first section
+.first-para {
+  @include large {
+    margin-left: 20px; //Custom
+  }
+
+  @include medium {
+    margin-left: 15px; //Custom
+  }
+
+  @include small {
+    margin-left: 10px; //Custom
   }
 }
 
