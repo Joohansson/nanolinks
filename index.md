@@ -532,13 +532,13 @@ Maintaining this content requires some effort. If you want to contribute to this
     $('a').click(function(e) {
       //Only hitCallback when tracking links in same tab, to prevent speed button to use href (it uses new tab)
       var params = {};
-      if (!$( this ).hasClass("btn-nanospeed-live btn-nanospeed-live-lg")) {
+      if (!$(this).hasClass("btn-nanospeed-live btn-nanospeed-live-lg")) {
         params.hitCallback = function () {
             document.location = url;
         }
       }
       
-      if (!ga.q) 
+      if (!ga.q) {
         var url = $(this).attr("href");
         ga("send", "event", "outbound", "click", url, params);
         e.preventDefault();
