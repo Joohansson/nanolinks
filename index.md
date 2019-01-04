@@ -76,14 +76,14 @@ layout: default
   <p>*7 Mid 2018 value based on PoW needed for each tx. Reference: GTX1070 GPU at 100W + 100W computer.</p>
   <p>*8 Mid 2018 value. Depends on hashrate which depends on market. Also depends of current tps.</p>
 </div>
-</br>
+<br>
 <h3><strong>The Green Choice</strong></h3>
 <p><ul>
   <li>A Vestas V164 wind turbine can power 400,000 nano transactions, per revolution! Enough to power 80,000 tx/sec.</li>
   <li>4 square meters of solar panels can power 7 tx/sec.</li>
   <li>1 nano tx is equivalent of a 2W LED lamp to shine for 1 sec.</li>
 </ul></p>
-</br>
+<br>
 <h3><strong>Free Test</strong></h3>
 <p>Without owning any nano you can try the power of real, fast and fee-less transactions on live network!</p>
 <a href="http://nanospeed.live" class="btn-nanospeed-live btn-nanospeed-live-lg" target="_blank">Speed Test Nano <span role="img" aria-label="Timer">&#9200;</span></a>
