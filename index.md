@@ -530,19 +530,17 @@ Maintaining this content requires some effort. If you want to contribute to this
 
     //Click analytics
     $('a').click(function(e) {
-      //Return false if speed test button to prevent normal href (new tab)
-      if ( $( this ).hasClass( "btn-nanospeed-live btn-nanospeed-live-lg" ) ) {
-        console.log("Button");
-        return false;
+      //Only hitCallback when tracking links in same tab, to prevent speed button to use href (it uses new tab)
+      var params = {};
+      if (!$( this ).hasClass("btn-nanospeed-live btn-nanospeed-live-lg")) {
+        params.hitCallback = function () {
+            document.location = url;
+        }
       }
       
-      if (!ga.q) {
+      if (!ga.q) 
         var url = $(this).attr("href");
-        ga("send", "event", "outbound", "click", url, {"hitCallback":
-          function () {
-            document.location = url;
-          }
-        });
+        ga("send", "event", "outbound", "click", url, params);
         e.preventDefault();
       }
     });
