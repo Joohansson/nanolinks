@@ -530,6 +530,12 @@ Maintaining this content requires some effort. If you want to contribute to this
 
     //Click analytics
     $('a').click(function(e) {
+      //Return false if speed test button to prevent normal href (new tab)
+      if ( $( this ).hasClass( "btn-nanospeed-live btn-nanospeed-live-lg" ) ) {
+        console.log("Button");
+        return false;
+      }
+      
       if (!ga.q) {
         var url = $(this).attr("href");
         ga("send", "event", "outbound", "click", url, {"hitCallback":
@@ -538,10 +544,6 @@ Maintaining this content requires some effort. If you want to contribute to this
           }
         });
         e.preventDefault();
-      }
-      //Return false if speed test button to prevent normal href (if new tab)
-      if ( $( this ).hasClass( "btn-nanospeed-live btn-nanospeed-live-lg" ) ) {
-        return false;
       }
     });
   });
