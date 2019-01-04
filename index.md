@@ -85,8 +85,10 @@ layout: default
 </ul></p>
 <br>
 <h3><strong>Free Test</strong></h3>
-<p>Without owning any nano you can try the power of real, fast and fee-less transactions on live network!</p>
-<a href="http://nanospeed.live" class="btn-nanospeed-live btn-nanospeed-live-lg" target="_blank">Speed Test Nano <span role="img" aria-label="Timer">&#9200;</span></a>
+<div class="first-para">
+  <p>Without owning any nano you can try the power of real, fast and fee-less transactions on live network!</p>
+  <a href="http://nanospeed.live" class="btn-nanospeed-live btn-nanospeed-live-lg" target="_blank">Speed Test Nano <span role="img" aria-label="Timer">&#9200;</span></a>
+</div>
 
 <div class="line"></div>
 
