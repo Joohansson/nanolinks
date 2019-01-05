@@ -84,9 +84,9 @@ layout: default
   <li>1 nano tx is equivalent of a 2W LED lamp to shine for 1 sec.</li>
 </ul></p>
 <br>
-<h3><strong>Free Test</strong></h3>
+<h3><strong>Test Nano</strong></h3>
 <div class="first-para">
-  <p>Without the need to own any nano you can try the power of real, fast and fee-less transactions on live network!</p>
+  <p>Without the need to own any nano you can try the power of fast and fee-less transactions on the real live network! If you want to transact with your own nano you can easily create a wallet and obtain some free nano fragments using any of the nano faucet sites listed below.</p>
   <a href="http://nanospeed.live" class="btn-nanospeed-live btn-nanospeed-live-lg" onclick="window.open(this.href); return false;"> Speed Test Nano <span role="img" aria-label="Timer">&#9200;</span></a>
 </div>
 
@@ -121,6 +121,7 @@ layout: default
 * [Dec 24: Guide: How to secure your Nano](https://medium.com/@d84/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
 * [Dec 28: 247 Node - Free Nano Node Domain](https://247node.net/)
 * [Jan 01: Nano Development 2018](https://www.youtube.com/watch?v=FqLe12zJKEE)
+* [Jan 05: NinjaVault - Web wallet clone of NanoVault](https://vault.mynano.ninja/)
 
 </div>
 
@@ -266,6 +267,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Canoe** - OSX,Win,Linux,iOS,Android,WinPhone](https://getcanoe.io/)
 * [**Nanowallet** - Web](https://nanowallet.io/)
 * [**Nanovault** - Web,Linux,Mac](https://nanovault.io/)
+* [**Ninjavault** - Web](https://vault.mynano.ninja/)
 * [**Nanollet** - Windows,Linux,Darwin](https://github.com/brokenbydefault/Nanollet)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 * [**Natrium** - Android](https://play.google.com/store/apps/details?id=co.banano.natriumwallet)
