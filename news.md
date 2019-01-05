@@ -47,7 +47,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Huobi Global Exchange Launches Nano](https://www.reddit.com/r/nanocurrency/comments/9swykj/huobi_global_launches_nano_on_october_31_1630_gmt/)
 
 ### Oct 2018
-* [Nano Foundation Adding Andy Johnson (Social media and community engagement role)](https://www.reddit.com/r/nanocurrency/comments/9nlwwz/we_are_pleased_to_announce_that_andy_johnson_has/)
+* [Nano Foundation Adding a New Team Member Andy Johnson (Social media and community engagement role)](https://www.reddit.com/r/nanocurrency/comments/9nlwwz/we_are_pleased_to_announce_that_andy_johnson_has/)
 * [Nanoodle - Business Adoption Tools](https://www.reddit.com/r/nanocurrency/comments/9k55bv/nanoodle/)
 * [New Tool - Representative Charts for Nano](https://www.reddit.com/r/nanocurrency/comments/9k6pj9/new_tool_representative_charts_for_nano/)
 * [New BrainBlocks Website](https://www.reddit.com/r/nanocurrency/comments/9l95o2/new_brainblocks_website/)
@@ -70,6 +70,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Introducing Natrium (BETA) Wallet for Android - Fast, Secure, Robust NANO Wallet](https://www.reddit.com/r/nanocurrency/comments/9ic7nn/introducing_natrium_beta_for_android_fast_secure/)
 
 ### Aug 2018
+* [Nano Foundation Adding a New Team Member Andy Woolmer (Adviser)](https://www.reddit.com/r/nanocurrency/comments/99zz71/spotlight_andy_woolmer/)
 * [Stress Test Beta Network v15: Results in Here](https://www.reddit.com/r/nanocurrency/comments/982bq9/stress_test_beta_network_v15_results_in_here/)
 * [Distributed Nano PoW Subscription System](https://www.reddit.com/r/nanocurrency/comments/94lx28/distributed_nano_pow_subscription_system/)
 * [Node v15.2 Released - Reduced Bandwidth, Vote by hash](https://www.reddit.com/r/nanocurrency/comments/99gres/nano_node_version_152_released/)
