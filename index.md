@@ -111,7 +111,6 @@ layout: default
 
 ## Latest Additions
 
-* [Dec 12: Nano Paywall - Pay to unlock wordpress content](https://github.com/nanoble-org/nano-paywall)
 * [Dec 12: Nano Venezuela](https://nano.org.ve/)
 * [Dec 14: Coinlore - Ticker](https://www.coinlore.com/coin/nano)
 * [Dec 17: Nano China](https://nanochina.co/)
