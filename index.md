@@ -111,7 +111,6 @@ layout: default
 
 ## Latest Additions
 
-* [Dec 12: Nano Venezuela](https://nano.org.ve/)
 * [Dec 14: Coinlore - Ticker](https://www.coinlore.com/coin/nano)
 * [Dec 17: Nano China](https://nanochina.co/)
 * [Dec 20: CoinGate - Nano Payment Service & Gateway](https://coingate.com/)
@@ -121,6 +120,7 @@ layout: default
 * [Dec 28: 247 Node - Free Nano Node Domain](https://247node.net/)
 * [Jan 01: Nano Development 2018](https://www.youtube.com/watch?v=FqLe12zJKEE)
 * [Jan 05: NinjaVault - Web wallet clone of NanoVault](https://vault.mynano.ninja/)
+* [Jan 06: How to setup a Nano node](https://youtu.be/k1RlrlaKOCg)
 
 </div>
 
@@ -191,6 +191,7 @@ Learn everything there is to know about Nano!
 * [Visualizing 1560 Days of Development](https://youtu.be/br8tcS8gcqE)
 * [Nano Development 2018](https://www.youtube.com/watch?v=FqLe12zJKEE)
 * [Why Change Your Nano Representative?](https://youtu.be/dnOTiixhPrk)
+* [How to setup a Nano node](https://youtu.be/k1RlrlaKOCg)
 
 ### Video Advertisement
 * [Nano The Future of Money](https://youtu.be/lw-rpO0jqYQ)
