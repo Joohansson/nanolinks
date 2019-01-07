@@ -111,7 +111,6 @@ layout: default
 
 ## Latest Additions
 
-* [Dec 14: Coinlore - Ticker](https://www.coinlore.com/coin/nano)
 * [Dec 17: Nano China](https://nanochina.co/)
 * [Dec 20: CoinGate - Nano Payment Service & Gateway](https://coingate.com/)
 * [Dec 21: Coinsave - Buy/Sell Nano in Canada](https://coinsave.io/)
@@ -121,6 +120,7 @@ layout: default
 * [Jan 01: Nano Development 2018](https://www.youtube.com/watch?v=FqLe12zJKEE)
 * [Jan 05: NinjaVault - Web wallet clone of NanoVault](https://vault.mynano.ninja/)
 * [Jan 06: How to setup a Nano node](https://youtu.be/k1RlrlaKOCg)
+* [Jan 07: Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 
 </div>
 
@@ -164,6 +164,7 @@ Learn everything there is to know about Nano!
 * [Informative Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 * [Informative Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
 * [Guide: How to secure your Nano](https://medium.com/@d84/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
+* [Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 * [Frequently Asked Questions and Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAQ)
 
 #### Targeted Countries
