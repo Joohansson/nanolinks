@@ -24,6 +24,7 @@ layout: newslayout
 ## Reddit
 Protocol, Exchanges, Wallets, Special projects, General news
 ### Jan 2019
+* [Nano Foundation Adding a New Community Manager - Joohansson](https://www.reddit.com/r/nanocurrency/comments/adz6lp/a_big_thanks_to_ujoohansson_on_accepting_the/)
 * [WordPress Bloggers Can Now Receive Payments in NANO](https://www.reddit.com/r/nanocurrency/comments/adssrg/wordpress_bloggers_can_now_receive_payments_in/)
 * [The Nano Foundation welcomes a new core protocol developer, Wesley Shillingford](https://www.reddit.com/r/nanocurrency/comments/adhecm/the_nano_foundation_welcomes_a_new_core_protocol/)
 * [Nano Plugin for Unreal Engine - Teaser](https://www.reddit.com/r/nanocurrency/comments/abm1wo/unreal_engine_nano/)
@@ -40,7 +41,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Node v17 (Boulton) Released - Spam protection, Lazy bootstrapping, optimizations and a lot more](https://www.reddit.com/r/nanocurrency/comments/a7eopn/boulton_released/)
 * [Colin LeMaiheu at Blockchain for Europe](https://www.reddit.com/r/nanocurrency/comments/a4x160/colin_lemaiheu_at_blockchain_for_europe/)
 * [Nano Selected as an Official Gold Label Project by Binance Info](https://www.reddit.com/r/nanocurrency/comments/a1hxt1/nano_selected_as_an_official_gold_label_project/)
-* [Nano Foundation Adding a New Community Manager](https://www.reddit.com/r/nanocurrency/comments/a25c8w/were_adding_a_new_community_manager_nano_medium/)
+* [Nano Foundation Adding a New Community Manager - Guilherme Lawless](https://www.reddit.com/r/nanocurrency/comments/a25c8w/were_adding_a_new_community_manager_nano_medium/)
 
 ### Nov 2018
 * [NanoQuake2 - Launch of Open Beta](https://www.reddit.com/r/nanocurrency/comments/9vlagu/nanoquake2_launch_of_open_beta/)
