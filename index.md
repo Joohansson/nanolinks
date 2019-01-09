@@ -111,7 +111,6 @@ layout: default
 
 ## Latest Additions
 
-* [Dec 17: Nano China](https://nanochina.co/)
 * [Dec 20: CoinGate - Nano Payment Service & Gateway](https://coingate.com/)
 * [Dec 21: Coinsave - Buy/Sell Nano in Canada](https://coinsave.io/)
 * [Dec 24: Nano SpeedTest - Test real nano transactions](https://nanospeed.live)
@@ -121,6 +120,7 @@ layout: default
 * [Jan 05: NinjaVault - Web wallet clone of NanoVault](https://vault.mynano.ninja/)
 * [Jan 06: How to setup a Nano node](https://youtu.be/k1RlrlaKOCg)
 * [Jan 07: Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
+* [Jan 09: Wordpress Plugin - Nano, IOTA, XLM, XRP, SEPA Payment Service](https://wordpress.org/plugins/bitvolo-trustless-crypto-payment-gateway/)
 
 </div>
 
@@ -316,6 +316,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [CoinGate - Nano Payment Service & Gateway](https://coingate.com/)
 * [ArrowPay - Nano Payment Service](https://arrowpay.io/)
 * [KitePay - Nano Payment Service](https://kitepay.io/)
+* [Wordpress Plugin - Nano, IOTA, XLM, XRP, SEPA Payment Service](https://wordpress.org/plugins/bitvolo-trustless-crypto-payment-gateway/)
 * [NanoCashier - Nano Payment Service](https://nanocashier.com/)
 * [Bitback - Payment Service, Address book](https://bitback.me/)
 * [NanoMate - Nano Send Service](https://nanomate.co/)
