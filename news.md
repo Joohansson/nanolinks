@@ -24,6 +24,7 @@ layout: newslayout
 ## Reddit
 Protocol, Exchanges, Wallets, Special projects, General news
 ### Jan 2019
+* [WordPress Bloggers Can Now Receive Payments in NANO](https://www.reddit.com/r/nanocurrency/comments/adssrg/wordpress_bloggers_can_now_receive_payments_in/)
 * [The Nano Foundation welcomes a new core protocol developer, Wesley Shillingford](https://www.reddit.com/r/nanocurrency/comments/adhecm/the_nano_foundation_welcomes_a_new_core_protocol/)
 * [Nano Plugin for Unreal Engine - Teaser](https://www.reddit.com/r/nanocurrency/comments/abm1wo/unreal_engine_nano/)
 * [Brainblocks vision for 2019 and beyond](https://www.reddit.com/r/nanocurrency/comments/abdsv9/brainblocks_vision_for_2019_and_beyond_brainblocks/)
