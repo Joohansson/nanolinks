@@ -514,6 +514,9 @@ Maintaining this content requires some effort. If you want to contribute to this
 	<br><figcaption class="subtext">xrb_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo</figcaption>
 </figure>
 </div>
+
+<div class="line"></div>
+
 <img id="bottom-logo" src="https://raw.githubusercontent.com/Joohansson/nanolinks/master/src/nanolinks_simple.png" alt="NanoLinks" />
 
 <!-- Enable open close menu on touch devices -->
