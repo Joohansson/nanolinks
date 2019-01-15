@@ -24,6 +24,7 @@ layout: newslayout
 ## Reddit
 Protocol, Exchanges, Wallets, Special projects, General news
 ### Jan 2019
+* [Nano Center announcing new website](https://www.reddit.com/r/nanocurrency/comments/af95yc/announcing_nano_center_website_launch/)
 * [Nano Foundation Adding a New Community Manager - Joohansson](https://www.reddit.com/r/nanocurrency/comments/adz6lp/a_big_thanks_to_ujoohansson_on_accepting_the/)
 * [WordPress Bloggers Can Now Receive Payments in NANO](https://www.reddit.com/r/nanocurrency/comments/adssrg/wordpress_bloggers_can_now_receive_payments_in/)
 * [The Nano Foundation welcomes a new core protocol developer, Wesley Shillingford](https://www.reddit.com/r/nanocurrency/comments/adhecm/the_nano_foundation_welcomes_a_new_core_protocol/)
