@@ -510,6 +510,8 @@ Maintaining this content requires some effort. If you want to contribute to this
 	<img id="qrImage" src="https://raw.githubusercontent.com/Joohansson/nanolinks/master/src/qr_new.png" alt="Nano Donation" />
 	<br><figcaption class="subtext">xrb_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo</figcaption>
 </figure>
+<br>
+<img id="bottom-logo" src="https://raw.githubusercontent.com/Joohansson/nanolinks/master/src/nanolinks_simple.png" alt="NanoLinks" />
 
 <!-- Enable open close menu on touch devices -->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
