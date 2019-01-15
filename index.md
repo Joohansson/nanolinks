@@ -260,7 +260,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 #### Escrow and Peer-to-peer
 * [Localnano](https://www.localnano.com/)
 * [Localnanos](https://www.localnanos.com/)
-* [BuySellNano](https://buysellnano.com/)
 * [PayFair](https://payfair.io/)
 
 ### Wallets
