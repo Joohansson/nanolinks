@@ -159,7 +159,6 @@ Learn everything there is to know about Nano!
 * [Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
 * [Third Generation Cryptocurrencies](https://hackernoon.com/why-third-generation-cryptocurrencies-are-game-changers-for-venezuela-cb8c9b016f9d)
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
-* [Is Nano Green Yet - Environmental Impact](https://isnanogreenyet.com/)
 * [Informative Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
 * [Informative Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 * [Informative Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
