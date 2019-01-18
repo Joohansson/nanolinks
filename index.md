@@ -36,7 +36,7 @@ layout: default
 <p class="intro"><strong>Nano is a 3rd generation cryptocurrency with zero fees, super quick transactions and high scalability. Each account is part of a Directed Acyclic Graph (DAG), which results in lightweight nodes that requires no mining, thus very low environmental impact. These features makes Nano ideal for peer-to-peer transactions, donations and purchases in everyday life all around the world! Feel free to browse this page to know more about Nano, how it can be used and how to obtain it.</strong></p>
 
 <h3><strong>Simple Comparison</strong></h3>
-<table>
+<table id="intro-table>
   <tr>
     <th>Coin</th>
     <th>Fee</th> 
@@ -494,6 +494,37 @@ Do you have some free time? There are much fun to do but please proceed with cau
 
 ## Contribution
 Want to add a link to your own project or you found something else? Just clone repo at [Github](https://github.com/Joohansson/nanolinks) , edit index.md and make a pull request. You can also contact me at [Reddit](https://www.reddit.com/user/Joohansson/). All content will be evaluated.
+<br><br>
+**You can also fill in form below to send submission directly. Your email will only be used in case of contact, not on the site or shared in any way.**
+<br>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<div id="contact-area">
+	<form accept-charset="UTF-8" action="https://usebasin.com/f/716ec11da426" enctype="multipart/form-data" method="POST">
+	<label for="email">Your Email</label>
+	<input type="email" id="email" name="Email" required>
+	<br>
+	<label for="url">Link URL</label>
+	<input type="url" id="url" name="URL" required>
+	<br>
+	<label for="category">Category</label>
+	<input type="text" id="category" name="Category">
+	<br>
+	<label for="display-name">Display Name</label>
+	<input type="text" id="display-name" name="Display name" required>
+	<br>
+	<label for="description">Description</label>
+	<textarea rows="4" cols="50" id="description" name="Description" required></textarea>
+	<br>
+	<label for="reason">Reason to add</label>
+	<textarea rows="4" cols="50" id="reason" name="Reason" required></textarea>
+	<br>
+	<div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy">
+	</div>
+	<br>
+	<button type="submit" class="submit-button">Submit Link</button>
+  </form>
+</div>
+<br>
 
 
 ### Voting Representative
