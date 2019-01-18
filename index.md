@@ -587,3 +587,6 @@ Maintaining this content requires some effort. If you want to contribute to this
     });
   });
 </script>
+
+<!-- Track link submissions -->
+<script src="https://usebasin.com/f/716ec11da426/ahoy.js" async defer></script>
