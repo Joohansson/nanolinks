@@ -413,33 +413,33 @@ li {
 
 //Contact submit form
 #contact-area {
-	width: 100%;
-	margin-top: 20px;
-	font-size: 0.9em;
+  width: 100%;
+  margin-top: 20px;
+  font-size: 0.9em;
+  margin-left: 1em;
 }
 
 #contact-area input, #contact-area textarea {
-	padding: 3px;
-	width: 90%;
-	max-width: 900px;
-	margin: 0px 0px 15px 0px;
-	border: 2px solid #ccc;
-	white-space: normal;
+  padding: 3px;
+  width: 90%;
+  max-width: 900px;
+  margin: 0px 0px 15px 0px;
+  border: 2px solid #ccc;
 }
 
 #contact-area textarea:focus, #contact-area input:focus {
-	border: 2px solid #57707d;
+  border: 2px solid #57707d;
 }
 
 #contact-area .submit-button {
-	width: 150px;
-	float: left;
+  width: 150px;
+  float: left;
 }
 
 #contact-area label {
-	float: left;
-	text-align: left;
-	margin-right: 10px;
-	width: 150px;
-	padding-top: 3px;
+  float: left;
+  text-align: left;
+  margin-right: 10px;
+  width: 150px;
+  padding-top: 3px;
 }
