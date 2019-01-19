@@ -111,7 +111,6 @@ layout: default
 
 ## Latest Additions
 
-* [Dec 20: CoinGate - Nano Payment Service & Gateway](https://coingate.com/)
 * [Dec 21: Coinsave - Buy/Sell Nano in Canada](https://coinsave.io/)
 * [Dec 24: Nano SpeedTest - Test real nano transactions](https://nanospeed.live)
 * [Dec 24: Guide: How to secure your Nano](https://medium.com/@d84/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
@@ -121,6 +120,7 @@ layout: default
 * [Jan 06: How to setup a Nano node](https://youtu.be/k1RlrlaKOCg)
 * [Jan 07: Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 * [Jan 09: Wordpress Plugin - Nano, IOTA, XLM, XRP, SEPA Payment Service](https://wordpress.org/plugins/bitvolo-trustless-crypto-payment-gateway/)
+* [Jan 19: Coinall - Exchange](https://www.coinall.com/market?product=nano_btc)
 
 </div>
 
@@ -245,6 +245,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Coinbene](https://www.coinbene.com)
 * [Bitinka](https://www.bitinka.com)
 * [Bitladon](https://www.bitladon.com/nano)
+* [Coinall](https://www.coinall.com/market?product=nano_btc)
 
 #### Quick Crypto Swap/Buy
 ##### Simple way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution. None of these sites has been vetted by NanoLinks.
