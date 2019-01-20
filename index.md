@@ -494,9 +494,9 @@ Do you have some free time? There are much fun to do but please proceed with cau
 <div class="line"></div>
 
 ## Contribution
-Want to add a link to your own project or you found something else? Just clone repo at [Github](https://github.com/Joohansson/nanolinks) , edit index.md and make a pull request. You can also contact me at [Reddit](https://www.reddit.com/user/Joohansson/). All content will be evaluated.
+Want to add a link to your own project or you found something else? Just clone repo at [Github](https://github.com/Joohansson/nanolinks) , edit index.md and make a pull request. You can also contact me at [Reddit](https://www.reddit.com/user/Joohansson/).
 <br><br>
-**You can also fill in form below to send submission directly. Your email will only be used in case of contact, not on the site or shared in any way.**
+**You can also fill in form below to send a link submission. Your email will only be used in case of contact, not on the site or shared in any way. All content will be evaluated.**
 <br>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <div id="contact-area">
@@ -507,17 +507,11 @@ Want to add a link to your own project or you found something else? Just clone r
 	<label for="url">Link URL</label>
 	<input type="url" id="url" name="URL" required>
 	<br>
-	<label for="category">Category</label>
-	<input type="text" id="category" name="Category">
-	<br>
 	<label for="display-name">Display Name</label>
 	<input type="text" id="display-name" name="Display name" required>
 	<br>
 	<label for="description">Description</label>
 	<textarea rows="4" cols="50" id="description" name="Description" required></textarea>
-	<br>
-	<label for="reason">Reason to add</label>
-	<textarea rows="4" cols="50" id="reason" name="Reason" required></textarea>
 	<br>
 	<div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy">
 	</div>
