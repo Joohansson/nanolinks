@@ -17,7 +17,6 @@ layout: default
         <li><a href="#development">Development</a></li>
         <li><a href="#entertainment">Entertainment</a></li>
         <li><a href="#services">Services</a></li>
-        <li><a href="#other-project-resources">Other Project Resources</a></li>
         <li><a href="#contribution">Contribution</a></li>
       </ul>
     </div>
@@ -95,6 +94,7 @@ layout: default
 <div class="index-text" id="div-left">
   <h2 id="quick-index">Quick Index</h2>
   <ul>
+    <li><a href="/news">News Archive</a></li>
     <li><a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info&edit-text=&act=url">Google Translate This Site</a></li>
     <li><a href="#latest-additions">Latest Additions</a></li>
     <li><a href="#information--education">Information &amp; Education</a></li>
@@ -102,7 +102,6 @@ layout: default
     <li><a href="#development">Development</a></li>
     <li><a href="#entertainment">Entertainment</a></li>
     <li><a href="#services">Services</a></li>
-    <li><a href="#other-project-resources">Other Project Resources</a></li>
     <li><a href="#contribution">Contribution</a></li>
   </ul>
 </div>
@@ -484,11 +483,7 @@ Do you have some free time? There are much fun to do but please proceed with cau
 
 ## Services
 * [Put.io - File Serving](https://put.io)
-
-## Other Project Resources
-* [All Things Nano - Project and Resource Repository](https://www.allthingsnano.net/)
 * [Wall of Nano](https://wallofnano.com/)
-* [Nano Resource List](https://github.com/RaiMakers/awesome-nano)
 
 </div>
 <div class="line"></div>
