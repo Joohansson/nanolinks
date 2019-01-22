@@ -110,8 +110,6 @@ layout: default
 
 ## Latest Additions
 
-* [Dec 21: Coinsave - Buy/Sell Nano in Canada](https://coinsave.io/)
-* [Dec 24: Nano SpeedTest - Test real nano transactions](https://nanospeed.live)
 * [Dec 24: Guide: How to secure your Nano](https://medium.com/@d84/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
 * [Dec 28: 247 Node - Free Nano Node Domain](https://247node.net/)
 * [Jan 01: Nano Development 2018](https://www.youtube.com/watch?v=FqLe12zJKEE)
@@ -120,6 +118,8 @@ layout: default
 * [Jan 07: Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 * [Jan 09: Wordpress Plugin - Nano, IOTA, XLM, XRP, SEPA Payment Service](https://wordpress.org/plugins/bitvolo-trustless-crypto-payment-gateway/)
 * [Jan 19: Coinall - Exchange](https://www.coinall.com/market?product=nano_btc)
+* [Jan 22: A Lil Nano - Free Nano](https://www.alilnano.com/)
+* [Jan 22: Coingate - Nano FIAT Gateway](https://coingate.com/buy/nano)
 
 </div>
 
@@ -248,6 +248,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 #### Quick Crypto Swap/Buy
 ##### Simple way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution. None of these sites has been vetted by NanoLinks.
+
+* [Coingate](https://coingate.com/buy/nano)
 * [N.Exchange](https://n.exchange/)
 * [Swaplab](https://swaplab.cc/)
 * [FastX](https://fastx.io/)
@@ -324,6 +326,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [NanoFaucet.co - Free Nano](https://nanofaucet.co/)
 * [FreeNanoFaucet.com - Free Nano](https://www.freenanofaucet.com/)
 * [GetFreeNano - Free Nano project from Nano Chinese](https://getfreenano.com/)
+* [A Lil Nano - Free Nano](https://www.alilnano.com/)
 * [Nano Twitter Tip Bot - Donation service](https://nanotipbot.com/)
 * [NanoTwitch - Gaming donation service](https://nanotwit.ch/)
 * [Do rai me - Donation Widget](https://doraime.com/)
