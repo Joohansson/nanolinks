@@ -291,7 +291,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 ### Related Mobile Apps
 * [Nano Track - Nano Ticker](https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8)
 * [Coin Stats - Multi-coin, Portfolio, Stats](https://coinstats.app/)
-* [Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto/id1375812090?mt=8)
+* [Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto-coin-tracker/id1375812090?mt=8)
 * [Tradingview - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
 
 ### Market Data, Analysis & Tickers
@@ -308,8 +308,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Coinyep - Multi-Currencies Converter](https://coinyep.com/)
 * [Livecoins - Nano/BRL/USD/BTC Converter](https://livecoins.com.br/nano-hoje-cotacao-nano/)
 * [Nano/USD Converter](http://raiw.krampe.se/value.html?currency=raiblocks&to=usd&value=100)
-* [Niuyan Market Data](https://niuyan.com/currencies/raiblocks)
-* [Coinmatch - Compare Crypto](https://coinmatch.info/NANO/BTC)
+* [Niuyan Market Data](https://niuyan.com/currencies/nano)
 
 ### Merchant & Donation Related [No shops, too many]
 * [Brainblocks - Nano Payment Service](https://brainblocks.io/)
@@ -358,7 +357,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 
 ### Nano Main Protocol
 * [Nano Source Code Main Repositories](https://github.com/nanocurrency)
-* [Node Milestones](https://github.com/nanocurrency/raiblocks/milestones)
+* [Node Milestones](https://github.com/nanocurrency/nano-node/milestones)
 * [Bug Bounty](https://hackerone.com/nano)
 * [Unofficial Nano Community Wiki](https://github.com/georgehara/nano/wiki/unofficial)
 * [Nanoo Tools - Unofficial Developer Wiki + Toolbox](https://nanoo.tools/)
@@ -471,7 +470,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 Do you have some free time? There are much fun to do but please proceed with caution.
 ### Gambling, Betting
 * [PVP - Betting](https://pvp.me/)
-* [BetNano - Betting](https://betnano.io/)
 * [Nano Games - Betting](https://nanogames.io/)
 * [LuckyNano - Gambling](https://luckynano.com/)
 * [Raffle Miner](https://www.raffleminer.com/)
