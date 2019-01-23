@@ -25,12 +25,6 @@ layout: default
 
 <div id="logo-click" class="first-header">
   <img id="logo" src="src/logo_wide2.png" alt="Logo"/>
-  <img id="logo1" class="part-logo" src="src/logo_wide_s.png" alt="Logo1"/>
-  <img id="logo2" class="part-logo" src="src/logo_wide_2_s.png" alt="Logo2"/>
-  <img id="logo4" class="part-logo" src="src/logo_wide_4_s.png" alt="Logo3"/>
-  <img id="logo3" class="part-logo" src="src/logo_wide_3_s.png" alt="Logo4"/>
-  <img id="logo5" class="part-logo" src="src/logo_wide_5_s.png" alt="Logo5"/>
-  <img id="logo6" class="part-logo" src="src/logo_wide_6_s.png" alt="Logo6"/>
 </div>
 <p class="intro"><strong>Nano is a 3rd generation cryptocurrency with zero fees, super quick transactions and high scalability. Each account is part of a Directed Acyclic Graph (DAG), which results in lightweight nodes that requires no mining, thus very low environmental impact. These features makes Nano ideal for peer-to-peer transactions, donations and purchases in everyday life all around the world! Feel free to browse this page to know more about Nano, how it can be used and how to obtain it.</strong></p>
 
@@ -340,6 +334,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [FreeNanoFaucet.com ](https://www.freenanofaucet.com/)
 * [GetFreeNano - Nano China](https://getfreenano.com/)
 * [A Lil Nano](https://www.alilnano.com/)
+* [NanoQuake - Faucet feature](https://wiki.nanocenter.org/index.php?title=Nano_Quake)
 
 ### Point of Sale
 * [Brainblocks Web PoS](https://pos.brainblocks.io/)
