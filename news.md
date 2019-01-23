@@ -24,6 +24,7 @@ layout: newslayout
 ## Reddit
 Protocol, Exchanges, Wallets, Special projects, General news
 ### Jan 2019
+* [Nano Brand Guide V2.1 Released](https://www.reddit.com/r/nanocurrency/comments/aipcvw/nano_brand_guide_v21_released/)
 * [Node v17.1 Released - Peer stability, Improved transaction processing](https://www.reddit.com/r/nanocurrency/comments/aidx65/v171_of_the_nano_node_is_available_boulton_is_back/)
 * [Goingate allow buying Nano via SEPA Bank transfer, mobile balance or QQPay](https://www.reddit.com/r/nanocurrency/comments/aibecp/another_fiat_gateway_at_coingatecom/)
 * [Nano Center announcing new website](https://www.reddit.com/r/nanocurrency/comments/af95yc/announcing_nano_center_website_launch/)
