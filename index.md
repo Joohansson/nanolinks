@@ -72,14 +72,14 @@ layout: default
 <br>
 <h3><strong>The Green Choice</strong></h3>
 <p><ul>
-  <li>A Vestas V164 wind turbine can power 400,000 nano transactions, per revolution! Enough to power 80,000 tx/sec.</li>
-  <li>4 square meters of solar panels can power 7 tx/sec.</li>
-  <li>1 nano tx is equivalent of a 2W LED lamp to shine for 1 sec.</li>
+  <li>A Vestas V164 wind turbine can power 400,000 nano transactions, per revolution! Enough to power 80,000 tx/sec</li>
+  <li>4 square meters of solar panels can power 7 tx/sec</li>
+  <li>1 nano tx is equivalent of a 2W LED lamp to shine for 1 sec</li>
 </ul></p>
 <br>
 <h3><strong>Test Nano</strong></h3>
 <div class="first-para">
-  <p>Without the need to own any nano you can try the power of fast and fee-less transactions on the real live network! If you want to transact with your own nano you can easily create a wallet and obtain some free n$
+  <p>Without the need to own any nano you can try the power of fast and fee-less transactions on the real live network! If you want to transact with your own nano you can easily create a wallet and obtain some free nano</p>
   <a href="http://nanospeed.live" class="site-btn btn-external" onclick="window.open(this.href); return false;">SPEED TEST FROM A TO B</a><br>
   <a href="#faucets-free-nano" class="site-btn">GET FREE NANO</a><br>
   <a href="https://nanomate.co/" class="site-btn btn-external" onclick="window.open(this.href); return false;">SEND TO ANYONE</a>
