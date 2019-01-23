@@ -79,8 +79,10 @@ layout: default
 <br>
 <h3><strong>Test Nano</strong></h3>
 <div class="first-para">
-  <p>Without the need to own any nano you can try the power of fast and fee-less transactions on the real live network! If you want to transact with your own nano you can easily create a wallet and obtain some free nano fragments using any of the nano faucet sites listed below.</p>
-  <a href="http://nanospeed.live" class="btn-nanospeed-live btn-nanospeed-live-lg" onclick="window.open(this.href); return false;"> Speed Test Nano <span role="img" aria-label="Timer">&#9200;</span></a>
+  <p>Without the need to own any nano you can try the power of fast and fee-less transactions on the real live network! If you want to transact with your own nano you can easily create a wallet and obtain some free n$
+  <a href="http://nanospeed.live" class="site-btn btn-external" onclick="window.open(this.href); return false;">SPEED TEST FROM A TO B</a><br>
+  <a href="#faucets-free-nano" class="site-btn">GET FREE NANO</a><br>
+  <a href="https://nanomate.co/" class="site-btn btn-external" onclick="window.open(this.href); return false;">SEND TO ANYONE</a>
 </div>
 
 <div class="line"></div>
@@ -508,7 +510,7 @@ Want to add a link to your own project or you found something else? Just clone r
 	<div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy">
 	</div>
 	<br>
-	<button type="submit" class="submit-button">Submit Link</button>
+	<button type="submit" class="site-btn">Submit Link</button>
   </form>
 </div>
 <br>
@@ -560,7 +562,7 @@ Maintaining this content requires some effort. If you want to contribute to this
     $('a').click(function(e) {
       //Only hitCallback when tracking links in same tab, to prevent speed button to use href (it uses new tab)
       var params = {};
-      if (!$(this).hasClass("btn-nanospeed-live btn-nanospeed-live-lg")) {
+      if (!$(this).hasClass("btn-external")) {
         params.hitCallback = function () {
             document.location = url;
         }
