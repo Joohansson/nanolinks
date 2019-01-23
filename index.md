@@ -24,7 +24,7 @@ layout: default
 </nav>
 
 <div id="logo-click" class="first-header">
-  <img id="logo" class="part-logo" src="src/logo_wide2.png" alt="Logo"/>
+  <img id="logo" src="src/logo_wide2.png" alt="Logo"/>
   <img id="logo1" class="part-logo" src="src/logo_wide_s.png" alt="Logo1"/>
   <img id="logo2" class="part-logo" src="src/logo_wide_2_s.png" alt="Logo2"/>
   <img id="logo4" class="part-logo" src="src/logo_wide_4_s.png" alt="Logo3"/>
