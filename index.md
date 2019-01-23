@@ -79,7 +79,8 @@ layout: default
 <br>
 <h3><strong>Test Nano</strong></h3>
 <div class="first-para">
-  <p>Without the need to own any nano you can try the power of fast and fee-less transactions on the real live network! If you want to transact with your own nano you can easily create a wallet and obtain some free nano</p>
+  <p>Without the need to own any nano you can try the power of fast and fee-less transactions on the real live network!<br>
+	  If you want to transact with your own nano you can easily create a wallet and obtain some free nano</p>
   <a href="http://nanospeed.live" class="site-btn btn-external" onclick="window.open(this.href); return false;">SPEED TEST FROM A TO B</a><br>
   <a href="#faucets-free-nano" class="site-btn">GET FREE NANO</a><br>
   <a href="https://nanomate.co/" class="site-btn btn-external" onclick="window.open(this.href); return false;">SEND TO ANYONE</a>
