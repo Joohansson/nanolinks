@@ -70,6 +70,31 @@ ul {
   color: rgba(255,255,255,0.85) !important;
 }
 
+/* Content buttons */
+.site-btn {
+  text-decoration: none;
+  color: #ffffff;
+  border-color: transparent;
+  background-color: #4a90e2;
+  box-shadow: none;
+  padding: 0.4em 1em;
+  width: 260px;
+  font-size: 0.9em;
+  margin-bottom: 10px;
+  text-align: center;
+  border-radius: 6px;
+  display: inline-block;
+
+  &:hover,
+  &:focus,
+  &.focus {
+    border-color: transparent;
+    color: #ffffff;
+    background-color: #f9ae42;
+    box-shadow: none;
+  }
+}
+
 /* No underline in H2 tagline */
 .project-tagline {
   text-decoration: none !important; 
