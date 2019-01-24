@@ -331,12 +331,12 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [The Micrypto Marketplace - Hash Power Trading](https://www.micrypto.co)
 
 ### Faucets (Free Nano)
-* [NanoFaucet.org](https://www.nanofaucet.org/)
 * [Nano-Faucet.org](https://nano-faucet.org/)
-* [NanoFaucet.co](https://nanofaucet.co/)
 * [FreeNanoFaucet.com ](https://www.freenanofaucet.com/)
-* [GetFreeNano - Nano China](https://getfreenano.com/)
 * [A Lil Nano](https://www.alilnano.com/)
+* [NanoFaucet.org](https://www.nanofaucet.org/)
+* [NanoFaucet.co](https://nanofaucet.co/)
+* [GetFreeNano - Nano China](https://getfreenano.com/)
 * [NanoQuake - Faucet feature](https://wiki.nanocenter.org/index.php?title=Nano_Quake)
 
 ### Point of Sale
