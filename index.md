@@ -269,7 +269,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Ninjavault** - Web](https://vault.mynano.ninja/)
 * [**Nanollet** - Windows,Linux,Darwin](https://github.com/brokenbydefault/Nanollet)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
-* [**Natrium** - Android](https://play.google.com/store/apps/details?id=co.banano.natriumwallet)
+* [**Natrium** - Android,iOS(soon)](https://natrium.io/)
 
 #### Address Generators, Paper Wallets
 * [Nano Paper Wallet 1](https://vitorcremonez.github.io/nano-paper-wallet/)
