@@ -107,7 +107,6 @@ layout: default
 
 ## Latest Additions
 
-* [Dec 24: Guide: How to secure your Nano](https://medium.com/@d84/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
 * [Dec 28: 247 Node - Free Nano Node Domain](https://247node.net/)
 * [Jan 01: Nano Development 2018](https://www.youtube.com/watch?v=FqLe12zJKEE)
 * [Jan 05: NinjaVault - Web wallet clone of NanoVault](https://vault.mynano.ninja/)
@@ -117,6 +116,7 @@ layout: default
 * [Jan 19: Coinall - Exchange](https://www.coinall.com/market?product=nano_btc)
 * [Jan 22: A Lil Nano - Free Nano](https://www.alilnano.com/)
 * [Jan 22: Coingate - Nano FIAT Gateway](https://coingate.com/buy/nano)
+* [Jan 25: Beta Net Wiki, Guide](https://github.com/NanoTools/wiki/blob/master/Beta-Network.md))
 
 </div>
 
@@ -460,6 +460,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Beta Net Graph - Nanowat.ch](https://beta.nanowat.ch/graph)
 * [Beta Net Stats - Nanode21](https://nanode21.cloud/testnetstats.php)
 * [Beta Net TPS Monitor](https://nanoticker.info/tps_beta.php)
+* [Beta Net Wiki, Guide](https://github.com/NanoTools/wiki/blob/master/Beta-Network.md)
 
 </div>
 <div class="line line-small"></div>
