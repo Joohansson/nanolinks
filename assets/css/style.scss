@@ -138,7 +138,6 @@ ul {
 .help {
   display: none;
   margin-left: 1.5em;
-  margin-top: 0.5em;
   margin-bottom: 1em;
   border-style: solid;
   border-width: 1px;
@@ -152,6 +151,7 @@ ul {
 }
 
 #help-select {
+  margin-bottom: 0.8em;
   margin-left: 1.5em;
   color: #000034;
   padding-left: 5px;
