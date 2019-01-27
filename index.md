@@ -167,6 +167,7 @@ layout: default
     <ul>
       <li><a class="int-link" href="#core-social-media--contribution-channels">Social Media Channels</a></li>
       <li><a class="int-link" href="#project-specific-development-channels">Development Channels</a></li>
+      <li><a href="https://nanocenter.org/">The Nano Center</a></li>
     </ul>
   </div>
 </div>
