@@ -147,10 +147,13 @@ layout: default
     <ul>
       <li><a href="https://youtu.be/k1RlrlaKOCg">Video Guide: How to setup a Nano node</a></li>
       <li><a href="https://1nano.co/support-the-network">Text Guide: How to Setup a Node at DigitalOcean</a></li>
-      <li><a href="https://github.com/lephleg/nano-node-docker">Nano Node Docker</a></li>
-      <li><a href="https://nanotools.github.io/easy-nano-node">Easy Nano Node</a></li>
+      <li><a href="https://github.com/nanocurrency/nano-node/wiki">Nano Main Github Wiki</a></li>
+      <li><a href="https://nanoo.tools/docker-node">Community Developer Wiki</a></li>
+      <li><a href="https://github.com/lephleg/nano-node-docker">Quick Setup: Nano Node Docker</a></li>
+      <li><a href="https://nanotools.github.io/easy-nano-node">Quick Setup: Easy Nano Node</a></li>
       <li><a href="https://github.com/NanoTools/nanoNodeMonitor">Nano Node Monitor</a></li>
       <li><a href="https://github.com/Joohansson/NanoNodeGraphics">Nano Node Graphics - Realtime Charts</a></li>
+      <li><a href="https://github.com/georgehara/nano/wiki/unofficial">Advanced Community Documentation</a></li>
     </ul>
   </div>
 
