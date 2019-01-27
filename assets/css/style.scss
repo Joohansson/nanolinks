@@ -83,6 +83,8 @@ ul {
   margin-bottom: 10px;
   text-align: center;
   border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
   display: inline-block;
 
   &:hover,
@@ -112,6 +114,10 @@ ul {
     width : 48% !important;
     margin: 0 !important;
   }
+  #div-full {
+    width : auto;
+    margin: 0 !important;
+  }
 }
 
 @include medium {
@@ -126,6 +132,45 @@ ul {
     float: none;
     width: auto;
   }
+}
+
+/* Hidden quick help section */
+.help {
+  display: none;
+  margin-left: 1.5em;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #a9a9a9;
+  padding-top: 5px;
+  padding-right: 5px;
+  width: 80%;
+  border-radius: 6px !important;
+  -webkit-border-radius: 6px !important;
+  -moz-border-radius: 6px !important;
+}
+
+#help-select {
+  margin-left: 1.5em;
+  color: #000034;
+  padding-left: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-right: 5px;
+  -webkit-border-radius: 6px !important;
+  -moz-border-radius: 6px !important;
+  border-radius: 6px !important;
+  border-color: #e24a4a !important;
+}
+
+#help-select:focus {
+  outline: none;
+}
+
+/* Link colors */
+.int-link {
+  color: #e24a4a !important;
 }
 
 /* Menu */
@@ -150,6 +195,8 @@ ul {
   left: 10.5em;
   padding-top: 0.5em;
   border-radius: 0.2em;
+  -webkit-border-radius: 0.2em;
+  -moz-border-radius: 0.2em;
 }
 
 #dropbtn a {
@@ -174,7 +221,8 @@ ul {
   margin-bottom: 0.4em;
   background: #eee;
   border-radius: 0.125em;
-  z-index: 2;
+  -webkit-border-radius: 0.125em;
+  -moz-border-radius: 0.125em;
 }
 
 /* Menu main container including top margin */
@@ -223,6 +271,8 @@ ul {
 #dropdown-content a:hover {
     background-color: #6dc5b2;
     border-radius: 0.2em;
+    -webkit-border-radius: 0.2em;
+    -moz-border-radius: 0.2em;
 }
 
 #dropdown-container:hover {
@@ -307,11 +357,6 @@ figure {
   @include small {
     margin: 0.5em 10px !important;
   }
-}
-
-//Index text
-.index-text a {
-  color: #e24a4a !important;
 }
 
 //Nano logos
