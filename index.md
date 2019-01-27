@@ -91,23 +91,87 @@ layout: default
 <div class="index-text" id="div-left">
   <h2 id="quick-index">Quick Index</h2>
   <ul>
-    <li><a href="/news">News Archive</a></li>
-    <li><a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info&edit-text=&act=url">Google Translate This Site</a></li>
-    <li><a href="#latest-additions">Latest Additions</a></li>
-    <li><a href="#information--education">Information &amp; Education</a></li>
-    <li><a href="#market">Market</a></li>
-    <li><a href="#development">Development</a></li>
-    <li><a href="#entertainment">Entertainment</a></li>
-    <li><a href="#services">Services</a></li>
-    <li><a href="#contribution">Contribution</a></li>
+    <li><a class="int-link" href="/news">News Archive</a></li>
+    <li><a class="int-link" href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info&edit-text=&act=url">Google Translate This Site</a></li>
+    <li><a class="int-link" href="#latest-additions">Latest Additions</a></li>
+    <li><a class="int-link" href="#information--education">Information &amp; Education</a></li>
+    <li><a class="int-link" href="#market">Market</a></li>
+    <li><a class="int-link" href="#development">Development</a></li>
+    <li><a class="int-link" href="#entertainment">Entertainment</a></li>
+    <li><a class="int-link" href="#services">Services</a></li>
+    <li><a class="int-link" href="#contribution">Contribution</a></li>
   </ul>
+  
+  <select id="help-select">
+    <option selected disabled>Common Activities & Link Generator</option>
+    <option value="1">Send or Receive Nano</option>
+    <option value="2">Buy or Trade Nano</option>
+    <option value="3">Track Transactions or check Stats</option>
+    <option value="4">Accept Nano in a Shop</option>
+    <option value="5">Set up a Node or Representative</option>
+    <option value="6">Participate in the Beta Network</option>
+    <option value="7">Join our Community</option>
+  </select>
+  
+  <div class="help" id="help1">
+    <ul>
+      <li><a class="int-link" href="#wallets">Wallets</a></li>
+      <li><a class="int-link" href="#faucets-free-nano">Faucets (Free nano)</a></li>
+      <li><a href="https://youtu.be/qSsIXy-NimE">Video Guide: Get Free Nano and Share with Anyone</a></li>
+    </ul>
+  </div>
+  
+  <div class="help" id="help2">
+    <ul>
+      <li><a class="int-link" href="#exchanges">Exchanges</a></li>
+      <li><a class="int-link" href="#market-data-analysis--tickers">Market Data, Analysis & Tickers</a></li>
+      <li><a href="https://youtu.be/FE5yUT4-UYk">Guide: How to buy NANO with Coinbase and Binance</a></li>
+    </ul>
+  </div>
+
+  <div class="help" id="help3">
+    <ul>
+      <li><a class="int-link" href="#network-stats-and-explorers">Network Stats and Explorers</a></li>
+      <li><a href="https://distributedpow.tk/">Distributed PoW System - Dashboard</a></li>
+    </ul>
+  </div>
+  
+  <div class="help" id="help4">
+    <ul>
+      <li><a class="int-link" href="#merchant--donation-related-no-shops-too-many">Payment Services</a></li>
+      <li><a class="int-link" href="#point-of-sale">Point of Sale Services</a></li>
+    </ul>
+  </div>
+  
+  <div class="help" id="help5">
+    <ul>
+      <li><a href="https://youtu.be/k1RlrlaKOCg">Video Guide: How to setup a Nano node</a></li>
+      <li><a href="https://1nano.co/support-the-network">Text Guide: How to Setup a Node at DigitalOcean</a></li>
+      <li><a href="https://github.com/lephleg/nano-node-docker">Nano Node Docker</a></li>
+      <li><a href="https://nanotools.github.io/easy-nano-node">Easy Nano Node</a></li>
+      <li><a href="https://github.com/NanoTools/nanoNodeMonitor">Nano Node Monitor</a></li>
+      <li><a href="https://github.com/Joohansson/NanoNodeGraphics">Nano Node Graphics - Realtime Charts</a></li>
+    </ul>
+  </div>
+
+  <div class="help" id="help6">
+    <ul>
+      <li><a class="int-link" href="#beta-network">Beta Network Resources</a></li>
+    </ul>
+  </div>
+  
+  <div class="help" id="help7">
+    <ul>
+      <li><a class="int-link" href="#core-social-media--contribution-channels">Social Media Channels</a></li>
+      <li><a class="int-link" href="#project-specific-development-channels">Development Channels</a></li>
+    </ul>
+  </div>
 </div>
 
-<div id="div-right" markdown="1">
+<div id="div-left" markdown="1">
 
 ## Latest Additions
 
-* [Dec 28: 247 Node - Free Nano Node Domain](https://247node.net/)
 * [Jan 01: Nano Development 2018](https://www.youtube.com/watch?v=FqLe12zJKEE)
 * [Jan 05: NinjaVault - Web wallet clone of NanoVault](https://vault.mynano.ninja/)
 * [Jan 06: How to setup a Nano node](https://youtu.be/k1RlrlaKOCg)
@@ -116,13 +180,14 @@ layout: default
 * [Jan 19: Coinall - Exchange](https://www.coinall.com/market?product=nano_btc)
 * [Jan 22: A Lil Nano - Free Nano](https://www.alilnano.com/)
 * [Jan 22: Coingate - Nano FIAT Gateway](https://coingate.com/buy/nano)
-* [Jan 25: Beta Net Wiki, Guide](https://github.com/NanoTools/wiki/blob/master/Beta-Network.md))
+* [Jan 25: Beta Net Wiki, Guide](https://github.com/NanoTools/wiki/blob/master/Beta-Network.md)
+* [Jan 27: Video Guide: Get Free Nano and Share with Anyone](https://youtu.be/qSsIXy-NimE)
 
 </div>
 
 <div class="line"></div>
 
-<div id="div-left" markdown="1">
+<div id="div-full" markdown="1">
 
 ## Information & Education
 Learn everything there is to know about Nano!
@@ -138,12 +203,11 @@ Learn everything there is to know about Nano!
 
 ### Core Social Media & Contribution Channels
 * [Reddit](https://www.reddit.com/r/nanocurrency/)
-* [Discord Main](https://discordapp.com/invite/JphbBas)
-* [Discord Trade](https://discordapp.com/invite/RT4wzGV)
+* [Discord: Main](https://discordapp.com/invite/JphbBas)
+* [Discord: The Nano Center](https://discord.gg/yhBuXMm)
 * [Twitter](https://twitter.com/nano)
 * [Facebook](https://www.facebook.com/nanofoundation/)
 * [LinkedIn](https://www.linkedin.com/company/nano-foundation/)
-* [Bitcointalk](https://bitcointalk.org/index.php?topic=1381323.0)
 
 ### Scientific Papers
 * [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
@@ -187,7 +251,9 @@ Learn everything there is to know about Nano!
 * [Nano Development 2014-2018](https://youtu.be/br8tcS8gcqE)
 * [Nano Development 2018](https://www.youtube.com/watch?v=FqLe12zJKEE)
 * [Why Change Your Nano Representative?](https://youtu.be/dnOTiixhPrk)
-* [How to setup a Nano node](https://youtu.be/k1RlrlaKOCg)
+* [Guide: How to setup a Nano node](https://youtu.be/k1RlrlaKOCg)
+* [Guide: Get Free Nano and Share with Anyone with Zero Fees](https://youtu.be/qSsIXy-NimE)
+* [Guide: How to buy NANO with Coinbase and Binance](https://youtu.be/FE5yUT4-UYk)
 
 ### Video Advertisement
 * [Nano The Future of Money](https://youtu.be/lw-rpO0jqYQ)
@@ -214,7 +280,7 @@ Learn everything there is to know about Nano!
 
 </div>
 <div class="line line-small"></div>
-<div id="div-right" markdown="1">
+<div id="div-full" markdown="1">
 
 ## Market
 Are you ready to obtain or spend some Nano? Find your market or merchant here.
@@ -348,7 +414,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 </div>
 <div class="line"></div>
 
-<div id="div-left" markdown="1">
+<div id="div-full" markdown="1">
 
 ## Development
 Have a great idea? Jump in and start coding. Anyone can join!
@@ -366,7 +432,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Discord: Canoe Wallet](https://discord.gg/ecVcJM3)
 * [Discord: Nanoblocks Wallet](https://discord.gg/n76DkEt)
 * [Discord: My Nano Ninja](https://discord.me/nanonodeninja)
-* [Discord: The Nano Center](https://discord.gg/yhBuXMm)
 * [Discord: Brainblocks](https://discord.gg/MwaQcVM)
 * [Reddit: Jolt Wallet](https://www.reddit.com/r/joltwallet)
 
@@ -374,9 +439,8 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Brainblocks](https://github.com/brainblocks)
 * [Nanode.co](https://github.com/mikepaszkiewicz/nanode)
 * [Nano Node Monitor](https://github.com/NanoTools/nanoNodeMonitor)
-* [Nano Node Graphics - Realtime charts](https://github.com/Joohansson/NanoNodeGraphics)
+* [Nano Node Graphics - Realtime Charts](https://github.com/Joohansson/NanoNodeGraphics)
 * [Nano Node Scripts](https://github.com/dbachm123/nanoNodeScripts)
-* [Nanod.es - Node Service](https://nanod.es/)
 * [Easy Nano Node](https://nanotools.github.io/easy-nano-node/)
 * [Nano Node Docker](https://github.com/lephleg/nano-node-docker)
 * [Guide - How to Setup a Node at DigitalOcean](https://1nano.co/support-the-network/)
@@ -459,12 +523,12 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Beta Net Explorer - NanoCrawler](https://beta.nanocrawler.cc/)
 * [Beta Net Graph - Nanowat.ch](https://beta.nanowat.ch/graph)
 * [Beta Net Stats - Nanode21](https://nanode21.cloud/testnetstats.php)
-* [Beta Net TPS Monitor](https://nanoticker.info/tps_beta.php)
+* [Beta Net TPS Monitor](https://beta.nanoticker.info)
 * [Beta Net Wiki, Guide](https://github.com/NanoTools/wiki/blob/master/Beta-Network.md)
 
 </div>
 <div class="line line-small"></div>
-<div id="div-right" markdown="1">
+<div id="div-full" markdown="1">
 
 ## Entertainment
 Do you have some free time? There are much fun to do but please proceed with caution.
@@ -561,6 +625,19 @@ Maintaining this content requires some effort. If you want to contribute to this
       }        
     });
 
+    //Quick help
+    $('#help-select').on('change',function(){
+      var val = $(this).val();
+      var helpDivs = ['#help1','#help2','#help3','#help4','#help5','#help6','#help7','#help8'];
+
+      //Hide all other divs
+      $.each( helpDivs, function( index, value ){
+        $(value).hide();
+      });
+
+      $(helpDivs[parseInt(val)-1]).show();
+    });
+    
     //Click analytics
     $('a').click(function(e) {
       //Only hitCallback when tracking links in same tab, to prevent speed button to use href (it uses new tab)
