@@ -107,7 +107,7 @@ layout: default
   </ul>
   
   <select id="help-select">
-    <option selected disabled>Common Activities & Link Generator</option>
+    <option selected disabled>What are you looking for?</option>
     <option value="1">Send or Receive Nano</option>
     <option value="2">Buy or Trade Nano</option>
     <option value="3">Track Transactions or check Stats</option>
