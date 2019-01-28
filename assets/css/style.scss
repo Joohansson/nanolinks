@@ -87,9 +87,7 @@ ul {
   -moz-border-radius: 6px;
   display: inline-block;
 
-  &:hover,
-  &:focus,
-  &.focus {
+  &:hover {
     border-color: transparent;
     color: #ffffff;
     background-color: #f9ae42;
@@ -132,6 +130,11 @@ ul {
     float: none;
     width: auto;
   }
+}
+
+/* Collapsible div */
+.collapse-content {
+  display: none;
 }
 
 /* Hidden quick help section */
