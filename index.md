@@ -176,7 +176,6 @@ layout: default
 
 ## Latest Additions
 
-* [Jan 05: NinjaVault - Web wallet clone of NanoVault](https://vault.mynano.ninja/)
 * [Jan 06: How to setup a Nano node](https://youtu.be/k1RlrlaKOCg)
 * [Jan 07: Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 * [Jan 09: Wordpress Plugin - Nano, IOTA, XLM, XRP, SEPA Payment Service](https://wordpress.org/plugins/bitvolo-trustless-crypto-payment-gateway/)
@@ -186,6 +185,7 @@ layout: default
 * [Jan 25: Beta Net Wiki, Guide](https://github.com/NanoTools/wiki/blob/master/Beta-Network.md)
 * [Jan 27: Video Guide: Get Free Nano and Share with Anyone](https://youtu.be/qSsIXy-NimE)
 * [Jan 28: NanoStream - Transaction Visualizer](https://nanostream.eu/)
+* [Jan 28: Game: Player Killers Exchange](https://playerkillers.exchange)
 
 </div>
 
