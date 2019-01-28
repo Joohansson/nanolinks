@@ -24,7 +24,7 @@ layout: default
 </nav>
 
 <div id="logo-click" class="first-header">
-  <img id="logo" src="src/nano.png" alt="Logo"/>
+  <img id="logo" src="src/logo_links.png" alt="Logo"/>
 </div>
 
 <button class="site-btn collapse">What is Nano?</button>
