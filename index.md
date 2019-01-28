@@ -273,7 +273,6 @@ Learn everything there is to know about Nano!
 * [Nanowatch - Explorer, Graphic Visualizer](https://nanowat.ch/)
 * [My Nano Ninja - Representatives, Stats, Explorer](https://mynano.ninja/)
 * [Nanoodle - Live Stat Charts](https://nanoodle.io/live)
-* [XRB Network - Map Visualizer](http://xrb.network/)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
 * [TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
 * [NanoStream - Transaction Visualizer](https://nanostream.eu/)
@@ -547,6 +546,7 @@ Do you have some free time? There are much fun to do but please proceed with cau
 ### Games
 * [NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
 * [Eternity Tower](https://eternitytower.net/)
+* [Player Killers Exchange](https://playerkillers.exchange)
 
 ### Video, Music, Art
 * [The Nanoji Generator](https://www.nanojigenerator.com/)
