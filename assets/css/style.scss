@@ -31,6 +31,12 @@ $hr-border-color: #eff0f1;
 //Override default
 h1 {
   margin-top: 0 !important;
+  font-family: Nunito !important;
+  font-style: normal !important;
+  font-variant: small-caps !important;
+  font-weight: 700 !important;
+  line-height: 3.1rem !important;
+  font-size: 3.1rem !important;
 }
 
 h2 {
@@ -371,12 +377,11 @@ figure {
   display: none;
 }
 
-.logo {
-  margin-top: 0;
-  margin-bottom: 0;
+#logo {
+  margin: 1em 0;
   display: block;
-  width: 90%;
-  max-width: 60rem !important;
+  /*width: 80%;
+  max-width: 30rem !important;*/
   padding-top: 0;
 }
 
