@@ -176,7 +176,6 @@ layout: default
 
 ## Latest Additions
 
-* [Jan 01: Nano Development 2018](https://www.youtube.com/watch?v=FqLe12zJKEE)
 * [Jan 05: NinjaVault - Web wallet clone of NanoVault](https://vault.mynano.ninja/)
 * [Jan 06: How to setup a Nano node](https://youtu.be/k1RlrlaKOCg)
 * [Jan 07: Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
@@ -186,6 +185,7 @@ layout: default
 * [Jan 22: Coingate - Nano FIAT Gateway](https://coingate.com/buy/nano)
 * [Jan 25: Beta Net Wiki, Guide](https://github.com/NanoTools/wiki/blob/master/Beta-Network.md)
 * [Jan 27: Video Guide: Get Free Nano and Share with Anyone](https://youtu.be/qSsIXy-NimE)
+* [Jan 28: NanoStream - Transaction Visualizer](https://nanostream.eu/)
 
 </div>
 
@@ -276,6 +276,7 @@ Learn everything there is to know about Nano!
 * [XRB Network - Map Visualizer](http://xrb.network/)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
 * [TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
+* [NanoStream - Transaction Visualizer](https://nanostream.eu/)
 * [Nano fees tracker =)](http://nanofees.live/)
 * [Are We Decentralized Yet](https://arewedecentralizedyet.com/)
 * [Blocktivity - Utilization Comparision](https://blocktivity.info/)
