@@ -26,6 +26,9 @@ layout: default
 <div id="logo-click" class="first-header">
   <img id="logo" src="src/logo_wide2.png" alt="Logo"/>
 </div>
+
+<button class="site-btn collapse">What is Nano?</button>
+<div class="collapse-content">
 <p class="intro"><strong>Nano is a 3rd generation cryptocurrency with zero fees, super quick transactions and high scalability. Each account is part of a Directed Acyclic Graph (DAG), which results in lightweight nodes that requires no mining, thus very low environmental impact. These features makes Nano ideal for peer-to-peer transactions, donations and purchases in everyday life all around the world! Feel free to browse this page to know more about Nano, how it can be used and how to obtain it.</strong></p>
 
 <h3><strong>Simple Comparison</strong></h3>
@@ -87,6 +90,7 @@ layout: default
 </div>
 
 <div class="line"></div>
+</div>
 
 <div class="index-text" id="div-left">
   <h2 id="quick-index">Quick Index</h2>
@@ -610,58 +614,8 @@ Maintaining this content requires some effort. If you want to contribute to this
 
 <img id="bottom-logo" src="https://raw.githubusercontent.com/Joohansson/nanolinks/master/src/nanolinks_simple.png" alt="NanoLinks" />
 
-<!-- Enable open close menu on touch devices -->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-<script type="text/javascript">
-  $(document).ready(function() {
-    /*$('#dropdown-container').show();*/
-    $('#dropbtn').click(function(event) {
-      if($('#dropdown-container').is(":visible")) {
-        $('#dropdown-container').hide();
-      }
-      else {
-        $('#dropdown-container').show();
-      }
-    });
-    $(document).on('touchstart click', function(event) { 
-      if(!$(event.target).closest('#dropbtn').length && !$(event.target).closest('#dropdown-container').length) {
-        if($('#dropdown-container').is(":visible")) {
-          $('#dropdown-container').hide();
-        }
-      }        
-    });
-
-    //Quick help
-    $('#help-select').on('change',function(){
-      var val = $(this).val();
-      var helpDivs = ['#help1','#help2','#help3','#help4','#help5','#help6','#help7','#help8'];
-
-      //Hide all other divs
-      $.each( helpDivs, function( index, value ){
-        $(value).hide();
-      });
-
-      $(helpDivs[parseInt(val)-1]).show();
-    });
-    
-    //Click analytics
-    $('a').click(function(e) {
-      //Only hitCallback when tracking links in same tab, to prevent speed button to use href (it uses new tab)
-      var params = {};
-      if (!$(this).hasClass("btn-external")) {
-        params.hitCallback = function () {
-            document.location = url;
-        }
-      }
-      
-      if (!ga.q) {
-        var url = $(this).attr("href");
-        ga("send", "event", "outbound", "click", url, params);
-        e.preventDefault();
-      }
-    });
-  });
-</script>
+<script src="src/index.js"></script>
 
 <!-- Track link submissions -->
 <script src="https://usebasin.com/f/716ec11da426/ahoy.js" async defer></script>
