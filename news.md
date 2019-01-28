@@ -18,7 +18,7 @@ layout: newslayout
 </nav>
 
 <div id="logo-click" class="first-header">
-  <img id="logo" src="src/nano.png" alt="Logo"/>
+  <img id="logo" src="src/logo_news.png" alt="Logo"/>
 </div>
 
 <p class="intro"><strong>Great news easily gets buried in a continuous media stream like Reddit and Discord. Here we try to keep track of the most important ones as a news archive.</strong><br>
