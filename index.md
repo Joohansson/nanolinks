@@ -124,6 +124,7 @@ layout: default
   <div class="help" id="help2">
     <ul>
       <li><a class="int-link" href="#exchanges">Exchanges</a></li>
+      <li><a class="int-link" href="#related-mobile-apps">Mobile Apps</a></li>
       <li><a class="int-link" href="#market-data-analysis--tickers">Market Data, Analysis & Tickers</a></li>
       <li><a href="https://youtu.be/FE5yUT4-UYk">Guide: How to buy NANO with Coinbase and Binance</a></li>
     </ul>
