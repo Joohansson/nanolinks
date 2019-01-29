@@ -288,7 +288,7 @@ Learn everything there is to know about Nano!
 * [Nano SpeedTest - Test real nano transactions](https://nanospeed.live)
 
 </div>
-<div class="line line-small"></div>
+<div class="line"></div>
 <div id="div-full" markdown="1">
 
 ## Market
@@ -536,7 +536,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Beta Net Wiki, Guide](https://github.com/NanoTools/wiki/blob/master/Beta-Network.md)
 
 </div>
-<div class="line line-small"></div>
+<div class="line"></div>
 <div id="div-full" markdown="1">
 
 ## Entertainment
