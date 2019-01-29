@@ -27,6 +27,7 @@ layout: newslayout
 ## Reddit
 Protocol, Exchanges, Wallets, Special projects, General news
 ### Jan 2019
+* [The Bitgrail Exchange Ruling: A Win for the Exchange Users](https://www.reddit.com/r/nanocurrency/comments/akli76/the_bomber_was_at_fault_for_the_loss_and_is/)
 * [Nano Brand Guide V2.1 Released](https://www.reddit.com/r/nanocurrency/comments/aipcvw/nano_brand_guide_v21_released/)
 * [Node v17.1 Released - Peer stability, Improved transaction processing](https://www.reddit.com/r/nanocurrency/comments/aidx65/v171_of_the_nano_node_is_available_boulton_is_back/)
 * [Goingate allow buying Nano via SEPA Bank transfer, mobile balance or QQPay](https://www.reddit.com/r/nanocurrency/comments/aibecp/another_fiat_gateway_at_coingatecom/)
