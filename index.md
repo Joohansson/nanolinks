@@ -23,6 +23,10 @@ layout: default
   </div>
 </nav>
 
+<div class="div-full">
+<div class="blur"></div>
+<div class="overlay"></div>
+<div class="link-content">
 <div id="logo-click" class="first-header">
   <img id="logo" src="src/logo_links.png" alt="Logo"/>
 </div>
@@ -84,15 +88,20 @@ layout: default
 <div class="first-para">
   <p>Without the need to own any nano you can try the power of fast and fee-less transactions on the real live network!<br>
 	  If you want to transact with your own nano you can easily create a wallet and obtain some free nano from any of the faucets find below.</p>
-  <a href="http://nanospeed.live" class="site-btn btn-external" onclick="window.open(this.href); return false;">SPEED TEST FROM A TO B</a><br>
-  <a href="#faucets-free-nano" class="site-btn">GET FREE NANO</a><br>
-  <a href="https://nanomate.co/" class="site-btn btn-external" onclick="window.open(this.href); return false;">SEND TO ANYONE</a>
+  <a href="http://nanospeed.live" class="site-btn btn-wide btn-external" onclick="window.open(this.href); return false;">SPEED TEST FROM A TO B</a><br>
+  <a href="#faucets-free-nano" class="site-btn btn-wide">GET FREE NANO</a><br>
+  <a href="https://nanomate.co/" class="site-btn btn-wide btn-external" onclick="window.open(this.href); return false;">SEND TO ANYONE</a>
 </div>
 
-<div class="line"></div>
+</div>
+</div>
 </div>
 
-<div class="index-text" id="div-left">
+<div class="div-full">
+<div class="blur"></div>
+<div class="overlay"></div>
+<div class="link-content">
+<div class="index-text" class="div-left">
   <h2 id="quick-index">Quick Index</h2>
   <ul>
     <li><a class="int-link" href="/news">News Archive</a></li>
@@ -177,7 +186,7 @@ layout: default
   </div>
 </div>
 
-<div id="div-left" markdown="1">
+<div class="div-right" markdown="1">
 
 ## Latest Additions
 
@@ -193,10 +202,13 @@ layout: default
 * [Jan 28: Game: Player Killers Exchange](https://playerkillers.exchange)
 
 </div>
+</div>
+</div>
 
-<div class="line"></div>
-
-<div id="div-full" markdown="1">
+<div class="div-full">
+<div class="blur"></div>
+<div class="overlay"></div>
+<div class="link-content" markdown="1">
 
 ## Information & Education
 Learn everything there is to know about Nano!
@@ -288,8 +300,12 @@ Learn everything there is to know about Nano!
 * [Nano SpeedTest - Test real nano transactions](https://nanospeed.live)
 
 </div>
-<div class="line"></div>
-<div id="div-full" markdown="1">
+</div>
+
+<div class="div-full">
+<div class="blur"></div>
+<div class="overlay"></div>
+<div class="link-content" markdown="1">
 
 ## Market
 Are you ready to obtain or spend some Nano? Find your market or merchant here.
@@ -423,9 +439,12 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Paytomat - Payment Service. Terminal, Web, QR, Fiat gateway](https://paytomat.com/)
 
 </div>
-<div class="line"></div>
+</div>
 
-<div id="div-full" markdown="1">
+<div class="div-full">
+<div class="blur"></div>
+<div class="overlay"></div>
+<div class="link-content" markdown="1">
 
 ## Development
 Have a great idea? Jump in and start coding. Anyone can join!
@@ -538,8 +557,12 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Beta Net Wiki, Guide](https://github.com/NanoTools/wiki/blob/master/Beta-Network.md)
 
 </div>
-<div class="line"></div>
-<div id="div-full" markdown="1">
+</div>
+
+<div class="div-full">
+<div class="blur"></div>
+<div class="overlay"></div>
+<div class="link-content" markdown="1">
 
 ## Entertainment
 Do you have some free time? There are much fun to do but please proceed with caution.
@@ -564,7 +587,12 @@ Do you have some free time? There are much fun to do but please proceed with cau
 * [Wall of Nano](https://wallofnano.com/)
 
 </div>
-<div class="line"></div>
+</div>
+
+<div class="div-full">
+<div class="blur"></div>
+<div class="overlay"></div>
+<div class="link-content" markdown="1">
 
 ## Contribution
 Want to add a link to your own project or you found something else? Just clone repo at [Github](https://github.com/Joohansson/nanolinks) , edit index.md and make a pull request. You can also contact me at [Reddit](https://www.reddit.com/user/Joohansson/).
@@ -612,7 +640,8 @@ Maintaining this content requires some effort. If you want to contribute to this
 	<br><figcaption class="subtext">xrb_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo</figcaption>
 </figure>
 
-<div class="line"></div>
+</div>
+</div>
 
 <img id="bottom-logo" src="https://raw.githubusercontent.com/Joohansson/nanolinks/master/src/nanolinks_simple.png" alt="NanoLinks" />
 
