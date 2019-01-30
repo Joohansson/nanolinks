@@ -17,12 +17,23 @@ layout: newslayout
   </div>
 </nav>
 
+<div class="div-full">
+<div class="blur"></div>
+<div class="overlay"></div>
+<div class="link-content">
 <div id="logo-click" class="first-header">
   <img id="logo" src="src/logo_news.png" alt="Logo"/>
 </div>
 
 <p class="intro"><strong>Great news easily gets buried in a continuous media stream like Reddit and Discord. Here we try to keep track of the most important ones as a news archive.</strong><br>
 <a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info/news&edit-text=&act=url">Translate this page or any sub page to other languages</a></p>
+</div>
+</div>
+
+<div class="div-full">
+<div class="blur"></div>
+<div class="overlay"></div>
+<div class="link-content" markdown="1">
 
 ## Reddit
 Protocol, Exchanges, Wallets, Special projects, General news
@@ -150,7 +161,13 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Colin LeMahieu, founder and lead developer of RaiBlocks, AMA - Ask your questions here!](https://www.reddit.com/r/RaiBlocks/comments/7ko5l7/colin_lemahieu_founder_and_lead_developer_of/)
 * [Colin, the lead developer of XRB goes full-time on XRB development](https://www.reddit.com/r/RaiBlocks/comments/7jch9q/colin_the_lead_developer_of_xrb_goes_fulltime_on/)
 
-<div class="line"></div>
+</div>
+</div>
+
+<div class="div-full">
+<div class="blur"></div>
+<div class="overlay"></div>
+<div class="link-content" markdown="1">
 
 ## Contribution
 Do you think something important is missing? Just clone repo at [Github](https://github.com/Joohansson/nanolinks) , edit news.md and make a pull request. You can also contact me at [Reddit](https://www.reddit.com/user/Joohansson/). All content will be evaluated.
@@ -173,7 +190,8 @@ Maintaining this content requires some effort. If you want to contribute to this
 	<br><figcaption class="subtext">xrb_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo</figcaption>
 </figure>
 
-<div class="line"></div>
+</div>
+</div>
 
 <img id="bottom-logo" src="https://raw.githubusercontent.com/Joohansson/nanolinks/master/src/nanolinks_simple.png" alt="NanoLinks" />
 
