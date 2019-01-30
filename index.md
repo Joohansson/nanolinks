@@ -320,7 +320,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Coinall](https://www.coinall.com/market?product=nano_btc)
 
 #### Quick Crypto Swap/Buy
-##### Simple way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution. None of these sites has been vetted by NanoLinks.
+##### Simple way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution. None of these sites have been vetted by NanoLinks.
 
 * [Coingate](https://coingate.com/buy/nano)
 * [N.Exchange](https://n.exchange/)
@@ -330,6 +330,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Cryptowolf](https://cryptowolf.eu/)
 * [Coinsave](https://coinsave.io/)
 * [Nanotrade.co.uk](https://nanotrade.co.uk/)
+* [SimpleSwap.io](https://simpleswap.io/)
+* [changeNOW.io](https://changenow.io/?to=nano)
 
 #### Escrow and Peer-to-peer
 * [Localnano](https://www.localnano.com/)
