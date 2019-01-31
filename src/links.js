@@ -14,8 +14,25 @@ $(function () {
 		onSelect: function (suggestion) {
 			//window.location.href = suggestion.data.url; //Go to link when selecting the link
 			$('#go-btn').attr('href', suggestion.data.url); //set link button
-			$('#go-btn').removeClass('hidden'); //show button
+
+			//Enable button
+			if ($(this).val() != "") {
+				$('#go-btn').css("pointer-events", "auto");
+			}
 		},
 		groupBy: 'category'
     });
+	
+	$('#autocomplete-dynamic').on("change paste keyup input", function() {
+		if ($(this).val() == "") {
+			$('#go-btn').attr('href', '/'); //reset link button
+			$('#go-btn').css("pointer-events", "none"); //disable clicks
+		}
+	});
+	
+	//Disable link button by default
+	if ($(this).val() == "") {
+		$('#go-btn').attr('href', '/'); //reset link button
+		$('#go-btn').css("pointer-events", "none"); //disable clicks
+	}
 });
