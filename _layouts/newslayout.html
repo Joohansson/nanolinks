@@ -27,13 +27,13 @@
       <div class="header-content">
         <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
         <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-		    <div class="top-buttons">
+		<div class="top-buttons">
           <a href="https://nanolinks.info" class="btn">Links</a>
-		      <div class="search-div">
-			      <input type="text" name="search" id="autocomplete-dynamic" placeholder="Search..."/>
-			      <a href="" id="go-btn" class="btn hidden search-btn">Go!</a>
-		      </div>
-		    </div>
+		  <div class="search-div">
+			<input type="search" name="search" class="search" id="autocomplete-dynamic" placeholder="Search..." ng-model="$ctrl.pesquisa" ng-disabled="'@ViewBag.EditaConteudo'"/>
+			<a href="/" id="go-btn" class="search-btn">Go!</a>
+		  </div>
+		</div>
       </div>
         <!--
         {% if site.github.is_project_page %}
