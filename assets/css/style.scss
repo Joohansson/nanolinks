@@ -29,6 +29,7 @@ $hr-border-color: #eff0f1;
 
 // Nano colors
 $select-background: #f9ae42;
+$light-blue: #4a90e2;
 $dark-blue: #000034;
 
 $button-height: 2.8em;
@@ -136,7 +137,7 @@ html:after {
   @include large {
     /* Frosted glass */
     .blur {
-       background: url(../../src/bgr.png) no-repeat center center fixed; 
+       background: url(#{$background}) no-repeat center center fixed; 
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
@@ -182,7 +183,7 @@ html:after {
   @include medium {
     /* Frosted glass */
     .blur {
-       background: url(../../src/bgr.png) no-repeat center center fixed; 
+       background: url(#{$background}) no-repeat center center fixed; 
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
@@ -314,7 +315,7 @@ html:after {
   text-decoration: none !important;
   color: #ffffff !important;
   border-color: transparent !important;
-  background-color: #4a90e2 !important;
+  background-color: $light-blue !important;
   box-shadow: none !important;
   padding: 0.4em 1em !important;
   border-radius: 6px !important;
@@ -346,7 +347,7 @@ html:after {
   text-decoration: none !important;
   color: #ffffff;
   border-color: transparent;
-  background-color: #4a90e2;
+  background-color: $light-blue;
   box-shadow: none;
   padding: 0.4em 1em;
   font-size: 0.9em;
@@ -372,6 +373,50 @@ html:after {
   
   &:focus {
     outline:0;
+  }
+}
+
+.search-btn {
+  padding-left: 5px !important;
+  padding-right: 5px !important;
+  
+  @include small {
+    width:40px;
+  }
+  
+  font-size: 1rem !important;
+  text-decoration: none !important;
+  color: #ffffff !important;
+  border-color: transparent !important;
+  background-color: $light-blue !important;
+  box-shadow: none !important;
+  border-top-right-radius: 6px !important;
+  border-top-left-radius: 0px !important;
+  border-bottom-right-radius: 6px !important;
+  border-bottom-left-radius: 0px !important;
+  -webkit-border-top-right-radius: 6px !important;
+  -webkit-border-top-left-radius: 0px !important;
+  -webkit-border-bottom-right-radius: 6px !important;
+  -webkit-border-bottom-left-radius: 0px !important;
+  -moz-border-top-right-radius: 6px !important;
+  -moz-border-top-left-radius: 0px !important;
+  -moz-border-bottom-right-radius: 6px !important;
+  -moz-border-bottom-left-radius: 0px !important;
+  transition: color 0.1s, background-color 0.1s, border-color 0.1s !important;
+  display: inline-flex;
+  align-items: center;
+  margin: 0 !important;
+
+  &:hover {
+    border-color: transparent !important;
+    color: #ffffff !important;
+    background-color: $select-background !important;
+    box-shadow: none !important;
+    text-decoration: none !important;
+  }
+  
+  &:focus {
+    outline:0 !important;
   }
 }
 
@@ -729,16 +774,31 @@ li {
   border-width: 2px;
   color: $body-text-color;
   padding: 0 0.5em;
-  height: 100%;
-  border-radius: 6px !important;
-  -webkit-border-radius: 6px !important;
-  -moz-border-radius: 6px !important;
-  -ms-border-radius: 6px !important;
-  -o-border-radius: 6px !important;
+  border-top-right-radius: 0px !important;
+  border-top-left-radius: 6px !important;
+  border-bottom-right-radius: 0px !important;
+  border-bottom-left-radius: 6px !important;
+  -webkit-border-top-right-radius: 0px !important;
+  -webkit-border-top-left-radius: 6px !important;
+  -webkit-border-bottom-right-radius: 0px !important;
+  -webkit-border-bottom-left-radius: 6px !important;
+  -moz-border-top-right-radius: 0px !important;
+  -moz-border-top-left-radius: 6px !important;
+  -moz-border-bottom-right-radius: 0px !important;
+  -moz-border-bottom-left-radius: 6px !important;
 
   &:focus {
     outline:0;
   }
+}
+
+/* Fix clear button in chrome */
+input[type="search"].search {
+  -webkit-appearance: searchfield;
+}
+
+input[type="search"].search::-webkit-search-cancel-button {
+  -webkit-appearance: searchfield-cancel-button;
 }
 
 .search-div {
@@ -795,7 +855,7 @@ li {
   right: 0;
   width: 2.5em;
   height: 1.9em;
-  background-color: #4a90e2;
+  background-color: $light-blue;
   opacity:0.95;
   cursor: pointer;
   position: relative;
@@ -850,7 +910,7 @@ li {
     display: block;
     padding: 0;
     margin-top: 0.5em !important;
-    background-color: #4a90e2;
+    background-color: $light-blue;
     opacity:0.95;
     border-radius: 0.2em;
     -webkit-border-radius: 0.2em;
