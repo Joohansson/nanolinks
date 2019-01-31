@@ -30,10 +30,16 @@
       <div class="header-content">
         <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
         <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-        <a href="#latest-additions" class="btn">Latest Links</a>
-        <a href="#wallets" class="btn">Wallets</a>
-        <a href="#exchanges" class="btn">Exchanges</a>
-        <a href="https://nanolinks.info/news" class="btn">News Archive</a>
+		    <div class="top-buttons">
+          <a href="#latest-additions" class="btn">Latest Links</a>
+          <a href="#wallets" class="btn">Wallets</a>
+          <a href="#exchanges" class="btn">Exchanges</a>
+          <a href="https://nanolinks.info/news" class="btn">News Archive</a>
+		      <div class="search-div">
+			      <input type="text" name="search" id="autocomplete-dynamic" placeholder="Search..."/>
+			      <a href="" id="go-btn" class="btn hidden search-btn">Go!</a>
+		      </div>
+		    </div>
       </div>
         <!--
         {% if site.github.is_project_page %}
