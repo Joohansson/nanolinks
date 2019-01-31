@@ -205,7 +205,7 @@ layout: default
 </div>
 </div>
 
-<div class="div-full">
+<div class="div-full div-compact">
 <div class="blur"></div>
 <div class="overlay"></div>
 <div class="link-content" markdown="1">
@@ -302,7 +302,7 @@ Learn everything there is to know about Nano!
 </div>
 </div>
 
-<div class="div-full">
+<div class="div-full div-compact">
 <div class="blur"></div>
 <div class="overlay"></div>
 <div class="link-content" markdown="1">
@@ -441,7 +441,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 </div>
 </div>
 
-<div class="div-full">
+<div class="div-full div-compact">
 <div class="blur"></div>
 <div class="overlay"></div>
 <div class="link-content" markdown="1">
@@ -559,13 +559,13 @@ Have a great idea? Jump in and start coding. Anyone can join!
 </div>
 </div>
 
-<div class="div-full">
+<div class="div-full div-compact">
 <div class="blur"></div>
 <div class="overlay"></div>
 <div class="link-content" markdown="1">
 
 ## Entertainment
-Do you have some free time? There are much fun to do but please proceed with caution.
+There are much fun to do but please proceed with caution.
 ### Gambling, Betting
 * [PVP - Betting](https://pvp.me/)
 * [Nano Games - Betting](https://nanogames.io/)
@@ -583,6 +583,8 @@ Do you have some free time? There are much fun to do but please proceed with cau
 * [Nano Wallpapers](https://www.nano-wallpapers.com/)
 
 ## Services
+Useful digital or physical places which accept Nano
+### Online
 * [Put.io - File Serving](https://put.io)
 * [Wall of Nano](https://wallofnano.com/)
 
