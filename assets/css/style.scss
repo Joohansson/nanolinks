@@ -1,5 +1,7 @@
 ---
 ---
+// Background
+$background: "../../src/bgr.png";
 
 // Breakpoints
 $large-breakpoint: 80em; //Custom
@@ -25,6 +27,12 @@ $border-color: #dce6f0;
 $table-border-color: #e9ebec;
 $hr-border-color: #eff0f1;
 
+// Nano colors
+$select-background: #f9ae42;
+$dark-blue: #000034;
+
+$button-height: 2.8em;
+
 //Default theme
 @import "{{ site.theme }}";
 
@@ -44,15 +52,15 @@ $hr-border-color: #eff0f1;
   -o-box-shadow: 0 2px 10px 0px rgba(0, 0, 0, 0.2);
   
   @include large {
-    padding: 2rem 6rem; //custom
+    padding: 1rem 6rem 2rem 6rem; //custom
   }
 
   @include medium {
-    padding: 2rem 4rem; //custom
+    padding: 1rem 4rem 2rem 4rem; //custom
   }
 
   @include small {
-    padding: 2rem 1rem;
+    padding: 1rem 1rem 2rem 1rem;
   }
 }
 
@@ -116,7 +124,7 @@ html:after {
   left:0;
   right:0;
   z-index:-1; /* needed to keep in the background */
-  background: url(../../src/bgr.png) no-repeat center center; 
+  background: url(#{$background}) no-repeat center center; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -302,6 +310,7 @@ html:after {
 
 /* Header buttons */
 .btn {
+  font-size: 1rem !important;
   text-decoration: none !important;
   color: #ffffff !important;
   border-color: transparent !important;
@@ -314,11 +323,15 @@ html:after {
   -ms-border-radius: 6px !important;
   -o-border-radius: 6px !important;
   transition: color 0.1s, background-color 0.1s, border-color 0.1s !important;
+  height: $button-height;
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: 0 !important;
 
   &:hover {
     border-color: transparent !important;
     color: #ffffff !important;
-    background-color: #f9ae42 !important;
+    background-color: $select-background !important;
     box-shadow: none !important;
     text-decoration: none !important;
   }
@@ -344,13 +357,15 @@ html:after {
   -moz-border-radius: 6px;
   -ms-border-radius: 6px;
   -o-border-radius: 6px;
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
   transition: color 0.1s, background-color 0.1s, border-color 0.1s;
+  height: $button-height;
 
   &:hover {
     border-color: transparent;
     color: #ffffff;
-    background-color: #f9ae42;
+    background-color: $select-background;
     box-shadow: none;
     text-decoration: none;
   }
@@ -376,13 +391,19 @@ html:after {
     width : 48% !important;
     margin: 0 !important;
   }
+  .div-compact {
+    width: 80% !important;
+  }
 }
 
 @include medium {
   .div-left, .div-right {
     float: none;
     width: auto;
-  }  
+  }
+  .div-compact {
+    width: auto !important;
+  }
 }
 
 @include small {
@@ -390,12 +411,15 @@ html:after {
     float: none;
     width: auto;
   }
+  .div-compact {
+    width: auto !important;
+  }
 }
 
 /* Standard panel div with frame */
 .div-full {
-  width : auto;
-  margin: 1em 0 1.5em 0 !important;
+  width: auto;
+  margin: 1em auto 1.5em auto !important;
   padding: 1.5em 2em 1.5em 2em;
   border: 2px solid rgba(103, 102, 134, 0.8);
   overflow: hidden;
@@ -437,9 +461,8 @@ html:after {
 }
 
 #help-select {
-  margin-bottom: 0.8em;
   margin-left: 1.5em;
-  color: #000034;
+  color: $dark-blue;
   padding-left: 5px;
   padding-top: 3px;
   padding-bottom: 3px;
@@ -450,6 +473,18 @@ html:after {
   -o-border-radius: 6px !important;
   border-radius: 6px !important;
   border-color: #e24a4a !important;
+  
+  @include large {
+    margin-bottom: 0.8em;
+  }
+  
+  @include medium {
+    margin-bottom: 2em;
+  }
+  
+  @include small {
+    margin-bottom: 2em;
+  }
 }
 
 #help-select:focus {
@@ -461,136 +496,18 @@ html:after {
   color: #e24a4a !important;
 }
 
-/* Menu */
-#dropdown {
-    position: fixed;
-    top: 0.5em;
-    right: 0.5em;
-    width: 13em;
-    z-index: 999;
-}
-
-/* Menu button */
-#dropbtn {
-  top: 0;
-  right: 0;
-  width: 2.5em;
-  height: 1.9em;
-  background-color: #4a90e2;
-  opacity:0.95;
-  cursor: pointer;
-  position: relative;
-  left: 10.5em;
-  padding-top: 0.5em;
-  border-radius: 0.2em;
-  -webkit-border-radius: 0.2em;
-  -moz-border-radius: 0.2em;
-  -ms-border-radius: 0.2em;
-  -o-border-radius: 0.2em;
-}
-
-#dropbtn a {
-  position: absolute;
-  display: block;
-  width: 100%;
-  height: 100%;
-  z-index: 1;
-  opacity: 0;
-}
-
-/* Button lines (hamburger) */
-#dropbtn span
-{
-  position: relative;
-  top: 0;
-  left: 0;
-  display: block;
-  height: 0.25em;
-  margin-left: 0.4em;
-  margin-right: 0.4em;
-  margin-bottom: 0.4em;
-  background: #fff;
-  border-radius: 0.125em;
-  -webkit-border-radius: 0.125em;
-  -moz-border-radius: 0.125em;
-  -ms-border-radius: 0.125em;
-  -o-border-radius: 0.125em;
-}
-
-/* Menu main container including top margin */
-#dropdown-container {
-    display: none;
-    /*visibility: hidden;*/
-    position: absolute;
-    min-width: 13em;
-    z-index: 1;
-}
-
-/* Menu content */
-#dropdown-content {
-    display: block;
-    padding: 0;
-    margin-top: 0.5em !important;
-    background-color: #4a90e2;
-    opacity:0.95;
-    border-radius: 0.2em;
-    -webkit-border-radius: 0.2em;
-    -moz-border-radius: 0.2em;
-    -ms-border-radius: 0.2em;
-    -o-border-radius: 0.2em;
-}
-
-/* No list bullets or padding*/ 
-#dropdown-content ul {
-  list-style: none;
-  padding-left: 0;
-  margin-top: 0;
-}
-
-  /* Line between items*/
-  #dropdown-content > ul > li:not( :last-child ) > a
-  {
-    border-right: none;
-    border-bottom: 1px solid #6dc5b2;
-  }
-
-#dropdown-content a {
-    float: none;
-    color: #fff;
-    padding: 0.6em 0.5em;
-    text-decoration: none;
-    display: block;
-    text-align: right;
-    text-size: 0.9em;
-    transition: background-color 0.1s;
-}
-
-#dropdown-content a:hover {
-    background-color: #f9ae42;
-    border-radius: 0.2em;
-    -webkit-border-radius: 0.2em;
-    -moz-border-radius: 0.2em;
-    -ms-border-radius: 0.2em;
-    -o-border-radius: 0.2em;
-}
-
-#dropdown-container:hover {
-    /*visibility: visible;*/
-}
-
-#dropbtn:hover {
-    /*background-color: #6dc5b2;*/
-}
-
-/* Show dropdown on hover (need to click twice on touch first time)*/
-#dropbtn:hover + #dropdown-container {
-    /*visibility: visible;*/
-}
-
 .main-content {
   @include large {
     max-width: 90em !important;
-    padding: 0 2em !important;
+    padding: 1rem 2rem !important;
+  }
+  
+  @include medium {
+    padding: 1rem 2rem !important;
+  }
+  
+  @include small {
+    padding: 1rem 0rem !important;
   }
 }
 
@@ -764,7 +681,7 @@ li {
   }
 }
 
-//Contact submit form
+/* Contact submit form */
 #contact-area {
   width: 100%;
   margin-top: 20px;
@@ -795,4 +712,196 @@ li {
   margin-right: 10px;
   width: 150px;
   padding-top: 3px;
+}
+
+/* Search function */
+.autocomplete-suggestions { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; border: 1px solid #999; background: #FFF; cursor: default; overflow: auto; -webkit-box-shadow: 1px 4px 3px rgba(50, 50, 50, 0.64); -moz-box-shadow: 1px 4px 3px rgba(50, 50, 50, 0.64); box-shadow: 1px 4px 3px rgba(50, 50, 50, 0.64); }
+.autocomplete-suggestion { padding: 2px 5px; white-space: nowrap; overflow: hidden; color: $body-link-color;}
+.autocomplete-no-suggestion { padding: 2px 5px;}
+.autocomplete-selected { background: #F0F0F0; }
+.autocomplete-suggestions strong { font-weight: bold; color: $dark-blue; }
+.autocomplete-group { margin-top: 10px; padding: 2px 5px; font-weight: bold; font-size: 1.2em; color: $section-headings-color; display: block; border-bottom: 1px solid $section-headings-color; }
+
+#autocomplete-dynamic {
+  width: 100%;
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+  border-width: 2px;
+  color: $body-text-color;
+  padding: 0 0.5em;
+  height: 100%;
+  border-radius: 6px !important;
+  -webkit-border-radius: 6px !important;
+  -moz-border-radius: 6px !important;
+  -ms-border-radius: 6px !important;
+  -o-border-radius: 6px !important;
+
+  &:focus {
+    outline:0;
+  }
+}
+
+.search-div {
+  display: inline-flex;
+  height: $button-height;
+  
+  @include large {
+    width: 450px;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+  @include medium {
+    width:80%;
+	margin-top: 0.8em;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  @include small {
+    width:100%;
+	margin-top: 0.8em;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+.search-btn {
+  padding-left: 5px !important;
+  padding-right: 5px !important;
+  display: inline-flex;
+  align-items: center;
+  height: 100% !important;
+  
+  @include small {
+    width:40px;
+  }
+}
+
+.hidden {
+  display: none;	
+}
+
+/* Menu */
+#dropdown {
+    position: fixed;
+    top: 0.5em;
+    right: 0.5em;
+    width: 13em;
+    z-index: 999;
+}
+
+/* Menu button */
+#dropbtn {
+  top: 0;
+  right: 0;
+  width: 2.5em;
+  height: 1.9em;
+  background-color: #4a90e2;
+  opacity:0.95;
+  cursor: pointer;
+  position: relative;
+  left: 10.5em;
+  padding-top: 0.5em;
+  border-radius: 0.2em;
+  -webkit-border-radius: 0.2em;
+  -moz-border-radius: 0.2em;
+  -ms-border-radius: 0.2em;
+  -o-border-radius: 0.2em;
+}
+
+#dropbtn a {
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0;
+}
+
+/* Button lines (hamburger) */
+#dropbtn span
+{
+  position: relative;
+  top: 0;
+  left: 0;
+  display: block;
+  height: 0.25em;
+  margin-left: 0.4em;
+  margin-right: 0.4em;
+  margin-bottom: 0.4em;
+  background: #fff;
+  border-radius: 0.125em;
+  -webkit-border-radius: 0.125em;
+  -moz-border-radius: 0.125em;
+  -ms-border-radius: 0.125em;
+  -o-border-radius: 0.125em;
+}
+
+/* Menu main container including top margin */
+#dropdown-container {
+    display: none;
+    /*visibility: hidden;*/
+    position: absolute;
+    min-width: 13em;
+    z-index: 1;
+}
+
+/* Menu content */
+#dropdown-content {
+    display: block;
+    padding: 0;
+    margin-top: 0.5em !important;
+    background-color: #4a90e2;
+    opacity:0.95;
+    border-radius: 0.2em;
+    -webkit-border-radius: 0.2em;
+    -moz-border-radius: 0.2em;
+    -ms-border-radius: 0.2em;
+    -o-border-radius: 0.2em;
+}
+
+/* No list bullets or padding*/ 
+#dropdown-content ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0;
+}
+
+  /* Line between items*/
+  #dropdown-content > ul > li:not( :last-child ) > a
+  {
+    border-right: none;
+    border-bottom: 1px solid #6dc5b2;
+  }
+
+#dropdown-content a {
+    float: none;
+    color: #fff;
+    padding: 0.6em 0.5em;
+    text-decoration: none;
+    display: block;
+    text-align: right;
+    text-size: 0.9em;
+    transition: background-color 0.1s;
+}
+
+#dropdown-content a:hover {
+    background-color: $select-background;
+    border-radius: 0.2em;
+    -webkit-border-radius: 0.2em;
+    -moz-border-radius: 0.2em;
+    -ms-border-radius: 0.2em;
+    -o-border-radius: 0.2em;
+}
+
+#dropdown-container:hover {
+    /*visibility: visible;*/
+}
+
+#dropbtn:hover {
+    /*background-color: #6dc5b2;*/
+}
+
+/* Show dropdown on hover (need to click twice on touch first time)*/
+#dropbtn:hover + #dropdown-container {
+    /*visibility: visible;*/
 }
