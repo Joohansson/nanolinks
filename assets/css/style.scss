@@ -677,6 +677,11 @@ figure {
   height: 100%;
   padding-top: 0;
   float: right;
+  height: 90px;
+	
+  @include small {
+    height: 65px; 
+  }
 }
 
 #logo-news {
