@@ -184,135 +184,6 @@ html:after {
   background-size: cover;
 }
 
-/* Special treatment for everything except Edge browser */
-@supports not (-ms-ime-align: auto) {
-  @include large {
-    /* Frosted glass */
-    .blur {
-       background: url(#{$background}) no-repeat center center fixed; 
-      -webkit-background-size: cover;
-      -moz-background-size: cover;
-      -o-background-size: cover;
-      background-size: cover;
-      filter: blur(#{$blur-amount});
-      -webkit-filter: blur(#{$blur-amount});
-      -moz-filter: blur(#{$blur-amount});
-      -o-filter: blur(#{$blur-amount});
-      -ms-filter: blur(#{$blur-amount});
-      position: absolute;
-      top: -50px;
-      left: -50px;
-      right: -50px;
-      bottom: -50px;
-    }
-    
-    /* White transparent overlay */
-    .overlay {
-      background: rgba(255, 255, 255, 0.5);
-      z-index: 9;
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-    }
-
-    /* White transparent header overlay */
-    .overlay-header {
-      background-image: linear-gradient(180deg, rgba(74, 144, 226, 0.6), rgba(74, 144, 226, 0.05));
-      background-image: -webkit-linear-gradient(270deg, rgba(74, 144, 226, 0.6), rgba(74, 144, 226, 0.05));
-      background-image: -webkit-gradient(180deg, rgba(74, 144, 226, 0.6), rgba(74, 144, 226, 0.05));
-      z-index: 9;
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-    }
-  }
-
-
-  @include medium {
-    /* Frosted glass */
-    .blur {
-       background: url(#{$background}) no-repeat center center fixed; 
-      -webkit-background-size: cover;
-      -moz-background-size: cover;
-      -o-background-size: cover;
-      background-size: cover;
-      filter: blur(#{$blur-amount});
-      -webkit-filter: blur(#{$blur-amount});
-      -moz-filter: blur(#{$blur-amount});
-      -o-filter: blur(#{$blur-amount});
-      -ms-filter: blur(#{$blur-amount});
-      position: absolute;
-      top: -50px;
-      left: -50px;
-      right: -50px;
-      bottom: -50px;
-    }
-
-    /* White transparent overlay */
-    .overlay {
-      background: rgba(255, 255, 255, 0.5);
-      z-index: 9;
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-    }
-
-    /* White transparent header overlay */
-    .overlay-header {
-      background-image: linear-gradient(180deg, rgba(74, 144, 226, 0.6), rgba(74, 144, 226, 0.05));
-      background-image: -webkit-linear-gradient(270deg, rgba(74, 144, 226, 0.6), rgba(74, 144, 226, 0.05));
-      background-image: -webkit-gradient(180deg, rgba(74, 144, 226, 0.6), rgba(74, 144, 226, 0.05));
-      z-index: 9;
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-    }
-  }
-
-  @include small {
-    /* No frosted glass */
-    .blur {
-      background: rgba(255, 255, 255, 0);
-      z-index: 9;
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-    }
-
-  /* White transparent overlay */
-    .overlay {
-      background: rgba(255, 255, 255, 0.7);
-      z-index: 9;
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-    }
-
-    /* White transparent header overlay */
-    .overlay-header {
-      background-image: linear-gradient(180deg, rgba(105, 160, 226, 0.85), rgba(192, 211, 233, 0.7));
-      z-index: 9;
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-    }
-  }
-}
-
 /* Divs containing links */
 .link-content {
   z-index: 10;
@@ -325,76 +196,26 @@ html:after {
   width: 100%;
 }
 
-/* Special treatment for Edge browser. Remove blur */
-@supports (-ms-ime-align: auto) {
-  /* Frosted glass */
-  .blur {
-    background: rgba(255, 255, 255, 0);
-    z-index: 9;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-  }
-  
-  /* White transparent overlay */
-  .overlay {
-    background: rgba(255, 255, 255, 0.7);
-    z-index: 9;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-  }
-
-  /* White transparent header overlay */
-  .overlay-header {
-    background-image: linear-gradient(180deg, rgba(105, 160, 226, 0.85), rgba(192, 211, 233, 0.7));
-    z-index: 9;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-  }
+/* White transparent overlay */
+.overlay {
+  background: rgba(241, 246, 255, 0.9);
+  z-index: 9;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
 }
 
-/* Special treatment for Safari. Remove blur */
-@media screen and (min-color-index:0) and (-webkit-min-device-pixel-ratio:0) {
-    /* Frosted glass */
-  .blur {
-    background: rgba(255, 255, 255, 0);
-    z-index: 9;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-  }
-  
-  /* White transparent overlay */
-  .overlay {
-    background: rgba(255, 255, 255, 0.7);
-    z-index: 9;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-  }
-
-  /* White transparent header overlay */
-  .overlay-header {
-    background-image: linear-gradient(180deg, rgba(105, 160, 226, 0.85), rgba(192, 211, 233, 0.7));
-    z-index: 9;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-  }
+/* White transparent header overlay */
+.overlay-header {
+  background-image: linear-gradient(180deg, rgba(105, 160, 226, 0.9), rgba(192, 211, 233, 0.9));
+  z-index: 9;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
 }
 
 /* Header buttons */
