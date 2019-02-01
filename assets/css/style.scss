@@ -361,6 +361,42 @@ html:after {
   }
 }
 
+/* Special treatment for Safari. Remove blur */
+@media screen and (min-color-index:0) and (-webkit-min-device-pixel-ratio:0) {
+    /* Frosted glass */
+  .blur {
+    background: rgba(255, 255, 255, 0);
+    z-index: 9;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  
+  /* White transparent overlay */
+  .overlay {
+    background: rgba(255, 255, 255, 0.7);
+    z-index: 9;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+
+  /* White transparent header overlay */
+  .overlay-header {
+    background-image: linear-gradient(180deg, rgba(105, 160, 226, 0.85), rgba(192, 211, 233, 0.7));
+    z-index: 9;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+}
+
 /* Header buttons */
 .btn {
   font-size: 1rem !important;
