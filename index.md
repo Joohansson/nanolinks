@@ -88,8 +88,8 @@ layout: default
 <div class="first-para">
   <p>Without the need to own any nano you can try the power of fast and fee-less transactions on the real live network!<br>
 	  If you want to transact with your own nano you can easily create a wallet and obtain some free nano from any of the faucets find below.</p>
-  <a href="http://nanospeed.live" class="site-btn btn-wide btn-external" onclick="window.open(this.href); return false;">SPEED TEST FROM A TO B</a><br>
-  <a href="#faucets-free-nano" class="site-btn btn-wide">GET FREE NANO</a><br>
+  <a href="http://nanospeed.live" class="site-btn btn-wide btn-external site-btn-space" onclick="window.open(this.href); return false;">SPEED TEST FROM A TO B</a><br>
+  <a href="#faucets-free-nano" class="site-btn btn-wide site-btn-space">GET FREE NANO</a><br>
   <a href="https://nanomate.co/" class="site-btn btn-wide btn-external" onclick="window.open(this.href); return false;">SEND TO ANYONE</a>
 </div>
 
