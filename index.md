@@ -648,7 +648,7 @@ Maintaining this content requires some effort. If you want to contribute to this
 <img id="bottom-logo" src="https://raw.githubusercontent.com/Joohansson/nanolinks/master/src/nanolinks_simple.png" alt="NanoLinks" />
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-<script src="src/index.js"></script>
+<script src="src/js/index.js"></script>
 
 <!-- Track link submissions -->
 <script src="https://usebasin.com/f/716ec11da426/ahoy.js" async defer></script>
