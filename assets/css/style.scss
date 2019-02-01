@@ -674,7 +674,6 @@ figure {
 
 #logo {
   margin: 0 0;
-  height: 100%;
   padding-top: 0;
   float: right;
   height: 90px;
@@ -702,6 +701,8 @@ figure {
 //Collapse button
 .collapse {
   vertical-align: bottom;
+  bottom: 28px;
+  position: absolute;
 }
 
 //Logo containers
