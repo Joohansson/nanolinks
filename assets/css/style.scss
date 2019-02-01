@@ -72,7 +72,7 @@ $blur-amount: 20px;
   z-index: 10 !important;
   margin-left: auto;
   margin-right: auto;
-	
+  
   @include large {
     height: 75px;
   }
@@ -85,8 +85,7 @@ $blur-amount: 20px;
 }
 
 #head-logo {
-  top: 6px;
-  position: relative;
+  vertical-align: middle;
   
   @include large {
     height: 60px;
@@ -290,7 +289,7 @@ html:after {
       right: 0;
     }
 
-	/* White transparent overlay */
+  /* White transparent overlay */
     .overlay {
       background: rgba(255, 255, 255, 0.7);
       z-index: 9;
@@ -326,7 +325,7 @@ html:after {
   width: 100%;
 }
 
-/* Special treatment for Edge browser */
+/* Special treatment for Edge browser. Remove blur */
 @supports (-ms-ime-align: auto) {
   /* Frosted glass */
   .blur {
@@ -361,6 +360,43 @@ html:after {
     right: 0;
   }
 }
+
+/* Special treatment for Safari. Remove blur */
+@media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0) 
+{ @media {
+    /* Frosted glass */
+  .blur {
+    background: rgba(255, 255, 255, 0);
+    z-index: 9;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  
+  /* White transparent overlay */
+  .overlay {
+    background: rgba(255, 255, 255, 0.7);
+    z-index: 9;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+
+  /* White transparent header overlay */
+  .overlay-header {
+    background-image: linear-gradient(180deg, rgba(105, 160, 226, 0.85), rgba(192, 211, 233, 0.7));
+    z-index: 9;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+}}
 
 /* Header buttons */
 .btn {
@@ -678,10 +714,10 @@ figure {
   padding-top: 0;
   float: right;
   height: 90px;
-	
+  
   @include small {
     display: none;
-    height: 0px;
+  height: 0px;
   }
 }
 
@@ -702,9 +738,7 @@ figure {
 
 //Collapse button
 .collapse {
-  top: 68px;
-  position: absolute;
-  z-index: 10;
+  vertical-align: bottom;
 }
 
 //Logo containers
@@ -854,8 +888,41 @@ li {
 .autocomplete-suggestions strong { font-weight: bold; color: $dark-blue; }
 .autocomplete-group { margin-top: 10px; padding: 2px 5px; font-weight: bold; font-size: 1.2em; color: $section-headings-color; display: block; border-bottom: 1px solid $section-headings-color; }
 
-#autocomplete-dynamic {
+.search-div {
+  display: inline-flex;
+  height: $button-height;
+  
+  @include large {
+    width: 450px;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+  @include medium {
+    width:80%;
+    margin-top: 0.8em;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  @include small {
+    width:100%;
+    margin-top: 0.8em;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+.search-box,.close-icon,.search-wrapper {
+  position: relative;
+}
+.search-wrapper {
   width: 100%;
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}
+.search-box {
+  width: 100%;
+  height: $button-height;
+  outline: 0;
   margin-right: 0 !important;
   margin-left: 0 !important;
   border-width: 2px;
@@ -873,55 +940,55 @@ li {
   -moz-border-radius-topleft: 6px !important;
   -moz-border-radius-bottomright: 0px !important;
   -moz-border-radius-bottomleft: 6px !important;
-
-  &:focus {
-    outline:0;
-  }
 }
 
-/* Fix clear button in chrome */
-input[type="search"].search {
-  -webkit-appearance: searchfield;
+.close-icon {
+  border:1px solid transparent;
+  background-color: transparent;
+  display: inline-block;
+  vertical-align: middle;
+  outline: 0;
+  cursor: pointer;
+  position: absolute;
+  right: 0;
+  top: calc(#{$button-height} / 2);
 }
 
-input[type="search"].search::-webkit-search-cancel-button {
-  -webkit-appearance: searchfield-cancel-button;
+.close-icon:after {
+  content: "X";
+  font-family: Nunito !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  display: block;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  background-color: #FA9595;
+  z-index:1;
+  right: 5px;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  padding: 2px;
+  border-radius: 50%;
+  text-align: center;
+  color: white;
+  font-weight: normal;
+  font-size: 11px;
+  cursor: pointer;
 }
 
-.search-div {
-  display: inline-flex;
-  height: $button-height;
-  
-  @include large {
-    width: 450px;
-    margin-left: 1em;
-    margin-right: 1em;
-  }
-  @include medium {
-    width:80%;
-	margin-top: 0.8em;
-    margin-left: 0;
-    margin-right: 0;
-  }
-  @include small {
-    width:100%;
-	margin-top: 0.8em;
-    margin-left: 0;
-    margin-right: 0;
-  }
-}
-
-.hidden {
-  display: none;	
+.search-box:not(:valid) ~ .close-icon {
+  display: none;
 }
 
 /* Menu */
 #dropdown {
-  position: fixed;
-  top: 0.5em;
-  right: 0.5em;
-  width: 13em;
-  z-index: 999;
+    position: fixed;
+    top: 0.5em;
+    right: 0.5em;
+    width: 13em;
+    z-index: 999;
 }
 
 /* Menu button */
@@ -973,25 +1040,25 @@ input[type="search"].search::-webkit-search-cancel-button {
 
 /* Menu main container including top margin */
 #dropdown-container {
-  display: none;
-  /*visibility: hidden;*/
-  position: absolute;
-  min-width: 13em;
-  z-index: 1;
+    display: none;
+    /*visibility: hidden;*/
+    position: absolute;
+    min-width: 13em;
+    z-index: 1;
 }
 
 /* Menu content */
 #dropdown-content {
-  display: block;
-  padding: 0;
-  margin-top: 0.5em !important;
-  background-color: $light-blue;
-  opacity:0.95;
-  border-radius: 0.2em;
-  -webkit-border-radius: 0.2em;
-  -moz-border-radius: 0.2em;
-  -ms-border-radius: 0.2em;
-  -o-border-radius: 0.2em;
+    display: block;
+    padding: 0;
+    margin-top: 0.5em !important;
+    background-color: $light-blue;
+    opacity:0.95;
+    border-radius: 0.2em;
+    -webkit-border-radius: 0.2em;
+    -moz-border-radius: 0.2em;
+    -ms-border-radius: 0.2em;
+    -o-border-radius: 0.2em;
 }
 
 /* No list bullets or padding*/ 
@@ -1009,31 +1076,31 @@ input[type="search"].search::-webkit-search-cancel-button {
   }
 
 #dropdown-content a {
-  float: none;
-  color: #fff;
-  padding: 0.6em 0.5em;
-  text-decoration: none;
-  display: block;
-  text-align: right;
-  text-size: 0.9em;
-  transition: background-color 0.1s;
+    float: none;
+    color: #fff;
+    padding: 0.6em 0.5em;
+    text-decoration: none;
+    display: block;
+    text-align: right;
+    text-size: 0.9em;
+    transition: background-color 0.1s;
 }
 
 #dropdown-content a:hover {
-  background-color: $select-background;
-  border-radius: 0.2em;
-  -webkit-border-radius: 0.2em;
-  -moz-border-radius: 0.2em;
-  -ms-border-radius: 0.2em;
-  -o-border-radius: 0.2em;
+    background-color: $select-background;
+    border-radius: 0.2em;
+    -webkit-border-radius: 0.2em;
+    -moz-border-radius: 0.2em;
+    -ms-border-radius: 0.2em;
+    -o-border-radius: 0.2em;
 }
 
 #dropdown-container:hover {
-  /*visibility: visible;*/
+    /*visibility: visible;*/
 }
 
 #dropbtn:hover {
-  /*background-color: #6dc5b2;*/
+    /*background-color: #6dc5b2;*/
 }
 
 /* Show dropdown on hover (need to click twice on touch first time)*/
