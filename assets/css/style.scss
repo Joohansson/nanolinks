@@ -429,11 +429,11 @@ html:after {
 }
 
 .search-btn {
-  padding-left: 5px !important;
-  padding-right: 5px !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
   
   @include small {
-    width:40px;
+    width:50px;
   }
   
   font-size: 1rem !important;
@@ -679,7 +679,8 @@ figure {
   height: 90px;
 	
   @include small {
-    display: none; 
+    display: none;
+    height: 0px;
   }
 }
 
