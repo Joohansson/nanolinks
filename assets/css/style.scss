@@ -253,14 +253,13 @@ html:after {
 
 /* Content buttons */
 .site-btn {
+  font-size: 1rem !important;
   text-decoration: none !important;
   color: #ffffff;
   border-color: transparent;
   background-color: $light-blue;
   box-shadow: none;
   padding: 0.4em 1em;
-  font-size: 0.9em;
-  margin-bottom: 10px;
   text-align: center;
   border-radius: 6px;
   -webkit-border-radius: 6px;
@@ -283,6 +282,10 @@ html:after {
   &:focus {
     outline:0;
   }
+}
+
+.site-btn-space {
+  margin-bottom: 10px; 
 }
 
 .search-btn {
@@ -391,9 +394,14 @@ html:after {
   -o-box-shadow: 0 2px 5px 2px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.12);
 }
 
+.first-div-full {
+  padding: 0.5em 2em 1em 2em;
+}
+
 /* Collapsible div */
 .collapse-content {
   display: none;
+  margin-top: 1em;
 }
 
 /* Hidden quick help section */
@@ -537,7 +545,7 @@ figure {
   
   @include small {
     display: none;
-  height: 0px;
+    height: 0px;
   }
 }
 
@@ -558,13 +566,20 @@ figure {
 
 //Collapse button
 .collapse {
-  vertical-align: bottom;
+  @include large {
+    position: absolute;
+    top: 65px;
+  }
+  @include medium {
+    position: absolute;
+    top: 65px;
+  }
 }
 
 //Logo containers
 .first-header, .first-header-news {
   margin-top: 0;
-  margin-bottom: 0.5em;
+  margin-bottom: 0;
   display: table;
   margin-left: auto;
   margin-right: auto;
@@ -576,7 +591,7 @@ figure {
 .first-header {
   height: 90px;
   @include small {
-    height: 65px; 
+    height: 0; 
   }
 }
 
@@ -875,6 +890,7 @@ li {
     background-color: $light-blue;
     opacity:0.95;
     border-radius: 0.2em;
+    border: 2px solid #6dc5b2;
     -webkit-border-radius: 0.2em;
     -moz-border-radius: 0.2em;
     -ms-border-radius: 0.2em;
@@ -885,8 +901,12 @@ li {
 #dropdown-content ul {
   list-style: none;
   padding-left: 0;
-  margin-top: 0;
+  margin: 0 0 0 0 !important;
 }
+
+  #dropdown-content > ul > li {
+    margin: 0 0 0 0 !important;
+  }
 
   /* Line between items*/
   #dropdown-content > ul > li:not( :last-child ) > a
