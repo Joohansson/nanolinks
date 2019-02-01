@@ -679,7 +679,7 @@ figure {
   height: 90px;
 	
   @include small {
-    height: 65px; 
+    display: none; 
   }
 }
 
