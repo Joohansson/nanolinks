@@ -22,7 +22,7 @@ $(function () {
 		},
 		groupBy: 'category',
 		lookupFilter: function (suggestion, query, queryLowerCase) {
-            return suggestion.value.toLowerCase().indexOf(queryLowerCase) === 0 || suggestion.data.category.toLowerCase().indexOf(queryLowerCase) === 0; //checking with both label and category
+            return suggestion.value.toLowerCase().indexOf(queryLowerCase) === 0 || suggestion.value.toLowerCase().indexOf(queryLowerCase) !== -1 || suggestion.data.category.toLowerCase().indexOf(queryLowerCase) === 0 || suggestion.data.category.toLowerCase().indexOf(queryLowerCase) !== -1; //checking with both link label and category (both beginning and anywhere)
         }
     });
 	
