@@ -20,22 +20,18 @@ layout: newslayout
 <div class="div-full">
 <div class="blur"></div>
 <div class="overlay"></div>
-<div class="link-content">
-<div id="logo-click" class="first-header">
-  <img id="logo" src="src/logo_news.png" alt="Logo"/>
-</div>
-
-<p class="intro"><strong>Great news easily gets buried in a continuous media stream like Reddit and Discord. Here we try to keep track of the most important ones as a news archive.</strong><br>
-<a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info/news&edit-text=&act=url">Translate this page or any sub page to other languages</a></p>
-</div>
-</div>
-
-<div class="div-full">
-<div class="blur"></div>
-<div class="overlay"></div>
 <div class="link-content" markdown="1">
 
-## Reddit
+<div class="first-header-news">
+  <span class="helper"></span>
+  <div class="news-intro">
+    <p class="intro"><strong>Great news easily gets buried in a continuous media stream like Reddit and Discord. Here we try to keep track of the most important ones as a news archive.</strong><br>
+    <a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info/news&edit-text=&act=url">Translate this page or any sub page to other languages</a></p>
+  </div>
+  <img id="logo-news" src="src/nanolinks_simple.png" alt="Logo"/>
+</div>
+
+## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 ### Jan 2019
 * [The Bitgrail Exchange Ruling: A Win for the Exchange Users](https://www.reddit.com/r/nanocurrency/comments/akli76/the_bomber_was_at_fault_for_the_loss_and_is/)
