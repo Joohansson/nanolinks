@@ -566,6 +566,7 @@ figure {
 
 //Collapse button
 .collapse {
+  z-index: 10;
   @include large {
     position: absolute;
     top: 65px;
