@@ -33,6 +33,7 @@ $light-blue: #4a90e2;
 $dark-blue: #000034;
 
 $button-height: 2.8em;
+$blur-amount: 20px;
 
 //Default theme
 @import "{{ site.theme }}";
@@ -65,17 +66,68 @@ $button-height: 2.8em;
   }
 }
 
-/* Header title */
+/* Header title centered */
+#head-line {
+  display: table;
+  z-index: 10 !important;
+  margin-left: auto;
+  margin-right: auto;
+	
+  @include large {
+    height: 75px;
+  }
+  @include medium {
+    height: 70px;
+  }
+  @include small {
+    height: 60px;
+  }
+}
+
+#head-logo {
+  vertical-align: middle;
+  
+  @include large {
+    height: 60px;
+  }
+  @include medium {
+    height: 55px;
+  }
+  @include small {
+    height: 45px;
+  }
+}
+
+/* Title text */
 .project-name {
   font-family: Nunito !important;
   font-style: normal !important;
   font-variant: small-caps !important;
   font-weight: 700 !important;
-  line-height: 3.1rem !important;
-  font-size: 3.1rem !important;
-  z-index: 10 !important;
   text-align: center;
   color: #fff !important;
+  display: table-cell;
+  vertical-align: middle;
+  
+  @include large {
+    line-height: 3.7rem !important;
+    font-size: 3.7rem !important;
+  }
+  @include medium {
+    line-height: 3.1rem !important;
+    font-size: 3.1rem !important;
+  }
+  @include small {
+    line-height: 2.7rem !important;
+    font-size: 2.7rem !important;
+  }
+}
+
+/* Fix vertical alignment for logo*/
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
 }
 
 /* Header description */
@@ -142,11 +194,11 @@ html:after {
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
-      filter: blur(20px);
-      -webkit-filter: blur(20px);
-      -moz-filter: blur(20px);
-      -o-filter: blur(20px);
-      -ms-filter: blur(20px);
+      filter: blur(#{$blur-amount});
+      -webkit-filter: blur(#{$blur-amount});
+      -moz-filter: blur(#{$blur-amount});
+      -o-filter: blur(#{$blur-amount});
+      -ms-filter: blur(#{$blur-amount});
       position: absolute;
       top: -50px;
       left: -50px;
@@ -188,11 +240,11 @@ html:after {
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
-      filter: blur(20px);
-      -webkit-filter: blur(20px);
-      -moz-filter: blur(20px);
-      -o-filter: blur(20px);
-      -ms-filter: blur(20px);
+      filter: blur(#{$blur-amount});
+      -webkit-filter: blur(#{$blur-amount});
+      -moz-filter: blur(#{$blur-amount});
+      -o-filter: blur(#{$blur-amount});
+      -ms-filter: blur(#{$blur-amount});
       position: absolute;
       top: -50px;
       left: -50px;
@@ -398,10 +450,10 @@ html:after {
   -webkit-border-top-left-radius: 0px !important;
   -webkit-border-bottom-right-radius: 6px !important;
   -webkit-border-bottom-left-radius: 0px !important;
-  -moz-border-top-right-radius: 6px !important;
-  -moz-border-top-left-radius: 0px !important;
-  -moz-border-bottom-right-radius: 6px !important;
-  -moz-border-bottom-left-radius: 0px !important;
+  -moz-border-radius-topright: 6px !important;
+  -moz-border-radius-topleft: 0px !important;
+  -moz-border-radius-bottomright: 6px !important;
+  -moz-border-radius-bottomleft: 0px !important;
   transition: color 0.1s, background-color 0.1s, border-color 0.1s !important;
   display: inline-flex;
   align-items: center;
@@ -544,7 +596,7 @@ html:after {
 .main-content {
   @include large {
     max-width: 90em !important;
-    padding: 1rem 2rem !important;
+    padding: 0.5rem 2rem !important;
   }
   
   @include medium {
@@ -620,28 +672,55 @@ figure {
   }
 }
 
-//Nano logos
-.part-logo {
-  display: none;
-}
-
 #logo {
-  margin: 1em 0;
-  display: block;
-  /*width: 80%;
-  max-width: 30rem !important;*/
+  margin: 0 0;
+  height: 100%;
   padding-top: 0;
+  float: right;
 }
 
-//Logo container
-.first-header {
+#logo-news {
+  margin: 0 0;
+  height: 90px;
+  padding-top: 0;
+  
+  @include small {
+    display: none;
+  }
+}
+
+//News intro text
+.news-intro {
+  padding-right: 50px;
+}
+
+//Collapse button
+.collapse {
+  vertical-align: bottom;
+}
+
+//Logo containers
+.first-header, .first-header-news {
   margin-top: 0;
-  margin-bottom: 0;
-  display: block;
+  margin-bottom: 0.5em;
+  display: table;
   margin-left: auto;
   margin-right: auto;
   width: 100%;
   padding-top: 0;
+}
+
+//Logo container main
+.first-header {
+  height: 90px;
+  @include small {
+    height: 65px; 
+  }
+}
+
+//Logo container news
+.first-header-news {
+  display: flex;
 }
 
 //Bottom logo
@@ -782,10 +861,10 @@ li {
   -webkit-border-top-left-radius: 6px !important;
   -webkit-border-bottom-right-radius: 0px !important;
   -webkit-border-bottom-left-radius: 6px !important;
-  -moz-border-top-right-radius: 0px !important;
-  -moz-border-top-left-radius: 6px !important;
-  -moz-border-bottom-right-radius: 0px !important;
-  -moz-border-bottom-left-radius: 6px !important;
+  -moz-border-radius-topright: 0px !important;
+  -moz-border-radius-topleft: 6px !important;
+  -moz-border-radius-bottomright: 0px !important;
+  -moz-border-radius-bottomleft: 6px !important;
 
   &:focus {
     outline:0;
@@ -824,29 +903,17 @@ input[type="search"].search::-webkit-search-cancel-button {
   }
 }
 
-.search-btn {
-  padding-left: 5px !important;
-  padding-right: 5px !important;
-  display: inline-flex;
-  align-items: center;
-  height: 100% !important;
-  
-  @include small {
-    width:40px;
-  }
-}
-
 .hidden {
   display: none;	
 }
 
 /* Menu */
 #dropdown {
-    position: fixed;
-    top: 0.5em;
-    right: 0.5em;
-    width: 13em;
-    z-index: 999;
+  position: fixed;
+  top: 0.5em;
+  right: 0.5em;
+  width: 13em;
+  z-index: 999;
 }
 
 /* Menu button */
@@ -898,25 +965,25 @@ input[type="search"].search::-webkit-search-cancel-button {
 
 /* Menu main container including top margin */
 #dropdown-container {
-    display: none;
-    /*visibility: hidden;*/
-    position: absolute;
-    min-width: 13em;
-    z-index: 1;
+  display: none;
+  /*visibility: hidden;*/
+  position: absolute;
+  min-width: 13em;
+  z-index: 1;
 }
 
 /* Menu content */
 #dropdown-content {
-    display: block;
-    padding: 0;
-    margin-top: 0.5em !important;
-    background-color: $light-blue;
-    opacity:0.95;
-    border-radius: 0.2em;
-    -webkit-border-radius: 0.2em;
-    -moz-border-radius: 0.2em;
-    -ms-border-radius: 0.2em;
-    -o-border-radius: 0.2em;
+  display: block;
+  padding: 0;
+  margin-top: 0.5em !important;
+  background-color: $light-blue;
+  opacity:0.95;
+  border-radius: 0.2em;
+  -webkit-border-radius: 0.2em;
+  -moz-border-radius: 0.2em;
+  -ms-border-radius: 0.2em;
+  -o-border-radius: 0.2em;
 }
 
 /* No list bullets or padding*/ 
@@ -934,31 +1001,31 @@ input[type="search"].search::-webkit-search-cancel-button {
   }
 
 #dropdown-content a {
-    float: none;
-    color: #fff;
-    padding: 0.6em 0.5em;
-    text-decoration: none;
-    display: block;
-    text-align: right;
-    text-size: 0.9em;
-    transition: background-color 0.1s;
+  float: none;
+  color: #fff;
+  padding: 0.6em 0.5em;
+  text-decoration: none;
+  display: block;
+  text-align: right;
+  text-size: 0.9em;
+  transition: background-color 0.1s;
 }
 
 #dropdown-content a:hover {
-    background-color: $select-background;
-    border-radius: 0.2em;
-    -webkit-border-radius: 0.2em;
-    -moz-border-radius: 0.2em;
-    -ms-border-radius: 0.2em;
-    -o-border-radius: 0.2em;
+  background-color: $select-background;
+  border-radius: 0.2em;
+  -webkit-border-radius: 0.2em;
+  -moz-border-radius: 0.2em;
+  -ms-border-radius: 0.2em;
+  -o-border-radius: 0.2em;
 }
 
 #dropdown-container:hover {
-    /*visibility: visible;*/
+  /*visibility: visible;*/
 }
 
 #dropbtn:hover {
-    /*background-color: #6dc5b2;*/
+  /*background-color: #6dc5b2;*/
 }
 
 /* Show dropdown on hover (need to click twice on touch first time)*/
