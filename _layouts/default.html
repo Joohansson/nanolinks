@@ -28,7 +28,11 @@
       <div class="blur"></div>
       <div class="overlay-header"></div>
       <div class="header-content">
-        <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+        <div id="head-line">
+		  <span class="helper"></span>
+		  <img id="head-logo" src="src/nano.png" alt="Logo"/>
+		  <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+		</div>
         <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
         <div class="top-buttons">
           <a href="#latest-additions" class="btn">Latest Links</a>
@@ -75,7 +79,7 @@
   <!--<script src="../src/js/p.min.js"></script>-->
   <!--<script src="../src/js/nano.js"></script>-->
 	
-  <!-- Search function -->
+  <!-- Search function. https://www.devbridge.com/sourcery/components/jquery-autocomplete -->
   <script type="text/javascript" src="../src/js/jquery.autocomplete.min.js"></script>
   <script type="text/javascript" src="../src/js/links.js"></script>
 </html>
