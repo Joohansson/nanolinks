@@ -34,8 +34,6 @@ $(function () {
 	});
 	
 	//Disable link button by default
-	if ($(this).val() == "") {
-		$('#go-btn').attr('href', '/'); //reset link button
-		$('#go-btn').css("pointer-events", "none");
-	}
+	$('#go-btn').attr('href', '/'); //reset link button
+	$('#go-btn').css("pointer-events", "none");
 });
