@@ -29,10 +29,10 @@
       <div class="overlay-header"></div>
       <div class="header-content">
         <div id="head-line">
-		  <span class="helper"></span>
-		  <img id="head-logo" src="src/nano.png" alt="Logo"/>
-		  <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-		</div>
+	  <span class="helper"></span>
+	  <img id="head-logo" src="src/nano.png" alt="Logo"/>
+	  <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+	</div>
         <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
         <div class="top-buttons">
           <a href="#latest-additions" class="btn">Latest Links</a>
@@ -40,9 +40,14 @@
           <a href="#exchanges" class="btn">Exchanges</a>
           <a href="https://nanolinks.info/news" class="btn">News Archive</a>
 	  <div class="search-div">
-	    <input type="search" name="search" class="search" id="autocomplete-dynamic" placeholder="Search..." ng-model="$ctrl.pesquisa" ng-disabled="'@ViewBag.EditaConteudo'"/>
-	    <a href="/" id="go-btn" class="search-btn">Go!</a>
-	  </div>
+            <div class="search-wrapper">
+              <form>
+                <input type="text" name="search" required class="search-box" id="autocomplete-dynamic" placeholder="Search..."/>
+                <button class="close-icon" type="reset"></button>
+              </form>
+            </div>
+            <a href="/" id="go-btn" class="search-btn">Go!</a>
+          </div>
 	</div>
       </div>
         <!--
