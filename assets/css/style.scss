@@ -85,7 +85,8 @@ $blur-amount: 20px;
 }
 
 #head-logo {
-  vertical-align: middle;
+  top: 6px;
+  position: relative;
   
   @include large {
     height: 60px;
