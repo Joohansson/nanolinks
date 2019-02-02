@@ -31,6 +31,8 @@ $hr-border-color: #eff0f1;
 $select-background: #f9ae42;
 $light-blue: #4a90e2;
 $dark-blue: #000034;
+$common-red: #e24a4a;
+$common-red-light: #e36767;
 
 $button-height: 2.8em;
 $blur-amount: 20px;
@@ -209,7 +211,7 @@ html:after {
 
 /* White transparent header overlay */
 .overlay-header {
-  background-image: linear-gradient(180deg, rgba(105, 160, 226, 0.9), rgba(192, 211, 233, 0.9));
+  background-image: linear-gradient(180deg, rgba(74, 144, 226, 0.9), rgba(192, 211, 233, 0.9));
   z-index: 9;
   position: absolute;
   top: 0;
@@ -393,6 +395,10 @@ html:after {
   -webkit-box-shadow: 0 2px 5px 2px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.12);
   -ms-box-shadow: 0 2px 5px 2px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.12);
   -o-box-shadow: 0 2px 5px 2px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.12);
+  
+  @include small {
+    padding: 1em 1em 1em 1em; 
+  }
 }
 
 .first-div-full {
@@ -435,7 +441,7 @@ html:after {
   -ms-border-radius: 6px !important;
   -o-border-radius: 6px !important;
   border-radius: 6px !important;
-  border-color: #e24a4a !important;
+  border-color: $common-red !important;
   
   @include large {
     margin-bottom: 0.8em;
@@ -456,7 +462,7 @@ html:after {
 
 /* Link colors */
 .int-link {
-  color: #e24a4a !important;
+  color: $common-red !important;
 }
 
 .main-content {
@@ -834,8 +840,8 @@ li {
   right: 0;
   width: 2.5em;
   height: 1.9em;
-  background-color: $light-blue;
-  opacity:0.95;
+  background-color: $common-red-light;
+  opacity:1;
   cursor: pointer;
   position: relative;
   left: 10.5em;
