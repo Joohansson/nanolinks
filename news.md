@@ -33,6 +33,9 @@ layout: newslayout
 
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
+### Feb 2019
+* [Successful Nano Security Audit: Summary and Full (43 pages) Report](https://www.reddit.com/r/nanocurrency/comments/ameblj/nano_protocol_security_audit_results_full_report/)
+
 ### Jan 2019
 * [The Bitgrail Exchange Ruling: A Win for the Exchange Users](https://www.reddit.com/r/nanocurrency/comments/akli76/the_bomber_was_at_fault_for_the_loss_and_is/)
 * [Nano Brand Guide V2.1 Released](https://www.reddit.com/r/nanocurrency/comments/aipcvw/nano_brand_guide_v21_released/)
