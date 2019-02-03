@@ -189,17 +189,16 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
-
-* [Jan 06: How to setup a Nano node](https://youtu.be/k1RlrlaKOCg)
-* [Jan 07: Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
-* [Jan 09: Wordpress Plugin - Nano, IOTA, XLM, XRP, SEPA Payment Service](https://wordpress.org/plugins/bitvolo-trustless-crypto-payment-gateway/)
-* [Jan 19: Coinall - Exchange](https://www.coinall.com/market?product=nano_btc)
-* [Jan 22: A Lil Nano - Free Nano](https://www.alilnano.com/)
-* [Jan 22: Coingate - Nano FIAT Gateway](https://coingate.com/buy/nano)
-* [Jan 25: Beta Net Wiki, Guide](https://github.com/NanoTools/wiki/blob/master/Beta-Network.md)
-* [Jan 27: Video Guide: Get Free Nano and Share with Anyone](https://youtu.be/qSsIXy-NimE)
-* [Jan 28: NanoStream - Transaction Visualizer](https://nanostream.eu/)
 * [Jan 28: Game: Player Killers Exchange](https://playerkillers.exchange)
+* [Jan 28: NanoStream - Transaction Visualizer](https://nanostream.eu/)
+* [Jan 27: Video Guide: Get Free Nano and Share with Anyone](https://youtu.be/qSsIXy-NimE)
+* [Jan 25: Beta Net Wiki, Guide](https://github.com/NanoTools/wiki/blob/master/Beta-Network.md)
+* [Jan 22: Coingate - Nano FIAT Gateway](https://coingate.com/buy/nano)
+* [Jan 22: A Lil Nano - Free Nano](https://www.alilnano.com/)
+* [Jan 19: Coinall - Exchange](https://www.coinall.com/market?product=nano_btc)
+* [Jan 09: Wordpress Plugin - Nano, IOTA, XLM, XRP, SEPA Payment Service](https://wordpress.org/plugins/bitvolo-trustless-crypto-payment-gateway/)
+* [Jan 07: Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
+* [Jan 06: How to setup a Nano node](https://youtu.be/k1RlrlaKOCg)
 
 </div>
 </div>
