@@ -21,7 +21,7 @@ layout: newslayout
 <div class="blur"></div>
 <div class="overlay"></div>
 <div class="link-content" markdown="1">
-
+  <p class="noscript">Some functions require javascript to be enabled</p>
 <div class="first-header-news">
   <span class="helper"></span>
   <div class="news-intro">
