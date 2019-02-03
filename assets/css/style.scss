@@ -405,10 +405,32 @@ html:after {
   padding: 0.5em 2em 1em 2em;
 }
 
+//Collapse button
+.collapse {
+  z-index: 10;
+  @include large {
+    position: absolute;
+    top: 65px;
+  }
+  @include medium {
+    position: absolute;
+    top: 65px;
+  }
+}
+
 /* Collapsible div */
 .collapse-content {
   display: none;
   margin-top: 1em;
+}
+
+//Visible content to activate if no javascript
+.noscript {
+  display: none;
+  z-index: 10;
+  width: 100%;
+  padding: 0 !important;
+  margin: 0 0 0.5em 0 !important;
 }
 
 /* Hidden quick help section */
@@ -569,19 +591,6 @@ figure {
 //News intro text
 .news-intro {
   padding-right: 50px;
-}
-
-//Collapse button
-.collapse {
-  z-index: 10;
-  @include large {
-    position: absolute;
-    top: 65px;
-  }
-  @include medium {
-    position: absolute;
-    top: 65px;
-  }
 }
 
 //Logo containers
