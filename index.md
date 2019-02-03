@@ -597,9 +597,9 @@ Useful digital or physical places which accept Nano
 <div class="link-content" markdown="1">
 
 ## Contribution
-Want to add a link to your own project or you found something else? Just clone repo at [Github](https://github.com/Joohansson/nanolinks) , edit index.md and make a pull request. You can also contact me at [Reddit](https://www.reddit.com/user/Joohansson/).
+Do you want to add a link to your own project or you found something else? Just clone repo at [Github](https://github.com/Joohansson/nanolinks) , edit index.md and make a pull request. You can also contact me at [Reddit](https://www.reddit.com/user/Joohansson/).
 <br><br>
-**You can also fill in form below to send a link submission. Your email will only be used in case of contact, not on the site or shared in any way. All content will be evaluated.**
+**Or just fill in the form below to send a link submission. Your email will only be used in case of contact, not on the site or shared in any way. All submissions will be evaluated.**
 <br>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <div id="contact-area">
