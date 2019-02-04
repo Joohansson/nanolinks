@@ -420,10 +420,12 @@ width: auto;
   @include large {
     position: absolute;
     top: 65px;
+    right: 2em;
   }
   @include medium {
     position: absolute;
     top: 65px;
+    right: 2em;
   }
 }
 
@@ -579,7 +581,7 @@ figure {
 #logo {
   margin: 0 0;
   padding-top: 0;
-  float: right;
+  float: left;
   height: 90px;
   
   @include small {
@@ -592,9 +594,11 @@ figure {
   margin: 0 0;
   height: 90px;
   padding-top: 0;
+  float: left;
   
   @include small {
     display: none;
+    height: 0;
   }
 }
 
