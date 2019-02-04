@@ -139,6 +139,14 @@ $blur-amount: 20px;
   text-decoration: none !important; /* No underline in H2 tagline */
   opacity: 0.95;
   color: #fff !important;
+  font-size: 1.15rem;
+  
+  @include medium {
+    font-size: 1.1rem;
+  }
+  @include small {
+    font-size: 1.0rem;
+  }
 }
 
 h1 {
@@ -190,6 +198,7 @@ html:after {
 .link-content {
   z-index: 10;
   width: 100%;
+  font-size: 1.04rem;
 }
 
 /* Divs containing header info */
