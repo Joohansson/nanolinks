@@ -795,6 +795,10 @@ li {
   -moz-border-radius-bottomleft: 6px !important;
 }
 
+.search-box::-ms-clear {
+    display: none;
+}
+
 .close-icon {
   border:1px solid transparent;
   background-color: transparent;
