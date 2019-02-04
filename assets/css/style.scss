@@ -40,6 +40,16 @@ $blur-amount: 20px;
 //Default theme
 @import "{{ site.theme }}";
 
+@font-face {
+  font-family: "Antipasto ExtraLight";
+  src: url("../../src/fonts/AntipastoPro-Extralight.eot");
+  src:
+  url('../../src/fonts/AntipastoPro-Extralight.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("../../src/fonts/AntipastoPro-Extralight.woff") format("woff"), /* Pretty Modern Browsers */
+  url("../../src/fonts/AntipastoPro-Extralight.woff2") format("woff2"), /* Super Modern Browsers */
+  url('../../src/fonts/AntipastoPro-Extralight.ttf')  format('truetype'), /* Safari, Android, iOS */;
+}
+
 //Override default
 //Default header
 .page-header {
@@ -133,19 +143,28 @@ $blur-amount: 20px;
 }
 
 /* Header description */
-.project-tagline {
+.project-name {
+  /*font-family: Nunito !important;*/
+  /*font-style: normal !important;*/
+  /*font-variant: small-caps !important;*/
+  font-weight: 400 !important;
+  font-family: 'Antipasto ExtraLight', Fallback, sans-serif;
   text-align: center;
-  z-index: 10 !important;
-  text-decoration: none !important; /* No underline in H2 tagline */
-  opacity: 0.95;
   color: #fff !important;
-  font-size: 1.15rem;
+  display: table-cell;
+  vertical-align: middle;
   
+  @include large {
+    line-height: 3.7rem !important;
+    font-size: 3.7rem !important;
+  }
   @include medium {
-    font-size: 1.1rem;
+    line-height: 3.1rem !important;
+    font-size: 3.1rem !important;
   }
   @include small {
-    font-size: 1.0rem;
+    line-height: 2.7rem !important;
+    font-size: 2.7rem !important;
   }
 }
 
@@ -198,7 +217,7 @@ html:after {
 .link-content {
   z-index: 10;
   width: 100%;
-  font-size: 1.04rem;
+  font-size: 1.0rem;
 }
 
 /* Divs containing header info */
