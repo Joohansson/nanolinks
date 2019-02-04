@@ -190,6 +190,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Feb 04: Elastum.io - EUR Gateway](https://elastum.io/)
 * [Feb 04: Exchange - Txbit](https://txbit.io/)
 * [Jan 28: Game: Player Killers Exchange](https://playerkillers.exchange)
 * [Jan 28: NanoStream - Transaction Visualizer](https://nanostream.eu/)
@@ -199,7 +200,6 @@ layout: default
 * [Jan 22: A Lil Nano - Free Nano](https://www.alilnano.com/)
 * [Jan 19: Coinall - Exchange](https://www.coinall.com/market?product=nano_btc)
 * [Jan 09: Wordpress Plugin - Nano, IOTA, XLM, XRP, SEPA Payment Service](https://wordpress.org/plugins/bitvolo-trustless-crypto-payment-gateway/)
-* [Jan 07: Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 
 </div>
 </div>
@@ -349,6 +349,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nanotrade.co.uk](https://nanotrade.co.uk/)
 * [SimpleSwap.io](https://simpleswap.io/)
 * [changeNOW.io](https://changenow.io/?to=nano)
+* [Elastum.io - EUR Gateway](https://elastum.io/)
 
 #### Escrow and Peer-to-peer
 * [Localnano](https://www.localnano.com/)
