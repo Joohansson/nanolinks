@@ -592,7 +592,7 @@ Useful digital or physical places which accept Nano
 </div>
 </div>
 
-<div class="div-full">
+<div class="div-full div-compact">
 <div class="blur"></div>
 <div class="overlay"></div>
 <div class="link-content" markdown="1">
