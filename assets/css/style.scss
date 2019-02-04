@@ -112,10 +112,11 @@ $blur-amount: 20px;
 
 /* Title text */
 .project-name {
-  font-family: Nunito !important;
-  font-style: normal !important;
-  font-variant: small-caps !important;
-  font-weight: 700 !important;
+  /*font-family: Nunito !important;*/
+  /*font-style: normal !important;*/
+  /*font-variant: small-caps !important;*/
+  font-weight: 400 !important;
+  font-family: 'Antipasto ExtraLight', Fallback, sans-serif;
   text-align: center;
   color: #fff !important;
   display: table-cell;
@@ -143,28 +144,22 @@ $blur-amount: 20px;
 }
 
 /* Header description */
-.project-name {
-  /*font-family: Nunito !important;*/
-  /*font-style: normal !important;*/
-  /*font-variant: small-caps !important;*/
-  font-weight: 400 !important;
-  font-family: 'Antipasto ExtraLight', Fallback, sans-serif;
+.project-tagline {
   text-align: center;
+  z-index: 10 !important;
+  text-decoration: none !important; /* No underline in H2 tagline */
+  opacity: 0.95;
   color: #fff !important;
-  display: table-cell;
-  vertical-align: middle;
+  font-size: 1.05rem;
+  max-width: 67em;
+  margin-left: auto;
+  margin-right: auto;
   
-  @include large {
-    line-height: 3.7rem !important;
-    font-size: 3.7rem !important;
-  }
   @include medium {
-    line-height: 3.1rem !important;
-    font-size: 3.1rem !important;
+    font-size: 0.97rem;
   }
   @include small {
-    line-height: 2.7rem !important;
-    font-size: 2.7rem !important;
+    font-size: 0.92rem;
   }
 }
 
