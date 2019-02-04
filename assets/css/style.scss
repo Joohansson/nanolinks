@@ -1,7 +1,7 @@
 ---
 ---
 // Background
-$background: "../../src/bgr.png";
+$background: "../../src/d.jpg";
 
 // Breakpoints
 $large-breakpoint: 80em; //Custom
@@ -491,11 +491,11 @@ html:after {
 .main-content {
   @include large {
     max-width: 90em !important;
-    padding: 0.5rem 2rem !important;
+    padding: 0.5rem 3rem !important;
   }
   
   @include medium {
-    padding: 1rem 2rem !important;
+    padding: 1rem 3rem !important;
   }
   
   @include small {
@@ -848,14 +848,14 @@ li {
 #dropbtn {
   top: 0;
   right: 0;
-  width: 2.5em;
-  height: 1.9em;
+  width: 2em;
+  height: 1.8em;
   background-color: $common-red-light;
   opacity:1;
   cursor: pointer;
   position: relative;
-  left: 10.5em;
-  padding-top: 0.5em;
+  left: 11em;
+  padding-top: 0.47em;
   border-radius: 0.2em;
   -webkit-border-radius: 0.2em;
   -moz-border-radius: 0.2em;
@@ -879,16 +879,16 @@ li {
   top: 0;
   left: 0;
   display: block;
-  height: 0.25em;
+  height: 0.2em;
   margin-left: 0.4em;
   margin-right: 0.4em;
-  margin-bottom: 0.4em;
+  margin-bottom: 0.37em;
   background: #fff;
-  border-radius: 0.125em;
-  -webkit-border-radius: 0.125em;
-  -moz-border-radius: 0.125em;
-  -ms-border-radius: 0.125em;
-  -o-border-radius: 0.125em;
+  border-radius: 0.1em;
+  -webkit-border-radius: 0.1em;
+  -moz-border-radius: 0.1em;
+  -ms-border-radius: 0.1em;
+  -o-border-radius: 0.1em;
 }
 
 /* Menu main container including top margin */
