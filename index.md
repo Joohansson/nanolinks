@@ -289,7 +289,7 @@ Learn everything there is to know about Nano!
 * [Repnode.org - Explorer, Stats, Reps](https://repnode.org/)
 * [Nanowatch - Explorer, Graphic Visualizer](https://nanowat.ch/)
 * [My Nano Ninja - Representatives, Stats, Explorer](https://mynano.ninja/)
-* [Nanoodle - Live Stat Charts](https://nanoodle.io/live)
+* [NANOODLE - Explorer,  Fiat Tracker, Stat Charts, Account Alerting](https://nanoodle.io/live)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
 * [TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
 * [NanoStream - Transaction Visualizer](https://nanostream.eu/)
