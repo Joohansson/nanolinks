@@ -219,7 +219,8 @@ Learn everything there is to know about Nano!
 * [Roadmap, Guides, Docs](https://developers.nano.org/roadmap)
 * [Whitepaper (Eng)](https://nano.org/en/whitepaper)
 * [Official Nano GitHub Wiki](https://github.com/nanocurrency/raiblocks/wiki)
-* [Medium Channel](https://medium.com/@nanocurrency)
+* [Medium Channel - Main](https://medium.com/@nanocurrency)
+* [Medium Channel - The Nano Center](https://medium.com/the-nano-center)
 * [FAQ](https://nano.org/en/faq)
 
 ### Core Social Media & Contribution Channels
@@ -229,6 +230,8 @@ Learn everything there is to know about Nano!
 * [Twitter](https://twitter.com/nano)
 * [Facebook](https://www.facebook.com/nanofoundation/)
 * [LinkedIn](https://www.linkedin.com/company/nano-foundation/)
+* [Instagram](https://www.instagram.com/nanocurrency/)
+* [Telegram](https://t.me/RaiBlocks)
 
 ### Scientific Papers
 * [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
@@ -240,9 +243,9 @@ Learn everything there is to know about Nano!
 * [Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
 * [Third Generation Cryptocurrencies](https://hackernoon.com/why-third-generation-cryptocurrencies-are-game-changers-for-venezuela-cb8c9b016f9d)
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
-* [Informative Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
-* [Informative Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
-* [Informative Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
+* [Informative Medium Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
+* [Informative Medium Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
+* [Informative Medium Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
 * [Guide: How to secure your Nano](https://medium.com/@d84/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
 * [Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 * [Frequently Asked Questions and Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAQ)
