@@ -32,6 +32,7 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 ### Feb 2019
+* [Nano implemented into the Wirex ecosytem, giving access to 40 million outlets plus fiat gateway](https://www.reddit.com/r/nanocurrency/comments/apsjxt/nano_is_on_wirex/)
 * [Successful Nano Security Audit: Summary and Full (43 pages) Report](https://www.reddit.com/r/nanocurrency/comments/ameblj/nano_protocol_security_audit_results_full_report/)
 
 ### Jan 2019
