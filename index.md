@@ -190,7 +190,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
-* [Feb 12: Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System)
+* [Feb 12: Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
+* [Feb 11: Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System)
 * [Feb 04: Elastum.io - EUR Gateway](https://elastum.io/)
 * [Feb 04: Exchange - Txbit](https://txbit.io/)
 * [Jan 28: Game: Player Killers Exchange](https://playerkillers.exchange)
@@ -199,7 +200,6 @@ layout: default
 * [Jan 25: Beta Net Wiki, Guide](https://github.com/NanoTools/wiki/blob/master/Beta-Network.md)
 * [Jan 22: Coingate - Nano FIAT Gateway](https://coingate.com/buy/nano)
 * [Jan 22: A Lil Nano - Free Nano](https://www.alilnano.com/)
-* [Jan 19: Coinall - Exchange](https://www.coinall.com/market?product=nano_btc)
 
 </div>
 </div>
@@ -407,8 +407,9 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Niuyan Market Data](https://niuyan.com/currencies/nano)
 
 ### Merchant & Donation Related [No shops, too many]
-* [Brainblocks - Nano Payment Service](https://brainblocks.io/)
+* [Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
 * [CoinGate - Nano Payment Service & Gateway](https://coingate.com/)
+* [Brainblocks - Nano Payment Service](https://brainblocks.io/)
 * [ArrowPay - Nano Payment Service](https://arrowpay.io/)
 * [KitePay - Nano Payment Service](https://kitepay.io/)
 * [Wordpress Plugin - Nano, IOTA, XLM, XRP, SEPA Payment Service](https://wordpress.org/plugins/bitvolo-trustless-crypto-payment-gateway/)
