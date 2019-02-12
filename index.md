@@ -190,6 +190,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Feb 12: Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System)
 * [Feb 04: Elastum.io - EUR Gateway](https://elastum.io/)
 * [Feb 04: Exchange - Txbit](https://txbit.io/)
 * [Jan 28: Game: Player Killers Exchange](https://playerkillers.exchange)
@@ -199,7 +200,6 @@ layout: default
 * [Jan 22: Coingate - Nano FIAT Gateway](https://coingate.com/buy/nano)
 * [Jan 22: A Lil Nano - Free Nano](https://www.alilnano.com/)
 * [Jan 19: Coinall - Exchange](https://www.coinall.com/market?product=nano_btc)
-* [Jan 09: Wordpress Plugin - Nano, IOTA, XLM, XRP, SEPA Payment Service](https://wordpress.org/plugins/bitvolo-trustless-crypto-payment-gateway/)
 
 </div>
 </div>
@@ -552,6 +552,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano-Prettify - Format Nano Raw Amounts in JavaScript](https://github.com/kilkelly/nano-prettify)
 * [Nanocap - Protocol Analyzer](https://github.com/cryptocode/nanocap)
 * [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
+* [Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System)
 
 ### Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
