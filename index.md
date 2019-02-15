@@ -315,8 +315,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 ### Exchanges
 #### Dedicated for Nano
-* [Nanex](https://nanex.co/)
-* [Brainex](https://www.brainex.io/)
+* [Nanex.co](https://nanex.co/)
+* [Brainex.io (Not Launched)](https://www.brainex.io/)
 
 #### Multiple cryptos
 * [Binance](https://www.binance.com)
@@ -340,7 +340,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Txbit](https://txbit.io/)
 
 #### Quick Crypto Swap/Buy
-##### Simple way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution. None of these sites have been vetted by NanoLinks.
+##### Simple way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.
 
 * [Coingate](https://coingate.com/buy/nano)
 * [N.Exchange](https://n.exchange/)
@@ -469,6 +469,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Discord: Nanoblocks Wallet](https://discord.gg/n76DkEt)
 * [Discord: My Nano Ninja](https://discord.me/nanonodeninja)
 * [Discord: Brainblocks](https://discord.gg/MwaQcVM)
+* [Reddit: Nanex](https://www.reddit.com/r/nanex/)
 * [Reddit: Jolt Wallet](https://www.reddit.com/r/joltwallet)
 
 ### Node & Account Applications
@@ -590,7 +591,7 @@ There are much fun to do but please proceed with caution.
 * [Nano Wallpapers](https://www.nano-wallpapers.com/)
 
 ## Services
-Useful digital or physical places which accept Nano
+Digital or physical places which accepts Nano
 ### Online
 * [Put.io - File Serving](https://put.io)
 * [Wall of Nano](https://wallofnano.com/)
