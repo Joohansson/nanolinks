@@ -92,6 +92,7 @@ layout: default
   <a href="http://nanospeed.live" class="site-btn btn-wide btn-external site-btn-space" onclick="window.open(this.href); return false;">SPEED TEST FROM A TO B</a><br>
   <a href="#faucets-free-nano" class="site-btn btn-wide site-btn-space">GET FREE NANO</a><br>
   <a href="https://nanomate.co/" class="site-btn btn-wide btn-external" onclick="window.open(this.href); return false;">SEND TO ANYONE</a>
+  <a href="https://www.reddit.com/r/nano_tipper_z/comments/a7pdji/nano_tipper_z_usage/" class="site-btn btn-wide btn-external" onclick="window.open(this.href); return false;">REDDIT TIPPING</a>
 </div>
 
 </div>
@@ -190,6 +191,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Feb 19: Reddit Tip Bot](https://github.com/danhitchcock/nano_tipper_z)
 * [Feb 19: Nanocrawler Nanovault Clone](https://vault.nanocrawler.cc/)
 * [Feb 12: Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
 * [Feb 11: Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System)
@@ -418,7 +420,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Bitback - Payment Service, Address book](https://bitback.me/)
 * [NanoMate - Nano Send Service](https://nanomate.co/)
 * [Nanote - Hosted Payment Forms](https://nanote.net/)
-* [Nano Twitter Tip Bot - Donation service](https://nanotipbot.com/)
+* [Twitter Tip Bot - Donation service](https://nanotipbot.com/)
+* [Reddit Tip Bot - Donation service](https://github.com/danhitchcock/nano_tipper_z)
 * [NanoTwitch - Gaming donation service](https://nanotwit.ch/)
 * [UseNano - Merchant Directory](https://usenano.org/)
 * [Nexus - Marketplace](https://nexus.brainblocks.io/)
@@ -472,6 +475,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Discord: Brainblocks](https://discord.gg/MwaQcVM)
 * [Reddit: Nanex](https://www.reddit.com/r/nanex/)
 * [Reddit: Jolt Wallet](https://www.reddit.com/r/joltwallet)
+* [Reddit: Nano Tipper Z (Reddit Tip bot)](https://www.reddit.com/r/nano_tipper_z)
 
 ### Node & Account Applications
 * [Brainblocks](https://github.com/brainblocks)
