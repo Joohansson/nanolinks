@@ -556,6 +556,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanocap - Protocol Analyzer](https://github.com/cryptocode/nanocap)
 * [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
 * [Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System)
+* [Accept Nano Payment Gateway (Self-hosted)](https://accept-nano.com)
 
 ### Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
