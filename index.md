@@ -507,7 +507,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 ### Wallets [Source Code]
 * [Nano Wallet Company](https://github.com/nano-wallet-company)
 * [Canoe](https://github.com/getcanoe/canoe)
-* [Nanowallet Source Code](https://github.com/jaimehgb/RaiWalletV2)
+* [Nanowallet Source Code](https://github.com/jaimehgb/RaiWebWallet)
 * [Nanovault](https://github.com/cronoh/nanovault)
 * [Nanollet](https://github.com/brokenbydefault/Nanollet)
 * [Nanoblocks](https://github.com/nebyark/nano-blocks)
@@ -565,7 +565,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 ### Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
 * [Beta Net Explorer - NanoCrawler](https://beta.nanocrawler.cc/)
-* [Beta Net Graph - Nanowat.ch](https://beta.nanowat.ch/graph)
 * [Beta Net Stats - Nanode21](https://nanode21.cloud/testnetstats.php)
 * [Beta Net TPS Monitor](https://beta.nanoticker.info)
 * [Beta Net Wiki, Guide](https://github.com/NanoTools/wiki/blob/master/Beta-Network.md)
