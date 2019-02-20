@@ -191,7 +191,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
-* [Feb 19: Reddit Tip Bot](https://github.com/danhitchcock/nano_tipper_z)
+* [Feb 21: Reddit Tip Bot](https://github.com/danhitchcock/nano_tipper_z)
+* [Feb 20: Accept Nano Payment Gateway](https://accept-nano.com)
 * [Feb 19: Nanocrawler Nanovault Clone](https://vault.nanocrawler.cc/)
 * [Feb 12: Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
 * [Feb 11: Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System)
