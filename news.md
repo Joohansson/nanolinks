@@ -32,10 +32,15 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 ### Feb 2019
+* [Nanex update: Ongoing issues and fixes](https://www.reddit.com/r/nanocurrency/comments/ar0mq0/nanex_guy_here_yes_im_alive_heres_a_thread_on_our/)
+* [Nano Callback system - Initiate actions based on Nano transactions](https://www.reddit.com/r/nanocurrency/comments/ap854h/nano_callback_system_an_easy_way_to_initiate/)
 * [Nano implemented into the Wirex ecosytem, giving access to 40 million outlets plus fiat gateway](https://www.reddit.com/r/nanocurrency/comments/apsjxt/nano_is_on_wirex/)
+* [Book 550,000+ hotels worldwide with $NANO using the Travala.com crypto payment gateway](https://www.reddit.com/r/nanocurrency/comments/amxsla/big_real_use_case_adoption_of_nano/)
 * [Successful Nano Security Audit: Summary and Full (43 pages) Report](https://www.reddit.com/r/nanocurrency/comments/ameblj/nano_protocol_security_audit_results_full_report/)
+* [NanoVault 1.1.2 Released: Desktop Ledger Support and more](https://www.reddit.com/r/nanocurrency/comments/alkw9q/nanovault_112_released_desktop_ledger_support/)
 
 ### Jan 2019
+* [Natrium wallet - Successful campaign and iOS news](https://www.reddit.com/r/nanocurrency/comments/akf0wh/natrium_update_nanocenter_campaign_ios_news/)
 * [The Bitgrail Exchange Ruling: A Win for the Exchange Users](https://www.reddit.com/r/nanocurrency/comments/akli76/the_bomber_was_at_fault_for_the_loss_and_is/)
 * [Nano Brand Guide V2.1 Released](https://www.reddit.com/r/nanocurrency/comments/aipcvw/nano_brand_guide_v21_released/)
 * [Node v17.1 Released - Peer stability, Improved transaction processing](https://www.reddit.com/r/nanocurrency/comments/aidx65/v171_of_the_nano_node_is_available_boulton_is_back/)
