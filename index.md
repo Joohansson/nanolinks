@@ -201,9 +201,6 @@ layout: default
 * [Jan 28: Game: Player Killers Exchange](https://playerkillers.exchange)
 * [Jan 28: NanoStream - Transaction Visualizer](https://nanostream.eu/)
 * [Jan 27: Video Guide: Get Free Nano and Share with Anyone](https://youtu.be/qSsIXy-NimE)
-* [Jan 25: Beta Net Wiki, Guide](https://github.com/NanoTools/wiki/blob/master/Beta-Network.md)
-* [Jan 22: Coingate - Nano FIAT Gateway](https://coingate.com/buy/nano)
-* [Jan 22: A Lil Nano - Free Nano](https://www.alilnano.com/)
 
 </div>
 </div>
