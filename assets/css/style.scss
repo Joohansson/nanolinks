@@ -283,17 +283,15 @@ html:after {
   border-color: transparent;
   background-color: $light-blue;
   box-shadow: none;
-  padding: 0.4em 1em;
+  padding: 0.5em 1em;
   text-align: center;
   border-radius: 6px;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   -ms-border-radius: 6px;
   -o-border-radius: 6px;
-  display: inline-flex;
-  align-items: center;
+  display: inline-block;
   transition: color 0.1s, background-color 0.1s, border-color 0.1s;
-  height: $button-height;
 
   &:hover {
     border-color: transparent;
