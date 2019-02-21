@@ -21,6 +21,15 @@ $(function () {
         //console.log($(this).text());
         //console.log(this.href);
     });
+    
+    console.log(`%c
+    _   _____    _   ______  __    _____   ____ _______
+   / | / /   |  / | / / __ \\/ /   /  _/ | / / /\/_/ ___/
+  /  |/ / /| | /  |/ / / / / /    / /\/  |/ / ,<  \\__ \\
+ / /|  / ___ |/ /|  / /_/ / /____/ /\/ /|  / /| |___/ /
+/_/ |_/_/  |_/_/ |_/\\____/_____/___/_/ |_/_/ |_/____/  `, "font-family:monospace");
+    console.log("Total: " + links.length);
+    console.log("Random: " + links[Math.floor(Math.random()*links.length)].data.url);
 
     // Initialize search autocomplete:
     $('#autocomplete-dynamic').autocomplete({
