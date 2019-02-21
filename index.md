@@ -91,7 +91,8 @@ layout: default
 	  If you want to transact with your own nano you can easily create a wallet and obtain some free nano from any of the faucets find below.</p>
   <a href="http://nanospeed.live" class="site-btn btn-wide btn-external site-btn-space" onclick="window.open(this.href); return false;">SPEED TEST FROM A TO B</a><br>
   <a href="#faucets-free-nano" class="site-btn btn-wide site-btn-space">GET FREE NANO</a><br>
-  <a href="https://nanomate.co/" class="site-btn btn-wide btn-external" onclick="window.open(this.href); return false;">SEND TO ANYONE</a>
+  <a href="https://nanomate.co/" class="site-btn btn-wide btn-external" onclick="window.open(this.href); return false;">SEND TO ANYONE</a><br>
+  <a href="https://www.reddit.com/r/nano_tipper/comments/astyjq/nano_tipper_usage/" class="site-btn btn-wide btn-external" onclick="window.open(this.href); return false;">REDDIT TIPPING</a>
 </div>
 
 </div>
@@ -190,6 +191,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Feb 21: Reddit Tip Bot](https://github.com/danhitchcock/nano_tipper_z)
+* [Feb 20: Accept Nano Payment Gateway](https://accept-nano.com)
 * [Feb 19: Nanocrawler Nanovault Clone](https://vault.nanocrawler.cc/)
 * [Feb 12: Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
 * [Feb 11: Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System)
@@ -418,7 +421,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Bitback - Payment Service, Address book](https://bitback.me/)
 * [NanoMate - Nano Send Service](https://nanomate.co/)
 * [Nanote - Hosted Payment Forms](https://nanote.net/)
-* [Nano Twitter Tip Bot - Donation service](https://nanotipbot.com/)
+* [Twitter Tip Bot - Donation service](https://nanotipbot.com/)
+* [Reddit Tip Bot - Donation service](https://github.com/danhitchcock/nano_tipper_z)
 * [NanoTwitch - Gaming donation service](https://nanotwit.ch/)
 * [UseNano - Merchant Directory](https://usenano.org/)
 * [Nexus - Marketplace](https://nexus.brainblocks.io/)
@@ -472,6 +476,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Discord: Brainblocks](https://discord.gg/MwaQcVM)
 * [Reddit: Nanex](https://www.reddit.com/r/nanex/)
 * [Reddit: Jolt Wallet](https://www.reddit.com/r/joltwallet)
+* [Reddit: Nano Tipper Z (Reddit Tip bot)](https://www.reddit.com/r/nano_tipper)
 
 ### Node & Account Applications
 * [Brainblocks](https://github.com/brainblocks)
@@ -503,7 +508,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 ### Wallets [Source Code]
 * [Nano Wallet Company](https://github.com/nano-wallet-company)
 * [Canoe](https://github.com/getcanoe/canoe)
-* [Nanowallet Source Code](https://github.com/jaimehgb/RaiWalletV2)
+* [Nanowallet Source Code](https://github.com/jaimehgb/RaiWebWallet)
 * [Nanovault](https://github.com/cronoh/nanovault)
 * [Nanollet](https://github.com/brokenbydefault/Nanollet)
 * [Nanoblocks](https://github.com/nebyark/nano-blocks)
@@ -561,7 +566,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 ### Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
 * [Beta Net Explorer - NanoCrawler](https://beta.nanocrawler.cc/)
-* [Beta Net Graph - Nanowat.ch](https://beta.nanowat.ch/graph)
 * [Beta Net Stats - Nanode21](https://nanode21.cloud/testnetstats.php)
 * [Beta Net TPS Monitor](https://beta.nanoticker.info)
 * [Beta Net Wiki, Guide](https://github.com/NanoTools/wiki/blob/master/Beta-Network.md)
