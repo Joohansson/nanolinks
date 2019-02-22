@@ -32,6 +32,8 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 ### Feb 2019
+* [Node v18.0 Released - Major confirmation time improvement, smart and clean](https://www.reddit.com/r/nanocurrency/comments/at8kcw/dolphin_v18_released/)
+* [First reddit tipping party with 1.4k comments](https://www.reddit.com/r/nanocurrency/comments/asvtv9/nano_tip_party/)
 * [Nanex update: Ongoing issues and fixes](https://www.reddit.com/r/nanocurrency/comments/ar0mq0/nanex_guy_here_yes_im_alive_heres_a_thread_on_our/)
 * [Nano Callback system - Initiate actions based on Nano transactions](https://www.reddit.com/r/nanocurrency/comments/ap854h/nano_callback_system_an_easy_way_to_initiate/)
 * [Nano implemented into the Wirex ecosytem, giving access to 40 million outlets plus fiat gateway](https://www.reddit.com/r/nanocurrency/comments/apsjxt/nano_is_on_wirex/)
