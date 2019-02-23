@@ -32,6 +32,7 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 ### Feb 2019
+* [Massive speed improvements in v18 - From 12 to 0.7 seconds](https://www.reddit.com/r/nanocurrency/comments/atfdwq/spectaculair_speed_improvement_v18_brings_conf/)
 * [Node v18.0 Released - Major confirmation time improvement, smart and clean](https://www.reddit.com/r/nanocurrency/comments/at8kcw/dolphin_v18_released/)
 * [First reddit tipping party with 1.4k comments](https://www.reddit.com/r/nanocurrency/comments/asvtv9/nano_tip_party/)
 * [Nanex update: Ongoing issues and fixes](https://www.reddit.com/r/nanocurrency/comments/ar0mq0/nanex_guy_here_yes_im_alive_heres_a_thread_on_our/)
