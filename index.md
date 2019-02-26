@@ -191,6 +191,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Feb 25: Transaction Speed Demo Button](https://speed.nanolinks.info/)
 * [Feb 21: Reddit Tip Bot](https://github.com/danhitchcock/nano_tipper_z)
 * [Feb 20: Accept Nano Payment Gateway](https://accept-nano.com)
 * [Feb 19: Nanocrawler Nanovault Clone](https://vault.nanocrawler.cc/)
@@ -200,7 +201,6 @@ layout: default
 * [Feb 04: Exchange - Txbit](https://txbit.io/)
 * [Jan 28: Game: Player Killers Exchange](https://playerkillers.exchange)
 * [Jan 28: NanoStream - Transaction Visualizer](https://nanostream.eu/)
-* [Jan 27: Video Guide: Get Free Nano and Share with Anyone](https://youtu.be/qSsIXy-NimE)
 
 </div>
 </div>
@@ -301,6 +301,7 @@ Learn everything there is to know about Nano!
 * [Blocktivity - Utilization Comparision](https://blocktivity.info/)
 * [Nano Charts - Representative stats](https://nanocharts.info/)
 * [Nano SpeedTest - Test real nano transactions](https://nanospeed.live)
+* [Transaction Speed Demo Button](https://speed.nanolinks.info/)
 
 </div>
 </div>
