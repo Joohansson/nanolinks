@@ -553,7 +553,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Distributed PoW System (dPoW)- Web Client](https://nanopow.github.io/web/)
 * [Distributed PoW System (dPoW)- Server](https://github.com/jamescoxon/nano_dpow_server)
 * [Distributed PoW System (dPoW)- Work Server](https://github.com/guilhermelawless/dpow-work-server)
-* [Distributed PoW System (dPoW)- Dashboard](https://distributedpow.tk/)
+* [Distributed PoW System (dPoW)- Dashboard](https://dpow.nanocenter.org/)
 * [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
 * [Betsy - Nano/Banano PoW Middleware](https://github.com/bbedward/betsy-middleware)
 * [Nano-Prettify - Format Nano Raw Amounts in JavaScript](https://github.com/kilkelly/nano-prettify)
