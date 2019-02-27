@@ -92,7 +92,7 @@ layout: default
   <a href="http://nanospeed.live" class="site-btn btn-wide btn-external site-btn-space" onclick="window.open(this.href); return false;">SPEED TEST FROM A TO B</a><br>
   <a href="#faucets-free-nano" class="site-btn btn-wide site-btn-space">GET FREE NANO</a><br>
   <a href="https://nanomate.co/" class="site-btn btn-wide btn-external site-btn-space" onclick="window.open(this.href); return false;">SEND TO ANYONE</a><br>
-  <a href="https://www.reddit.com/r/nano_tipper/comments/astyjq/nano_tipper_usage/" class="site-btn btn-wide btn-external" onclick="window.open(this.href); return false;">REDDIT TIPPING</a>
+  <a href="https://www.reddit.com/r/nano_tipper/wiki/index" class="site-btn btn-wide btn-external" onclick="window.open(this.href); return false;">REDDIT TIPPING</a>
 </div>
 
 </div>
