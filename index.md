@@ -555,10 +555,10 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Distributed PoW System (dPoW)- Work Server](https://github.com/guilhermelawless/dpow-work-server)
 * [Distributed PoW System (dPoW)- Dashboard](https://dpow.nanocenter.org/)
 * [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
-* [Betsy - Nano/Banano PoW Middleware](https://github.com/bbedward/betsy-middleware)
 * [Nano-Prettify - Format Nano Raw Amounts in JavaScript](https://github.com/kilkelly/nano-prettify)
 * [Nanocap - Protocol Analyzer](https://github.com/cryptocode/nanocap)
 * [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
+* [Betsy - NANO/BANANO POW precacher, distributor, & callback forwarder](https://github.com/bbedward/betsy-middleware)
 * [Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System)
 * [Accept Nano Payment Gateway (Self-hosted)](https://accept-nano.com)
 
