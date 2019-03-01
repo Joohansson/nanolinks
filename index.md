@@ -191,6 +191,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Mar 01: Pynanocurrency - Python protocol library](https://github.com/Matoking/pynanocurrency)
 * [Feb 25: Transaction Speed Demo Button](https://speed.nanolinks.info/)
 * [Feb 21: Reddit Tip Bot](https://github.com/danhitchcock/nano_tipper_z)
 * [Feb 20: Accept Nano Payment Gateway](https://accept-nano.com)
@@ -200,7 +201,6 @@ layout: default
 * [Feb 04: Elastum.io - EUR Gateway](https://elastum.io/)
 * [Feb 04: Exchange - Txbit](https://txbit.io/)
 * [Jan 28: Game: Player Killers Exchange](https://playerkillers.exchange)
-* [Jan 28: NanoStream - Transaction Visualizer](https://nanostream.eu/)
 
 </div>
 </div>
@@ -534,6 +534,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Python - RPC Client](https://github.com/dourvaris/nano-python)
 * [NanoPy - Functions and Tools](https://github.com/nano128/nanopy)
 * [Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
+* [Pynanocurrency - Python protocol library](https://github.com/Matoking/pynanocurrency)
 * [Nanio - RPC Gateway, API Browser](https://github.com/rbw/nanio)
 * [Nanook - Ruby Lib for RPC](https://github.com/lukes/nanook)
 * [Ruby Nano RPC - RPC Wrapper for Ruby](https://github.com/jcraigk/ruby_nano_rpc)
