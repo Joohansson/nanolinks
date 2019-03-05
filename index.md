@@ -191,6 +191,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Mar 05: Nano Pay - Crome payment extension](https://github.com/PaulBenabou/Nano-Pay)
 * [Mar 01: Pynanocurrency - Python protocol library](https://github.com/Matoking/pynanocurrency)
 * [Feb 25: Transaction Speed Demo Button](https://speed.nanolinks.info/)
 * [Feb 21: Reddit Tip Bot](https://github.com/danhitchcock/nano_tipper_z)
@@ -200,7 +201,6 @@ layout: default
 * [Feb 11: Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System)
 * [Feb 04: Elastum.io - EUR Gateway](https://elastum.io/)
 * [Feb 04: Exchange - Txbit](https://txbit.io/)
-* [Jan 28: Game: Player Killers Exchange](https://playerkillers.exchange)
 
 </div>
 </div>
@@ -433,6 +433,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nano Giftcard](https://jiikuy.github.io/nano-giftcard/)
 * [Nanogate - Giftcards](https://nanogate.io/)
 * [The Micrypto Marketplace - Hash Power Trading](https://www.micrypto.co)
+* [Nano Pay - Crome payment extension](https://github.com/PaulBenabou/Nano-Pay)
 
 ### Faucets (Free Nano)
 * [Nano-Faucet.org](https://nano-faucet.org/)
