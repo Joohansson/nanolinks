@@ -297,7 +297,6 @@ Learn everything there is to know about Nano!
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
 * [TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
 * [NanoStream - Transaction Visualizer](https://nanostream.eu/)
-* [Are We Decentralized Yet](https://arewedecentralizedyet.com/)
 * [Blocktivity - Utilization Comparision](https://blocktivity.info/)
 * [Nano Charts - Representative stats](https://nanocharts.info/)
 * [Nano SpeedTest - Test real nano transactions](https://nanospeed.live)
