@@ -31,6 +31,13 @@ layout: newslayout
 
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
+
+### Mar 2019
+* [NanoVault 1.1.3 Released: Official mirrors toggling, improved node status UI, nano_ prefix, and more!](https://www.reddit.com/r/nanocurrency/comments/aymim4/nanovault_113_released_official_mirrors_with_easy/)
+* [Arduino controlled by Nano Callback System](https://www.reddit.com/r/nanocurrency/comments/aygu4v/arduino_nanocallback/)
+* [Digital money is here: Introduction to Nano tipping services](https://www.reddit.com/r/nanocurrency/comments/awglq9/nano_digital_money_is_here/)
+* [Pynanocurrency - Python library for the Nano protocol](https://www.reddit.com/r/nanocurrency/comments/aw7bya/pynanocurrency_python_library_for_working_with/)
+
 ### Feb 2019
 * [Nano Foundation Adding a New Community Manager - Brian White](https://www.reddit.com/r/nanocurrency/comments/av4gz2/were_welcoming_another_community_manager_onto_the/)
 * [Reddit Tipbot Announcement](https://www.reddit.com/r/nanocurrency/comments/av7tbz/reddit_nano_tipbot_road_to_v10_12/)
@@ -168,6 +175,12 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Raiblocks.club (Nanode.co) Announced](https://www.reddit.com/r/RaiBlocks/comments/7n3qah/raiblocksclub_a_fun_block_explorer_with_live/)
 * [Colin LeMahieu, founder and lead developer of RaiBlocks, AMA - Ask your questions here!](https://www.reddit.com/r/RaiBlocks/comments/7ko5l7/colin_lemahieu_founder_and_lead_developer_of/)
 * [Colin, the lead developer of XRB goes full-time on XRB development](https://www.reddit.com/r/RaiBlocks/comments/7jch9q/colin_the_lead_developer_of_xrb_goes_fulltime_on/)
+
+### Jul 2017
+* [Introduction Of RaiBlocks (XRB)](http://ftreporter.com/cryptocurrency-review-introduction-of-raiblocks-xrb/)
+
+### Apr 2017
+* [Raiblocks: New Cryptocurrencies Based on Captcha Services](http://cryptoleet.com/raiblocks-new-cryptocurrencies-based-captcha-services/)
 
 ### Dec 2014
 * [Exclusive Interview with Raiblocks Team](https://bitcoinist.com/exclusive-interview-raiblocks-team/)
