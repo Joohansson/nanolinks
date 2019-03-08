@@ -182,6 +182,9 @@ Protocol, Exchanges, Wallets, Special projects, General news
 ### Apr 2017
 * [Raiblocks: New Cryptocurrencies Based on Captcha Services](http://cryptoleet.com/raiblocks-new-cryptocurrencies-based-captcha-services/)
 
+### Feb 2016
+* [Cryptocurrency's killer app: RaiBlocks micropayments](https://bitcointalk.org/index.php?topic=1381323.0)
+
 ### Dec 2014
 * [Exclusive Interview with Raiblocks Team](https://bitcoinist.com/exclusive-interview-raiblocks-team/)
 
