@@ -33,6 +33,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### Mar 2019
+* [Minnesota Cryptocurrency Q&A with Nano Founder Colin LeMahieu](https://www.reddit.com/r/nanocurrency/comments/aypsdt/minnesota_cryptocurrency_qa_with_nano_founder/)
+* [Introducing Natrium 2.0 - Available on the iOS App Store](https://www.reddit.com/r/nanocurrency/comments/ayrrh0/introducing_natrium_20_available_on_the_ios_app/)
 * [NanoVault 1.1.3 Released: Official mirrors toggling, improved node status UI, nano_ prefix, and more!](https://www.reddit.com/r/nanocurrency/comments/aymim4/nanovault_113_released_official_mirrors_with_easy/)
 * [Arduino controlled by Nano Callback System](https://www.reddit.com/r/nanocurrency/comments/aygu4v/arduino_nanocallback/)
 * [Digital money is here: Introduction to Nano tipping services](https://www.reddit.com/r/nanocurrency/comments/awglq9/nano_digital_money_is_here/)
