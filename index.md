@@ -191,6 +191,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Mar 13: Nanote.io - Send messages with nano](https://nanote.io/)
 * [Mar 05: Nano Pay - Crome payment extension](https://github.com/PaulBenabou/Nano-Pay)
 * [Mar 01: Pynanocurrency - Python protocol library](https://github.com/Matoking/pynanocurrency)
 * [Feb 25: Transaction Speed Demo Button](https://speed.nanolinks.info/)
@@ -200,7 +201,6 @@ layout: default
 * [Feb 12: Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
 * [Feb 11: Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System)
 * [Feb 04: Elastum.io - EUR Gateway](https://elastum.io/)
-* [Feb 04: Exchange - Txbit](https://txbit.io/)
 
 </div>
 </div>
@@ -503,6 +503,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanofy - File Signing](https://nanofy.org/)
 * [Nano Paywall - Pay to unlock wordpress content](https://github.com/nanoble-org/nano-paywall)
 * [247 Node - Free Nano Node Domain](https://247node.net/)
+* [Nanote.io - Send messages with nano](https://nanote.io/)
 
 ### Wallets [Source Code]
 * [Nano Wallet Company](https://github.com/nano-wallet-company)
