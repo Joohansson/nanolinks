@@ -266,7 +266,7 @@ Learn everything there is to know about Nano!
 * [Brainblocks](https://www.youtube.com/channel/UCToyZ7QLqVX9mHWPTM8MNwg)
 
 ### Interesting Videos [Not in channels above]
-* [Nano Speed Test](https://youtu.be/e7jLFroW_NE)
+* [Nano Speed Test](https://youtu.be/R6oxmQaiFJI)
 * [Colin LeMahieu Interview by The Crypto Lark Feb 18](https://youtu.be/hAy4GDV7tvQ)
 * [Colin LeMahieu Interview by DataDash Oct 18](https://youtu.be/eWdOkIev_xM)
 * [Everything you need to know about Nano](https://youtu.be/ywgMlJBli7g)
