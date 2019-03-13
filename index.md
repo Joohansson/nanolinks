@@ -148,7 +148,7 @@ layout: default
   <div class="help" id="help3">
     <ul>
       <li><a class="int-link" href="#network-stats-and-explorers">Network Stats and Explorers</a></li>
-      <li><a href="https://distributedpow.tk/">Distributed PoW System - Dashboard</a></li>
+      <li><a href="https://dpow.nanocenter.org/">Distributed PoW System - Dashboard</a></li>
     </ul>
   </div>
   
