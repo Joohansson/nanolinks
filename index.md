@@ -191,6 +191,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Mar 14: What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
 * [Mar 13: Nanote.io - Send messages with nano](https://nanote.io/)
 * [Mar 05: Nano Pay - Crome payment extension](https://github.com/PaulBenabou/Nano-Pay)
 * [Mar 01: Pynanocurrency - Python protocol library](https://github.com/Matoking/pynanocurrency)
@@ -200,7 +201,6 @@ layout: default
 * [Feb 19: Nanocrawler Nanovault Clone](https://vault.nanocrawler.cc/)
 * [Feb 12: Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
 * [Feb 11: Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System)
-* [Feb 04: Elastum.io - EUR Gateway](https://elastum.io/)
 
 </div>
 </div>
@@ -239,7 +239,7 @@ Learn everything there is to know about Nano!
 
 ### Education & Adoption
 * [Getting Started with Nano](https://gettingstarted.nanocenter.org/)
-* [What is Nano](https://www.tokendaily.co/blog/what-is-nano)
+* [What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
 * [Learn Nano](https://learnnano.com/)
 * [Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
 * [Third Generation Cryptocurrencies](https://hackernoon.com/why-third-generation-cryptocurrencies-are-game-changers-for-venezuela-cb8c9b016f9d)
