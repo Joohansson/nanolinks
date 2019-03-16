@@ -191,6 +191,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Mar 16: Nanovault #4 - Another backup clone](https://vault.nano-node.space/)
 * [Mar 16: Transaction Speed Demo - Mobile to Mobile](https://youtu.be/5K8rRISz4RU)
 * [Mar 14: What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
 * [Mar 13: Nanote.io - Send messages with nano](https://nanote.io/)
@@ -200,7 +201,6 @@ layout: default
 * [Feb 21: Reddit Tip Bot](https://github.com/danhitchcock/nano_tipper_z)
 * [Feb 20: Accept Nano Payment Gateway](https://accept-nano.com)
 * [Feb 19: Nanocrawler Nanovault Clone](https://vault.nanocrawler.cc/)
-* [Feb 12: Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
 
 </div>
 </div>
@@ -365,9 +365,10 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Canoe** - OSX,Win,Linux,iOS,Android,WinPhone](https://getcanoe.io/)
 * [**Nanowallet** - Web](https://nanowallet.io/)
 * [**Nanovault** - Web,Linux,Mac](https://nanovault.io/)
+* [**Ninjavault** - Web](https://vault.mynano.ninja/)
 * [**Nanovault #2** - Web](https://vault.nanocrawler.cc/)
 * [**Nanovault #3** - Web](https://vault.nifni.net)
-* [**Ninjavault** - Web](https://vault.mynano.ninja/)
+* [**Nanovault #4** - Web](https://vault.nano-node.space/)
 * [**Nanollet** - Windows,Linux,Darwin](https://github.com/brokenbydefault/Nanollet)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 * [**Natrium** - Android,iOS](https://natrium.io/)
