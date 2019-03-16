@@ -191,6 +191,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Mar 16: Transaction Speed Demo - Mobile to Mobile](https://youtu.be/5K8rRISz4RU)
 * [Mar 14: What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
 * [Mar 13: Nanote.io - Send messages with nano](https://nanote.io/)
 * [Mar 05: Nano Pay - Crome payment extension](https://github.com/PaulBenabou/Nano-Pay)
@@ -200,7 +201,6 @@ layout: default
 * [Feb 20: Accept Nano Payment Gateway](https://accept-nano.com)
 * [Feb 19: Nanocrawler Nanovault Clone](https://vault.nanocrawler.cc/)
 * [Feb 12: Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
-* [Feb 11: Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System)
 
 </div>
 </div>
@@ -266,7 +266,8 @@ Learn everything there is to know about Nano!
 * [Brainblocks](https://www.youtube.com/channel/UCToyZ7QLqVX9mHWPTM8MNwg)
 
 ### Interesting Videos [Not in channels above]
-* [Nano Speed Test](https://youtu.be/R6oxmQaiFJI)
+* [Transaction Speed Demo - Mobile to Mobile](https://youtu.be/5K8rRISz4RU)
+* [Transaction Speed Demo - Confirmation Node to Node](https://youtu.be/R6oxmQaiFJI)
 * [Colin LeMahieu Interview by The Crypto Lark Feb 18](https://youtu.be/hAy4GDV7tvQ)
 * [Colin LeMahieu Interview by DataDash Oct 18](https://youtu.be/eWdOkIev_xM)
 * [Everything you need to know about Nano](https://youtu.be/ywgMlJBli7g)
