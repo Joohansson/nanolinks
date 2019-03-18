@@ -2,15 +2,18 @@
 https://www.devbridge.com/sourcery/components/jquery-autocomplete
 */
 
-$(function () {
+$(document).ready(function() { 
     function resetButton() {
         $('#go-btn').attr('href', '/'); //reset link button
         $('#go-btn').css("pointer-events", "none");
     };
 
-    // Set search field to focus if not incoming request is a in-page link
+    // Set search field to focus if not incoming request is a in-page link. Only for large screens.
     if (location.hash == "") {
-        $('#autocomplete-dynamic').focus();
+        var isMobile = window.matchMedia("only screen and (max-width: 760px)").matches;
+        if (!isMobile) {
+            $('#autocomplete-dynamic').focus();
+        }
     }
 
     // Load all links into array
