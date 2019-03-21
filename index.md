@@ -361,8 +361,9 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [PayFair](https://payfair.io/)
 
 ### Wallets
-* [**Nano Wallet Company** - OSX,Win,Linux,iOS,Android](https://nanowalletcompany.com/)
+* [**Natrium** - Android,iOS](https://natrium.io/)
 * [**Canoe** - OSX,Win,Linux,iOS,Android,WinPhone](https://getcanoe.io/)
+* [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 * [**Nanowallet** - Web](https://nanowallet.io/)
 * [**Nanovault** - Web,Linux,Mac](https://nanovault.io/)
 * [**Ninjavault** - Web](https://vault.mynano.ninja/)
@@ -370,8 +371,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nanovault #3** - Web](https://vault.nifni.net)
 * [**Nanovault #4** - Web](https://vault.nano-node.space/)
 * [**Nanollet** - Windows,Linux,Darwin](https://github.com/brokenbydefault/Nanollet)
-* [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
-* [**Natrium** - Android,iOS](https://natrium.io/)
+* [**Nano Wallet Company** - OSX,Win,Linux,iOS,Android](https://nanowalletcompany.com/)
+
 
 #### Address Generators, Paper Wallets
 * [Nano Paper Wallet 1](https://vitorcremonez.github.io/nano-paper-wallet/)
@@ -508,13 +509,13 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanote.io - Send messages with nano](https://nanote.io/)
 
 ### Wallets [Source Code]
-* [Nano Wallet Company](https://github.com/nano-wallet-company)
+* [Natrium](https://github.com/BananoCoin/natrium-android-wallet)
 * [Canoe](https://github.com/getcanoe/canoe)
+* [Nano Wallet Company](https://github.com/nano-wallet-company)
 * [Nanowallet Source Code](https://github.com/jaimehgb/RaiWebWallet)
 * [Nanovault](https://github.com/cronoh/nanovault)
 * [Nanollet](https://github.com/brokenbydefault/Nanollet)
 * [Nanoblocks](https://github.com/nebyark/nano-blocks)
-* [Natrium](https://github.com/BananoCoin/natrium-android-wallet)
 * [Rain - Light Raiblocks Wallet](https://github.com/thehen101/Rain)
 * [Nano Light Wallet - NodeJS](https://github.com/NanoDevs/NanoLightWallet)
 * [Nano Light Wallet](https://github.com/numtel/open-nano-wallet)
