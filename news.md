@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### Mar 2019
+* [Nano Foundation Adding a New Community Manager - RockmSockmJesus](https://www.reddit.com/r/nanocurrency/comments/b4arwg/lets_welcome_urockmsockmjesus_to_the_community/)
 * [Nano transaction speed demo mobile to mobile with a comparison to email and SMS](https://www.reddit.com/r/nanocurrency/comments/b1l0xp/nano_transaction_speed_demo_mobile_to_mobile_with/)
 * [Minnesota Cryptocurrency Q&A with Nano Founder Colin LeMahieu](https://www.reddit.com/r/nanocurrency/comments/aypsdt/minnesota_cryptocurrency_qa_with_nano_founder/)
 * [Introducing Natrium 2.0 - Available on the iOS App Store](https://www.reddit.com/r/nanocurrency/comments/ayrrh0/introducing_natrium_20_available_on_the_ios_app/)
