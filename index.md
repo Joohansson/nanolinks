@@ -191,6 +191,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Mar 24: Bitvavo - European Gateway](https://bitvavo.com/en)
 * [Mar 16: Nanovault #4 - Another backup clone](https://vault.nano-node.space/)
 * [Mar 16: Transaction Speed Demo - Mobile to Mobile](https://youtu.be/5K8rRISz4RU)
 * [Mar 14: What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
@@ -200,7 +201,6 @@ layout: default
 * [Feb 25: Transaction Speed Demo Button](https://speed.nanolinks.info/)
 * [Feb 21: Reddit Tip Bot](https://github.com/danhitchcock/nano_tipper_z)
 * [Feb 20: Accept Nano Payment Gateway](https://accept-nano.com)
-* [Feb 19: Nanocrawler Nanovault Clone](https://vault.nanocrawler.cc/)
 
 </div>
 </div>
@@ -353,7 +353,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nanotrade.co.uk](https://nanotrade.co.uk/)
 * [SimpleSwap.io](https://simpleswap.io/)
 * [changeNOW.io](https://changenow.io/?to=nano)
-* [Elastum.io - EUR Gateway](https://elastum.io/)
+* [Elastum.io - European Gateway](https://elastum.io/)
+* [Bitvavo - European Gateway](https://bitvavo.com/en)
 
 #### Escrow and Peer-to-peer
 * [Localnano](https://www.localnano.com/)
