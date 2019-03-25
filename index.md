@@ -191,6 +191,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Mar 25: Paygenerator - Payment link generator (deep links)](https://nanotipbot.com/paygenerator)
 * [Mar 24: Bitvavo - European Gateway](https://bitvavo.com/en)
 * [Mar 16: Nanovault #4 - Another backup clone](https://vault.nano-node.space/)
 * [Mar 16: Transaction Speed Demo - Mobile to Mobile](https://youtu.be/5K8rRISz4RU)
@@ -200,7 +201,6 @@ layout: default
 * [Mar 01: Pynanocurrency - Python protocol library](https://github.com/Matoking/pynanocurrency)
 * [Feb 25: Transaction Speed Demo Button](https://speed.nanolinks.info/)
 * [Feb 21: Reddit Tip Bot](https://github.com/danhitchcock/nano_tipper_z)
-* [Feb 20: Accept Nano Payment Gateway](https://accept-nano.com)
 
 </div>
 </div>
@@ -508,6 +508,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Paywall - Pay to unlock wordpress content](https://github.com/nanoble-org/nano-paywall)
 * [247 Node - Free Nano Node Domain](https://247node.net/)
 * [Nanote.io - Send messages with nano](https://nanote.io/)
+* [Paygenerator - Payment link generator (deep links)](https://nanotipbot.com/paygenerator)
 
 ### Wallets [Source Code]
 * [Natrium](https://github.com/BananoCoin/natrium-android-wallet)
