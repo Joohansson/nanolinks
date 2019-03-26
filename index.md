@@ -292,7 +292,6 @@ Learn everything there is to know about Nano!
 * [Nanocrawler Backup](https://explorer.nano-node.space/)
 * [Nano-Faucet.org - Explorer, Stats, Map, Account list](https://nano-faucet.org/stats/)
 * [Repnode.org - Explorer, Stats, Reps, Network speed](https://repnode.org/)
-* [Nanowatch - Explorer, Graphic Visualizer](https://nanowat.ch/)
 * [My Nano Ninja - Representatives, Stats, Explorer](https://mynano.ninja/)
 * [NANOODLE - Explorer,  Fiat Tracker, Stat Charts, Account Alerting](https://nanoodle.io/live)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
