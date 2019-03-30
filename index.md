@@ -191,16 +191,16 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Mar 30: Nano Donate - Chrome donation extension](https://nanocharts.info/nano-donate.html)
 * [Mar 25: Paygenerator - Payment link generator (deep links)](https://nanotipbot.com/paygenerator)
 * [Mar 24: Bitvavo - European Gateway](https://bitvavo.com/en)
 * [Mar 16: Nanovault #4 - Another backup clone](https://vault.nano-node.space/)
 * [Mar 16: Transaction Speed Demo - Mobile to Mobile](https://youtu.be/5K8rRISz4RU)
 * [Mar 14: What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
 * [Mar 13: Nanote.io - Send messages with nano](https://nanote.io/)
-* [Mar 05: Nano Pay - Crome payment extension](https://github.com/PaulBenabou/Nano-Pay)
+* [Mar 05: Nano Pay - Chrome payment extension](https://github.com/PaulBenabou/Nano-Pay)
 * [Mar 01: Pynanocurrency - Python protocol library](https://github.com/Matoking/pynanocurrency)
 * [Feb 25: Transaction Speed Demo Button](https://speed.nanolinks.info/)
-* [Feb 21: Reddit Tip Bot](https://github.com/danhitchcock/nano_tipper_z)
 
 </div>
 </div>
@@ -435,7 +435,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nano Giftcard](https://jiikuy.github.io/nano-giftcard/)
 * [Nanogate - Giftcards](https://nanogate.io/)
 * [The Micrypto Marketplace - Hash Power Trading](https://www.micrypto.co)
-* [Nano Pay - Crome payment extension](https://github.com/PaulBenabou/Nano-Pay)
+* [Nano Pay - Chrome payment extension](https://github.com/PaulBenabou/Nano-Pay)
+* [Nano Donate - Chrome donation extension](https://nanocharts.info/nano-donate.html)
 
 ### Faucets (Free Nano)
 * [Nano-Faucet.org](https://nano-faucet.org/)
