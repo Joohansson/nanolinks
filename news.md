@@ -32,7 +32,11 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### Apr 2019
+* [Binance Adds NANO/USDT Trading Pair](https://www.reddit.com/r/nanocurrency/comments/b8gg4n/binance_adds_nanousdt_trading_pair_at_20190403/)
+
 ### Mar 2019
+* [Travala - Nano added as a native payment option](https://www.reddit.com/r/nanocurrency/comments/b71cwl/travala_nano_added_as_a_native_payment_option/)
 * [Nano Foundation Adding a New Community Manager - RockmSockmJesus](https://www.reddit.com/r/nanocurrency/comments/b4arwg/lets_welcome_urockmsockmjesus_to_the_community/)
 * [Nano transaction speed demo mobile to mobile with a comparison to email and SMS](https://www.reddit.com/r/nanocurrency/comments/b1l0xp/nano_transaction_speed_demo_mobile_to_mobile_with/)
 * [Minnesota Cryptocurrency Q&A with Nano Founder Colin LeMahieu](https://www.reddit.com/r/nanocurrency/comments/aypsdt/minnesota_cryptocurrency_qa_with_nano_founder/)
