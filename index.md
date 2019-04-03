@@ -250,6 +250,10 @@ Learn everything there is to know about Nano!
 * [Guide: How to secure your Nano](https://medium.com/@d84/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
 * [Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 * [Frequently Asked Questions and Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAQ)
+* [Nano How 1: Seeds and Keys](https://www.reddit.com/r/nanocurrency/comments/aoe0me/nano_how_1_seeds_and_keys/)
+* [Nano How 2: Blocks and Lattices](https://www.reddit.com/r/nanocurrency/comments/aqq6zm/nano_how_2_blocks_and_lattices/)
+* [Nano How 3: Light Wallets](https://www.reddit.com/r/nanocurrency/comments/atngbw/nano_how_3_light_wallets//)
+* [Nano How 4: Proof of Workhttps://www.reddit.com/r/nanocurrency/comments/ayqj8d/nano_how_4_proof_of_work/](https://www.reddit.com/r/nanocurrency/comments/ayqj8d/nano_how_4_proof_of_work/)
 
 #### Targeted Countries
 * [Nano Venezuela 1](https://nano.org.ve/)
