@@ -191,6 +191,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Apr 04: VANO - Light wallet browser extention](https://vano.app/)
 * [Mar 30: Nano Donate - Chrome donation extension](https://nanocharts.info/nano-donate.html)
 * [Mar 25: Paygenerator - Payment link generator (deep links)](https://nanotipbot.com/paygenerator)
 * [Mar 24: Bitvavo - European Gateway](https://bitvavo.com/en)
@@ -200,7 +201,6 @@ layout: default
 * [Mar 13: Nanote.io - Send messages with nano](https://nanote.io/)
 * [Mar 05: Nano Pay - Chrome payment extension](https://github.com/PaulBenabou/Nano-Pay)
 * [Mar 01: Pynanocurrency - Python protocol library](https://github.com/Matoking/pynanocurrency)
-* [Feb 25: Transaction Speed Demo Button](https://speed.nanolinks.info/)
 
 </div>
 </div>
@@ -367,15 +367,16 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 ### Wallets
 * [**Natrium** - Android,iOS](https://natrium.io/)
 * [**Canoe** - OSX,Win,Linux,iOS,Android,WinPhone](https://getcanoe.io/)
-* [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
-* [**Nanowallet** - Web](https://nanowallet.io/)
 * [**Nanovault** - Web,Linux,Mac](https://nanovault.io/)
 * [**Ninjavault** - Web](https://vault.mynano.ninja/)
 * [**Nanovault #2** - Web](https://vault.nanocrawler.cc/)
 * [**Nanovault #3** - Web](https://vault.nifni.net)
 * [**Nanovault #4** - Web](https://vault.nano-node.space/)
+* [**Nanowallet** - Web](https://nanowallet.io/)
 * [**Nanollet** - Windows,Linux,Darwin](https://github.com/brokenbydefault/Nanollet)
+* [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 * [**Nano Wallet Company** - OSX,Win,Linux,iOS,Android](https://nanowalletcompany.com/)
+* [**VANO** - Browser extention](https://vano.app/)
 
 
 #### Address Generators, Paper Wallets
