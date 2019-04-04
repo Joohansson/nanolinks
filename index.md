@@ -523,6 +523,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanovault](https://github.com/cronoh/nanovault)
 * [Nanollet](https://github.com/brokenbydefault/Nanollet)
 * [Nanoblocks](https://github.com/nebyark/nano-blocks)
+* [VANO - Light wallet browser extention](https://github.com/marekhoeven/VANO)
 * [Rain - Light Raiblocks Wallet](https://github.com/thehen101/Rain)
 * [Nano Light Wallet - NodeJS](https://github.com/NanoDevs/NanoLightWallet)
 * [Nano Light Wallet](https://github.com/numtel/open-nano-wallet)
