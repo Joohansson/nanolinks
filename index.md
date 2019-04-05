@@ -192,7 +192,7 @@ layout: default
 
 ## Latest Additions
 * [Apr 05: Informative Medium Articles - Nano Education](https://medium.com/nano-education)
-* [Apr 04: VANO - Light wallet browser extention](https://vano.app/)
+* [Apr 04: VANO - Light wallet browser extension](https://vano.app/)
 * [Mar 30: Nano Donate - Chrome donation extension](https://nanocharts.info/nano-donate.html)
 * [Mar 25: Paygenerator - Payment link generator (deep links)](https://nanotipbot.com/paygenerator)
 * [Mar 24: Bitvavo - European Gateway](https://bitvavo.com/en)
@@ -520,7 +520,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanovault](https://github.com/cronoh/nanovault)
 * [Nanollet](https://github.com/brokenbydefault/Nanollet)
 * [Nanoblocks](https://github.com/nebyark/nano-blocks)
-* [VANO - Light wallet browser extention](https://github.com/marekhoeven/VANO)
+* [VANO - Light wallet browser extension](https://github.com/marekhoeven/VANO)
 * [Rain - Light Raiblocks Wallet](https://github.com/thehen101/Rain)
 * [Nano Light Wallet - NodeJS](https://github.com/NanoDevs/NanoLightWallet)
 * [Nano Light Wallet](https://github.com/numtel/open-nano-wallet)
