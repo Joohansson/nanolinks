@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### Apr 2019
+* [Introducing VANO: a NANO light-wallet browser extension for Chrome/Brave/Firefox](https://www.reddit.com/r/nanocurrency/comments/b91ihf/introducing_vano_a_nano_lightwallet_browser/)
 * [Binance Adds NANO/USDT Trading Pair](https://www.reddit.com/r/nanocurrency/comments/b8gg4n/binance_adds_nanousdt_trading_pair_at_20190403/)
 
 ### Mar 2019
