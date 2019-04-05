@@ -191,6 +191,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Apr 05: Informative Medium Articles - Nano Education](https://medium.com/nano-education)
 * [Apr 04: VANO - Light wallet browser extention](https://vano.app/)
 * [Mar 30: Nano Donate - Chrome donation extension](https://nanocharts.info/nano-donate.html)
 * [Mar 25: Paygenerator - Payment link generator (deep links)](https://nanotipbot.com/paygenerator)
@@ -200,7 +201,6 @@ layout: default
 * [Mar 14: What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
 * [Mar 13: Nanote.io - Send messages with nano](https://nanote.io/)
 * [Mar 05: Nano Pay - Chrome payment extension](https://github.com/PaulBenabou/Nano-Pay)
-* [Mar 01: Pynanocurrency - Python protocol library](https://github.com/Matoking/pynanocurrency)
 
 </div>
 </div>
@@ -244,16 +244,13 @@ Learn everything there is to know about Nano!
 * [Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
 * [Third Generation Cryptocurrencies](https://hackernoon.com/why-third-generation-cryptocurrencies-are-game-changers-for-venezuela-cb8c9b016f9d)
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
+* [Informative Medium Articles - Nano Education](https://medium.com/nano-education)
 * [Informative Medium Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
 * [Informative Medium Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 * [Informative Medium Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
 * [Guide: How to secure your Nano](https://medium.com/@d84/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
 * [Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 * [Frequently Asked Questions and Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAQ)
-* [Nano How 1: Seeds and Keys](https://www.reddit.com/r/nanocurrency/comments/aoe0me/nano_how_1_seeds_and_keys/)
-* [Nano How 2: Blocks and Lattices](https://www.reddit.com/r/nanocurrency/comments/aqq6zm/nano_how_2_blocks_and_lattices/)
-* [Nano How 3: Light Wallets](https://www.reddit.com/r/nanocurrency/comments/atngbw/nano_how_3_light_wallets/)
-* [Nano How 4: Proof of Work](https://www.reddit.com/r/nanocurrency/comments/ayqj8d/nano_how_4_proof_of_work/)
 
 #### Targeted Countries
 * [Nano Venezuela 1](https://nano.org.ve/)
