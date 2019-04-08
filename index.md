@@ -191,6 +191,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Apr 08: Nano Gift - Gift Card and Paper Wallet Generator](https://nanogift.me)
 * [Apr 05: Informative Medium Articles - Nano Education](https://medium.com/nano-education)
 * [Apr 04: VANO - Light wallet browser extension](https://vano.app/)
 * [Mar 30: Nano Donate - Chrome donation extension](https://nanocharts.info/nano-donate.html)
@@ -200,7 +201,6 @@ layout: default
 * [Mar 16: Transaction Speed Demo - Mobile to Mobile](https://youtu.be/5K8rRISz4RU)
 * [Mar 14: What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
 * [Mar 13: Nanote.io - Send messages with nano](https://nanote.io/)
-* [Mar 05: Nano Pay - Chrome payment extension](https://github.com/PaulBenabou/Nano-Pay)
 
 </div>
 </div>
@@ -434,6 +434,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nanotify - Account Notifications](https://nanotify.co/)
 * [Nanotifier - Account Notifications](https://nanotifier.com/)
 * [Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
+* [Nano Gift - Gift Card and Paper Wallet Generator](https://nanogift.me)
 * [Nano Giftcard](https://jiikuy.github.io/nano-giftcard/)
 * [Nanogate - Giftcards](https://nanogate.io/)
 * [The Micrypto Marketplace - Hash Power Trading](https://www.micrypto.co)
