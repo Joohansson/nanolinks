@@ -377,11 +377,11 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 
 #### Address Generators, Paper Wallets
-* [Nano Paper Wallet 1](https://vitorcremonez.github.io/nano-paper-wallet/)
-* [Nano Paper Wallet 2](https://jelofsson.github.io/nano-paper-wallet/)
+* [Nano Paper Wallet](https://nanopaperwallet.com/)
+* [Nano Gift - Gift Card and Paper Wallet Generator](https://nanogift.me)
 * [RaiPaper](https://blootoon.github.io/rai-paper/)
 * [Rai Paper Wallet](https://numtel.github.io/rai-paper-wallet/)
-* [NanoWarpWallet](https://termhn.github.io/nanowarpwallet/)
+* [Nano Warp Wallet](https://termhn.github.io/nanowarpwallet/)
 * [Dropil - Graphical Templates](https://paper.dropil.com)
 
 ### Hardware Wallets and Nodes
@@ -435,7 +435,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nanotifier - Account Notifications](https://nanotifier.com/)
 * [Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
 * [Nano Gift - Gift Card and Paper Wallet Generator](https://nanogift.me)
-* [Nano Giftcard](https://jiikuy.github.io/nano-giftcard/)
 * [Nanogate - Giftcards](https://nanogate.io/)
 * [The Micrypto Marketplace - Hash Power Trading](https://www.micrypto.co)
 * [Nano Pay - Chrome payment extension](https://github.com/PaulBenabou/Nano-Pay)
@@ -525,6 +524,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Rain - Light Raiblocks Wallet](https://github.com/thehen101/Rain)
 * [Nano Light Wallet - NodeJS](https://github.com/NanoDevs/NanoLightWallet)
 * [Nano Light Wallet](https://github.com/numtel/open-nano-wallet)
+* [Nano Gift - Gift Card and Paper Wallet](https://github.com/Joohansson/nanogift)
 * [Nano Paper Wallet 1](https://github.com/vitorcremonez/nano-paper-wallet)
 * [Nano Paper Wallet 2](https://github.com/jelofsson/nano-paper-wallet)
 
