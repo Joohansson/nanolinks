@@ -666,7 +666,7 @@ Maintaining this content requires some effort. If you want to contribute to this
 	<br/>
 	<figcaption class="subtext">
 		nano_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo<br/>
-		<a href="xrb:xrb_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo">Wallet Quick Link</a>
+		<a href="nano:nano_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo">Wallet Quick Link</a>
 	</figcaption>
 </figure>
 
