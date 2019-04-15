@@ -123,6 +123,7 @@ layout: default
     <option value="2">Buy or Trade Nano</option>
     <option value="3">Track Transactions or check Stats</option>
     <option value="4">Accept Nano in a Shop</option>
+    <option value="8">Purchase products with Nano</option>
     <option value="5">Set up a Node or Representative</option>
     <option value="6">Participate in the Beta Network</option>
     <option value="7">Join our Community</option>
@@ -133,6 +134,7 @@ layout: default
       <li><a class="int-link" href="#wallets">Wallets</a></li>
       <li><a class="int-link" href="#faucets-free-nano">Faucets (Free nano)</a></li>
       <li><a href="https://youtu.be/qSsIXy-NimE">Video Guide: Get Free Nano and Share with Anyone</a></li>
+      <li><a href="https://youtu.be/5K8rRISz4RU">Video Demo: Transaction speed mobile to mobile</a></li>
     </ul>
   </div>
   
@@ -184,6 +186,12 @@ layout: default
       <li><a class="int-link" href="#core-social-media--contribution-channels">Social Media Channels</a></li>
       <li><a class="int-link" href="#project-specific-development-channels">Development Channels</a></li>
       <li><a href="https://nanocenter.org/">The Nano Center</a></li>
+    </ul>
+  </div>
+  
+  <div class="help" id="help8">
+    <ul>
+      <li><a href="https://usenano.org/">Use Nano - Merchant Directory</a></li>
     </ul>
   </div>
 </div>
@@ -262,7 +270,6 @@ Learn everything there is to know about Nano!
 * [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
 * [NanoCast](https://www.youtube.com/channel/UC_KCdNCWQcb5Z4vsPBY18yQ)
 * [The Nano Center](https://www.youtube.com/channel/UCwB_g6LBPGv_anMhywH4BWA)
-* [Nano Blackbox](https://www.youtube.com/channel/UCehRwOEJsNb_0c6CwVSmCxw)
 * [Jolt Wallet](https://www.youtube.com/channel/UCLfilzzY4NmwNjWtEIibdkA)
 * [Brainblocks](https://www.youtube.com/channel/UCToyZ7QLqVX9mHWPTM8MNwg)
 
@@ -315,9 +322,6 @@ Learn everything there is to know about Nano!
 Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 ### Exchanges
-#### Dedicated for Nano
-* [Nanex.co](https://nanex.co/)
-* [Brainex.io (Not Launched)](https://www.brainex.io/)
 
 #### Multiple cryptos
 * [Binance](https://www.binance.com)
@@ -389,7 +393,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Ledger Nano - Text Guide](http://blog.nanovault.io/guides/use-your-ledger-device-with-nanovault/)
 * [Ledger Nano - Video Guide](https://youtu.be/OoTfRjXsxNk)
 * [Jolt](https://www.joltwallet.com/)
-* [Brainblocks Pod - Hardware Node](https://nexus.brainblocks.io/store/brainblocks-pods)
 
 ### Related Mobile Apps
 * [Nano Track - Nano Ticker](https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8)
@@ -428,11 +431,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Reddit Tip Bot - Donation service](https://github.com/danhitchcock/nano_tipper_z)
 * [NanoTwitch - Gaming donation service](https://nanotwit.ch/)
 * [UseNano - Merchant Directory](https://usenano.org/)
-* [Nexus - Marketplace](https://nexus.brainblocks.io/)
-* [Nanobox - Marketplace](https://nanobox.es/)
 * [Eutrino - Ebay with Nano](https://eutrino.com/)
-* [Nanotify - Account Notifications](https://nanotify.co/)
-* [Nanotifier - Account Notifications](https://nanotifier.com/)
 * [Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
 * [Nano Gift - Gift Card and Paper Wallet Generator](https://nanogift.me)
 * [Nanogate - Giftcards](https://nanogate.io/)
@@ -452,7 +451,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 ### Point of Sale
 * [Brainblocks Web PoS](https://pos.brainblocks.io/)
-* [Nano Blackbox - PoS Software](https://www.nanoblackbox.net/)
 * [Paytomat - Payment Service. Terminal, Web, QR, Fiat gateway](https://paytomat.com/)
 
 </div>
@@ -480,7 +478,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Discord: Nanoblocks Wallet](https://discord.gg/n76DkEt)
 * [Discord: My Nano Ninja](https://discord.me/nanonodeninja)
 * [Discord: Brainblocks](https://discord.gg/MwaQcVM)
-* [Reddit: Nanex](https://www.reddit.com/r/nanex/)
 * [Reddit: Jolt Wallet](https://www.reddit.com/r/joltwallet)
 * [Reddit: Nano Tipper Z (Reddit Tip bot)](https://www.reddit.com/r/nano_tipper)
 
