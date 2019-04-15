@@ -191,6 +191,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Apr 15: Mynano.link - Payment link generator](https://mynano.link/)
 * [Apr 08: Nano Gift - Gift Card and Paper Wallet Generator](https://nanogift.me)
 * [Apr 05: Informative Medium Articles - Nano Education](https://medium.com/nano-education)
 * [Apr 04: VANO - Light wallet browser extension](https://vano.app/)
@@ -200,7 +201,6 @@ layout: default
 * [Mar 16: Nanovault #4 - Another backup clone](https://vault.nano-node.space/)
 * [Mar 16: Transaction Speed Demo - Mobile to Mobile](https://youtu.be/5K8rRISz4RU)
 * [Mar 14: What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
-* [Mar 13: Nanote.io - Send messages with nano](https://nanote.io/)
 
 </div>
 </div>
@@ -439,6 +439,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [The Micrypto Marketplace - Hash Power Trading](https://www.micrypto.co)
 * [Nano Pay - Chrome payment extension](https://github.com/PaulBenabou/Nano-Pay)
 * [Nano Donate - Chrome donation extension](https://nanocharts.info/nano-donate.html)
+* [Mynano.link - Payment link generator](https://mynano.link/)
 
 ### Faucets (Free Nano)
 * [Nano-Faucet.org](https://nano-faucet.org/)
@@ -666,7 +667,7 @@ Maintaining this content requires some effort. If you want to contribute to this
 	<br/>
 	<figcaption class="subtext">
 		nano_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo<br/>
-		<a href="nano:nano_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo">Wallet Quick Link</a>
+		<a href="nano:nano_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo">Open in Wallet</a>
 	</figcaption>
 </figure>
 
