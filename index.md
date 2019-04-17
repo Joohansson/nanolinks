@@ -234,8 +234,8 @@ Learn everything there is to know about Nano!
 
 ### Core Social Media & Contribution Channels
 * [Reddit](https://www.reddit.com/r/nanocurrency/)
-* [Discord: Main](https://discordapp.com/invite/JphbBas)
-* [Discord: The Nano Center](https://discord.gg/yhBuXMm)
+* [Discord: Nano Main (Info, Support, Integrations, News)](https://discordapp.com/invite/JphbBas)
+* [Discord: The Nano Center (Community projects, Trade talk, Gaming](https://discord.gg/yhBuXMm)
 * [Twitter](https://twitter.com/nano)
 * [Facebook](https://www.facebook.com/nanofoundation/)
 * [LinkedIn](https://www.linkedin.com/company/nano-foundation/)
