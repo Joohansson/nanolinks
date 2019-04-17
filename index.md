@@ -199,6 +199,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Apr 17: Nano Guide - Getting started](http://nano-guide.com/)
+* [Apr 17: HelpNano - Guide for how to help the Nano ecosystem](https://helpnano.org/)
 * [Apr 15: Mynano.link - Payment link generator](https://mynano.link/)
 * [Apr 08: Nano Gift - Gift Card and Paper Wallet Generator](https://nanogift.me)
 * [Apr 05: Informative Medium Articles - Nano Education](https://medium.com/nano-education)
@@ -207,8 +209,6 @@ layout: default
 * [Mar 25: Paygenerator - Payment link generator (deep links)](https://nanotipbot.com/paygenerator)
 * [Mar 24: Bitvavo - European Gateway](https://bitvavo.com/en)
 * [Mar 16: Nanovault #4 - Another backup clone](https://vault.nano-node.space/)
-* [Mar 16: Transaction Speed Demo - Mobile to Mobile](https://youtu.be/5K8rRISz4RU)
-* [Mar 14: What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
 
 </div>
 </div>
@@ -246,7 +246,8 @@ Learn everything there is to know about Nano!
 * [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
 
 ### Education & Adoption
-* [Getting Started with Nano](https://gettingstarted.nanocenter.org/)
+* [Nano Guide - Getting started](http://nano-guide.com/)
+* [Nano Guide 2 - Getting Started](https://gettingstarted.nanocenter.org/)
 * [What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
 * [Learn Nano](https://learnnano.com/)
 * [Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
@@ -259,6 +260,7 @@ Learn everything there is to know about Nano!
 * [Guide: How to secure your Nano](https://medium.com/@d84/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
 * [Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 * [Frequently Asked Questions and Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAQ)
+* [HelpNano - Guide for how to help the Nano ecosystem](https://helpnano.org/)
 
 #### Targeted Countries
 * [Nano Venezuela 1](https://nano.org.ve/)
