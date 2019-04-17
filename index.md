@@ -503,7 +503,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
 * [Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 * [Nanoodle - Account Toolbox](https://nanoodle.io/home)
-* [Stylish QR Code Guide](https://www.reddit.com/r/nanocurrency/comments/8ym9cr/stylish_nano_qr_code_generator/)
+* [Stylish QR Code Guide](https://medium.com/@d84/how-to-create-a-stylish-nano-qr-code-1bfc1eba5a96)
 * [Custom QR Generator](http://nanosign.org)
 * [Nanofy - File Signing](https://nanofy.org/)
 * [Nano Paywall - Pay to unlock wordpress content](https://github.com/nanoble-org/nano-paywall)
