@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Apr 18: Donano - Crowdfunding for Creators](https://www.donano.to)
 * [Apr 18: Nanopurse - Payment Service with Privacy](https://nanopurse.com/)
 * [Apr 17: Nano Guide - Getting started](http://nano-guide.com/)
 * [Apr 17: HelpNano - Guide for how to help the Nano ecosystem](https://helpnano.org/)
@@ -208,7 +209,6 @@ layout: default
 * [Apr 04: VANO - Light wallet browser extension](https://vano.app/)
 * [Mar 30: Nano Donate - Chrome donation extension](https://nanocharts.info/nano-donate.html)
 * [Mar 25: Paygenerator - Payment link generator (deep links)](https://nanotipbot.com/paygenerator)
-* [Mar 24: Bitvavo - European Gateway](https://bitvavo.com/en)
 
 </div>
 </div>
@@ -423,7 +423,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
 * [CoinGate - Nano Payment Service & Gateway](https://coingate.com/)
 * [Brainblocks - Nano Payment Service](https://brainblocks.io/)
-* [ArrowPay - Nano Payment Service](https://arrowpay.io/)
 * [KitePay - Nano Payment Service](https://kitepay.io/)
 * [Wordpress Plugin - Nano, IOTA, XLM, XRP, SEPA Payment Service](https://wordpress.org/plugins/bitvolo-trustless-crypto-payment-gateway/)
 * [NanoCashier - Nano Payment Service](https://nanocashier.com/)
@@ -609,10 +608,10 @@ There are much fun to do but please proceed with caution.
 * [Nano Wallpapers](https://www.nano-wallpapers.com/)
 
 ## Services
-Digital or physical places which accepts Nano
-### Online
+Digital or physical services which accepts Nano
 * [Put.io - File Serving](https://put.io)
 * [Wall of Nano](https://wallofnano.com/)
+* [Donano - Crowdfunding for Creators](https://www.donano.to)
 
 </div>
 </div>
