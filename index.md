@@ -244,6 +244,8 @@ Learn everything there is to know about Nano!
 
 ### Scientific Papers
 * [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
+* [Scalability of the Bitcoin and Nano
+protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTEXT02.pdf)
 
 ### Education & Adoption
 * [Nano Guide - Getting started](http://nano-guide.com/)
