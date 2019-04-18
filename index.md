@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Apr 18: Nanopurse - Payment Service with Privacy](https://nanopurse.com/)
 * [Apr 17: Nano Guide - Getting started](http://nano-guide.com/)
 * [Apr 17: HelpNano - Guide for how to help the Nano ecosystem](https://helpnano.org/)
 * [Apr 15: Mynano.link - Payment link generator](https://mynano.link/)
@@ -208,7 +209,6 @@ layout: default
 * [Mar 30: Nano Donate - Chrome donation extension](https://nanocharts.info/nano-donate.html)
 * [Mar 25: Paygenerator - Payment link generator (deep links)](https://nanotipbot.com/paygenerator)
 * [Mar 24: Bitvavo - European Gateway](https://bitvavo.com/en)
-* [Mar 16: Nanovault #4 - Another backup clone](https://vault.nano-node.space/)
 
 </div>
 </div>
@@ -428,6 +428,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Bitback - Payment Service, Address book](https://bitback.me/)
 * [NanoMate - Nano Send Service](https://nanomate.co/)
 * [Nanote - Hosted Payment Forms](https://nanote.net/)
+* [Nanopurse - Payment Service with Privacy](https://nanopurse.com/)
 * [Twitter Tip Bot - Donation service](https://nanotipbot.com/)
 * [Reddit Tip Bot - Donation service](https://github.com/danhitchcock/nano_tipper_z)
 * [NanoTwitch - Gaming donation service](https://nanotwit.ch/)
