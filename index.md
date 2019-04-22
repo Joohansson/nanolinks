@@ -375,7 +375,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Ninjavault** - Web](https://vault.mynano.ninja/)
 * [**Nanovault #2** - Web](https://vault.nanocrawler.cc/)
 * [**Nanovault #3** - Web](https://vault.nifni.net)
-* [**Nanovault #4** - Web](https://vault.nano-node.space/)
 * [**Nanowallet** - Web](https://nanowallet.io/)
 * [**Nanollet** - Windows,Linux,Darwin](https://github.com/brokenbydefault/Nanollet)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
