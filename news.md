@@ -34,6 +34,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### Apr 2019
 * [Mynano.ninja launches Public Node RPC API for Developers](https://www.reddit.com/r/nanocurrency/comments/bezudz/public_node_rpc_for_developers/)
+* [Natrium 2.0 now in both iOS and Android store](https://www.reddit.com/r/nanocurrency/comments/bfclsg/natriums_next_big_update_released_on_android_and/)
 * [Launching Donano: Patreon Like Crowdfunding Service](https://www.reddit.com/r/nanocurrency/comments/bemra9/launching_donanoto_patreon_like_site_powered_by/)
 * [Introducing Nanopurse: A payment service with privacy](https://www.reddit.com/r/nanocurrency/comments/beexp9/nanopursecom_a_privacy_service_for_nano/)
 * [Introducing VANO: A NANO light-wallet browser extension for Chrome/Brave/Firefox](https://www.reddit.com/r/nanocurrency/comments/b91ihf/introducing_vano_a_nano_lightwallet_browser/)
