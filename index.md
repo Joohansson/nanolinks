@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Apr 24: SomeNano - Wordpress paywall plugin](https://wordpress.org/plugins/somenano/)
 * [Apr 20: 4 new tools at the bottom of the protocol section](#protocol-rpc-libraries-tools-servers)
 * [Apr 20: Public API for Node RPC Calls](https://mynano.ninja/api)
 * [Apr 18: Donano - Crowdfunding for Creators](https://www.donano.to)
@@ -208,7 +209,6 @@ layout: default
 * [Apr 15: Mynano.link - Payment link generator](https://mynano.link/)
 * [Apr 08: Nano Gift - Gift Card and Paper Wallet Generator](https://nanogift.me)
 * [Apr 05: Informative Medium Articles - Nano Education](https://medium.com/nano-education)
-* [Apr 04: VANO - Light wallet browser extension](https://vano.app/)
 
 </div>
 </div>
@@ -424,6 +424,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Brainblocks - Nano Payment Service](https://brainblocks.io/)
 * [KitePay - Nano Payment Service](https://kitepay.io/)
 * [Wordpress Plugin - Nano, IOTA, XLM, XRP, SEPA Payment Service](https://wordpress.org/plugins/bitvolo-trustless-crypto-payment-gateway/)
+* [SomeNano - Wordpress paywall plugin](https://wordpress.org/plugins/somenano/)
 * [NanoCashier - Nano Payment Service](https://nanocashier.com/)
 * [Bitback - Payment Service, Address book](https://bitback.me/)
 * [NanoMate - Nano Send Service](https://nanomate.co/)
