@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### Apr 2019
+* [New Release: Accept Nano Payments on Wordpress](https://www.reddit.com/r/nanocurrency/comments/bgmukd/new_release_accept_nano_payments_on_wordpress/)
 * [Mynano.ninja launches Public Node RPC API for Developers](https://www.reddit.com/r/nanocurrency/comments/bezudz/public_node_rpc_for_developers/)
 * [Natrium 2.0 now in both iOS and Android store](https://www.reddit.com/r/nanocurrency/comments/bfclsg/natriums_next_big_update_released_on_android_and/)
 * [Launching Donano: Patreon Like Crowdfunding Service](https://www.reddit.com/r/nanocurrency/comments/bemra9/launching_donanoto_patreon_like_site_powered_by/)
