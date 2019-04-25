@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Apr 25: Nano Seed - A Nano take on keys.lol](https://nano-seeds.meltingice.dev/)
 * [Apr 24: SomeNano - Wordpress paywall plugin](https://wordpress.org/plugins/somenano/)
 * [Apr 20: 4 new tools at the bottom of the protocol section](#protocol-rpc-libraries-tools-servers)
 * [Apr 20: Public API for Node RPC Calls](https://mynano.ninja/api)
@@ -208,7 +209,6 @@ layout: default
 * [Apr 17: HelpNano - Guide for how to help the Nano ecosystem](https://helpnano.org/)
 * [Apr 15: Mynano.link - Payment link generator](https://mynano.link/)
 * [Apr 08: Nano Gift - Gift Card and Paper Wallet Generator](https://nanogift.me)
-* [Apr 05: Informative Medium Articles - Nano Education](https://medium.com/nano-education)
 
 </div>
 </div>
@@ -512,6 +512,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [247 Node - Free Nano Node Domain](https://247node.net/)
 * [Nanote.io - Send messages with nano](https://nanote.io/)
 * [Paygenerator - Payment link generator (deep links)](https://nanotipbot.com/paygenerator)
+* [Nano Seed - A Nano take on keys.lol](https://nano-seeds.meltingice.dev/)
 
 ### Wallets [Source Code]
 * [Natrium](https://github.com/BananoCoin/natrium-android-wallet)
