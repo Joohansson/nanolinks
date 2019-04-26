@@ -292,6 +292,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Guide: How to setup a Nano node](https://youtu.be/k1RlrlaKOCg)
 * [Guide: Get Free Nano and Share with Anyone with Zero Fees](https://youtu.be/qSsIXy-NimE)
 * [Guide: How to buy NANO with Coinbase and Binance](https://youtu.be/FE5yUT4-UYk)
+* [NanoBrewed - Beer dispensing for nano](https://youtu.be/UfLqHz5Ls-g)
 
 ### Video Advertisement
 * [Nano The Future of Money](https://youtu.be/lw-rpO0jqYQ)
