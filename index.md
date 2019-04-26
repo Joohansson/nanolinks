@@ -300,10 +300,9 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Nano is Green](https://youtu.be/JChBTohSHlM)
 
 ### Network Stats and Explorers
-* [Nanode.co - Explorer, Stats](https://www.nanode.co/)
 * [NanoCrawler.cc - Explorer, Stats, Account list](https://nanocrawler.cc/)
-* [Nanocrawler Backup](https://explorer.nano-node.space/)
-* [Nano-Faucet.org - Explorer, Stats, Map, Account list](https://nano-faucet.org/stats/)
+* [Nanode.co - Explorer, Stats](https://www.nanode.co/)
+* [Nano-Faucet.org - Explorer, Stats, Visualizer, Map, Account list](https://nano-faucet.org/visualizer/)
 * [Repnode.org - Explorer, Stats, Reps, Network speed](https://repnode.org/)
 * [My Nano Ninja - Representatives, Stats, Explorer](https://mynano.ninja/)
 * [NANOODLE - Explorer,  Fiat Tracker, Stat Charts, Account Alerting](https://nanoodle.io/live)
