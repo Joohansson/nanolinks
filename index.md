@@ -338,7 +338,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Cryptowolf](https://cryptowolf.eu/)
 * [RightBTC](https://www.rightbtc.com)
 * [Bit-Z](https://www.bit-z.com/)
-* [LBX](https://lbx.com)
 * [Coindeal](https://coindeal.com/)
 * [Gate.io](https://gate.io/)
 * [Koinex](https://koinex.in/)
