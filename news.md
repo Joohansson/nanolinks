@@ -213,8 +213,11 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Cryptocurrency's killer app: RaiBlocks micropayments](https://bitcointalk.org/index.php?topic=1381323.0)
 
 ### Oct 2015
-* [Colin Showing Raiblocks to r/CC - 1 Upvote](https://www.reddit.com/r/CryptoCurrency/comments/3oswmo/raiblocks_unique_cryptocurrency_with_limitless/)
+* [Colin Pushing Raiblocks on r/CC - 1 Upvote](https://www.reddit.com/r/CryptoCurrency/comments/3oswmo/raiblocks_unique_cryptocurrency_with_limitless/)
 * [Colin Showing Raiblocks to Bitcointalk](https://bitcointalk.org/index.php?topic=1219264.0)
+
+### Jan 2015
+* [Coling Showing Raiblocks to r/altcoin - 5 Upvotes](https://www.reddit.com/r/altcoin/comments/2sujgx/raiblocks_with_block_lattice_technology/)
 
 ### Dec 2014
 * [Exclusive Interview with Raiblocks Team](https://bitcoinist.com/exclusive-interview-raiblocks-team/)
