@@ -188,12 +188,17 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Rai.watch (Nanowat.ch) Announced](https://www.reddit.com/r/RaiBlocks/comments/7qe5a8/watch_the_raiblocks_network_grow_in_real_time/)
 
 ### Dec 2017
+* [Colin sends his first Raiblocks to a mobile wallet](https://www.reddit.com/r/RaiBlocks/comments/7l1cyl/yesterday_colin_sent_the_first_payment_to_a/)
 * [Raiblocks.club (Nanode.co) Announced](https://www.reddit.com/r/RaiBlocks/comments/7n3qah/raiblocksclub_a_fun_block_explorer_with_live/)
 * [Colin LeMahieu, founder and lead developer of RaiBlocks, AMA - Ask your questions here!](https://www.reddit.com/r/RaiBlocks/comments/7ko5l7/colin_lemahieu_founder_and_lead_developer_of/)
 * [Colin, the lead developer of XRB goes full-time on XRB development](https://www.reddit.com/r/RaiBlocks/comments/7jch9q/colin_the_lead_developer_of_xrb_goes_fulltime_on/)
 
 ### Oct 2017
 * [Undistributed 205,676,479 Raiblocks burned!](https://www.youtube.com/watch?v=jwR-CXNafLs)
+* [Colin Announces End Of Faucet Period](https://www.reddit.com/r/RaiBlocks/comments/76lhf6/ending_raiblocks_distribution/)
+
+### Sep 2017
+* [Colin Pushes Raiblocks - 62 Upvotes](https://www.reddit.com/r/CryptoCurrency/comments/70wy52/im_colin_lemahieu_the_developer_of_raiblocks_a/)
 
 ### Jul 2017
 * [Introduction Of RaiBlocks (XRB)](http://ftreporter.com/cryptocurrency-review-introduction-of-raiblocks-xrb/)
@@ -201,10 +206,17 @@ Protocol, Exchanges, Wallets, Special projects, General news
 ### Apr 2017
 * [Raiblocks: New Cryptocurrencies Based on Captcha Services](http://cryptoleet.com/raiblocks-new-cryptocurrencies-based-captcha-services/)
 
+### Mar 2016
+* [Colin's first post in r/Raiblocks](https://www.reddit.com/r/RaiBlocks/comments/4952r8/raiblocks_official_site/)
+
 ### Feb 2016
 * [Cryptocurrency's killer app: RaiBlocks micropayments](https://bitcointalk.org/index.php?topic=1381323.0)
 
+### Oct 2015
+* [Colin Pushes Raiblocks - 1 Upvote](https://www.reddit.com/r/CryptoCurrency/comments/3oswmo/raiblocks_unique_cryptocurrency_with_limitless/)
+
 ### Dec 2014
+* [Colin Announces Raiblocks - 0 Upvotes](https://www.reddit.com/r/CryptoCurrency/comments/2p6utv/raiblocks_unique_cryptocurrency/)
 * [Exclusive Interview with Raiblocks Team](https://bitcoinist.com/exclusive-interview-raiblocks-team/)
 
 </div>
