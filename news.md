@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### Apr 2019
+* [Nanostream.eu, a live visualization of the Nano Blocklattice](https://www.reddit.com/r/nanocurrency/comments/bigxfr/announcement_nanostreameu_a_live_visualization_of/)
 * [Node v19RC1, Solidus hitting beta](https://www.reddit.com/r/nanocurrency/comments/bhy3i2/solidus_getting_closer_v190rc1_on_beta_network/)
 * [Presenting Nano Network-Block Visualizer](https://www.reddit.com/r/nanocurrency/comments/bhqb2k/presenting_nano_networkblock_visualizer/)
 * [New Release: Accept Nano Payments on Wordpress](https://www.reddit.com/r/nanocurrency/comments/bgmukd/new_release_accept_nano_payments_on_wordpress/)
