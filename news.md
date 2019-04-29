@@ -217,8 +217,9 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Colin Showing Raiblocks to Bitcointalk](https://bitcointalk.org/index.php?topic=1219264.0)
 
 ### Dec 2014
-* [Colin Announces Raiblocks - 0 Upvotes](https://www.reddit.com/r/CryptoCurrency/comments/2p6utv/raiblocks_unique_cryptocurrency/)
 * [Exclusive Interview with Raiblocks Team](https://bitcoinist.com/exclusive-interview-raiblocks-team/)
+* [First question in Raiblocks Google group by Austin](https://groups.google.com/forum/#!topic/raiblocks/PSbX_onjLfU)
+* [Colin Announces Raiblocks - 0 Upvotes](https://www.reddit.com/r/CryptoCurrency/comments/2p6utv/raiblocks_unique_cryptocurrency/)
 
 </div>
 </div>
