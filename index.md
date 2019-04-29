@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Apr 29: Nano Basics Video Educational Channel](https://www.youtube.com/channel/UCGYBwp3HtfUoXbwL4NtiV3Q)
 * [Apr 25: Nano Seed - A Nano take on keys.lol](https://nano-seeds.meltingice.dev/)
 * [Apr 24: SomeNano - Wordpress paywall plugin](https://wordpress.org/plugins/somenano/)
 * [Apr 20: 4 new tools at the bottom of the protocol section](#protocol-rpc-libraries-tools-servers)
@@ -208,7 +209,6 @@ layout: default
 * [Apr 17: Nano Guide - Getting started](http://nano-guide.com/)
 * [Apr 17: HelpNano - Guide for how to help the Nano ecosystem](https://helpnano.org/)
 * [Apr 15: Mynano.link - Payment link generator](https://mynano.link/)
-* [Apr 08: Nano Gift - Gift Card and Paper Wallet Generator](https://nanogift.me)
 
 </div>
 </div>
@@ -272,6 +272,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 
 ### Video Channels
 * [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
+* [Nano Basics](https://www.youtube.com/channel/UCGYBwp3HtfUoXbwL4NtiV3Q)
 * [NanoCast](https://www.youtube.com/channel/UC_KCdNCWQcb5Z4vsPBY18yQ)
 * [The Nano Center](https://www.youtube.com/channel/UCwB_g6LBPGv_anMhywH4BWA)
 * [Jolt Wallet](https://www.youtube.com/channel/UCLfilzzY4NmwNjWtEIibdkA)
