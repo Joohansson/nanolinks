@@ -192,6 +192,9 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Colin LeMahieu, founder and lead developer of RaiBlocks, AMA - Ask your questions here!](https://www.reddit.com/r/RaiBlocks/comments/7ko5l7/colin_lemahieu_founder_and_lead_developer_of/)
 * [Colin, the lead developer of XRB goes full-time on XRB development](https://www.reddit.com/r/RaiBlocks/comments/7jch9q/colin_the_lead_developer_of_xrb_goes_fulltime_on/)
 
+### Oct 2017
+* [Undistributed 205,676,479 Raiblocks burned!](https://www.youtube.com/watch?v=jwR-CXNafLs)
+
 ### Jul 2017
 * [Introduction Of RaiBlocks (XRB)](http://ftreporter.com/cryptocurrency-review-introduction-of-raiblocks-xrb/)
 
