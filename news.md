@@ -198,6 +198,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### Oct 2017
 * [Undistributed 205,676,479 Raiblocks burned!](https://www.youtube.com/watch?v=jwR-CXNafLs)
+* [Nice article about Raiblocks](https://steemit.com/raiblocks/@raiblocks/how-raiblocks-provides-unlimited-transaction-throughput)
 * [Colin Announces End Of Faucet Period](https://www.reddit.com/r/RaiBlocks/comments/76lhf6/ending_raiblocks_distribution/)
 
 ### Sep 2017
