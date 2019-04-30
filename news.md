@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### Apr 2019
+* [Nano Round the Globe - Proof of Concept](https://www.reddit.com/r/nanocurrency/comments/bivjm7/nano_round_the_globe_proof_of_concept/)
 * [Nanostream.eu, a live visualization of the Nano Blocklattice](https://www.reddit.com/r/nanocurrency/comments/bigxfr/announcement_nanostreameu_a_live_visualization_of/)
 * [Node v19RC1, Solidus hitting beta](https://www.reddit.com/r/nanocurrency/comments/bhy3i2/solidus_getting_closer_v190rc1_on_beta_network/)
 * [Presenting Nano Network-Block Visualizer](https://www.reddit.com/r/nanocurrency/comments/bhqb2k/presenting_nano_networkblock_visualizer/)
@@ -41,6 +42,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Natrium 2.0 now in both iOS and Android store](https://www.reddit.com/r/nanocurrency/comments/bfclsg/natriums_next_big_update_released_on_android_and/)
 * [Launching Donano: Patreon Like Crowdfunding Service](https://www.reddit.com/r/nanocurrency/comments/bemra9/launching_donanoto_patreon_like_site_powered_by/)
 * [Introducing Nanopurse: A payment service with privacy](https://www.reddit.com/r/nanocurrency/comments/beexp9/nanopursecom_a_privacy_service_for_nano/)
+* [Booking Flight and Hotels now possible in Bitcoinsuperstore](https://www.reddit.com/r/nanocurrency/comments/bd2mjl/we_are_excited_to_announce_our_new_suite_of/)
 * [Introducing VANO: A NANO light-wallet browser extension for Chrome/Brave/Firefox](https://www.reddit.com/r/nanocurrency/comments/b91ihf/introducing_vano_a_nano_lightwallet_browser/)
 * [Binance Adds NANO/USDT Trading Pair](https://www.reddit.com/r/nanocurrency/comments/b8gg4n/binance_adds_nanousdt_trading_pair_at_20190403/)
 
