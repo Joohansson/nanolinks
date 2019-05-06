@@ -32,6 +32,9 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### May 2019
+* [Natrium Update - New/Rewritten Server Backend Deployed](https://www.reddit.com/r/nanocurrency/comments/bl0uwj/natrium_update_newrewritten_server_backend/)
+
 ### Apr 2019
 * [Nano Round the Globe - Proof of Concept](https://www.reddit.com/r/nanocurrency/comments/bivjm7/nano_round_the_globe_proof_of_concept/)
 * [Nanostream.eu, a live visualization of the Nano Blocklattice](https://www.reddit.com/r/nanocurrency/comments/bigxfr/announcement_nanostreameu_a_live_visualization_of/)
