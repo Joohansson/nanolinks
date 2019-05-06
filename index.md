@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 06: Nano Shell - Nano Node bash convenience wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Apr 29: Nano Basics Video Educational Channel](https://www.youtube.com/channel/UCGYBwp3HtfUoXbwL4NtiV3Q)
 * [Apr 25: Nano Seed - A Nano take on keys.lol](https://nano-seeds.meltingice.dev/)
 * [Apr 24: SomeNano - Wordpress paywall plugin](https://wordpress.org/plugins/somenano/)
@@ -208,7 +209,6 @@ layout: default
 * [Apr 18: Nanopurse - Payment Service with Privacy](https://nanopurse.com/)
 * [Apr 17: Nano Guide - Getting started](http://nano-guide.com/)
 * [Apr 17: HelpNano - Guide for how to help the Nano ecosystem](https://helpnano.org/)
-* [Apr 15: Mynano.link - Payment link generator](https://mynano.link/)
 
 </div>
 </div>
@@ -548,6 +548,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
 * [Pynanocurrency - Python protocol library](https://github.com/Matoking/pynanocurrency)
 * [Nanio - RPC Gateway, API Browser](https://github.com/rbw/nanio)
+* [Nano Shell - Nano Node bash convenience wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Nanook - Ruby Lib for RPC](https://github.com/lukes/nanook)
 * [Ruby Nano RPC - RPC Wrapper for Ruby](https://github.com/jcraigk/ruby_nano_rpc)
 * [Raiblocks PHP](https://github.com/jaimehgb/RaiBlocksPHP)
