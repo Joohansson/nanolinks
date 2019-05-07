@@ -33,6 +33,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### May 2019
+* [Announcing: NanoPaperWallet.com - A newly designed way to generate and print wallets](https://www.reddit.com/r/nanocurrency/comments/blj0va/announcing_nanopaperwalletcom_a_newly_designed/)
+* [Updates to Nano Visualizer](https://www.reddit.com/r/nanocurrency/comments/blbiu7/updates_to_nano_visualizer/)
 * [Natrium Update - New/Rewritten Server Backend Deployed](https://www.reddit.com/r/nanocurrency/comments/bl0uwj/natrium_update_newrewritten_server_backend/)
 
 ### Apr 2019
