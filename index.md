@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 08: Main & Beta Net Confirmation Time](https://nano.observer/)
 * [May 06: Nano Shell - Nano Node bash convenience wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Apr 29: Nano Basics Video Educational Channel](https://www.youtube.com/channel/UCGYBwp3HtfUoXbwL4NtiV3Q)
 * [Apr 25: Nano Seed - A Nano take on keys.lol](https://nano-seeds.meltingice.dev/)
@@ -208,7 +209,6 @@ layout: default
 * [Apr 18: Donano - Crowdfunding for Creators](https://www.donano.to)
 * [Apr 18: Nanopurse - Payment Service with Privacy](https://nanopurse.com/)
 * [Apr 17: Nano Guide - Getting started](http://nano-guide.com/)
-* [Apr 17: HelpNano - Guide for how to help the Nano ecosystem](https://helpnano.org/)
 
 </div>
 </div>
@@ -314,6 +314,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Nano Charts - Representative stats](https://nanocharts.info/)
 * [Nano SpeedTest - Test real nano transactions](https://nanospeed.live)
 * [Transaction Speed Demo Button](https://speed.nanolinks.info/)
+* [Main & Beta Net Confirmation Time](https://nano.observer/)
 
 </div>
 </div>
@@ -586,6 +587,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Beta Net Explorer - NanoCrawler](https://beta.nanocrawler.cc/)
 * [Beta Net Stats - Nanode21](https://nanode21.cloud/testnetstats.php)
 * [Beta Net TPS Monitor](https://beta.nanoticker.info)
+* [Beta & Main Net Confirmation Time](https://nano.observer/)
 * [Beta Net Wiki, Guide](https://github.com/NanoTools/wiki/blob/master/Beta-Network.md)
 
 </div>
