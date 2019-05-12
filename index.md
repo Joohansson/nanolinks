@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 12: Beta Net Visualizer](https://nano-faucet.org/visualizer/beta/)
 * [May 08: Main & Beta Net Confirmation Time](https://nano.observer/)
 * [May 06: Nano Shell - Nano Node bash convenience wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Apr 29: Nano Basics Video Educational Channel](https://www.youtube.com/channel/UCGYBwp3HtfUoXbwL4NtiV3Q)
@@ -208,7 +209,6 @@ layout: default
 * [Apr 20: Public API for Node RPC Calls](https://mynano.ninja/api)
 * [Apr 18: Donano - Crowdfunding for Creators](https://www.donano.to)
 * [Apr 18: Nanopurse - Payment Service with Privacy](https://nanopurse.com/)
-* [Apr 17: Nano Guide - Getting started](http://nano-guide.com/)
 
 </div>
 </div>
@@ -586,6 +586,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 ### Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
 * [Beta Net Explorer - NanoCrawler](https://beta.nanocrawler.cc/)
+* [Beta Net Visualizer](https://nano-faucet.org/visualizer/beta/)
 * [Beta Net Stats - Nanode21](https://nanode21.cloud/testnetstats.php)
 * [Beta Net TPS Monitor](https://beta.nanoticker.info)
 * [Beta & Main Net Confirmation Time](https://nano.observer/)
