@@ -33,9 +33,13 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### May 2019
+* [Announcing CryptoAccepted - A place to discover who accepts cryptocurrencies](https://www.reddit.com/r/nanocurrency/comments/bphnyi/i_built_cryptoaccepted_a_place_for_finding_who/)
+* [Peter Ryszkiewicz live streaming while porting the Nano node to JavaScript](https://www.reddit.com/r/nanocurrency/comments/bocnia/i_am_going_to_rewrite_the_nano_node_from_the/)
+* [Natrium v2.0.6 Released - Performance Improvements, Import Seed from QR Code, and More](https://www.reddit.com/r/nanocurrency/comments/bmz8va/natrium_v206_released_performance_improvements/)
 * [Announcing: NanoPaperWallet.com - A newly designed way to generate and print wallets](https://www.reddit.com/r/nanocurrency/comments/blj0va/announcing_nanopaperwalletcom_a_newly_designed/)
 * [Updates to Nano Visualizer](https://www.reddit.com/r/nanocurrency/comments/blbiu7/updates_to_nano_visualizer/)
 * [Natrium Update - New/Rewritten Server Backend Deployed](https://www.reddit.com/r/nanocurrency/comments/bl0uwj/natrium_update_newrewritten_server_backend/)
+* [Nano Celebrates its 5th Github Anniversary](https://www.reddit.com/r/nanocurrency/comments/bji9um/nano_celebrates_its_5th_github_anniversary_today/)
 
 ### Apr 2019
 * [Nano Round the Globe - Proof of Concept](https://www.reddit.com/r/nanocurrency/comments/bivjm7/nano_round_the_globe_proof_of_concept/)
