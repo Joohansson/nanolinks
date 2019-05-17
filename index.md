@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 17: Secure Seed Commands - How to Generate Seeds in various OS](https://www.secureseedcommands.com)
 * [May 17: CryptoAccepted - Discover Who Accepts Crypto](https://cryptoaccepted.app/)
 * [May 12: Beta Net Visualizer](https://nano-faucet.org/visualizer/beta/)
 * [May 08: Main & Beta Net Confirmation Time](https://nano.observer/)
@@ -208,7 +209,6 @@ layout: default
 * [Apr 24: SomeNano - Wordpress paywall plugin](https://wordpress.org/plugins/somenano/)
 * [Apr 20: 4 new tools at the bottom of the protocol section](#protocol-rpc-libraries-tools-servers)
 * [Apr 20: Public API for Node RPC Calls](https://mynano.ninja/api)
-* [Apr 18: Donano - Crowdfunding for Creators](https://www.donano.to)
 
 </div>
 </div>
@@ -391,6 +391,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Rai Paper Wallet](https://numtel.github.io/rai-paper-wallet/)
 * [Nano Warp Wallet](https://termhn.github.io/nanowarpwallet/)
 * [Dropil - Graphical Templates](https://paper.dropil.com)
+* [Secure Seed Commands - How to Generate Seeds in various OS](https://www.secureseedcommands.com)
 
 ### Hardware Wallets and Nodes
 * [Ledger Nano S](https://www.ledger.fr/)
@@ -583,6 +584,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Unit Converter](https://github.com/alecrios/nano-unit-converter)
 * [Nano Base32 encoding/decoding](https://github.com/termhn/nano-base32)
 * [Rai-wallet - Creates ciphered Nano (raiblocks) wallets](https://github.com/chriscohoat/rai-wallet)
+* [SecureSeedCommands - Commands for cryptographically secure seeds](https://github.com/pRizz/SecureSeedCommands)
 
 ### Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
