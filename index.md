@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 17: CryptoAccepted - Discover Who Accepts Crypto](https://cryptoaccepted.app/)
 * [May 12: Beta Net Visualizer](https://nano-faucet.org/visualizer/beta/)
 * [May 08: Main & Beta Net Confirmation Time](https://nano.observer/)
 * [May 06: Nano Shell - Nano Node bash convenience wrapper](https://github.com/VenKamikaze/nano-shell)
@@ -208,7 +209,6 @@ layout: default
 * [Apr 20: 4 new tools at the bottom of the protocol section](#protocol-rpc-libraries-tools-servers)
 * [Apr 20: Public API for Node RPC Calls](https://mynano.ninja/api)
 * [Apr 18: Donano - Crowdfunding for Creators](https://www.donano.to)
-* [Apr 18: Nanopurse - Payment Service with Privacy](https://nanopurse.com/)
 
 </div>
 </div>
@@ -435,7 +435,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Twitter Tip Bot - Donation service](https://nanotipbot.com/)
 * [Reddit Tip Bot - Donation service](https://github.com/danhitchcock/nano_tipper_z)
 * [NanoTwitch - Gaming donation service](https://nanotwit.ch/)
-* [UseNano - Merchant Directory](https://usenano.org/)
+* [UseNano - Nano Merchants Directory](https://usenano.org/)
+* [CryptoAccepted - Crypto Merchants Directory](https://cryptoaccepted.app/)
 * [Eutrino - Ebay with Nano](https://eutrino.com/)
 * [Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
 * [Nano Gift - Gift Card and Paper Wallet Generator](https://nanogift.me)
