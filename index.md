@@ -428,7 +428,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [KitePay - Nano Payment Service](https://kitepay.io/)
 * [Wordpress Plugin - Nano, IOTA, XLM, XRP, SEPA Payment Service](https://wordpress.org/plugins/bitvolo-trustless-crypto-payment-gateway/)
 * [SomeNano - Wordpress paywall plugin](https://wordpress.org/plugins/somenano/)
-* [NanoCashier - Nano Payment Service](https://nanocashier.com/)
 * [Bitback - Payment Service, Address book](https://bitback.me/)
 * [NanoMate - Nano Send Service](https://nanomate.co/)
 * [Nanote - Hosted Payment Forms](https://nanote.net/)
