@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 21: NanoFees - Fee Tracker](http://nanofees.info/)
 * [May 17: Secure Seed Commands - How to Generate Seeds in various OS](https://www.secureseedcommands.com)
 * [May 17: CryptoAccepted - Discover Who Accepts Crypto](https://cryptoaccepted.app/)
 * [May 12: Beta Net Visualizer](https://nano-faucet.org/visualizer/beta/)
@@ -208,7 +209,6 @@ layout: default
 * [Apr 25: Nano Seed - A Nano take on keys.lol](https://nano-seeds.meltingice.dev/)
 * [Apr 24: SomeNano - Wordpress paywall plugin](https://wordpress.org/plugins/somenano/)
 * [Apr 20: 4 new tools at the bottom of the protocol section](#protocol-rpc-libraries-tools-servers)
-* [Apr 20: Public API for Node RPC Calls](https://mynano.ninja/api)
 
 </div>
 </div>
@@ -316,6 +316,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Nano SpeedTest - Test real nano transactions](https://nanospeed.live)
 * [Transaction Speed Demo Button](https://speed.nanolinks.info/)
 * [Main & Beta Net Confirmation Time](https://nano.observer/)
+* [NanoFees - Fee Tracker](http://nanofees.info/)
 
 </div>
 </div>
