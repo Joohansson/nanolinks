@@ -354,6 +354,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 #### Quick Crypto Swap/Buy
 ##### Simple way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.
 
+* [Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
 * [Coingate](https://coingate.com/buy/nano)
 * [N.Exchange](https://n.exchange/)
 * [Swaplab](https://swaplab.cc/)
