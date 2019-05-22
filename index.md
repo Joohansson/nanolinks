@@ -225,8 +225,7 @@ Learn everything there is to know about Nano!
 ### Core Team
 
 * [Main Site - nano.org](https://nano.org)
-* [Roadmap, Guides, Docs](https://developers.nano.org/roadmap)
-* [New Documentation](https://doc.repnode.org/)
+* [Full Documentation, Roadmap, Integration guides](https://docs.nano.org/)
 * [Whitepaper (Eng)](https://nano.org/en/whitepaper)
 * [Official Nano GitHub Wiki](https://github.com/nanocurrency/raiblocks/wiki)
 * [Medium Channel - Main](https://medium.com/@nanocurrency)
