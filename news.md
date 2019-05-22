@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### May 2019
+* [Updated and Published fresh Nano Protocol Documentation](https://www.reddit.com/r/nanocurrency/comments/brp2hn/the_nano_protocol_documentation_has_a_new_home/)
 * [BrainBlocks Wallet - First beta release](https://www.reddit.com/r/nanocurrency/comments/bq55qd/brainblocks_wallet_first_beta_release/)
 * [Announcing CryptoAccepted - A place to discover who accepts cryptocurrencies](https://www.reddit.com/r/nanocurrency/comments/bphnyi/i_built_cryptoaccepted_a_place_for_finding_who/)
 * [Peter Ryszkiewicz live streaming while porting the Nano node to JavaScript](https://www.reddit.com/r/nanocurrency/comments/bocnia/i_am_going_to_rewrite_the_nano_node_from_the/)
