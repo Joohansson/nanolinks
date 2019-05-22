@@ -455,7 +455,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [NanoFaucet.org](https://www.nanofaucet.org/)
 * [NanoFaucet.co](https://nanofaucet.co/)
 * [GetFreeNano - Nano China](https://getfreenano.com/)
-* [NanoQuake - Faucet feature](https://wiki.nanocenter.org/index.php?title=Nano_Quake)
+* [NanoQuake - Faucet feature](https://nanocenter.fandom.com/wiki/Nano_Quake)
 
 ### Point of Sale
 * [Brainblocks Web PoS](https://pos.brainblocks.io/)
