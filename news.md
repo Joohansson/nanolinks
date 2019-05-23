@@ -33,10 +33,11 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### May 2019
+* [Releasing Snapy.io - Easy & Free NANO API for Developers](https://www.reddit.com/r/nanocurrency/comments/bs1f4d/releasing_snapyio_easy_free_nano_api_for/)
 * [Updated and Published fresh Nano Protocol Documentation](https://www.reddit.com/r/nanocurrency/comments/brp2hn/the_nano_protocol_documentation_has_a_new_home/)
+* [Nano Foundation Adding a New Full Stack Engineer - Marko Sabec](https://www.reddit.com/r/nanocurrency/comments/bpswaz/weekly_nano_update_51719/)
 * [BrainBlocks Wallet - First beta release](https://www.reddit.com/r/nanocurrency/comments/bq55qd/brainblocks_wallet_first_beta_release/)
 * [Announcing CryptoAccepted - A place to discover who accepts cryptocurrencies](https://www.reddit.com/r/nanocurrency/comments/bphnyi/i_built_cryptoaccepted_a_place_for_finding_who/)
-* [Peter Ryszkiewicz live streaming while porting the Nano node to JavaScript](https://www.reddit.com/r/nanocurrency/comments/bocnia/i_am_going_to_rewrite_the_nano_node_from_the/)
 * [Natrium v2.0.6 Released - Performance Improvements, Import Seed from QR Code, and More](https://www.reddit.com/r/nanocurrency/comments/bmz8va/natrium_v206_released_performance_improvements/)
 * [Announcing: NanoPaperWallet.com - A newly designed way to generate and print wallets](https://www.reddit.com/r/nanocurrency/comments/blj0va/announcing_nanopaperwalletcom_a_newly_designed/)
 * [Updates to Nano Visualizer](https://www.reddit.com/r/nanocurrency/comments/blbiu7/updates_to_nano_visualizer/)
