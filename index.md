@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 23: Snapy - Free NANO API for Developers](https://snapy.io/)
 * [May 21: NanoFees - Fee Tracker](http://nanofees.info/)
 * [May 17: Secure Seed Commands - How to Generate Seeds in various OS](https://www.secureseedcommands.com)
 * [May 17: CryptoAccepted - Discover Who Accepts Crypto](https://cryptoaccepted.app/)
@@ -208,7 +209,6 @@ layout: default
 * [Apr 29: Nano Basics Video Educational Channel](https://www.youtube.com/channel/UCGYBwp3HtfUoXbwL4NtiV3Q)
 * [Apr 25: Nano Seed - A Nano take on keys.lol](https://nano-seeds.meltingice.dev/)
 * [Apr 24: SomeNano - Wordpress paywall plugin](https://wordpress.org/plugins/somenano/)
-* [Apr 20: 4 new tools at the bottom of the protocol section](#protocol-rpc-libraries-tools-servers)
 
 </div>
 </div>
@@ -517,6 +517,8 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanote.io - Send messages with nano](https://nanote.io/)
 * [Paygenerator - Payment link generator (deep links)](https://nanotipbot.com/paygenerator)
 * [Nano Seed - A Nano take on keys.lol](https://nano-seeds.meltingice.dev/)
+* [Snapy - Free NANO API for Developers](https://snapy.io/)
+* [Public API for Node RPC Calls](https://mynano.ninja/api)
 
 ### Wallets [Source Code]
 * [Natrium](https://github.com/BananoCoin/natrium-android-wallet)
@@ -579,7 +581,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Betsy - NANO/BANANO POW precacher, distributor, & callback forwarder](https://github.com/bbedward/betsy-middleware)
 * [Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System)
 * [Accept Nano Payment Gateway (Self-hosted)](https://accept-nano.com)
-* [Public API for Node RPC Calls](https://mynano.ninja/api)
 * [Nano Address Validator](https://github.com/alecrios/nano-address-validator)
 * [Nano Unit Converter](https://github.com/alecrios/nano-unit-converter)
 * [Nano Base32 encoding/decoding](https://github.com/termhn/nano-base32)
