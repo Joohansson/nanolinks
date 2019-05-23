@@ -585,6 +585,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Base32 encoding/decoding](https://github.com/termhn/nano-base32)
 * [Rai-wallet - Creates ciphered Nano (raiblocks) wallets](https://github.com/chriscohoat/rai-wallet)
 * [SecureSeedCommands - Commands for cryptographically secure seeds](https://github.com/pRizz/SecureSeedCommands)
+* [Offline QR - Send/Receive data with an air-gapped computer using JS html](https://github.com/Joohansson/offline-qr)
 
 ### Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
