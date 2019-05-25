@@ -199,7 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
-* [May 25: How to transfer Nano from a Ledger Nano recovery phrase using offline signing](https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
+* [May 25: How to transfer Nano from a Ledger Nano recovery phrase](https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
 * [May 25: Nanocurrency Ruby - Toolkit for Ruby](https://rubygems.org/gems/nanocurrency)
 * [May 23: Snapy - Free NANO API for Developers](https://snapy.io/)
 * [May 21: NanoFees - Fee Tracker](http://nanofees.info/)
