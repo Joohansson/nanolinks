@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 25: How to transfer Nano from a Ledger Nano recovery phrase using offline signing](https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
 * [May 25: Nanocurrency Ruby - Toolkit for Ruby](https://rubygems.org/gems/nanocurrency)
 * [May 23: Snapy - Free NANO API for Developers](https://snapy.io/)
 * [May 21: NanoFees - Fee Tracker](http://nanofees.info/)
@@ -208,7 +209,6 @@ layout: default
 * [May 08: Main & Beta Net Confirmation Time](https://nano.observer/)
 * [May 06: Nano Shell - Nano Node bash convenience wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Apr 29: Nano Basics Video Educational Channel](https://www.youtube.com/channel/UCGYBwp3HtfUoXbwL4NtiV3Q)
-* [Apr 25: Nano Seed - A Nano take on keys.lol](https://nano-seeds.meltingice.dev/)
 
 </div>
 </div>
@@ -398,6 +398,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Ledger Nano S](https://www.ledger.fr/)
 * [Ledger Nano - Text Guide](http://blog.nanovault.io/guides/use-your-ledger-device-with-nanovault/)
 * [Ledger Nano - Video Guide](https://youtu.be/OoTfRjXsxNk)
+* [How to transfer Nano from a Ledger Nano recovery phrase using offline signing](https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
 * [Jolt](https://www.joltwallet.com/)
 
 ### Related Mobile Apps
