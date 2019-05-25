@@ -199,7 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
-* [May 25: Nanocurrency Ruby - Toolkit for Ruby](https://github.com/nanotify/nanocurrency_ruby)
+* [May 25: Nanocurrency Ruby - Toolkit for Ruby](https://rubygems.org/gems/nanocurrency)
 * [May 23: Snapy - Free NANO API for Developers](https://snapy.io/)
 * [May 21: NanoFees - Fee Tracker](http://nanofees.info/)
 * [May 17: Secure Seed Commands - How to Generate Seeds in various OS](https://www.secureseedcommands.com)
@@ -557,7 +557,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Shell - Nano Node bash convenience wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Nanook - Ruby Lib for RPC](https://github.com/lukes/nanook)
 * [Ruby Nano RPC - RPC Wrapper for Ruby](https://github.com/jcraigk/ruby_nano_rpc)
-* [Nanocurrency Ruby - Toolkit for Ruby](https://github.com/nanotify/nanocurrency_ruby)
+* [Nanocurrency Ruby - Toolkit for Ruby](https://rubygems.org/gems/nanocurrency)
 * [Raiblocks PHP](https://github.com/jaimehgb/RaiBlocksPHP)
 * [Easy Rai Kit PHP](https://github.com/SergiySW/easyraikitphp)
 * [Nano protocol in Golang](https://github.com/frankh/nano)
