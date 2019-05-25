@@ -336,7 +336,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [KuCoin](https://www.kucoin.com)
 * [OkEx](https://www.okex.com/)
 * [Huobi](https://www.huobi.com/en-us/)
-* [CoinFalcon](https://coinfalcon.com/)
 * [Mercatox](https://mercatox.com/)
 * [Bitflip](https://bitflip.li/)
 * [Cryptowolf](https://cryptowolf.eu/)
