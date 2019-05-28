@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 28: Nanolib - Python library for Nano protocol](https://github.com/Matoking/nanolib)
 * [May 25: How to transfer Nano from a Ledger Nano recovery phrase](https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
 * [May 25: Nanocurrency Ruby - Toolkit for Ruby](https://rubygems.org/gems/nanocurrency)
 * [May 23: Snapy - Free NANO API for Developers](https://snapy.io/)
@@ -208,7 +209,6 @@ layout: default
 * [May 12: Beta Net Visualizer](https://nano-faucet.org/visualizer/beta/)
 * [May 08: Main & Beta Net Confirmation Time](https://nano.observer/)
 * [May 06: Nano Shell - Nano Node bash convenience wrapper](https://github.com/VenKamikaze/nano-shell)
-* [Apr 29: Nano Basics Video Educational Channel](https://www.youtube.com/channel/UCGYBwp3HtfUoXbwL4NtiV3Q)
 
 </div>
 </div>
@@ -547,6 +547,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [SwiftyRai - Swift Lib for RPC](https://github.com/xcadaverx/SwiftyRai)
 * [RAI - Pythonic Lib for RPC](https://github.com/kennell/rai)
 * [Python Nano Tools](https://github.com/paulmelis/nano-tools)
+* [Nanolib - Python library for Nano protocol](https://github.com/Matoking/nanolib)
 * [PRai - Python RPC Client](https://github.com/jxub/prai)
 * [PyRai](https://github.com/icarusglider/PyRai)
 * [Easyraikit - Python](https://github.com/AuliaYF/easyraikit-python)
