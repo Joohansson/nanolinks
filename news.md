@@ -33,11 +33,15 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### May 2019
+* [Multi asset wallet Hodler now supporting Nano](https://www.reddit.com/r/nanocurrency/comments/btymqi/the_first_multiasset_wallet_with_nano_currency/)
+* [Appia sneak peak: Paving a new road for payments](https://www.reddit.com/r/nanocurrency/comments/btqn00/appiapay_paving_a_new_road_for_payments/)
+* [290 Nano and 15 pizzas donated to strangers in r/millionairemakers and r/Assistance](https://www.reddit.com/r/nanocurrency/comments/brh4o0/our_first_biggest_chance_of_adoption_is_on/)
 * [Releasing Snapy.io - Easy & Free NANO API for Developers](https://www.reddit.com/r/nanocurrency/comments/bs1f4d/releasing_snapyio_easy_free_nano_api_for/)
 * [Updated and Published fresh Nano Protocol Documentation](https://www.reddit.com/r/nanocurrency/comments/brp2hn/the_nano_protocol_documentation_has_a_new_home/)
 * [Nano Foundation Adding a New Full Stack Engineer - Marko Sabec](https://www.reddit.com/r/nanocurrency/comments/bpswaz/weekly_nano_update_51719/)
 * [BrainBlocks Wallet - First beta release](https://www.reddit.com/r/nanocurrency/comments/bq55qd/brainblocks_wallet_first_beta_release/)
 * [Announcing CryptoAccepted - A place to discover who accepts cryptocurrencies](https://www.reddit.com/r/nanocurrency/comments/bphnyi/i_built_cryptoaccepted_a_place_for_finding_who/)
+* [Bold mission: Peter Ryszkiewicz porting the Nano node to TypeScript/JavaScript](https://www.reddit.com/r/nanocurrency/comments/bocnia/i_am_going_to_rewrite_the_nano_node_from_the/)
 * [Natrium v2.0.6 Released - Performance Improvements, Import Seed from QR Code, and More](https://www.reddit.com/r/nanocurrency/comments/bmz8va/natrium_v206_released_performance_improvements/)
 * [Announcing: NanoPaperWallet.com - A newly designed way to generate and print wallets](https://www.reddit.com/r/nanocurrency/comments/blj0va/announcing_nanopaperwalletcom_a_newly_designed/)
 * [Updates to Nano Visualizer](https://www.reddit.com/r/nanocurrency/comments/blbiu7/updates_to_nano_visualizer/)
@@ -45,6 +49,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Nano Celebrates its 5th Github Anniversary](https://www.reddit.com/r/nanocurrency/comments/bji9um/nano_celebrates_its_5th_github_anniversary_today/)
 
 ### Apr 2019
+* [Node v19.0 enters beta testing stage](https://www.reddit.com/r/nanocurrency/comments/bhza60/solidus_release_candidate_1_now_on_beta/)
 * [Nano Round the Globe - Proof of Concept](https://www.reddit.com/r/nanocurrency/comments/bivjm7/nano_round_the_globe_proof_of_concept/)
 * [Nanostream.eu, a live visualization of the Nano Blocklattice](https://www.reddit.com/r/nanocurrency/comments/bigxfr/announcement_nanostreameu_a_live_visualization_of/)
 * [Node v19RC1, Solidus hitting beta](https://www.reddit.com/r/nanocurrency/comments/bhy3i2/solidus_getting_closer_v190rc1_on_beta_network/)
