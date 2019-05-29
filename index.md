@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 29: Hodler multi asset wallet for Android, Win, Linux](https://hodler.tech/)
 * [May 28: Nanolib - Python library for Nano protocol](https://github.com/Matoking/nanolib)
 * [May 25: How to transfer Nano from a Ledger Nano recovery phrase](https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
 * [May 25: Nanocurrency Ruby - Toolkit for Ruby](https://rubygems.org/gems/nanocurrency)
@@ -208,7 +209,6 @@ layout: default
 * [May 17: CryptoAccepted - Discover Who Accepts Crypto](https://cryptoaccepted.app/)
 * [May 12: Beta Net Visualizer](https://nano-faucet.org/visualizer/beta/)
 * [May 08: Main & Beta Net Confirmation Time](https://nano.observer/)
-* [May 06: Nano Shell - Nano Node bash convenience wrapper](https://github.com/VenKamikaze/nano-shell)
 
 </div>
 </div>
@@ -384,6 +384,9 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nano Wallet Company** - OSX,Win,Linux,iOS,Android](https://nanowalletcompany.com/)
 * [**VANO** - Browser extention](https://vano.app/)
 
+#### Multi Asset Wallets
+* [**Hodler** - Android, Win, Linux](https://hodler.tech/)
+
 
 #### Address Generators, Paper Wallets
 * [Nano Paper Wallet](https://nanopaperwallet.com/)
@@ -394,7 +397,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Dropil - Graphical Templates](https://paper.dropil.com)
 * [Secure Seed Commands - How to Generate Seeds in various OS](https://www.secureseedcommands.com)
 
-### Hardware Wallets and Nodes
+#### Hardware Wallets and Nodes
 * [Ledger Nano S](https://www.ledger.fr/)
 * [Ledger Nano - Text Guide](http://blog.nanovault.io/guides/use-your-ledger-device-with-nanovault/)
 * [Ledger Nano - Video Guide](https://youtu.be/OoTfRjXsxNk)
