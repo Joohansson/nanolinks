@@ -35,7 +35,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 ### May 2019
 * [Community Spotlight: Reddit Tip Bot](https://www.reddit.com/r/nanocurrency/comments/buiezo/nano_community_spotlight_reddit_tip_bot/)
 * [Multi asset wallet Hodler now supporting Nano](https://www.reddit.com/r/nanocurrency/comments/btymqi/the_first_multiasset_wallet_with_nano_currency/)
-* [Appia sneak peak: Paving a new road for payments](https://www.reddit.com/r/nanocurrency/comments/btqn00/appiapay_paving_a_new_road_for_payments/)
+* [Appia sneak peek reveal: Paving a new road for payments](https://www.reddit.com/r/nanocurrency/comments/btqn00/appiapay_paving_a_new_road_for_payments/)
 * [290 Nano and 15 pizzas donated to strangers in r/millionairemakers and r/Assistance](https://www.reddit.com/r/nanocurrency/comments/brh4o0/our_first_biggest_chance_of_adoption_is_on/)
 * [Releasing Snapy.io - Easy & Free NANO API for Developers](https://www.reddit.com/r/nanocurrency/comments/bs1f4d/releasing_snapyio_easy_free_nano_api_for/)
 * [Updated and Published fresh Nano Protocol Documentation](https://www.reddit.com/r/nanocurrency/comments/brp2hn/the_nano_protocol_documentation_has_a_new_home/)
