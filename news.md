@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### May 2019
+* [Spam Mitigation - Dynamic proof of work - Explained in detail](https://www.reddit.com/r/nanocurrency/comments/buvalp/dynamic_proofofwork_prioritization_feature/)
 * [Community Spotlight: Reddit Tip Bot](https://www.reddit.com/r/nanocurrency/comments/buiezo/nano_community_spotlight_reddit_tip_bot/)
 * [Multi asset wallet Hodler now supporting Nano](https://www.reddit.com/r/nanocurrency/comments/btymqi/the_first_multiasset_wallet_with_nano_currency/)
 * [Appia sneak peek reveal: Paving a new road for payments](https://www.reddit.com/r/nanocurrency/comments/btqn00/appiapay_paving_a_new_road_for_payments/)
