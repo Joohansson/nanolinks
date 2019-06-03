@@ -199,8 +199,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
-* [Jun 06: Nano Websocket Client for Python](https://github.com/guilhermelawless/nano-websocket-sample-py)
-* [Jun 06: Nano Websocket Client for NodeJS](https://github.com/guilhermelawless/nano-websocket-sample-nodejs)
+* [Jun 03: Nano Websocket Client for Python](https://github.com/guilhermelawless/nano-websocket-sample-py)
+* [Jun 03: Nano Websocket Client for NodeJS](https://github.com/guilhermelawless/nano-websocket-sample-nodejs)
 * [May 29: Hodler multi asset wallet for Android, Win, Linux](https://hodler.tech/)
 * [May 28: Nanolib - Python library for Nano protocol](https://github.com/Matoking/nanolib)
 * [May 25: How to transfer Nano from a Ledger Nano recovery phrase](https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
