@@ -199,6 +199,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jun 06: Nano Websocket Client for Python](https://github.com/guilhermelawless/nano-websocket-sample-py)
+* [Jun 06: Nano Websocket Client for NodeJS](https://github.com/guilhermelawless/nano-websocket-sample-nodejs)
 * [May 29: Hodler multi asset wallet for Android, Win, Linux](https://hodler.tech/)
 * [May 28: Nanolib - Python library for Nano protocol](https://github.com/Matoking/nanolib)
 * [May 25: How to transfer Nano from a Ledger Nano recovery phrase](https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
@@ -207,8 +209,6 @@ layout: default
 * [May 21: NanoFees - Fee Tracker](http://nanofees.info/)
 * [May 17: Secure Seed Commands - How to Generate Seeds in various OS](https://www.secureseedcommands.com)
 * [May 17: CryptoAccepted - Discover Who Accepts Crypto](https://cryptoaccepted.app/)
-* [May 12: Beta Net Visualizer](https://nano-faucet.org/visualizer/beta/)
-* [May 08: Main & Beta Net Confirmation Time](https://nano.observer/)
 
 </div>
 </div>
@@ -594,6 +594,8 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Rai-wallet - Creates ciphered Nano (raiblocks) wallets](https://github.com/chriscohoat/rai-wallet)
 * [SecureSeedCommands - Commands for cryptographically secure seeds](https://github.com/pRizz/SecureSeedCommands)
 * [Offline QR - Send/Receive data with an air-gapped computer using JS html](https://github.com/Joohansson/offline-qr)
+* [Nano Websocket Client for Python](https://github.com/guilhermelawless/nano-websocket-sample-py)
+* [Nano Websocket Client for NodeJS](https://github.com/guilhermelawless/nano-websocket-sample-nodejs)
 
 ### Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
