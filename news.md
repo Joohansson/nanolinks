@@ -35,6 +35,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 ### June 2019
 * [Nano Unity3D Plugin Fully funded + First Weekly Update](https://www.reddit.com/r/nanocurrency/comments/bvlg90/nano_unity3d_plugin_weekly_update/)
 * [NWC Nano Wallet 1.1.0 released (iOS & Android)](https://www.reddit.com/r/nanocurrency/comments/bvuolc/nwc_nano_wallet_110_released_ios_android/)
+
 ### May 2019
 * [Spam Mitigation - Dynamic proof of work - Explained in detail](https://www.reddit.com/r/nanocurrency/comments/buvalp/dynamic_proofofwork_prioritization_feature/)
 * [Community Spotlight: Reddit Tip Bot](https://www.reddit.com/r/nanocurrency/comments/buiezo/nano_community_spotlight_reddit_tip_bot/)
