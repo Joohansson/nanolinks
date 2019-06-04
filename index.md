@@ -316,8 +316,9 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Transaction Speed Demo Button](https://speed.nanolinks.info/)
 * [Main & Beta Net Confirmation Time](https://nano.observer/)
 * [NanoFees - Fee Tracker](http://nanofees.info/)
-* [Reddit Tip Bot Stats(http://reddittipbot.com/)
+* [Reddit Tip Bot Stats](http://reddittipbot.com/)
 * [Crypto Subreddit Tracker](https://cryptosub.live/)
+* [Nanocurrency Reddit Stats](https://subredditstats.com/r/nanocurrency)
 
 </div>
 </div>
