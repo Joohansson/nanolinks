@@ -268,6 +268,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Nano Venezuela 1](https://nano.org.ve/)
 * [Nano Venezuela 2](http://www.nanovenezuela.org/)
 * [Nano China](https://nanochina.co/)
+* [Nano China - Information and News](http://www.nano.wang/)
 * [Nano Brazil Facebook Group](https://www.facebook.com/groups/RaiBlocksBrasil/)
 
 ### Video Channels
