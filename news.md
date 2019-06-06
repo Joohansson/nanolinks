@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2019
+* [Nano has been added to Qtrade](https://www.reddit.com/r/nanocurrency/comments/bx6pvx/nano_has_been_added_to_qtrade/)
 * [Nano Unity3D Plugin Fully funded + First Weekly Update](https://www.reddit.com/r/nanocurrency/comments/bvlg90/nano_unity3d_plugin_weekly_update/)
 * [NWC Nano Wallet 1.1.0 released (iOS & Android)](https://www.reddit.com/r/nanocurrency/comments/bvuolc/nwc_nano_wallet_110_released_ios_android/)
 
