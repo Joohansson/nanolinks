@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jun 11: Offline Audio Messenger - For offline block signing](https://joohansson.github.io/offline-audio-messenger/)
 * [Jun 05: Nano Cold (Offline, air-gapped) Signing Script](https://github.com/noahc66260/nano-cold-signing)
 * [Jun 03: Nano Websocket Client for Python](https://github.com/guilhermelawless/nano-websocket-sample-py)
 * [Jun 03: Nano Websocket Client for NodeJS](https://github.com/guilhermelawless/nano-websocket-sample-nodejs)
@@ -208,7 +209,6 @@ layout: default
 * [May 25: Nanocurrency Ruby - Toolkit for Ruby](https://rubygems.org/gems/nanocurrency)
 * [May 23: Snapy - Free NANO API for Developers](https://snapy.io/)
 * [May 21: NanoFees - Fee Tracker](http://nanofees.info/)
-* [May 17: Secure Seed Commands - How to Generate Seeds in various OS](https://www.secureseedcommands.com)
 
 </div>
 </div>
@@ -527,6 +527,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Snapy - Free NANO API for Developers](https://snapy.io/)
 * [Public API for Node RPC Calls](https://mynano.ninja/api)
 * [Nano Cold (Offline, air-gapped) Signing Script](https://github.com/noahc66260/nano-cold-signing)
+* [Offline Audio Messenger - For offline block signing](https://joohansson.github.io/offline-audio-messenger/)
 
 ### Wallets [Source Code]
 * [Natrium](https://github.com/BananoCoin/natrium-android-wallet)
