@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2019
+* [Natrium v2.0.8 Released Introducing Mnemonic Phrases, RTL Layouts, and More.](https://www.reddit.com/r/nanocurrency/comments/bzrn1n/natrium_v208_released_introducing_mnemonic/)
 * [Announcing DPoW V3 Beta](https://www.reddit.com/r/nanocurrency/comments/bym8v6/announcing_dpow_v3_now_in_beta/)
 * [Nano has been added to Qtrade](https://www.reddit.com/r/nanocurrency/comments/bx6pvx/nano_has_been_added_to_qtrade/)
 * [Nano Unity3D Plugin Fully funded + First Weekly Update](https://www.reddit.com/r/nanocurrency/comments/bvlg90/nano_unity3d_plugin_weekly_update/)
