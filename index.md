@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jun 17: Brainblocks new web wallet](https://app.brainblocks.io/)
 * [Jun 11: Offline Audio Messenger - For offline block signing](https://joohansson.github.io/offline-audio-messenger/)
 * [Jun 05: Nano Cold (Offline, air-gapped) Signing Script](https://github.com/noahc66260/nano-cold-signing)
 * [Jun 03: Nano Websocket Client for Python](https://github.com/guilhermelawless/nano-websocket-sample-py)
@@ -208,7 +209,6 @@ layout: default
 * [May 25: How to transfer Nano from a Ledger Nano recovery phrase](https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
 * [May 25: Nanocurrency Ruby - Toolkit for Ruby](https://rubygems.org/gems/nanocurrency)
 * [May 23: Snapy - Free NANO API for Developers](https://snapy.io/)
-* [May 21: NanoFees - Fee Tracker](http://nanofees.info/)
 
 </div>
 </div>
@@ -382,6 +382,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nanovault #2** - Web](https://vault.nanocrawler.cc/)
 * [**Nanovault #3** - Web](https://vault.nifni.net)
 * [**Nanowallet** - Web](https://nanowallet.io/)
+* [**Brainblocks** - Web](https://app.brainblocks.io/)
 * [**Nanollet** - Windows,Linux,Darwin](https://github.com/brokenbydefault/Nanollet)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 * [**Nano Wallet Company** - OSX,Win,Linux,iOS,Android](https://nanowalletcompany.com/)
