@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jun 18: Nanoverse - Visual Explorer](https://nanoverse.io/)
 * [Jun 17: Brainblocks new web wallet](https://app.brainblocks.io/)
 * [Jun 11: Offline Audio Messenger - For offline block signing](https://joohansson.github.io/offline-audio-messenger/)
 * [Jun 05: Nano Cold (Offline, air-gapped) Signing Script](https://github.com/noahc66260/nano-cold-signing)
@@ -208,7 +209,6 @@ layout: default
 * [May 28: Nanolib - Python library for Nano protocol](https://github.com/Matoking/nanolib)
 * [May 25: How to transfer Nano from a Ledger Nano recovery phrase](https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
 * [May 25: Nanocurrency Ruby - Toolkit for Ruby](https://rubygems.org/gems/nanocurrency)
-* [May 23: Snapy - Free NANO API for Developers](https://snapy.io/)
 
 </div>
 </div>
@@ -308,6 +308,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Repnode.org - Explorer, Stats, Reps, Network speed](https://repnode.org/)
 * [My Nano Ninja - Representatives, Stats, Explorer](https://mynano.ninja/)
 * [NANOODLE - Explorer,  Fiat Tracker, Stat Charts, Account Alerting](https://nanoodle.io/live)
+* [Nanoverse - Visual Explorer](https://nanoverse.io/)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
 * [TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
 * [NanoStream - Transaction Visualizer](https://nanostream.eu/)
