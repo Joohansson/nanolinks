@@ -161,6 +161,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [BrainBlocks Acquires NanoWallet](https://www.reddit.com/r/nanocurrency/comments/99xgx9/brainblocks_acquires_nanowallet_medium/)
 * [Bitcoin Superstore is now accepting payments with Nano!](https://www.reddit.com/r/nanocurrency/comments/9828y3/bitcoin_superstore_is_now_accepting_payments_with/)
 * [Nano/GBP fiat gateway announced!(+ London based $5000 Nano treasure hunt!)](https://www.reddit.com/r/nanocurrency/comments/95a6hj/nanogbp_fiat_gateway_announced_london_based_5000/)
+* [Introducing NanoLinks - The ultimate link guide](https://www.reddit.com/r/nanocurrency/comments/95e51g/the_ultimate_nano_url_guide/)
 
 ### Jul 2018
 * [Community Project - NANO KPI - Dreamhack Valencia 2018](https://www.reddit.com/r/nanocurrency/comments/8yb2vw/community_project_nano_kpi_dreamhack_valencia_2018/)
