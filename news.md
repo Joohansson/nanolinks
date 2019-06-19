@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2019
+* [Appia presents PoS device at London event](https://www.reddit.com/r/nanocurrency/comments/c2f9gi/appia_presentation_slideshow_summary_from_london/)
 * [Kappture is going all in Nano on their PoS system](https://www.reddit.com/r/nanocurrency/comments/c233ve/kappture_using_nano_on_their_pos_system/)
 * [Steakhouse in Brooklyn, AFFYs Premium Grill, accepting Nano](https://www.reddit.com/r/nanocurrency/comments/c1i9ia/steakhouse_in_brooklyn_ny_is_accepting_nano/)
 * [BrainBlocks wallet enters open beta](https://www.reddit.com/r/nanocurrency/comments/c1ck45/brainblocks_wallet_is_now_in_open_beta_try_it_out/)
