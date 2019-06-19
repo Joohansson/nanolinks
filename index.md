@@ -199,6 +199,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jun 19: Appia - Payment service, PoS](http://appia.co/)
+* [Jun 19: Kappture - Payment service, PoS](https://kappture.co.uk/)
 * [Jun 18: Nanoverse - Visual Explorer](https://nanoverse.io/)
 * [Jun 17: Brainblocks new web wallet](https://app.brainblocks.io/)
 * [Jun 11: Offline Audio Messenger - For offline block signing](https://joohansson.github.io/offline-audio-messenger/)
@@ -207,8 +209,6 @@ layout: default
 * [Jun 03: Nano Websocket Client for NodeJS](https://github.com/guilhermelawless/nano-websocket-sample-nodejs)
 * [May 29: Hodler multi asset wallet for Android, Win, Linux](https://hodler.tech/)
 * [May 28: Nanolib - Python library for Nano protocol](https://github.com/Matoking/nanolib)
-* [May 25: How to transfer Nano from a Ledger Nano recovery phrase](https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
-* [May 25: Nanocurrency Ruby - Toolkit for Ruby](https://rubygems.org/gems/nanocurrency)
 
 </div>
 </div>
@@ -466,8 +466,10 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [NanoQuake - Faucet feature](https://nanocenter.fandom.com/wiki/Nano_Quake)
 
 ### Point of Sale
+* [Appia - Payment service, PoS](http://appia.co/)
+* [Kappture - Payment service, PoS](https://kappture.co.uk/)
+* [Paytomat - Payment Service. PoS, Fiat gateway](https://paytomat.com/)
 * [Brainblocks Web PoS](https://pos.brainblocks.io/)
-* [Paytomat - Payment Service. Terminal, Web, QR, Fiat gateway](https://paytomat.com/)
 
 </div>
 </div>
