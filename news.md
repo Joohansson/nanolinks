@@ -33,6 +33,9 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2019
+* [Media: Emerging Economies Are Our Target Market: Nano Founder Colin LeMahieu](https://www.reddit.com/r/nanocurrency/comments/c2ja1e/emerging_economies_are_our_target_market_nano/)
+* [Demo: Pay Nano to play on an arcade](https://www.reddit.com/r/nanocurrency/comments/c2ie9g/paying_to_play_on_an_arcade_with_nano/)
+* [Demo: Nano penny exchange](https://www.reddit.com/r/nanocurrency/comments/c2h7rh/nano_penny_exchange/)
 * [Appia presents PoS device at London event](https://www.reddit.com/r/nanocurrency/comments/c2f9gi/appia_presentation_slideshow_summary_from_london/)
 * [Kappture is going all in Nano on their PoS system](https://www.reddit.com/r/nanocurrency/comments/c233ve/kappture_using_nano_on_their_pos_system/)
 * [Steakhouse in Brooklyn, AFFYs Premium Grill, accepting Nano](https://www.reddit.com/r/nanocurrency/comments/c1i9ia/steakhouse_in_brooklyn_ny_is_accepting_nano/)
