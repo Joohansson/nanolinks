@@ -245,6 +245,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Raiblocks: New Cryptocurrencies Based on Captcha Services](http://cryptoleet.com/raiblocks-new-cryptocurrencies-based-captcha-services/)
 
 ### Mar 2016
+* [Detailed Raiblocks Summary by Coinaday](https://www.reddit.com/r/CryptoCurrency/comments/49cyt6/coinaday_raiblocks/)
 * [Colin's first post in r/Raiblocks](https://www.reddit.com/r/RaiBlocks/comments/4952r8/raiblocks_official_site/)
 
 ### Feb 2016
