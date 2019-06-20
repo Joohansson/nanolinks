@@ -384,7 +384,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nanovault #3** - Web](https://vault.nifni.net)
 * [**Nanowallet** - Web](https://nanowallet.io/)
 * [**Brainblocks** - Web](https://app.brainblocks.io/)
-* [**Nanollet** - Windows,Linux,Darwin](https://github.com/brokenbydefault/Nanollet)
+* [**Nanollet** - Windows,Linux,Darwin](https://nanollet.org/)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 * [**Nano Wallet Company** - OSX,Win,Linux,iOS,Android](https://nanowalletcompany.com/)
 * [**VANO** - Browser extention](https://vano.app/)
