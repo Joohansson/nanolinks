@@ -265,11 +265,12 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [HelpNano - Guide for how to help the Nano ecosystem](https://helpnano.org/)
 
 #### Targeted Countries
-* [Nano Venezuela 1](https://nano.org.ve/)
-* [Nano Venezuela 2](http://www.nanovenezuela.org/)
+* [Venezuela 1](https://nano.org.ve/)
+* [Venezuela 2](http://www.nanovenezuela.org/)
 * [Nano China](https://nanochina.co/)
-* [Nano China - Information and News](http://www.nano.wang/)
-* [Nano Brazil Facebook Group](https://www.facebook.com/groups/RaiBlocksBrasil/)
+* [Chinese information and news](http://www.nano.wang/)
+* [Chinese forum](https://www.chainnode.com/forum/349)
+* [Brazil Facebook Group](https://www.facebook.com/groups/RaiBlocksBrasil/)
 
 ### Video Channels
 * [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
