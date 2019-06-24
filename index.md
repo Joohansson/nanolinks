@@ -283,8 +283,9 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 ### Interesting Videos [Not in channels above]
 * [Transaction Speed Demo - Mobile to Mobile](https://youtu.be/5K8rRISz4RU)
 * [Transaction Speed Demo - Confirmation Node to Node](https://youtu.be/R6oxmQaiFJI)
-* [Colin LeMahieu Interview by The Crypto Lark Feb 18](https://youtu.be/hAy4GDV7tvQ)
-* [Colin LeMahieu Interview by DataDash Oct 18](https://youtu.be/eWdOkIev_xM)
+* [Colin LeMahieu Interviewed by The Crypto Lark Feb 18](https://youtu.be/hAy4GDV7tvQ)
+* [Colin LeMahieu Interviewed by DataDash Oct 18](https://youtu.be/eWdOkIev_xM)
+* [Colin LeMahieu Audio interviewed by Crypto101 (Start at 13min)](https://soundcloud.com/matthew-aaron-690749808/from-the-archive-nano-and-holochain)
 * [Everything you need to know about Nano](https://youtu.be/ywgMlJBli7g)
 * [Nano simply explained](https://youtu.be/dlRhUwLQWXc)
 * [Nano explained (Deep dive)](https://youtu.be/LcqPLlduE0w)
