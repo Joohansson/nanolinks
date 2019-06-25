@@ -33,6 +33,10 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2019
+* [Penny/Nano Exchanger - Guide/Documentation](https://www.reddit.com/r/nanocurrency/comments/c4u9oa/pennynano_exchanger_medium_article/)
+* [CaribbeanMacfly won the $5000 worth of Nano giveaway!](https://www.reddit.com/r/nanocurrency/comments/c4zpo1/caribbeanmacfly_won_the_5000_giveaway/)
+* [Colin LeMahieu Joins The Crypto101 Podcast](https://www.reddit.com/r/nanocurrency/comments/c4vrqr/colin_lemahieu_joins_the_crypto101pod_podcast_to/)
+* [Unofficial recap and summary of the London Meetup](https://www.reddit.com/r/nanocurrency/comments/c4nq7g/amazing_news_you_might_have_missed_partnerships/)
 * [Media: Emerging Economies Are Our Target Market: Nano Founder Colin LeMahieu](https://www.reddit.com/r/nanocurrency/comments/c2ja1e/emerging_economies_are_our_target_market_nano/)
 * [Demo: Pay Nano to play on an arcade](https://www.reddit.com/r/nanocurrency/comments/c2ie9g/paying_to_play_on_an_arcade_with_nano/)
 * [Demo: Nano penny exchange](https://www.reddit.com/r/nanocurrency/comments/c2h7rh/nano_penny_exchange/)
