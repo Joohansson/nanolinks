@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jun 27: Informative Medium Articles - James Coxon](https://medium.com/@jacoxon)
 * [Jun 19: Appia - Payment service, PoS](http://appia.co/)
 * [Jun 19: Kappture - Payment service, PoS](https://kappture.co.uk/)
 * [Jun 18: Nanoverse - Visual Explorer](https://nanoverse.io/)
@@ -208,7 +209,6 @@ layout: default
 * [Jun 03: Nano Websocket Client for Python](https://github.com/guilhermelawless/nano-websocket-sample-py)
 * [Jun 03: Nano Websocket Client for NodeJS](https://github.com/guilhermelawless/nano-websocket-sample-nodejs)
 * [May 29: Hodler multi asset wallet for Android, Win, Linux](https://hodler.tech/)
-* [May 28: Nanolib - Python library for Nano protocol](https://github.com/Matoking/nanolib)
 
 </div>
 </div>
@@ -259,6 +259,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Informative Medium Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
 * [Informative Medium Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 * [Informative Medium Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
+* [Informative Medium Articles - James Coxon](https://medium.com/@jacoxon)
 * [Guide: How to secure your Nano](https://medium.com/@d84/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
 * [Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 * [Frequently Asked Questions and Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAQ)
