@@ -610,6 +610,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Beta Network Resources](https://beta.nano.org/)
 * [Beta Net Explorer - NanoCrawler](https://beta.nanocrawler.cc/)
 * [Beta Net Visualizer](https://nano-faucet.org/visualizer/beta/)
+* [Beta Net Confirmation Chart](https://nano-faucet.org/beta/chart/)
 * [Beta Net Stats - Nanode21](https://nanode21.cloud/testnetstats.php)
 * [Beta Net TPS Monitor](https://beta.nanoticker.info)
 * [Beta & Main Net Confirmation Time](https://nano.observer/)
