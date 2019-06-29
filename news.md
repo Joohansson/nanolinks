@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2019
+* [Nano Node v19 RC5 released with really promising test results](https://www.reddit.com/r/nanocurrency/comments/c6ls8y/nano_node_v19_rc5_released/)
 * [Natrium v2.0.9 Released - Fixing "Unreceivable" Funds](https://www.reddit.com/r/nanocurrency/comments/c5pv20/natrium_v209_update_on_unreceivable_funds/)
 * [Arduino WiFi Module triggered by Nano transactions - Guide/Documentation](https://www.reddit.com/r/nanocurrency/comments/c5rh4h/nano_esp8266_trigger_build_guide_the_nano_center/)
 * [Penny/Nano Exchanger - Guide/Documentation](https://www.reddit.com/r/nanocurrency/comments/c4u9oa/pennynano_exchanger_medium_article/)
