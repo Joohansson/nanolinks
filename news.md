@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2019
+* [Adoption meetup: First? burger ever purchased with Nano at Affy’s Steakhouse in Brooklyn](https://www.reddit.com/r/nanocurrency/comments/c7422n/greetings_from_the_nano_meetup_nyc_this_is_my/)
 * [Nano Node v19 RC5 released with really promising test results](https://www.reddit.com/r/nanocurrency/comments/c6ls8y/nano_node_v19_rc5_released/)
 * [Natrium v2.0.9 Released - Fixing "Unreceivable" Funds](https://www.reddit.com/r/nanocurrency/comments/c5pv20/natrium_v209_update_on_unreceivable_funds/)
 * [Arduino WiFi Module triggered by Nano transactions - Guide/Documentation](https://www.reddit.com/r/nanocurrency/comments/c5rh4h/nano_esp8266_trigger_build_guide_the_nano_center/)
