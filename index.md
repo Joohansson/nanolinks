@@ -199,6 +199,9 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jul 04: Turkish Exchange: Bitturk](https://bitturk.com/)
+* [Jul 04: Whitepaper: Accepting cryptocurrency at the point-of-sale](https://www.kappture.co.uk/files/accepting-cryptocurrency-at-the-point-of-sale.pdf)
+* [Jul 04: Game Demo: The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
 * [Jun 27: Informative Medium Articles - James Coxon](https://medium.com/@jacoxon)
 * [Jun 19: Appia - Payment service, PoS](http://appia.co/)
 * [Jun 19: Kappture - Payment service, PoS](https://kappture.co.uk/)
@@ -206,9 +209,6 @@ layout: default
 * [Jun 17: Brainblocks new web wallet](https://app.brainblocks.io/)
 * [Jun 11: Offline Audio Messenger - For offline block signing](https://joohansson.github.io/offline-audio-messenger/)
 * [Jun 05: Nano Cold (Offline, air-gapped) Signing Script](https://github.com/noahc66260/nano-cold-signing)
-* [Jun 03: Nano Websocket Client for Python](https://github.com/guilhermelawless/nano-websocket-sample-py)
-* [Jun 03: Nano Websocket Client for NodeJS](https://github.com/guilhermelawless/nano-websocket-sample-nodejs)
-* [May 29: Hodler multi asset wallet for Android, Win, Linux](https://hodler.tech/)
 
 </div>
 </div>
@@ -254,7 +254,6 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
 * [Learn Nano](https://learnnano.com/)
 * [Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
-* [Third Generation Cryptocurrencies](https://hackernoon.com/why-third-generation-cryptocurrencies-are-game-changers-for-venezuela-cb8c9b016f9d)
 * [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
 * [Informative Medium Articles - Nano Education](https://medium.com/nano-education)
 * [Informative Medium Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
@@ -265,6 +264,14 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 * [Frequently Asked Questions and Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAQ)
 * [HelpNano - Guide for how to help the Nano ecosystem](https://helpnano.org/)
+
+#### External Media
+* [Colin LeMahieu joins the @Crypto101Pod podcast](https://soundcloud.com/crypto101podcast/from-the-archive-nano-and-holochain)
+* [Emerging Economies Are Our Target Market: Nano Founder Colin LeMahieu](https://cryptobriefing.com/nano-adoption-target-market/)
+* [Third Generation Cryptocurrencies](https://hackernoon.com/why-third-generation-cryptocurrencies-are-game-changers-for-venezuela-cb8c9b016f9d)
+
+#### Adoption
+[Accepting cryptocurrency at the point-of-sale](https://www.kappture.co.uk/files/accepting-cryptocurrency-at-the-point-of-sale.pdf)
 
 #### Targeted Countries
 * [Venezuela 1](https://nano.org.ve/)
@@ -357,6 +364,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Bitladon](https://www.bitladon.com/nano)
 * [Coinall](https://www.coinall.com/market?product=nano_btc)
 * [Txbit](https://txbit.io/)
+* [Bitturk](https://bitturk.com/)
 
 #### Quick Crypto Swap/Buy
 ##### Simple way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.
@@ -466,6 +474,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [A Lil Nano](https://www.alilnano.com/)
 * [NanoFaucet.org](https://www.nanofaucet.org/)
 * [NanoFaucet.co](https://nanofaucet.co/)
+* [Getnano](https://getnano.co.uk/)
 * [GetFreeNano - Nano China](https://getfreenano.com/)
 * [NanoQuake - Faucet feature](https://nanocenter.fandom.com/wiki/Nano_Quake)
 
@@ -559,6 +568,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [RaiBlocksJS - JS Lib for RPC](https://github.com/orrybaram/RaiBlocksJS)
 * [RaiBlocksJS 2 - JS Lib for RPC](https://github.com/SergiySW/RaiBlocksJS)
 * [JS Toolkit](https://github.com/marvinroger/nanocurrency-js)
+* [jNano - RPC library for Java](https://github.com/koczadly/jNano)
 * [JNano - Java RPC Client](https://github.com/rotilho/jnano-client)
 * [SwiftyRai - Swift Lib for RPC](https://github.com/xcadaverx/SwiftyRai)
 * [RAI - Pythonic Lib for RPC](https://github.com/kennell/rai)
@@ -638,6 +648,7 @@ There are much fun to do but please proceed with caution.
 * [NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
 * [Eternity Tower](https://eternitytower.net/)
 * [Player Killers Exchange](https://playerkillers.exchange)
+* [The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
 
 ### Video, Music, Art
 * [The Nanoji Generator](https://www.nanojigenerator.com/)
