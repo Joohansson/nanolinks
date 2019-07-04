@@ -32,6 +32,10 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### July 2019
+* [Affy’s Steakhouse Nano Meat-Up Promo Video](https://www.reddit.com/r/nanocurrency/comments/c8421f/check_out_our_promo_video/)
+*[Kappture releases its official ‘white paper’ about how they are integrating Nano into their Point of Sale systems](https://www.reddit.com/r/nanocurrency/comments/c8b00o/kappture_releases_its_official_white_paper_about/)
+
 ### June 2019
 * [Adoption meetup: First? burger ever purchased with Nano at Affy’s Steakhouse in Brooklyn](https://www.reddit.com/r/nanocurrency/comments/c7422n/greetings_from_the_nano_meetup_nyc_this_is_my/)
 * [Nano Node v19 RC5 released with really promising test results](https://www.reddit.com/r/nanocurrency/comments/c6ls8y/nano_node_v19_rc5_released/)
