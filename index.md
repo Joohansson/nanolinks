@@ -271,7 +271,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Third Generation Cryptocurrencies](https://hackernoon.com/why-third-generation-cryptocurrencies-are-game-changers-for-venezuela-cb8c9b016f9d)
 
 #### Adoption
-[Accepting cryptocurrency at the point-of-sale](https://www.kappture.co.uk/files/accepting-cryptocurrency-at-the-point-of-sale.pdf)
+* [Kappture: Accepting cryptocurrency at the point-of-sale](https://www.kappture.co.uk/files/accepting-cryptocurrency-at-the-point-of-sale.pdf)
 
 #### Targeted Countries
 * [Venezuela 1](https://nano.org.ve/)
