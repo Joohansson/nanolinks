@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jul 05: Lex.Exchange - Australian Gateway](https://lex.exchange/)
 * [Jul 04: Turkish Exchange: Bitturk](https://bitturk.com/)
 * [Jul 04: Whitepaper: Accepting cryptocurrency at the point-of-sale](https://www.kappture.co.uk/files/accepting-cryptocurrency-at-the-point-of-sale.pdf)
 * [Jul 04: Game Demo: The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
@@ -208,7 +209,6 @@ layout: default
 * [Jun 18: Nanoverse - Visual Explorer](https://nanoverse.io/)
 * [Jun 17: Brainblocks new web wallet](https://app.brainblocks.io/)
 * [Jun 11: Offline Audio Messenger - For offline block signing](https://joohansson.github.io/offline-audio-messenger/)
-* [Jun 05: Nano Cold (Offline, air-gapped) Signing Script](https://github.com/noahc66260/nano-cold-signing)
 
 </div>
 </div>
@@ -382,6 +382,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [changeNOW.io](https://changenow.io/?to=nano)
 * [Elastum.io - European Gateway](https://elastum.io/)
 * [Bitvavo - European Gateway](https://bitvavo.com/en)
+* [Lex.Exchange - Australian Gateway](https://lex.exchange/)
 
 #### Escrow and Peer-to-peer
 * [Localnano](https://www.localnano.com/)
