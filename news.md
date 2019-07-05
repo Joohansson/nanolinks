@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### July 2019
+* [New Australian Exchange to buy NANO with AUD](https://www.reddit.com/r/nanocurrency/comments/c9fapk/new_australian_exchange_to_buy_nano_with_aud/)
 * [Affy’s Steakhouse Nano Meat-Up Promo Video](https://www.reddit.com/r/nanocurrency/comments/c8421f/check_out_our_promo_video/)
 *[Kappture releases its official ‘white paper’ about how they are integrating Nano into their Point of Sale systems](https://www.reddit.com/r/nanocurrency/comments/c8b00o/kappture_releases_its_official_white_paper_about/)
 
