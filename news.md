@@ -33,6 +33,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### July 2019
+* [Nanopy python library updated for v19](https://www.reddit.com/r/nanocurrency/comments/cc8p2l/nanopy_v19_python_library_for_nano/)
+* [Solidus (node v19) is now live on the Nano network!](https://www.reddit.com/r/nanocurrency/comments/cbzxfu/solidus_is_now_live_on_the_nano_network/)
 * [Community Spotlight: Nano-Faucet.org/NanoVisualizer](https://www.reddit.com/r/nanocurrency/comments/cbka2c/community_spotlight_nanofaucetorgnanovisualizer/)
 * [A successfull stress test at beta network was performed with new records recorded](https://www.reddit.com/r/nanocurrency/comments/cb5xyk/a_successfull_stress_test_at_beta_network_was/)
 * [Nano Foundation adding a new communications team member - Brian White](https://www.reddit.com/r/nanocurrency/comments/c9gaba/weekly_nano_update_7519/)
