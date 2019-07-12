@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jul 12: Patrick Luberus Channel - Nano Education](https://www.youtube.com/user/PatrickLuberus/videos)
 * [Jul 05: Lex.Exchange - Australian Gateway](https://lex.exchange/)
 * [Jul 04: Turkish Exchange: Bitturk](https://bitturk.com/)
 * [Jul 04: Whitepaper: Accepting cryptocurrency at the point-of-sale](https://www.kappture.co.uk/files/accepting-cryptocurrency-at-the-point-of-sale.pdf)
@@ -208,7 +209,6 @@ layout: default
 * [Jun 19: Kappture - Payment service, PoS](https://kappture.co.uk/)
 * [Jun 18: Nanoverse - Visual Explorer](https://nanoverse.io/)
 * [Jun 17: Brainblocks new web wallet](https://app.brainblocks.io/)
-* [Jun 11: Offline Audio Messenger - For offline block signing](https://joohansson.github.io/offline-audio-messenger/)
 
 </div>
 </div>
@@ -288,6 +288,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [The Nano Center](https://www.youtube.com/channel/UCwB_g6LBPGv_anMhywH4BWA)
 * [Jolt Wallet](https://www.youtube.com/channel/UCLfilzzY4NmwNjWtEIibdkA)
 * [Brainblocks](https://www.youtube.com/channel/UCToyZ7QLqVX9mHWPTM8MNwg)
+* [Patrick Luberus - Nano Education](https://www.youtube.com/user/PatrickLuberus/videos)
 
 ### Interesting Videos [Not in channels above]
 * [Transaction Speed Demo - Mobile to Mobile](https://youtu.be/5K8rRISz4RU)
