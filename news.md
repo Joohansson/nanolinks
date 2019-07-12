@@ -40,7 +40,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Nano Foundation adding a new communications team member - Brian White](https://www.reddit.com/r/nanocurrency/comments/c9gaba/weekly_nano_update_7519/)
 * [New Australian Exchange to buy NANO with AUD](https://www.reddit.com/r/nanocurrency/comments/c9fapk/new_australian_exchange_to_buy_nano_with_aud/)
 * [Affy’s Steakhouse Nano Meat-Up Promo Video](https://www.reddit.com/r/nanocurrency/comments/c8421f/check_out_our_promo_video/)
-*[Kappture releases its official ‘white paper’ about how they are integrating Nano into their Point of Sale systems](https://www.reddit.com/r/nanocurrency/comments/c8b00o/kappture_releases_its_official_white_paper_about/)
+* [Kappture releases its official ‘white paper’ about how they are integrating Nano into their Point of Sale systems](https://www.reddit.com/r/nanocurrency/comments/c8b00o/kappture_releases_its_official_white_paper_about/)
 
 ### June 2019
 * [Adoption meetup: First? burger ever purchased with Nano at Affy’s Steakhouse in Brooklyn](https://www.reddit.com/r/nanocurrency/comments/c7422n/greetings_from_the_nano_meetup_nyc_this_is_my/)
