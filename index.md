@@ -366,6 +366,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Coinall](https://www.coinall.com/market?product=nano_btc)
 * [Txbit](https://txbit.io/)
 * [Bitturk](https://bitturk.com/)
+* [Qtrade](https://qtrade.io)
 
 #### Quick Crypto Swap/Buy
 ##### Simple way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.
