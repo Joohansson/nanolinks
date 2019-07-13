@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### July 2019
+* [NANO/BTC now live on qTrade](https://www.reddit.com/r/nanocurrency/comments/ccj1li/nanobtc_now_live_on_qtrade/)
 * [Nanopy python library updated for v19](https://www.reddit.com/r/nanocurrency/comments/cc8p2l/nanopy_v19_python_library_for_nano/)
 * [Solidus (node v19) is now live on the Nano network!](https://www.reddit.com/r/nanocurrency/comments/cbzxfu/solidus_is_now_live_on_the_nano_network/)
 * [Community Spotlight: Nano-Faucet.org/NanoVisualizer](https://www.reddit.com/r/nanocurrency/comments/cbka2c/community_spotlight_nanofaucetorgnanovisualizer/)
