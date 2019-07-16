@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jul 16: Indian Exchange: Wazirx](https://wazirx.com/)
 * [Jul 12: Patrick Luberus Channel - Nano Education](https://www.youtube.com/user/PatrickLuberus/videos)
 * [Jul 05: Lex.Exchange - Australian Gateway](https://lex.exchange/)
 * [Jul 04: Turkish Exchange: Bitturk](https://bitturk.com/)
@@ -208,7 +209,6 @@ layout: default
 * [Jun 19: Appia - Payment service, PoS](http://appia.co/)
 * [Jun 19: Kappture - Payment service, PoS](https://kappture.co.uk/)
 * [Jun 18: Nanoverse - Visual Explorer](https://nanoverse.io/)
-* [Jun 17: Brainblocks new web wallet](https://app.brainblocks.io/)
 
 </div>
 </div>
@@ -367,6 +367,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Txbit](https://txbit.io/)
 * [Bitturk](https://bitturk.com/)
 * [Qtrade](https://qtrade.io)
+* [Wazirx](https://wazirx.com/)
 
 #### Quick Crypto Swap/Buy
 ##### Simple way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.
