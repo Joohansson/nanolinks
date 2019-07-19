@@ -33,6 +33,9 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### July 2019
+* [A comprehensive Nano AMA with Colin LeMahieu](https://www.reddit.com/r/nanocurrency/comments/cdltyu/announcement_ama_with_colin_lemahieu_this/)
+* [Nano listed on a new EletroPay ATM](https://www.reddit.com/r/nanocurrency/comments/ceuaz6/eletropay_nano_new_atm/)
+* [Professional video recap from London 2019 meetup](https://www.reddit.com/r/nanocurrency/comments/ce04l0/nano_uk_meetup_london_july_2019/)
 * [Nano listed on Indian crypto exchange WazirX](https://www.reddit.com/r/nanocurrency/comments/cdje40/nano_listed_on_indian_crypto_exchange_wazirx/)
 * [Nano Node Graphics updated for v19 with new CPS and Cemented blocks charts](https://www.reddit.com/r/nanocurrency/comments/cd4zcc/nano_node_graphics_updated_for_v19_with_new_cps/)
 * [v19 shaving off another 30% confirmation time - now with a median below half a second!](https://www.reddit.com/r/nanocurrency/comments/ccs2k8/v19_shaving_off_another_30_confirmation_time_now/)
