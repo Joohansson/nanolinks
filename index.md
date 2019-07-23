@@ -199,7 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
-* [Jul 23: Public node API & web console](https://nanoverse.io/api/)
+* [Jul 23: Nanoverse: Node API & web console](https://nanoverse.io/api/)
 * [Jul 16: Indian Exchange: Wazirx](https://wazirx.com/)
 * [Jul 12: Patrick Luberus Channel - Nano Education](https://www.youtube.com/user/PatrickLuberus/videos)
 * [Jul 05: Lex.Exchange - Australian Gateway](https://lex.exchange/)
@@ -546,8 +546,8 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Paygenerator - Payment link generator (deep links)](https://nanotipbot.com/paygenerator)
 * [Nano Seed - A Nano take on keys.lol](https://nano-seeds.meltingice.dev/)
 * [Snapy - Free NANO API for Developers](https://snapy.io/)
-* [Public API for Node RPC Calls](https://mynano.ninja/api)
-* [Public node API & web console](https://nanoverse.io/api/)
+* [Mynano: Public node API](https://mynano.ninja/api)
+* [Nanoverse: Public node API & web console](https://nanoverse.io/api/)
 * [Nano Cold (Offline, air-gapped) Signing Script](https://github.com/noahc66260/nano-cold-signing)
 * [Offline Audio Messenger - For offline block signing](https://joohansson.github.io/offline-audio-messenger/)
 
