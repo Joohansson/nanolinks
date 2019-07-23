@@ -403,7 +403,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nanollet** - Windows,Linux,Darwin](https://nanollet.org/)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 * [**Nano Wallet Company** - OSX,Win,Linux,iOS,Android](https://nanowalletcompany.com/)
-* [**VANO** - Browser extention](https://vano.app/)
 
 #### Multi Asset Wallets
 * [**Hodler** - Android, Win, Linux](https://hodler.tech/)
@@ -559,7 +558,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanovault](https://github.com/cronoh/nanovault)
 * [Nanollet](https://github.com/brokenbydefault/Nanollet)
 * [Nanoblocks](https://github.com/nebyark/nano-blocks)
-* [VANO - Light wallet browser extension](https://github.com/marekhoeven/VANO)
 * [Rain - Light Raiblocks Wallet](https://github.com/thehen101/Rain)
 * [Nano Light Wallet - NodeJS](https://github.com/NanoDevs/NanoLightWallet)
 * [Nano Light Wallet](https://github.com/numtel/open-nano-wallet)
