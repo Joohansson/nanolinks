@@ -33,6 +33,10 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### July 2019
+* [r/nanocurrency now has more subscribers than r/raiblocks](https://www.reddit.com/r/nanocurrency/comments/cgnbk8/rnanocurrency_now_has_more_subscribers_than/)
+* [The Nano Center — Celebrating 1 year of Projects, Proposals and Progress](https://www.reddit.com/r/nanocurrency/comments/cg0k0y/the_nano_center_celebrating_1_year_of_projects/)
+* [Nanoverse.io launches a node API](https://www.reddit.com/r/nanocurrency/comments/cg90vp/nanoverseio_launches_a_node_api/)
+* [Solidus pushing down transaction time to 0.27 second - 2.5x faster than v18](https://www.reddit.com/r/nanocurrency/comments/cfj4b3/solidus_pushing_down_transaction_time_to_027/)
 * [A comprehensive Nano AMA with Colin LeMahieu](https://www.reddit.com/r/nanocurrency/comments/cdltyu/announcement_ama_with_colin_lemahieu_this/)
 * [Nano listed on a new EletroPay ATM](https://www.reddit.com/r/nanocurrency/comments/ceuaz6/eletropay_nano_new_atm/)
 * [Professional video recap from London 2019 meetup](https://www.reddit.com/r/nanocurrency/comments/ce04l0/nano_uk_meetup_london_july_2019/)
