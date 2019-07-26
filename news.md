@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### July 2019
+* [Nano Wallet Desktop 1.8.0 Releases (Compatible with V19)](https://www.reddit.com/r/nanocurrency/comments/chnuxc/nano_wallet_desktop_180_releases_compatible_with/)
 * [r/nanocurrency now has more subscribers than r/raiblocks](https://www.reddit.com/r/nanocurrency/comments/cgnbk8/rnanocurrency_now_has_more_subscribers_than/)
 * [The Nano Center — Celebrating 1 year of Projects, Proposals and Progress](https://www.reddit.com/r/nanocurrency/comments/cg0k0y/the_nano_center_celebrating_1_year_of_projects/)
 * [Nanoverse.io launches a node API](https://www.reddit.com/r/nanocurrency/comments/cg90vp/nanoverseio_launches_a_node_api/)
