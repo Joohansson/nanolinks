@@ -409,7 +409,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 
 #### Address Generators, Paper Wallets
-* [Nano Paper Wallet](https://nanopaperwallet.com/)
+* [NanoPaperWallet.com](https://nanopaperwallet.com/)
+* [Paper Wallet Generator (vitorcremonez)](https://vitorcremonez.github.io/nano-paper-wallet/)
 * [Nano Gift - Gift Card and Paper Wallet Generator](https://nanogift.me)
 * [RaiPaper](https://blootoon.github.io/rai-paper/)
 * [Rai Paper Wallet](https://numtel.github.io/rai-paper-wallet/)
