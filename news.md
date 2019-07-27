@@ -354,17 +354,36 @@ Maintaining this content requires some effort. If you want to contribute to this
       }        
     });
 
-    <!-- Enable link tracking -->
-    $('a').click(function(e) {
-      if (!ga.q) {
-        var url = $(this).attr("href");
-        ga("send", "event", "outbound", "click", url, {"hitCallback":
-          function () {
-            document.location = url;
-          }
-        });
-        e.preventDefault();
-      }
-    });
+    //Click analytics. auxclick is called by middle (2) and right (3) button
+		$(document).keydown(function(event){
+			if(event.which=="17")
+				cntrlIsPressed = true;
+		});
+
+		$(document).keyup(function(){
+			cntrlIsPressed = false;
+		});
+
+		var cntrlIsPressed = false;
+
+		$('a').on('click auxclick', function(e) {
+			//Only hitCallback when tracking links in same tab (e.which === 1 means mouse 1)
+			var params = {};
+			if (e.which === 1 && cntrlIsPressed === false) {
+				params.hitCallback = function () {
+					document.location = url;
+				}
+			}
+
+			if (!ga.q) {
+				var url = $(this).attr("href");
+				ga("send", "event", "outbound", "click", url, params);
+
+				//only left click should disable default behavior (or new tab will not work)
+				if (e.which === 1 && cntrlIsPressed === false) {
+					e.preventDefault();
+				}
+			}
+		});
   });
 </script>
