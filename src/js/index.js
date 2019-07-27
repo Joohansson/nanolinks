@@ -58,7 +58,11 @@ $(document).ready(function() {
       var url = $(this).attr("href");
       console.log("GA")
       ga("send", "event", "outbound", "click", url, params);
-      e.preventDefault();
+      
+      //allow middle and ctrl click to default behavior
+      if (!$(this).hasClass("btn-external") && e.which === 1 && cntrlIsPressed === false) {
+        e.preventDefault();
+      }
     }
   });
 
