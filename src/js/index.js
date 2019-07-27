@@ -33,6 +33,7 @@ $(document).ready(function() {
 
   //Click analytics
   $('a').on('click auxclick', function(e) {
+    console.log("Link click")
     //Only hitCallback when tracking links in same tab, to prevent speed button to use href (it uses new tab)
     var params = {};
     if (!$(this).hasClass("btn-external")) {
@@ -43,7 +44,7 @@ $(document).ready(function() {
     
     if (!ga.q) {
       var url = $(this).attr("href");
-      console.log("Link click")
+      console.log("GA")
       ga("send", "event", "outbound", "click", url, params);
       e.preventDefault();
     }
