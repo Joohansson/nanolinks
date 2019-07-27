@@ -230,7 +230,6 @@ Learn everything there is to know about Nano!
 * [Official Nano GitHub Wiki](https://github.com/nanocurrency/raiblocks/wiki)
 * [Medium Channel - Main](https://medium.com/@nanocurrency)
 * [Medium Channel - The Nano Center](https://medium.com/the-nano-center)
-* [FAQ](https://nano.org/en/faq)
 * [Nano Development Fund](https://nanocrawler.cc/explorer/account/xrb_1ipx847tk8o46pwxt5qjdbncjqcbwcc1rrmqnkztrfjy5k7z4imsrata9est/history)
 
 ### Core Social Media & Contribution Channels
@@ -262,7 +261,6 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Informative Medium Articles - James Coxon](https://medium.com/@jacoxon)
 * [Guide: How to secure your Nano](https://medium.com/@d84/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
 * [Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
-* [Frequently Asked Questions and Anti-FUD](https://wiki.nanocenter.org/index.php?title=FAQ)
 * [HelpNano - Guide for how to help the Nano ecosystem](https://helpnano.org/)
 
 #### External Media
