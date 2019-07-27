@@ -32,7 +32,7 @@ $(document).ready(function() {
   });
 
   //Click analytics
-  $('a').click(function(e) {
+  $('a').on('click auxclick', function(e) {
     //Only hitCallback when tracking links in same tab, to prevent speed button to use href (it uses new tab)
     var params = {};
     if (!$(this).hasClass("btn-external")) {
