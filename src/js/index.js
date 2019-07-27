@@ -31,17 +31,18 @@ $(document).ready(function() {
     $(helpDivs[parseInt(val)-1]).show();
   });
 
-  //Click analytics
+  //Click analytics. auxclick is called by middle (2) and right (3) button
   $('a').on('click auxclick', function(e) {
     console.log("Link click")
-    //Only hitCallback when tracking links in same tab, to prevent speed button to use href (it uses new tab)
+    
+    //Only hitCallback when tracking links in same tab (e.which === 1 means mouse 1). Also prevents speed button to use href (it uses new tab by default)
     var params = {};
-    if (!$(this).hasClass("btn-external")) {
+    if (!$(this).hasClass("btn-external") || e.which === 1) {
       params.hitCallback = function () {
         document.location = url;
       }
     }
-    
+
     if (!ga.q) {
       var url = $(this).attr("href");
       console.log("GA")
