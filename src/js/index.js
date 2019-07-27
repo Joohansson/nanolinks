@@ -32,12 +32,23 @@ $(document).ready(function() {
   });
 
   //Click analytics. auxclick is called by middle (2) and right (3) button
+  $(document).keydown(function(event){
+    if(event.which=="17")
+      cntrlIsPressed = true;
+  });
+
+  $(document).keyup(function(){
+    cntrlIsPressed = false;
+  });
+
+  var cntrlIsPressed = false;
+  
   $('a').on('click auxclick', function(e) {
     console.log("Link click")
     
     //Only hitCallback when tracking links in same tab (e.which === 1 means mouse 1). Also prevents speed button to use href (it uses new tab by default)
     var params = {};
-    if (!$(this).hasClass("btn-external") || e.which === 1) {
+    if (!$(this).hasClass("btn-external") && e.which === 1 && cntrlIsPressed === false) {
       params.hitCallback = function () {
         document.location = url;
       }
