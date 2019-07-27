@@ -48,19 +48,16 @@ $(document).ready(function() {
     var params = {};
     if (!$(this).hasClass("btn-external") && e.which === 1 && cntrlIsPressed === false) {
       params.hitCallback = function () {
-        console.log("callback")
         document.location = url;
       }
     }
 
     if (!ga.q) {
       var url = $(this).attr("href");
-      console.log("GA")
       ga("send", "event", "outbound", "click", url, params);
       
-      //allow middle and ctrl click to default behavior
+      //only left click should disable default behavior (or new tab will not work)
       if (!$(this).hasClass("btn-external") && e.which === 1 && cntrlIsPressed === false) {
-        console.log("prevent")
         e.preventDefault();
       }
     }
