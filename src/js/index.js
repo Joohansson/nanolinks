@@ -36,15 +36,16 @@ $(document).ready(function() {
     //Only hitCallback when tracking links in same tab, to prevent speed button to use href (it uses new tab)
     var params = {};
     if (!$(this).hasClass("btn-external")) {
-    params.hitCallback = function () {
-      document.location = url;
-    }
+      params.hitCallback = function () {
+        document.location = url;
+      }
     }
     
     if (!ga.q) {
-    var url = $(this).attr("href");
-    ga("send", "event", "outbound", "click", url, params);
-    e.preventDefault();
+      var url = $(this).attr("href");
+      console.log("Link click")
+      ga("send", "event", "outbound", "click", url, params);
+      e.preventDefault();
     }
   });
 
