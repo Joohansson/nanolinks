@@ -44,12 +44,11 @@ $(document).ready(function() {
   var cntrlIsPressed = false;
   
   $('a').on('click auxclick', function(e) {
-    console.log("Link click")
-    
     //Only hitCallback when tracking links in same tab (e.which === 1 means mouse 1). Also prevents speed button to use href (it uses new tab by default)
     var params = {};
     if (!$(this).hasClass("btn-external") && e.which === 1 && cntrlIsPressed === false) {
       params.hitCallback = function () {
+        console.log("callback")
         document.location = url;
       }
     }
@@ -61,6 +60,7 @@ $(document).ready(function() {
       
       //allow middle and ctrl click to default behavior
       if (!$(this).hasClass("btn-external") && e.which === 1 && cntrlIsPressed === false) {
+        console.log("prevent")
         e.preventDefault();
       }
     }
