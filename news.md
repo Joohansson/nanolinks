@@ -33,6 +33,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### July 2019
+* [NanoVault Desktop Upgrades to v1.2.0 - v19 Ready](https://www.reddit.com/r/nanocurrency/comments/cjkccf/notice_to_nanovault_desktop_users_upgrade_to_v120/)
+* [Announcement: The Nano Center Google Ads Campaign (Round 2)](https://www.reddit.com/r/nanocurrency/comments/cjgx2l/announcement_the_nano_center_google_ads_campaign/)
 * [Kappture point-of-sale continuing to innovate with Nano and NFC](https://www.reddit.com/r/nanocurrency/comments/cil6hi/kappture_pointofsale_continuing_to_innovate_with/)
 * [Nano UK meetup full length professional videos now on YouTube](https://www.reddit.com/r/nanocurrency/comments/ci6a1w/nano_uk_meetup_videos_now_on_youtube/)
 * [Nano Wallet Desktop 1.8.0 Releases (Compatible with V19)](https://www.reddit.com/r/nanocurrency/comments/chnuxc/nano_wallet_desktop_180_releases_compatible_with/)
