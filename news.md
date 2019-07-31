@@ -33,6 +33,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### July 2019
+* [Nanocurrency proudly presents Nano specific community awards!](https://www.reddit.com/r/nanocurrency/comments/ck7a7q/nanocurrency_proudly_presents_nano_specific/)
+* [Introducing Nanocards - The world's first physical card game where you pay/win cryptocurrency](https://www.reddit.com/r/nanocurrency/comments/ck6e6e/introducing_the_worlds_first_physical_card_game/)
 * [Community manager Guilherme Lawless has joined the Nano Foundation team](https://www.reddit.com/r/nanocurrency/comments/cjsyhd/a_warm_welcome_to_the_nano_foundations_newest/)
 * [NanoVault Desktop Upgrades to v1.2.0 - v19 Ready](https://www.reddit.com/r/nanocurrency/comments/cjkccf/notice_to_nanovault_desktop_users_upgrade_to_v120/)
 * [Nanocast returns from a long pause!](https://www.reddit.com/r/nanocurrency/comments/chi013/the_nanocast_july_update/)
