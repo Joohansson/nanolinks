@@ -722,6 +722,7 @@ Maintaining this content requires some effort. If you want to contribute to this
 </figure>
 
 </div>
+	<a href="https://twitter.com/nano_links" class="twitter-follow-button" data-show-count="false">Follow @nano_links</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 <img id="bottom-logo" src="https://raw.githubusercontent.com/Joohansson/nanolinks/master/src/nanolinks_simple.png" alt="NanoLinks" />
