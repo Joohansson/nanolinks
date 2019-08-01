@@ -720,9 +720,9 @@ Maintaining this content requires some effort. If you want to contribute to this
 		<a href="nano:nano_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo">Open in Wallet</a>
 	</figcaption>
 </figure>
-
+<br>
+<a href="https://twitter.com/nano_links" class="twitter-follow-button" data-show-count="false">Follow @nano_links</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-	<a href="https://twitter.com/nano_links" class="twitter-follow-button" data-show-count="false">Follow @nano_links</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 <img id="bottom-logo" src="https://raw.githubusercontent.com/Joohansson/nanolinks/master/src/nanolinks_simple.png" alt="NanoLinks" />
