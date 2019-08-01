@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jul 30: NanoCards - A free printable card game](https://nanocards.net/)
 * [Jul 23: Nanoverse: Node API & web console](https://nanoverse.io/api/)
 * [Jul 16: Indian Exchange: Wazirx](https://wazirx.com/)
 * [Jul 12: Patrick Luberus Channel - Nano Education](https://www.youtube.com/user/PatrickLuberus/videos)
@@ -208,7 +209,6 @@ layout: default
 * [Jul 04: Game Demo: The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
 * [Jun 27: Informative Medium Articles - James Coxon](https://medium.com/@jacoxon)
 * [Jun 19: Appia - Payment service, PoS](http://appia.co/)
-* [Jun 19: Kappture - Payment service, PoS](https://kappture.co.uk/)
 
 </div>
 </div>
@@ -648,6 +648,7 @@ There are much fun to do but please proceed with caution.
 
 ### Games
 * [NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
+* [NanoCards - A free printable card game](https://nanocards.net/)
 * [Eternity Tower](https://eternitytower.net/)
 * [Player Killers Exchange](https://playerkillers.exchange)
 * [The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
