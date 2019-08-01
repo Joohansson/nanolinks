@@ -538,6 +538,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Stylish QR Code Guide](https://medium.com/@d84/how-to-create-a-stylish-nano-qr-code-1bfc1eba5a96)
 * [Custom QR Generator](http://nanosign.org)
 * [Nanofy - File Signing](https://nanofy.org/)
+* [Offline Audio Messenger - Ex. offline block signing](https://joohansson.github.io/offline-audio-messenger/)
 * [Nano Paywall - Pay to unlock wordpress content](https://github.com/nanoble-org/nano-paywall)
 * [247 Node - Free Nano Node Domain](https://247node.net/)
 * [Nanote.io - Send messages with nano](https://nanote.io/)
@@ -547,7 +548,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Mynano: Public node API](https://mynano.ninja/api)
 * [Nanoverse: Public node API & web console](https://nanoverse.io/api/)
 * [Nano Cold (Offline, air-gapped) Signing Script](https://github.com/noahc66260/nano-cold-signing)
-* [Offline Audio Messenger - For offline block signing](https://joohansson.github.io/offline-audio-messenger/)
 
 ### Wallets [Source Code]
 * [Natrium](https://github.com/BananoCoin/natrium-android-wallet)
