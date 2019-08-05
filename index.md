@@ -27,7 +27,7 @@ layout: default
 <div class="blur"></div>
 <div class="overlay"></div>
 <div class="link-content">
-  <p class="noscript">No javascript detected, functionality is limited.</p>
+  <p class="noscript">No javascript detected, functionality will be limited.</p>
 <div class="first-header">
   <span class="helper"></span>
   <button class="site-btn collapse">What is Nano?</button>
