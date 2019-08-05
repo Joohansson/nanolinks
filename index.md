@@ -69,7 +69,7 @@ layout: default
 </table>
 <div class="stext">
   <p>*1 No mining, no fees.</p>
-  <p>*2 Typically around 0.1-1 USD/transaction but was $37 while network was saturated. No upper limit and controlled by demand.</p>
+  <p>*2 Typically around 0.1-1 USD/transaction but was $37 while the network was saturated. No upper limit and controlled by demand.</p>
   <p>*3 Median time of sending from node A until detected confirmed and fully settled on node B. As of Jul 2019, node v19. PoW not included but that is mostly precalculated before sending.</p>
   <p>*4 Depends on the fee. A high fee typically results in transactions to be cleared in 10min but with lower fee take 1h or more.</p>
   <p>*5 Only limited by node hardware. 7000 TPS was done in early lab. No real test on mainnet has been made yet but will be as soon as planned protocol optimizations have been done. 100 TPS has already been seen on the network.</p>
