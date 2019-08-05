@@ -711,7 +711,7 @@ If you have a nano account you can help decentralize the network by choosing a r
 
 ### Donations
 <div class="first-para" markdown="1">
-Maintaining this content requires some effort. If you want to contribute to this cause then any small donation is greatly appreciated!
+It takes some effort to maintaining this content. If you want to contribute to this project then any small donation is always appreciated!
 <br>
 </div>
 <figure>
