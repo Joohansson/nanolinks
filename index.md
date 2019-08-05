@@ -465,7 +465,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
 * [Nano Gift - Gift Card and Paper Wallet Generator](https://nanogift.me)
 * [Nanogate - Giftcards](https://nanogate.io/)
-* [The Micrypto Marketplace - Hash Power Trading](https://www.micrypto.co)
+* [The Micrypto Marketplace - Hash power trading](https://www.micrypto.co)
 * [Nano Pay - Chrome payment extension](https://github.com/PaulBenabou/Nano-Pay)
 * [Nano Donate - Chrome donation extension](https://nanocharts.info/nano-donate.html)
 * [Mynano.link - Payment link generator](https://mynano.link/)
