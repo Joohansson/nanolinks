@@ -199,7 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
-* [Aug 06: OpenAPI: Public RPC API](https://aspic.github.io/nano-rpc-api/)
+* [Aug 06: OpenAPI Specification for Nano RPC API](https://aspic.github.io/nano-rpc-api/)
 * [Jul 30: NanoCards - A free printable card game](https://nanocards.net/)
 * [Jul 23: Nanoverse: Node API & web console](https://nanoverse.io/api/)
 * [Jul 16: Indian Exchange: Wazirx](https://wazirx.com/)
@@ -549,7 +549,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Snapy - Free NANO API for Developers](https://snapy.io/)
 * [Mynano: Public node API](https://mynano.ninja/api)
 * [Nanoverse: Public node API & web console](https://nanoverse.io/api/)
-* [OpenAPI: Public RPC API](https://aspic.github.io/nano-rpc-api/)
+* [OpenAPI Specification for Nano RPC API](https://aspic.github.io/nano-rpc-api/)
 * [Nano Cold (Offline, air-gapped) Signing Script](https://github.com/noahc66260/nano-cold-signing)
 
 ### Wallets [Source Code]
