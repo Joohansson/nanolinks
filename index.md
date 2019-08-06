@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Aug 06: OpenAPI: Public RPC API](https://aspic.github.io/nano-rpc-api/)
 * [Jul 30: NanoCards - A free printable card game](https://nanocards.net/)
 * [Jul 23: Nanoverse: Node API & web console](https://nanoverse.io/api/)
 * [Jul 16: Indian Exchange: Wazirx](https://wazirx.com/)
@@ -208,7 +209,6 @@ layout: default
 * [Jul 04: Whitepaper: Accepting cryptocurrency at the point-of-sale](https://www.kappture.co.uk/files/accepting-cryptocurrency-at-the-point-of-sale.pdf)
 * [Jul 04: Game Demo: The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
 * [Jun 27: Informative Medium Articles - James Coxon](https://medium.com/@jacoxon)
-* [Jun 19: Appia - Payment service, PoS](http://appia.co/)
 
 </div>
 </div>
@@ -549,6 +549,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Snapy - Free NANO API for Developers](https://snapy.io/)
 * [Mynano: Public node API](https://mynano.ninja/api)
 * [Nanoverse: Public node API & web console](https://nanoverse.io/api/)
+* [OpenAPI: Public RPC API](https://aspic.github.io/nano-rpc-api/)
 * [Nano Cold (Offline, air-gapped) Signing Script](https://github.com/noahc66260/nano-cold-signing)
 
 ### Wallets [Source Code]
