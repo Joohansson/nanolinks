@@ -32,6 +32,10 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### August 2019
+* [NanoLinks celebrating 1 year online with a treasure hunt](https://www.reddit.com/r/nanocurrency/comments/cn5ddn/nanolinks_celebrating_1_year_online_treasure_hunt/)
+* [The Nano Center Google Ads Project Funded & Live!](https://www.reddit.com/r/nanocurrency/comments/cmpuhi/the_nano_center_google_ads_project_funded_live/)
+
 ### July 2019
 * [Nanocurrency proudly presents Nano specific community awards!](https://www.reddit.com/r/nanocurrency/comments/ck7a7q/nanocurrency_proudly_presents_nano_specific/)
 * [Introducing Nanocards - The world's first physical card game where you pay/win cryptocurrency](https://www.reddit.com/r/nanocurrency/comments/ck6e6e/introducing_the_worlds_first_physical_card_game/)
