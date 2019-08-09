@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### August 2019
+* [Brainblocks Wallet left beta](https://www.reddit.com/r/nanocurrency/comments/cnpd6m/brainblocks_wallet_left_beta/)
 * [NanoLinks celebrating 1 year online with a treasure hunt](https://www.reddit.com/r/nanocurrency/comments/cn5ddn/nanolinks_celebrating_1_year_online_treasure_hunt/)
 * [The Nano Center Google Ads Project Funded & Live!](https://www.reddit.com/r/nanocurrency/comments/cmpuhi/the_nano_center_google_ads_project_funded_live/)
 
