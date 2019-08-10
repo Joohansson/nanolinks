@@ -240,7 +240,8 @@ Learn everything there is to know about Nano!
 * [Facebook](https://www.facebook.com/nanofoundation/)
 * [LinkedIn](https://www.linkedin.com/company/nano-foundation/)
 * [Instagram](https://www.instagram.com/nanocurrency/)
-* [Telegram](https://t.me/RaiBlocks)
+* [Telegram](https://t.me/nanocurrency)
+* [Telegram China](https://t.me/NanoCN)
 
 ### Scientific Papers
 * [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
