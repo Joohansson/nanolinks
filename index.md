@@ -626,6 +626,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 ### Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
 * [Beta Net Explorer - NanoCrawler](https://beta.nanocrawler.cc/)
+* [Beta Net Stats - Repnode](https://b.repnode.org/)
 * [Beta Net Visualizer](https://nano-faucet.org/visualizer/beta/)
 * [Beta Net Confirmation Chart](https://nano-faucet.org/beta/chart/)
 * [Beta Net Stats - Nanode21](https://nanode21.cloud/testnetstats.php)
