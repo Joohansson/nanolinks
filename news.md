@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### August 2019
+* [Kappture + PoS + Natrium + NFC = True](https://www.reddit.com/r/nanocurrency/comments/cq1v93/instant_contactless_payments_with_nano_using/)
 * [Nano is being evaluated to be put on Binance.us](https://www.reddit.com/r/nanocurrency/comments/co4f10/nano_is_on_binances_shortlist_for_crypto_being/)
 * [Brainblocks Wallet left beta](https://www.reddit.com/r/nanocurrency/comments/cnpd6m/brainblocks_wallet_left_beta/)
 * [NanoLinks celebrating 1 year online with a treasure hunt](https://www.reddit.com/r/nanocurrency/comments/cn5ddn/nanolinks_celebrating_1_year_online_treasure_hunt/)
