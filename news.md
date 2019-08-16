@@ -33,6 +33,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### August 2019
+* [Introducing NanoPixelWall - Advirtise your pixels for Nano](https://www.reddit.com/r/nanocurrency/comments/cr6y2m/introducing_nanopixelwall/)
+* [Video demo of the upoming Unreal Engine 4 plugin for Nano](https://www.reddit.com/r/nanocurrency/comments/cr3kki/video_demo_of_the_upoming_unreal_engine_4_plugin/)
 * [Kappture + PoS + Natrium + NFC = True](https://www.reddit.com/r/nanocurrency/comments/cq1v93/instant_contactless_payments_with_nano_using/)
 * [Nano is being evaluated to be put on Binance.us](https://www.reddit.com/r/nanocurrency/comments/co4f10/nano_is_on_binances_shortlist_for_crypto_being/)
 * [Brainblocks Wallet left beta](https://www.reddit.com/r/nanocurrency/comments/cnpd6m/brainblocks_wallet_left_beta/)
