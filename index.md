@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Aug 16: NanoPixelWall - Buy your pixel spot](https://nanopixelwall.com/)
 * [Aug 06: OpenAPI Specification for Nano RPC API](https://aspic.github.io/nano-rpc-api/)
 * [Jul 30: NanoCards - A free printable card game](https://nanocards.net/)
 * [Jul 23: Nanoverse: Node API & web console](https://nanoverse.io/api/)
@@ -208,7 +209,6 @@ layout: default
 * [Jul 04: Turkish Exchange: Bitturk](https://bitturk.com/)
 * [Jul 04: Whitepaper: Accepting cryptocurrency at the point-of-sale](https://www.kappture.co.uk/files/accepting-cryptocurrency-at-the-point-of-sale.pdf)
 * [Jul 04: Game Demo: The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
-* [Jun 27: Informative Medium Articles - James Coxon](https://medium.com/@jacoxon)
 
 </div>
 </div>
@@ -659,6 +659,7 @@ There are much fun to do but please proceed with caution.
 * [The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
 
 ### Video, Music, Art
+* [NanoPixelWall - Buy your pixel spot](https://nanopixelwall.com/)
 * [The Nanoji Generator](https://www.nanojigenerator.com/)
 * [Nano Wallpapers](https://www.nano-wallpapers.com/)
 
