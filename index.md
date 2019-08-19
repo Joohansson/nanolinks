@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Aug 19: Nanoticker - Nano Network Analytics](https://nanoticker.info/)
 * [Aug 16: NanoPixelWall - Buy your pixel spot](https://nanopixelwall.com/)
 * [Aug 06: OpenAPI Specification for Nano RPC API](https://aspic.github.io/nano-rpc-api/)
 * [Jul 30: NanoCards - A free printable card game](https://nanocards.net/)
@@ -208,7 +209,6 @@ layout: default
 * [Jul 05: Lex.Exchange - Australian Gateway](https://lex.exchange/)
 * [Jul 04: Turkish Exchange: Bitturk](https://bitturk.com/)
 * [Jul 04: Whitepaper: Accepting cryptocurrency at the point-of-sale](https://www.kappture.co.uk/files/accepting-cryptocurrency-at-the-point-of-sale.pdf)
-* [Jul 04: Game Demo: The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
 
 </div>
 </div>
@@ -318,6 +318,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Nano-Faucet.org - Explorer, Stats, Visualizer, Map, Account list](https://nano-faucet.org/visualizer/)
 * [Repnode.org - Explorer, Stats, Reps, Network speed](https://repnode.org/)
 * [My Nano Ninja - Representatives, Stats, Explorer](https://mynano.ninja/)
+* [Nanoticker - Nano Network Analytics & Performance](https://nanoticker.info/)
 * [NANOODLE - Explorer,  Fiat Tracker, Stat Charts, Account Alerting](https://nanoodle.io/live)
 * [Nanoverse - Visual Explorer](https://nanoverse.io/)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
@@ -440,7 +441,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [WorldCoinIndex](https://www.worldcoinindex.com/coin/nano)
 * [Cryptowat.ch - Nano/BTC Binance](https://cryptowat.ch/markets/binance/nano/btc/5m)
 * [Tradingview - Nano/BTC Binance](https://www.tradingview.com/symbols/NANOBTC/)
-* [Nanoticker - Price and TPS](https://nanoticker.info/)
 * [Coinyep - Multi-Currencies Converter](https://coinyep.com/)
 * [Livecoins - Nano/BRL/USD/BTC Converter](https://livecoins.com.br/nano-hoje-cotacao-nano/)
 * [Nano/USD Converter](http://raiw.krampe.se/value.html?currency=raiblocks&to=usd&value=100)
