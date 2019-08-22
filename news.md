@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### August 2019
+* [Prototype Nano/Airtime bot being used in Ghana](https://www.reddit.com/r/nanocurrency/comments/csvlrv/ghananano_prototype_nanoairtime_bot_being_used_in/)
 * [Introducing NanoTicker - Real-time analytics and health status for the Nano network](https://www.reddit.com/r/nanocurrency/comments/csf30q/introducing_realtime_analytics_and_health_status/)
 * [Introducing NanoPixelWall - Advirtise your pixels for Nano](https://www.reddit.com/r/nanocurrency/comments/cr6y2m/introducing_nanopixelwall/)
 * [Video demo of the upoming Unreal Engine 4 plugin for Nano](https://www.reddit.com/r/nanocurrency/comments/cr3kki/video_demo_of_the_upoming_unreal_engine_4_plugin/)
