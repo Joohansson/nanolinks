@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### August 2019
+* [NanoWallet.io departure from BrainBlocks](https://www.reddit.com/r/nanocurrency/comments/cuh2qt/nanowallet_departure_from_brainblocks/)
 * [Prototype Nano/Airtime bot being used in Ghana](https://www.reddit.com/r/nanocurrency/comments/csvlrv/ghananano_prototype_nanoairtime_bot_being_used_in/)
 * [Introducing NanoTicker - Real-time analytics and health status for the Nano network](https://www.reddit.com/r/nanocurrency/comments/csf30q/introducing_realtime_analytics_and_health_status/)
 * [Introducing NanoPixelWall - Advirtise your pixels for Nano](https://www.reddit.com/r/nanocurrency/comments/cr6y2m/introducing_nanopixelwall/)
