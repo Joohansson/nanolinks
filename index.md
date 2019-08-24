@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Aug 24: Passwordless Authentication (Demo)](https://nanocharts.info/passwordless/)
 * [Aug 19: Nanoticker - Nano Network Analytics](https://nanoticker.info/)
 * [Aug 16: NanoPixelWall - Buy your pixel spot](https://nanopixelwall.com/)
 * [Aug 06: OpenAPI Specification for Nano RPC API](https://aspic.github.io/nano-rpc-api/)
@@ -208,7 +209,6 @@ layout: default
 * [Jul 12: Patrick Luberus Channel - Nano Education](https://www.youtube.com/user/PatrickLuberus/videos)
 * [Jul 05: Lex.Exchange - Australian Gateway](https://lex.exchange/)
 * [Jul 04: Turkish Exchange: Bitturk](https://bitturk.com/)
-* [Jul 04: Whitepaper: Accepting cryptocurrency at the point-of-sale](https://www.kappture.co.uk/files/accepting-cryptocurrency-at-the-point-of-sale.pdf)
 
 </div>
 </div>
@@ -552,6 +552,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanoverse: Public node API & web console](https://nanoverse.io/api/)
 * [OpenAPI Specification for Nano RPC API](https://aspic.github.io/nano-rpc-api/)
 * [Nano Cold (Offline, air-gapped) Signing Script](https://github.com/noahc66260/nano-cold-signing)
+* [Passwordless Authentication (Demo)](https://nanocharts.info/passwordless/)
 
 ### Wallets [Source Code]
 * [Natrium](https://github.com/BananoCoin/natrium-android-wallet)
