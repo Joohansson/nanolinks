@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### August 2019
+* [Nano listed on Crypto.com](https://www.reddit.com/r/nanocurrency/comments/cw0yx2/nano_is_now_on_cryptocom/)
 * [Concept demo: Passwordless Authentication using Nano transactions](https://www.reddit.com/r/nanocurrency/comments/cuw5rd/passwordless_authentication_using_cryptocurrency/)
 * [NanoWallet.io departure from BrainBlocks](https://www.reddit.com/r/nanocurrency/comments/cuh2qt/nanowallet_departure_from_brainblocks/)
 * [Prototype Nano/Airtime bot being used in Ghana](https://www.reddit.com/r/nanocurrency/comments/csvlrv/ghananano_prototype_nanoairtime_bot_being_used_in/)
