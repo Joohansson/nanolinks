@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Aug 27: Crypto.com - Exchange](https://crypto.com)
 * [Aug 24: Passwordless Authentication (Demo)](https://nanocharts.info/passwordless/)
 * [Aug 19: Nanoticker - Nano Network Analytics](https://nanoticker.info/)
 * [Aug 16: NanoPixelWall - Buy your pixel spot](https://nanopixelwall.com/)
@@ -208,7 +209,6 @@ layout: default
 * [Jul 16: Indian Exchange: Wazirx](https://wazirx.com/)
 * [Jul 12: Patrick Luberus Channel - Nano Education](https://www.youtube.com/user/PatrickLuberus/videos)
 * [Jul 05: Lex.Exchange - Australian Gateway](https://lex.exchange/)
-* [Jul 04: Turkish Exchange: Bitturk](https://bitturk.com/)
 
 </div>
 </div>
@@ -347,7 +347,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 ### Exchanges
 
-#### Multiple cryptos
+#### Traditional Exchanges
 * [Binance](https://www.binance.com)
 * [KuCoin](https://www.kucoin.com)
 * [OkEx](https://www.okex.com/)
@@ -374,6 +374,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 * [Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
 * [Coingate](https://coingate.com/buy/nano)
+* [Crypto.com](https://crypto.com)
 * [N.Exchange](https://n.exchange/)
 * [Swaplab](https://swaplab.cc/)
 * [FastX](https://fastx.io/)
