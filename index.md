@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Aug 29: Feed the birds with Nano live stream](https://www.youtube.com/watch?v=otpqipL3H8Q)
 * [Aug 27: Crypto.com - Exchange](https://crypto.com)
 * [Aug 24: Passwordless Authentication (Demo)](https://nanocharts.info/passwordless/)
 * [Aug 19: Nanoticker - Nano Network Analytics](https://nanoticker.info/)
@@ -208,7 +209,6 @@ layout: default
 * [Jul 23: Nanoverse: Node API & web console](https://nanoverse.io/api/)
 * [Jul 16: Indian Exchange: Wazirx](https://wazirx.com/)
 * [Jul 12: Patrick Luberus Channel - Nano Education](https://www.youtube.com/user/PatrickLuberus/videos)
-* [Jul 05: Lex.Exchange - Australian Gateway](https://lex.exchange/)
 
 </div>
 </div>
@@ -664,6 +664,7 @@ There are much fun to do but please proceed with caution.
 * [NanoPixelWall - Buy your pixel spot](https://nanopixelwall.com/)
 * [The Nanoji Generator](https://www.nanojigenerator.com/)
 * [Nano Wallpapers](https://www.nano-wallpapers.com/)
+* [Feed the birds with Nano live stream](https://www.youtube.com/watch?v=otpqipL3H8Q)
 
 ## Services
 Digital or physical services which accepts Nano
