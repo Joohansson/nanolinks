@@ -201,6 +201,7 @@ layout: default
 ## Latest Additions
 * [Aug 29: Nanode.cc - Explorer, Stats, Account list](https://nanode.cc/)
 * [Aug 29: Feed the birds with Nano live stream](https://www.youtube.com/watch?v=otpqipL3H8Q)
+* [Aug 29: Uphold - Exchange](https://uphold.com/)
 * [Aug 27: Crypto.com - Exchange](https://crypto.com)
 * [Aug 24: Passwordless Authentication (Demo)](https://nanocharts.info/passwordless/)
 * [Aug 19: Nanoticker - Nano Network Analytics](https://nanoticker.info/)
@@ -208,7 +209,6 @@ layout: default
 * [Aug 06: OpenAPI Specification for Nano RPC API](https://aspic.github.io/nano-rpc-api/)
 * [Jul 30: NanoCards - A free printable card game](https://nanocards.net/)
 * [Jul 23: Nanoverse: Node API & web console](https://nanoverse.io/api/)
-* [Jul 16: Indian Exchange: Wazirx](https://wazirx.com/)
 
 </div>
 </div>
@@ -375,6 +375,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 * [Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
 * [Coingate](https://coingate.com/buy/nano)
+* [Uphold](https://uphold.com/)
 * [Crypto.com](https://crypto.com)
 * [N.Exchange](https://n.exchange/)
 * [Swaplab](https://swaplab.cc/)
