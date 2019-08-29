@@ -33,6 +33,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### August 2019
+* [Feed birds with Nano - Live stream](https://www.reddit.com/r/nanocurrency/comments/cx032b/feed_birds_with_nano_live_stream/)
+* [Nano isted on Uphold](https://www.reddit.com/r/nanocurrency/comments/cx2873/nano_is_now_available_on_uphold/)
 * [Nano listed on Crypto.com](https://www.reddit.com/r/nanocurrency/comments/cw0yx2/nano_is_now_on_cryptocom/)
 * [Concept demo: Passwordless Authentication using Nano transactions](https://www.reddit.com/r/nanocurrency/comments/cuw5rd/passwordless_authentication_using_cryptocurrency/)
 * [NanoWallet.io departure from BrainBlocks](https://www.reddit.com/r/nanocurrency/comments/cuh2qt/nanowallet_departure_from_brainblocks/)
