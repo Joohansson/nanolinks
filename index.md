@@ -199,7 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
-* [Aug 29: Nanode.cc - Explorer, Account list](https://nanode.cc/)
+* [Aug 29: Nanode.cc - Explorer, Stats, Account list](https://nanode.cc/)
 * [Aug 29: Feed the birds with Nano live stream](https://www.youtube.com/watch?v=otpqipL3H8Q)
 * [Aug 27: Crypto.com - Exchange](https://crypto.com)
 * [Aug 24: Passwordless Authentication (Demo)](https://nanocharts.info/passwordless/)
@@ -318,7 +318,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Nano-Faucet.org - Explorer, Stats, Visualizer, Map, Account list](https://nano-faucet.org/visualizer/)
 * [Repnode.org - Explorer, Stats, Reps, Network speed](https://repnode.org/)
 * [My Nano Ninja - Representatives, Stats, Explorer](https://mynano.ninja/)
-* [Nanode.cc - Explorer, Account list](https://nanode.cc/)
+* [Nanode.cc - Explorer, Stats, Account list](https://nanode.cc/)
 * [Nanoticker - Nano Network Analytics & Performance](https://nanoticker.info/)
 * [NANOODLE - Explorer,  Fiat Tracker, Stat Charts, Account Alerting](https://nanoodle.io/live)
 * [Nanoverse - Visual Explorer](https://nanoverse.io/)
