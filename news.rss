@@ -22,7 +22,7 @@
       <description><![CDATA[A clever bird feeding invention using cryptocurrencies like Nano. Send funds a micro controller and watch the birds eat live on youtube!]]></description>
     </item>
     <item>
-      <title>Nano isted on Uphold</title>
+      <title>Nano listed on Uphold</title>
       <pubDate>Thu, 29 Aug 2019 13:08:51 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/cx2873/nano_is_now_available_on_uphold/</link>
       <category>Listing</category>
@@ -143,6 +143,210 @@ NanoPixelWall could be a perfect place to advertise your latest nano (or non-nan
       <category>Release</category>
       <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/release.jpg" length="0" type="image/jpeg" />
       <description><![CDATA[A card game where you by strategic choices makes your friends pay in Nano via QR codes to a common wallet. One player will get the PAYOUT card (if not stolen by another player) which can be swept by Natrium to receive the full pot in seconds. It's a replacement of typical FIAT betting and is a fun (I hope) and educational way to get introduced to crypto and you don't need physical coins! Nano allows the process to be secure, fast and feeless which is essential to this game.]]></description>
+    </item>
+    <item>
+      <title>Community manager Guilherme Lawless has joined the Nano Foundation team</title>
+      <pubDate>Tue, 30 Jul 2019 14:40:08 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cjsyhd/a_warm_welcome_to_the_nano_foundations_newest/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[We are pleased to announce that Guilherme Lawless ( u/DotcomL) has joined the Nano Foundation team in a unique role by supporting various technical and organizational areas. In addition to assisting with protocol development and documentation efforts, he will be a great technical bridge between the Nano Foundation and the community, improving our collaboration and transparency across the board.]]></description>
+    </item>
+    <item>
+      <title>NanoVault Desktop Upgrades to v1.2.0 - v19 Ready</title>
+      <pubDate>Tue, 30 Jul 2019 14:41:16 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cjkccf/notice_to_nanovault_desktop_users_upgrade_to_v120/</link>
+      <category>Release</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Hey everyone, if you are using the NanoVault Desktop application, you should upgrade to version 1.2.0 here if the autoupdater is not working for you (It seems to not be in some scenarios).
+
+Version 19 of the Nano Node brought some changes to how the RPC functions, which requires changing xrb_ prefixes to nano_ prefixes in your local data. Without this update, you will see incorrect balances for your accounts as the old wallet code conflicts with the responses of the v19 Node RPC.]]></description>
+    </item>
+    <item>
+      <title>Announcement: The Nano Center Google Ads Campaign (Round 2)</title>
+      <pubDate>Mon, 29 Jul 2019 14:43:31 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cjgx2l/announcement_the_nano_center_google_ads_campaign/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[It's marketing time. u/kojoslayer has put together another proposal for a Google Ads campaign, this time looking at banner adverts on the Google Display Network. Please view the full details of the proposal here and don't forget to have a read of the supporting document. The goal is to reach users in specific regions of the world that show interest in crypto, investments, technology etc. This is a brand awareness campaign which will point users to a page on The Nano Center website similar to the Youtube video advertisement campaign ran in 2018. We hope you consider donating to this project.]]></description>
+    </item>
+    <item>
+      <title>Kappture point-of-sale continuing to innovate with Nano and NFC</title>
+      <pubDate>Sat, 27 Jul 2019 14:44:42 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cil6hi/kappture_pointofsale_continuing_to_innovate_with/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[NANO accepted on Kapture counter-top terminals. This is the setup we demonstrated at the meetup in London... with a twist!]]></description>
+    </item>
+    <item>
+      <title>A comprehensive Nano AMA with Colin LeMahieu: Summary</title>
+      <pubDate>Sat, 27 Jul 2019 14:52:37 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cimhaw/qa_with_colin_lemahieu_recap/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Summary of the community driven Ask Me Anything with Colin LeMahieu]]></description>
+    </item>
+    <item>
+      <title>Nano UK meetup full length professional videos now on YouTube</title>
+      <pubDate>Fri, 26 Jul 2019 14:46:26 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/ci6a1w/nano_uk_meetup_videos_now_on_youtube/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[The community response to our recent UK meetup was incredible and we are delighted to be able to share a selection of the presentations and talks on our YouTube channel. Plenty more meetup videos to follow next week!]]></description>
+    </item>
+    <item>
+      <title>Nano Wallet Desktop 1.8.0 Releases (Compatible with V19)</title>
+      <pubDate>Thu, 25 Jul 2019 14:47:14 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/chnuxc/nano_wallet_desktop_180_releases_compatible_with/</link>
+      <category>Release</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Nano Wallet Desktop 1.8.0 was just released, which includes an upgrade of the Nano Node software to 19.0 (Solidus).]]></description>
+    </item>
+    <item>
+      <title>Nanocast returns from a long pause!</title>
+      <pubDate>Thu, 25 Jul 2019 14:42:28 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/chi013/the_nanocast_july_update/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Hey again! Since Solidus was such a big release, we decided to get on a call and make a quick video. We are WAY out of practice, but it was still fun! Now that we've done it once, we have will try to make these regularly. Production quality will go up from here. Hope you enjoy!]]></description>
+    </item>
+    <item>
+      <title>r/nanocurrency now has more subscribers than r/raiblocks</title>
+      <pubDate>Tue, 23 Jul 2019 14:48:29 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cgnbk8/rnanocurrency_now_has_more_subscribers_than/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[The rebrand is complete!]]></description>
+    </item>
+    <item>
+      <title>Nanoverse.io launches a node API</title>
+      <pubDate>Mon, 22 Jul 2019 14:50:36 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cg90vp/nanoverseio_launches_a_node_api/</link>
+      <category>Release</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Super excited to share with you today: a free node API and web console! Check it out at nanoverse.io/api/]]></description>
+    </item>
+    <item>
+      <title>The Nano Center — Celebrating 1 year of Projects, Proposals and Progress</title>
+      <pubDate>Sun, 21 Jul 2019 14:49:33 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cg0k0y/the_nano_center_celebrating_1_year_of_projects/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Time flies in the cryptocurrency space. With daily news, weekly significant developments, and monthly sweeping space-wide changes, important landmarks can be overlooked. The Nano ecosystem is no different and has seen extraordinary growth with the Nano Center sitting at the heart of its expansion.]]></description>
+    </item>
+    <item>
+      <title>Solidus pushing down transaction time to 0.27 second - 2.5x faster than v18</title>
+      <pubDate>Sat, 20 Jul 2019 14:51:37 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cfj4b3/solidus_pushing_down_transaction_time_to_027/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[The latest 24h median is down 0.27sec, compared to 0.67sec seen with previous node version. That's about 2.5x faster! The version before that it was at 10sec and even that was impressive. If you don't know how small this number is I can tell you it's faster than it takes for me to ping a computer in Tokyo, Japan from Sweden which is absolutely crazy. During those 270ms a transaction is broadcasted, saved in a database, voted on, reaching global consensus across the network and confirmed.]]></description>
+    </item>
+    <item>
+      <title>Nano listed on a new EletroPay ATM</title>
+      <pubDate>Thu, 18 Jul 2019 14:55:06 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/ceuaz6/eletropay_nano_new_atm/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/listing.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[This new company, Eletropay, is building ATMs for cryptocurrencies, and Nano is already in their list!]]></description>
+    </item>
+    <item>
+      <title>Professional video recap from London 2019 meetup</title>
+      <pubDate>Tue, 16 Jul 2019 14:55:59 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/ce04l0/nano_uk_meetup_london_july_2019/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Video summary from the 2019 London meetup]]></description>
+    </item>
+    <item>
+      <title>Nano listed on Indian crypto exchange WazirX</title>
+      <pubDate>Mon, 15 Jul 2019 14:57:06 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cdje40/nano_listed_on_indian_crypto_exchange_wazirx/</link>
+      <category>Listing</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/listing.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[It's not the top exchange in India but one of the few crypto exchanges which are operational in India. Very happy to see an Indian exchange list nano.]]></description>
+    </item>
+    <item>
+      <title>Nano Node Graphics updated for v19 with new CPS and Cemented blocks charts</title>
+      <pubDate>Sun, 14 Jul 2019 14:58:07 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cd4zcc/nano_node_graphics_updated_for_v19_with_new_cps/</link>
+      <category>Release</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Now possible to monitor your node even better with a comparison between saved blocks / cemented blocks and BPS / CPS.]]></description>
+    </item>
+    <item>
+      <title>v19 shaving off another 30% confirmation time - now with a median below half a second!</title>
+      <pubDate>Sat, 13 Jul 2019 14:59:12 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/ccs2k8/v19_shaving_off_another_30_confirmation_time_now/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[The median has been 0.65-0.67 seconds for weeks according to repnode.org
+
+Now the median from the past 24 hours is at 0.49! I'm waiting for the day-to-day graph to update. This with only 37% of the network nodes running on the latest protocol version and big reps like Brainblocks still on v18. I guess more nodes upgrading will have some kind of influence on the speed. Following the trend with excitement!]]></description>
+    </item>
+    <item>
+      <title>NANO/BTC now live on qTrade</title>
+      <pubDate>Sat, 13 Jul 2019 14:59:58 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/ccj1li/nanobtc_now_live_on_qtrade/</link>
+      <category>Listing</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/listing.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[A US based exchange with 0 maker fee is quite nice.]]></description>
+    </item>
+    <item>
+      <title>Nanopy python library updated for v19</title>
+      <pubDate>Fri, 12 Jul 2019 15:01:11 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cc8p2l/nanopy_v19_python_library_for_nano/</link>
+      <category>Release</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Nanopy just released v19 of nanopy python library to go along with solidus. Updates include up-to-date RPC compatibility and C extension for signatures.]]></description>
+    </item>
+    <item>
+      <title>Solidus (node v19) is now live on the Nano network!</title>
+      <pubDate>Thu, 11 Jul 2019 15:02:13 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cbzxfu/solidus_is_now_live_on_the_nano_network/</link>
+      <category>Release</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[The newest Nano node update delivers a host of important features and improvements to the protocol - find out why Solidus is taking Nano to the next level.]]></description>
+    </item>
+    <item>
+      <title>Community Spotlight: Nano-Faucet.org/NanoVisualizer</title>
+      <pubDate>Wed, 10 Jul 2019 15:03:21 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cbka2c/community_spotlight_nanofaucetorgnanovisualizer/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Brian was given the opportunity to talk with u/sraymansmoles, creator of the popular Nano-Faucet.org, an accompanying Nano network visualizer, and a veteran beta-tester yesterday for this week's Community Spotlight. Hope everyone enjoys the fun read!]]></description>
+    </item>
+    <item>
+      <title>A successfull stress test at beta network was performed with new records recorded</title>
+      <pubDate>Tue, 9 Jul 2019 15:04:24 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cb5xyk/a_successfull_stress_test_at_beta_network_was/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Thanks to everybody involved and the core team for continued fantastic work on the release candidates of the upcoming Solidus v19 release. New records were broken today!]]></description>
+    </item>
+    <item>
+      <title>Nano Foundation adding a new communications team member - Brian White</title>
+      <pubDate>Fri, 5 Jul 2019 15:05:35 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/c9gaba/weekly_nano_update_7519/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[The Nano news has been flowing this week - with updates from electronic point of sale company Kappture, a new hire at the Nano Foundation, and a Nano community meetup - catch up with everything in our latest blogpost!]]></description>
+    </item>
+    <item>
+      <title>Affy’s Steakhouse Nano Meat-Up Promo Video</title>
+      <pubDate>Tue, 2 Jul 2019 15:06:31 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/c8421f/check_out_our_promo_video/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Here is our Affy’s Steakhouse Nano Meat-Up Promo Video! Video credits to /u/qwahzi]]></description>
+    </item>
+    <item>
+      <title>Kappture releases its official ‘white paper’ about how they are integrating Nano into their Point of Sale systems</title>
+      <pubDate>Tue, 2 Jul 2019 15:07:49 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/c8b00o/kappture_releases_its_official_white_paper_about/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Kappture (https://kappture.co.uk), a major POS manufacturer (703M £ customer revenue and already 61M orders processed) just announced their official integration of Nano into their POS.]]></description>
     </item>
   </channel>
 </rss>
