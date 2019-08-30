@@ -14,10 +14,97 @@
       <url>https://github.com/Joohansson/nanolinks/raw/master/src/nano.png</url>
     </image>
     <item>
+      <title>Feed birds with Nano - Live stream</title>
+      <pubDate>Thu, 29 Aug 2019 13:09:44 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cx032b/feed_birds_with_nano_live_stream/</link>
+      <category>General</category>
+      <description><![CDATA[A clever bird feeding invention using cryptocurrencies like Nano. Send funds a micro controller and watch the birds eat live on youtube!]]></description>
+    </item>
+    <item>
+      <title>Nano isted on Uphold</title>
+      <pubDate>Thu, 29 Aug 2019 13:08:51 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cx2873/nano_is_now_available_on_uphold/</link>
+      <category>Listing</category>
+      <description><![CDATA[We're excited to announce the addition of $NANO to the @UpholdInc platform. Users can buy, sell and trade Nano with a wide range of fiat and cryptocurrencies!]]></description>
+    </item>
+    <item>
+      <title>Nano listed on Crypto.com</title>
+      <pubDate>Tue, 27 Aug 2019 13:08:03 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cw0yx2/nano_is_now_on_cryptocom/</link>
+      <category>Listing</category>
+      <description><![CDATA[NANO has been added to crypto.com, which serves customers in the US. Which means there is a fiat-on ramp in the US, after Binance drops their support there. And best of all, they have a VISA card live in Singapore and USA (EU soon), which can then be topped up with NANO.]]></description>
+    </item>
+    <item>
+      <title>Passwordless Authentication using Nano transactions</title>
+      <pubDate>Sat, 24 Aug 2019 13:05:39 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cuw5rd/passwordless_authentication_using_cryptocurrency/</link>
+      <category>Release</category>
+      <description><![CDATA[Frank Kilkelly demonstrating a proof-of-concept for an alternative to the "Sign in with XXXXXX" buttons you see all over the Web e.g. "Sign in with Facebook", "Sign in with Google" etc..., except this time it is "Sign in with Nano ⋰·⋰". I've described the entire process and included a demo of the functionality in the linked article (Direct link: https://nanocharts.info/passwordless/).]]></description>
+    </item>
+    <item>
+      <title>NanoWallet.io departure from BrainBlocks</title>
+      <pubDate>Fri, 23 Aug 2019 13:05:10 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cuh2qt/nanowallet_departure_from_brainblocks/</link>
+      <category>General</category>
+      <description><![CDATA[After a year of working together on BrainBlocks to help improve the Nano ecosystem, Jaime and Miquel of NanoWallet have decided to leave BrainBlocks and move in a different direction.]]></description>
+    </item>
+    <item>
+      <title>Prototype Nano/Airtime bot being used in Ghana</title>
+      <pubDate>Tue, 20 Aug 2019 13:04:18 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/csvlrv/ghananano_prototype_nanoairtime_bot_being_used_in/</link>
+      <category>General</category>
+      <description><![CDATA[James Coxon has been working on an early prototype of a telegram bot which allows you to pay for mobile/cell airtime with Nano. Have been starting to do real world testing in Ghana.]]></description>
+    </item>
+    <item>
+      <title>Introducing NanoTicker - Real-time analytics and health status for the Nano network</title>
+      <pubDate>Mon, 19 Aug 2019 13:01:56 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/csf30q/introducing_realtime_analytics_and_health_status/</link>
+      <category>Release</category>
+      <description><![CDATA[Nanolinks owner Joohansson introducing an overall health/performance/analytics tool for the Nano network. The data comes from all public known NanoNodeMonitors and also some local node stats.]]></description>
+    </item>
+    <item>
+      <title>Introducing NanoPixelWall - Advirtise your pixels for Nano</title>
+      <pubDate>Fri, 16 Aug 2019 13:00:59 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cr6y2m/introducing_nanopixelwall/</link>
+      <category>Release</category>
+      <description><![CDATA[NanoPixelWall allows you to select a space on the wall and upload an image of your choice (and web address) and secure your space with for small amount of Nano!
+
+NanoPixelWall could be a perfect place to advertise your latest nano (or non-nano) project or website, or even just share something random! Go grab a spot now!]]></description>
+    </item>
+    <item>
+      <title>Video demo of the upoming Unreal Engine 4 plugin for Nano</title>
+      <pubDate>Fri, 16 Aug 2019 12:59:50 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cr3kki/video_demo_of_the_upoming_unreal_engine_4_plugin/</link>
+      <category>General</category>
+      <description><![CDATA[Nano core dev Wesley is demonstrating the upcoming plugin for Unreal Engine 4.]]></description>
+    </item>
+    <item>
+      <title>Kappture + PoS + Natrium + NFC = True</title>
+      <pubDate>Wed, 14 Aug 2019 12:58:29 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cq1v93/instant_contactless_payments_with_nano_using/</link>
+      <category>General</category>
+      <description><![CDATA[Natrium wallet demonstrated with NFC on an iPhone and PoS terminal. The future of payment!]]></description>
+    </item>
+    <item>
+      <title>Nano is being evaluated to be put on Binance.us</title>
+      <pubDate>Fri, 9 Aug 2019 12:57:06 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/co4f10/nano_is_on_binances_shortlist_for_crypto_being/</link>
+      <category>General</category>
+      <description><![CDATA[Nano might be listed on the new Binance US exchange. In evaluation state.]]></description>
+    </item>
+    <item>
+      <title>Brainblocks Wallet left beta</title>
+      <pubDate>Thu, 8 Aug 2019 12:55:52 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cnpd6m/brainblocks_wallet_left_beta/</link>
+      <category>Release</category>
+      <description><![CDATA[Our team is proud to announce that our new wallet has left Beta and is now ready for prime time! Thank you to everyone who provided us feedback during Beta.]]></description>
+    </item>
+    <item>
       <title>NanoLinks celebrating 1 year online with a treasure hunt</title>
       <pubDate>Wed, 7 Aug 2019 10:34:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/cn5ddn/nanolinks_celebrating_1_year_online_treasure_hunt/</link>
       <category>General</category>
+      <enclosure url="https://i.redd.it/yj3xz5efyye31.png" length="" type="" />
       <description><![CDATA[Launched 1 year ago with the aim to help this community finding things, NanoLinks is now serving 338 fantastic URLs to 2286 cities in 127 countries with a daily 50-200 unique visitors. This will be celebrated with a little treasure hunt!]]></description>
     </item>
     <item>
