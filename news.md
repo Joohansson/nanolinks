@@ -295,6 +295,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Colin Pushes Raiblocks - 62 Upvotes](https://www.reddit.com/r/CryptoCurrency/comments/70wy52/im_colin_lemahieu_the_developer_of_raiblocks_a/)
 
 ### Jul 2017
+* [RaiWebWallet former raiwallet.com former nanowallet.io officially introduced by Jaime Herrero](https://github.com/jaimehgb/RaiWebWallet/commit/d1aed2b6e0abe8f33cae782ec78bd9d752932569)
 * [Introduction Of RaiBlocks (XRB)](http://ftreporter.com/cryptocurrency-review-introduction-of-raiblocks-xrb/)
 
 ### Apr 2017
