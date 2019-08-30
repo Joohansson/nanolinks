@@ -136,5 +136,13 @@ NanoPixelWall could be a perfect place to advertise your latest nano (or non-nan
       <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
       <description><![CDATA[Community Awards function very similar to Reddit Silver, Gold and Platinum. You purchase them with Reddit coins and award your favourite posts/comments. Community Awards are specific for the sub but they will not give the user any Reddit premium. However, the post gets a fancy Nano icon and 20% of the Award cost goes to the community chest. Those coins can be spent only by a moderator to give the "Nano Approved Hero" (the icon far to the right) to a user of our choice, which will bring 3 months of Reddit premium to that user!]]></description>
     </item>
+    <item>
+      <title>Introducing Nanocards - The world’s first physical card game where you pay/win cryptocurrency</title>
+      <pubDate>Wed, 31 Jul 2019 14:09:08 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/ck6e6e/introducing_the_worlds_first_physical_card_game/</link>
+      <category>Release</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[A card game where you by strategic choices makes your friends pay in Nano via QR codes to a common wallet. One player will get the PAYOUT card (if not stolen by another player) which can be swept by Natrium to receive the full pot in seconds. It's a replacement of typical FIAT betting and is a fun (I hope) and educational way to get introduced to crypto and you don't need physical coins! Nano allows the process to be secure, fast and feeless which is essential to this game.]]></description>
+    </item>
   </channel>
 </rss>
