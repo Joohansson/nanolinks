@@ -2,12 +2,17 @@
 <rss version="2.0">
   <channel>
     <generator>RSS Builder by B!Soft</generator>
-    <title>NanoLinks News</title>
+    <title>Nano News</title>
     <link>https://nanolinks.info/news</link>
-    <description>Great news easily gets buried in a continuous media stream like Reddit and Discord. Here we try to keep track of the most important Nano news.</description>
+    <description>Tracking the most important news for the Nano currency and it's community.</description>
     <language>en-us</language>
     <managingEditor>nanoisfast@gmail.com</managingEditor>
     <webMaster>nanoisfast@gmail.com</webMaster>
+    <image>
+      <title>Nano News</title>
+      <link>https://nanolinks.info/news</link>
+      <url>https://github.com/Joohansson/nanolinks/raw/master/src/nano.png</url>
+    </image>
     <item>
       <title>The Nano Center Google Ads Project Funded &amp; Live!</title>
       <pubDate>Tue, 6 Aug 2019 10:12:51 +0200</pubDate>
