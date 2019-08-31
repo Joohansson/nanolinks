@@ -38,6 +38,14 @@
       <description><![CDATA[NANO has been added to crypto.com, which serves customers in the US. Which means there is a fiat-on ramp in the US, after Binance drops their support there. And best of all, they have a VISA card live in Singapore and USA (EU soon), which can then be topped up with NANO.]]></description>
     </item>
     <item>
+      <title>Playalondon.com (Clothing company) has added Nano as a payment option</title>
+      <pubDate>Tue, 26 Aug 2019 13:08:03 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/cvmbyf/ladies_and_gentlemen_i_am_happy_to_announce_that/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Ladies and gentlemen, I am happy to announce that playalondon.com (Clothing company) has added Nano as a payment option.]]></description>
+    </item>
+    <item>
       <title>Passwordless Authentication using Nano transactions</title>
       <pubDate>Sat, 24 Aug 2019 13:05:39 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/cuw5rd/passwordless_authentication_using_cryptocurrency/</link>
@@ -70,17 +78,24 @@
       <description><![CDATA[Nanolinks owner Joohansson introducing an overall health/performance/analytics tool for the Nano network. The data comes from all public known NanoNodeMonitors and also some local node stats.]]></description>
     </item>
     <item>
-      <title>Introducing NanoPixelWall - Advirtise your pixels for Nano</title>
+      <title>- Development Update: Beta Network Refresh</title>
+      <pubDate>Mon, 17 Aug 2019 13:01:56 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/crk280/development_update_beta_network_refresh/</link>
+      <category>General</category>
+      <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[The Nano beta network has been crucial in assisting the development of the Nano node and protocol since it was set up over a year ago. Our latest release, V19.0 Solidus, is an excellent example of how helpful beta participants from the community have been, as they heavily tested builds for more than a month. Each of them enjoyed being on top of every recent development and optimization, often discussing data points at length and offering up contributions to our release.]]></description>
+    </item>
+    <item>
+      <title>Introducing NanoPixelWall - Advertise your pixels for Nano</title>
       <pubDate>Fri, 16 Aug 2019 13:00:59 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/cr6y2m/introducing_nanopixelwall/</link>
       <category>Release</category>
       <enclosure url="https://github.com/Joohansson/nanolinks/raw/master/src/release.jpg" length="0" type="image/jpeg" />
       <description><![CDATA[NanoPixelWall allows you to select a space on the wall and upload an image of your choice (and web address) and secure your space with for small amount of Nano!
-
-NanoPixelWall could be a perfect place to advertise your latest nano (or non-nano) project or website, or even just share something random! Go grab a spot now!]]></description>
+      NanoPixelWall could be a perfect place to advertise your latest nano (or non-nano) project or website, or even just share something random! Go grab a spot now!]]></description>
     </item>
     <item>
-      <title>Video demo of the upoming Unreal Engine 4 plugin for Nano</title>
+      <title>Video demo of the upcoming Unreal Engine 4 plugin for Nano</title>
       <pubDate>Fri, 16 Aug 2019 12:59:50 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/cr3kki/video_demo_of_the_upoming_unreal_engine_4_plugin/</link>
       <category>General</category>
