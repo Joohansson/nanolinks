@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Sep 02: Colin LeMahieu Interviewed on Crypto Finder](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
 * [Aug 29: Nanode.cc - Explorer, Stats, Account list](https://nanode.cc/)
 * [Aug 29: Feed the birds with Nano live stream](https://www.youtube.com/watch?v=otpqipL3H8Q)
 * [Aug 29: Uphold - Exchange](https://uphold.com/)
@@ -208,7 +209,6 @@ layout: default
 * [Aug 16: NanoPixelWall - Buy your pixel spot](https://nanopixelwall.com/)
 * [Aug 06: OpenAPI Specification for Nano RPC API](https://aspic.github.io/nano-rpc-api/)
 * [Jul 30: NanoCards - A free printable card game](https://nanocards.net/)
-* [Jul 23: Nanoverse: Node API & web console](https://nanoverse.io/api/)
 
 </div>
 </div>
@@ -292,6 +292,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 ### Interesting Videos [Not in channels above]
 * [Transaction Speed Demo - Mobile to Mobile](https://youtu.be/5K8rRISz4RU)
 * [Transaction Speed Demo - Confirmation Node to Node](https://youtu.be/R6oxmQaiFJI)
+* [Colin LeMahieu Interviewed on Crypto Finder Sep 02](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
 * [Colin LeMahieu Interviewed by The Crypto Lark Feb 18](https://youtu.be/hAy4GDV7tvQ)
 * [Colin LeMahieu Interviewed by DataDash Oct 18](https://youtu.be/eWdOkIev_xM)
 * [Colin LeMahieu Audio interviewed by Crypto101 (Start at 13min)](https://soundcloud.com/matthew-aaron-690749808/from-the-archive-nano-and-holochain)
