@@ -34,6 +34,9 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### September 2019
+* [Technical interview with Colin LeMahieu on Crypto Finder](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
+
 ### August 2019
 * [Feed birds with Nano - Live stream](https://www.reddit.com/r/nanocurrency/comments/cx032b/feed_birds_with_nano_live_stream/)
 * [Nano listed on Uphold](https://www.reddit.com/r/nanocurrency/comments/cx2873/nano_is_now_available_on_uphold/)
