@@ -28,7 +28,7 @@ layout: newslayout
   <p class="intro"><strong>Great news easily gets buried in a continuous media stream like Reddit and Discord. Here we try to keep track of the most important ones as a news archive.</strong><br>
   <a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info/news&edit-text=&act=url">Translate this page or any sub page to other languages</a><br><br>
   Stay up to date with <strong><a href="http://feeds.feedburner.com/nanolinks">NanoLinks RSS feed</a></strong><br>
-  If not working, try the <a href="https://raw.githubusercontent.com/Joohansson/nanolinks/master/news.rss">original non-optimized RSS</a></p>
+  If not working, try the <a href="https://nanolinks.info/news.rss">original non-optimized RSS</a></p>
 </div>
 
 ## Reddit News
@@ -378,7 +378,7 @@ Maintaining this content requires some effort. If you want to contribute to this
         $('#dropdown-container').show();
       }
     });
-    $(document).on('touchstart click', function(event) { 
+    $(document).on('touchstart click', function(event) {
       if(!$(event.target).closest('#dropbtn').length && !$(event.target).closest('#dropdown-container').length) {
         if($('#dropdown-container').is(":visible")) {
           $('#dropdown-container').hide();
