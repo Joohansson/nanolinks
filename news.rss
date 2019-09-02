@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>nanoisfast@gmail.com (Json)</managingEditor>
     <webMaster>nanoisfast@gmail.com (Json)</webMaster>
-    <atom:link href="https://raw.githubusercontent.com/Joohansson/nanolinks/master/news.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nanolinks.info/news.rss" rel="self" type="application/rss+xml" />
     <image>
       <title>Nano News</title>
       <link>https://nanolinks.info/news</link>
