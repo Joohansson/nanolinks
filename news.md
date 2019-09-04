@@ -35,6 +35,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### September 2019
+* [The Nano Center Project for Community Funding: Nano Venezuela Billboard](https://www.reddit.com/r/nanocurrency/comments/czhm7h/the_nano_center_project_for_community_funding/)
+* [The Nano Center Project for Community Funding: Twitch Distribution Games and Faucets from TriggerHaven](https://www.reddit.com/r/nanocurrency/comments/czhgtd/the_nano_center_project_for_community_funding/)
 * [Technical interview with Colin LeMahieu on Crypto Finder](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
 
 ### August 2019
