@@ -40,7 +40,7 @@ layout: default
 <table id="intro-table">
   <tr>
     <th>Coin</th>
-    <th>Fee</th> 
+    <th>Fee</th>
     <th>Speed [Sec]</th>
     <th>Scalability [TPS]</th>
     <th>Energy [Wh/Tx]</th>
@@ -116,7 +116,7 @@ layout: default
     <li><a class="int-link" href="#services">Services</a></li>
     <li><a class="int-link" href="#contribution">Contribution</a></li>
   </ul>
-  
+
   <select id="help-select">
     <option selected disabled>What are you looking for?</option>
     <option value="1">Send or Receive Nano</option>
@@ -128,7 +128,7 @@ layout: default
     <option value="6">Participate in the Beta Network</option>
     <option value="7">Join our Community</option>
   </select>
-  
+
   <div class="help" id="help1">
     <ul>
       <li><a class="int-link" href="#wallets">Wallets</a></li>
@@ -137,7 +137,7 @@ layout: default
       <li><a href="https://youtu.be/5K8rRISz4RU">Video Demo: Transaction speed mobile to mobile</a></li>
     </ul>
   </div>
-  
+
   <div class="help" id="help2">
     <ul>
       <li><a class="int-link" href="#exchanges">Exchanges</a></li>
@@ -153,14 +153,14 @@ layout: default
       <li><a href="https://dpow.nanocenter.org/">Distributed PoW System - Dashboard</a></li>
     </ul>
   </div>
-  
+
   <div class="help" id="help4">
     <ul>
       <li><a class="int-link" href="#merchant--donation-related-no-shops-too-many">Payment Services</a></li>
       <li><a class="int-link" href="#point-of-sale">Point of Sale Services</a></li>
     </ul>
   </div>
-  
+
   <div class="help" id="help5">
     <ul>
       <li><a href="https://youtu.be/k1RlrlaKOCg">Video Guide: How to setup a Nano node</a></li>
@@ -180,7 +180,7 @@ layout: default
       <li><a class="int-link" href="#beta-network">Beta Network Resources</a></li>
     </ul>
   </div>
-  
+
   <div class="help" id="help7">
     <ul>
       <li><a class="int-link" href="#core-social-media--contribution-channels">Social Media Channels</a></li>
@@ -188,7 +188,7 @@ layout: default
       <li><a href="https://nanocenter.org/">The Nano Center</a></li>
     </ul>
   </div>
-  
+
   <div class="help" id="help8">
     <ul>
       <li><a href="https://usenano.org/">Use Nano - Merchant Directory</a></li>
@@ -199,7 +199,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
-* [Sept 05: MoonPos - Mobile PoS](https://www.moonposapp.com/)
+* [Sep 05: NanoQuake JS](http://nanoquakejs.com)
+* [Sep 05: MoonPos - Mobile PoS](https://www.moonposapp.com/)
 * [Sep 02: Colin LeMahieu Interviewed on Crypto Finder](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
 * [Aug 29: Nanode.cc - Explorer, Stats, Account list](https://nanode.cc/)
 * [Aug 29: Feed the birds with Nano live stream](https://www.youtube.com/watch?v=otpqipL3H8Q)
@@ -208,7 +209,6 @@ layout: default
 * [Aug 24: Passwordless Authentication (Demo)](https://nanocharts.info/passwordless/)
 * [Aug 19: Nanoticker - Nano Network Analytics](https://nanoticker.info/)
 * [Aug 16: NanoPixelWall - Buy your pixel spot](https://nanopixelwall.com/)
-* [Aug 06: OpenAPI Specification for Nano RPC API](https://aspic.github.io/nano-rpc-api/)
 
 </div>
 </div>
@@ -659,6 +659,7 @@ There are much fun to do but please proceed with caution.
 
 ### Games
 * [NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
+* [NanoQuake JS](http://nanoquakejs.com)
 * [NanoCards - A free printable card game](https://nanocards.net/)
 * [Eternity Tower](https://eternitytower.net/)
 * [Player Killers Exchange](https://playerkillers.exchange)
