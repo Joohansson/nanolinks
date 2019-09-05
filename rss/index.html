@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>RSS Generator</title>
+	<meta charset="utf-8">
+  <link rel="stylesheet" href="jquery-ui.min.css">
+  <script src="jquery-3.4.1.min.js"></script>
+  <script src="jquery-ui.min.js"></script>
+  <script>
+    $(document).ready(function() {
+
+      $("#submitBtn").click(function(event) {
+        event.preventDefault();
+        title = $("#title").val()
+        url = $("#url").val()
+        description = $("#description").val().replace(/(?:\r\n|\r|\n)/g, '<br>') //Replace all line breaks with br tags
+        type = $("#type").val()
+
+        category = type.charAt(0).toUpperCase() + type.substring(1) //Make first letter uppercase
+        dateString = $("#datepicker").val() + ' 09:00:00 +0200'
+
+        //Generate markdown
+        markdownString = "* [" + title + "]("+ url + ")"
+        $("#markdown").text(markdownString)
+
+        //Generate RSS
+        rssString = '<item>\n  <title>'+title+'</title>\n  <pubDate>'+dateString+'</pubDate>\n  <link>'+url+'</link>\n  <guid isPermaLink="true">'+url+'</guid>\n  <category>'+category+'</category>\n  <enclosure url="http://nanolinks.info/src/'+type+'.jpg" length="0" type="image/jpeg" />\n  <description><![CDATA['+description+']]></description>\n</item>'
+        $("#rss").text(rssString)
+      });
+
+      $( function() {
+        $( "#datepicker" ).datepicker({ dateFormat: 'D, d M yy' })
+      } );
+    });
+  </script>
+  <style>
+    body {font-family: Arial, Helvetica, sans-serif;}
+    * {box-sizing: border-box;}
+
+    input[type=text], select, textarea {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      margin-top: 4px;
+      margin-bottom: 12px;
+      resize: vertical;
+    }
+
+    input[type=submit] {
+      background-color: #4CAF50;
+      color: white;
+      padding: 8px 14px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    input[type=submit]:hover {
+      background-color: #45a049;
+    }
+
+    .container {
+      border-radius: 5px;
+      background-color: #f2f2f2;
+      padding: 14px;
+    }
+  </style>
+</head>
+<body>
+  <h3>RSS item creator for Nanolinks</h3>
+  <form id="myForm">
+    <label for="title">Title:</label>
+    <input type="text" name="title" id="title" placeholder="Title">
+
+    <label for="url">URL:</label>
+    <input type="text" name="url" id="url" placeholder="Link">
+
+    <label for="description">Description</label>
+    <textarea id="description" name="description" placeholder="RSS short description" rows="6"></textarea>
+
+    <label for="datepicker">Date</label>
+    <input type="text" id="datepicker">
+
+    <label for="type">Type</label>
+    <select id="type" name="type">
+      <option value="general">General</option>
+      <option value="release">Release</option>
+      <option value="listing">Listing</option>
+    </select>
+    <input type="submit" id="submitBtn" value="Generate">
+  </form>
+  <h4>Markdown</h4>
+  <textarea id="markdown" name="markdown" placeholder="Markdown result..." rows="1"></textarea>
+  <h4>RSS Item</h4>
+  <textarea id="rss" name="rss" placeholder="RSS result..." rows="9"></textarea>
+</body>
+</html
