@@ -140,7 +140,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Natrium 2.0 now in both iOS and Android store](https://www.reddit.com/r/nanocurrency/comments/bfclsg/natriums_next_big_update_released_on_android_and/)
 * [Launching Donano: Patreon Like Crowdfunding Service](https://www.reddit.com/r/nanocurrency/comments/bemra9/launching_donanoto_patreon_like_site_powered_by/)
 * [Introducing Nanopurse: A payment service with privacy](https://www.reddit.com/r/nanocurrency/comments/beexp9/nanopursecom_a_privacy_service_for_nano/)
-* [Booking Flight and Hotels now possible in Bitcoinsuperstore](https://www.reddit.com/r/nanocurrency/comments/bd2mjl/we_are_excited_to_announce_our_new_suite_of/)
+* [Booking Flight and Hotels now possible in AnchorX](https://www.reddit.com/r/nanocurrency/comments/bd2mjl/we_are_excited_to_announce_our_new_suite_of/)
 * [Introducing VANO: A NANO light-wallet browser extension for Chrome/Brave/Firefox](https://www.reddit.com/r/nanocurrency/comments/b91ihf/introducing_vano_a_nano_lightwallet_browser/)
 * [Binance Adds NANO/USDT Trading Pair](https://www.reddit.com/r/nanocurrency/comments/b8gg4n/binance_adds_nanousdt_trading_pair_at_20190403/)
 
@@ -229,7 +229,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Distributed Nano PoW Subscription System](https://www.reddit.com/r/nanocurrency/comments/94lx28/distributed_nano_pow_subscription_system/)
 * [Node v15.2 Released - Reduced Bandwidth, Vote by hash](https://www.reddit.com/r/nanocurrency/comments/99gres/nano_node_version_152_released/)
 * [BrainBlocks Acquires NanoWallet](https://www.reddit.com/r/nanocurrency/comments/99xgx9/brainblocks_acquires_nanowallet_medium/)
-* [Bitcoin Superstore is now accepting payments with Nano!](https://www.reddit.com/r/nanocurrency/comments/9828y3/bitcoin_superstore_is_now_accepting_payments_with/)
+* [AnchorX is now accepting payments with Nano!](https://www.reddit.com/r/nanocurrency/comments/9828y3/bitcoin_superstore_is_now_accepting_payments_with/)
 * [Nano/GBP fiat gateway announced!(+ London based $5000 Nano treasure hunt!)](https://www.reddit.com/r/nanocurrency/comments/95a6hj/nanogbp_fiat_gateway_announced_london_based_5000/)
 * [Introducing NanoLinks - The ultimate link guide](https://www.reddit.com/r/nanocurrency/comments/95e51g/the_ultimate_nano_url_guide/)
 
@@ -265,6 +265,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Node v11 Released - Universal Blocks](https://www.reddit.com/r/nanocurrency/comments/86m98f/nano_milestone_11_released/)
 * [BrainBlocks Announcements](https://www.reddit.com/r/nanocurrency/comments/81hkvv/brainblocks_announcements/)
 * [Canoe Nano Wallet - Now available on Google Play](https://www.reddit.com/r/nanocurrency/comments/87uwjk/canoe_nano_wallet_now_available_on_google_play/)
+* [Spendraiblocks.com is now UseNano.org - A comprehensive list of online merchants that accept Nano!](https://www.reddit.com/r/nanocurrency/comments/82dalz/spendraiblockscom_is_now_usenanoorg_a/?utm_source=share&utm_medium=ios_app)
 
 ### Feb 2018
 * [Nanofaucet.org Announced](https://www.reddit.com/r/nanocurrency/comments/7y81sm/i_made_a_nano_faucet_if_you_are_interested_in/)
