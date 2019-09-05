@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Sept 05: MoonPos - Mobile PoS](https://www.moonposapp.com/)
 * [Sep 02: Colin LeMahieu Interviewed on Crypto Finder](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
 * [Aug 29: Nanode.cc - Explorer, Stats, Account list](https://nanode.cc/)
 * [Aug 29: Feed the birds with Nano live stream](https://www.youtube.com/watch?v=otpqipL3H8Q)
@@ -208,7 +209,6 @@ layout: default
 * [Aug 19: Nanoticker - Nano Network Analytics](https://nanoticker.info/)
 * [Aug 16: NanoPixelWall - Buy your pixel spot](https://nanopixelwall.com/)
 * [Aug 06: OpenAPI Specification for Nano RPC API](https://aspic.github.io/nano-rpc-api/)
-* [Jul 30: NanoCards - A free printable card game](https://nanocards.net/)
 
 </div>
 </div>
