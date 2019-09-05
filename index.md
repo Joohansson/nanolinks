@@ -490,6 +490,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Kappture - Payment service, PoS](https://kappture.co.uk/)
 * [Paytomat - Payment Service. PoS, Fiat gateway](https://paytomat.com/)
 * [Brainblocks Web PoS](https://pos.brainblocks.io/)
+* [MoonPos - Mobile PoS](https://www.moonposapp.com/)
 
 </div>
 </div>
