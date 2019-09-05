@@ -315,6 +315,9 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Detailed Raiblocks Summary by Coinaday](https://www.reddit.com/r/CryptoCurrency/comments/49cyt6/coinaday_raiblocks/)
 * [Colin's first post in r/Raiblocks](https://www.reddit.com/r/RaiBlocks/comments/4952r8/raiblocks_official_site/)
 
+### Apr 2016
+* [The birth of Raiblocks telegram chat](https://nanochats.club/NANO__English_chat?page=1)
+
 ### Feb 2016
 * [Cryptocurrency's killer app: RaiBlocks micropayments](https://bitcointalk.org/index.php?topic=1381323.0)
 
