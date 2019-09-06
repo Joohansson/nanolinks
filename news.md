@@ -35,6 +35,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### September 2019
+* [Kappture cryptopromo video. Steps towards adoption!](https://www.reddit.com/r/nanocurrency/comments/d0gfu0/kappture_cryptopromo_video_steps_towards_adoption/)
 * [Nano has been added to mobile crypto POS app MoonPos](https://www.reddit.com/r/nanocurrency/comments/czp6ae/nano_has_been_added_to_mobile_crypto_pos_app/)
 * [The Nano Center Project for Community Funding: Nano Venezuela Billboard](https://www.reddit.com/r/nanocurrency/comments/czhm7h/the_nano_center_project_for_community_funding/)
 * [The Nano Center Project for Community Funding: Twitch Distribution Games and Faucets from TriggerHaven](https://www.reddit.com/r/nanocurrency/comments/czhgtd/the_nano_center_project_for_community_funding/)
