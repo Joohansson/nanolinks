@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Sep 10: Metalpay cryptocurrency marketplace](https://www.metalpay.com/)
 * [Sep 05: NanoQuake JS](http://nanoquakejs.com)
 * [Sep 05: MoonPos - Mobile PoS](https://www.moonposapp.com/)
 * [Sep 02: Colin LeMahieu Interviewed on Crypto Finder](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
@@ -208,7 +209,6 @@ layout: default
 * [Aug 27: Crypto.com - Exchange](https://crypto.com)
 * [Aug 24: Passwordless Authentication (Demo)](https://nanocharts.info/passwordless/)
 * [Aug 19: Nanoticker - Nano Network Analytics](https://nanoticker.info/)
-* [Aug 16: NanoPixelWall - Buy your pixel spot](https://nanopixelwall.com/)
 
 </div>
 </div>
@@ -378,6 +378,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Coingate](https://coingate.com/buy/nano)
 * [Uphold](https://uphold.com/)
 * [Crypto.com](https://crypto.com)
+* [Metalpay](https://www.metalpay.com/)
 * [N.Exchange](https://n.exchange/)
 * [Swaplab](https://swaplab.cc/)
 * [FastX](https://fastx.io/)
