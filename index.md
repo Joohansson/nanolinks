@@ -199,7 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
-* [Sep 13: Nanoslots - Slot machine (referral link)](https://nanoslots.co/?r=61)
+* [Sep 13: NanoSlots - Slot machine (referral link)](https://nanoslots.co/?r=61)
 * [Sep 10: Metalpay cryptocurrency marketplace](https://www.metalpay.com/)
 * [Sep 05: NanoQuake JS](http://nanoquakejs.com)
 * [Sep 05: MoonPos - Mobile PoS](https://www.moonposapp.com/)
@@ -485,6 +485,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Getnano](https://getnano.co.uk/)
 * [GetFreeNano - Nano China](https://getfreenano.com/)
 * [NanoQuake - Faucet feature](https://nanocenter.fandom.com/wiki/Nano_Quake)
+* [NanoSlots - Slot machine (referral link)](https://nanoslots.co/?r=61)
 
 ### Point of Sale
 * [Appia - Payment service, PoS](http://appia.co/)
@@ -665,7 +666,7 @@ There are much fun to do but please proceed with caution.
 * [Eternity Tower](https://eternitytower.net/)
 * [Player Killers Exchange](https://playerkillers.exchange)
 * [The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
-* [Nanoslots - Slot machine (referral link)](https://nanoslots.co)
+* [NanoSlots - Slot machine (referral link)](https://nanoslots.co)
 
 ### Video, Music, Art
 * [NanoPixelWall - Buy your pixel spot](https://nanopixelwall.com/)
