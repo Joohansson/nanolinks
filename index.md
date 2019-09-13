@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Sep 13: Nanoslots - Slot machine (referral link)](https://nanoslots.co/?r=61)
 * [Sep 10: Metalpay cryptocurrency marketplace](https://www.metalpay.com/)
 * [Sep 05: NanoQuake JS](http://nanoquakejs.com)
 * [Sep 05: MoonPos - Mobile PoS](https://www.moonposapp.com/)
@@ -208,7 +209,6 @@ layout: default
 * [Aug 29: Uphold - Exchange](https://uphold.com/)
 * [Aug 27: Crypto.com - Exchange](https://crypto.com)
 * [Aug 24: Passwordless Authentication (Demo)](https://nanocharts.info/passwordless/)
-* [Aug 19: Nanoticker - Nano Network Analytics](https://nanoticker.info/)
 
 </div>
 </div>
@@ -665,6 +665,7 @@ There are much fun to do but please proceed with caution.
 * [Eternity Tower](https://eternitytower.net/)
 * [Player Killers Exchange](https://playerkillers.exchange)
 * [The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
+* [Nanoslots - Slot machine (referral link)](https://nanoslots.co)
 
 ### Video, Music, Art
 * [NanoPixelWall - Buy your pixel spot](https://nanopixelwall.com/)
