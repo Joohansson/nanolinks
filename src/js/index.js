@@ -69,13 +69,13 @@ $(document).ready(function() {
   });
 
   /* Form check */
-  function submitCheck() {
+  $('#submit').click(function(e){
     var str1 = 'colin'
     var str2 = 'colin lemahieu'
     var str3 = 'lemahieu'
     var val = $('#security').value().toLowerCase()
     if (val != str1 && val != str2 && val != str3) {
-      return false
+      e.preventDefault();
     }
     return true
   }
