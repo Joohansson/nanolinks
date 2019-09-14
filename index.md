@@ -714,7 +714,7 @@ Do you want to add a link to your own project or you found something else? Just 
   <label for="security">Nano Founder?</label>
 	<input type="text" id="security" name="Security" required>
 	<br>
-	<button type="submit" onclick="return submitCheck()" class="site-btn">Submit Link</button>
+	<button type="submit" onclick="return submitCheck(this)" class="site-btn">Submit Link</button>
   </form>
 </div>
 <br>
