@@ -2,11 +2,22 @@
 https://www.devbridge.com/sourcery/components/jquery-autocomplete
 */
 
-$(document).ready(function() { 
+$(document).ready(function() {
     function resetButton() {
         $('#go-btn').attr('href', '/'); //reset link button
         $('#go-btn').css("pointer-events", "none");
     };
+
+    function submitCheck() {
+      str1 = 'colin'
+      str2 = 'colin lemahieu'
+      str3 = 'lemahieu'
+      val = $('#security').value().toLowerCase()
+      if (val != str1 && val != str2 && val != str3) {
+        return false
+      }
+      return true
+    }
 
     // Set search field to focus if not incoming request is a in-page link. Only for large screens.
     if (location.hash == "") {
@@ -24,7 +35,7 @@ $(document).ready(function() {
         //console.log($(this).text());
         //console.log(this.href);
     });
-    
+
     console.log(`%c
     _   _____    _   ______  __    _____   ____ _______
    / | / /   |  / | / / __ \\/ /   /  _/ | / / /\/_/ ___/

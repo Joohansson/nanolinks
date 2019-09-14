@@ -711,11 +711,13 @@ Do you want to add a link to your own project or you found something else? Just 
 	<div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy">
 	</div>
 	<br>
-	<button type="submit" class="site-btn">Submit Link</button>
+  <label for="security">Nano Founder?</label>
+	<input type="text" id="security" name="Security" required>
+	<br>
+	<button type="submit" onclick="return submitCheck()" class="site-btn">Submit Link</button>
   </form>
 </div>
 <br>
-
 
 ### Voting Representative
 <div class="first-para" markdown="1">
