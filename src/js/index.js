@@ -10,12 +10,12 @@ $(document).ready(function() {
     }
   });
 
-  $(document).on('touchstart click', function(event) { 
+  $(document).on('touchstart click', function(event) {
     if(!$(event.target).closest('#dropbtn').length && !$(event.target).closest('#dropdown-container').length) {
     if($('#dropdown-container').is(":visible")) {
       $('#dropdown-container').hide();
     }
-    }        
+    }
   });
 
   //Quick help
@@ -42,7 +42,7 @@ $(document).ready(function() {
   });
 
   var cntrlIsPressed = false;
-  
+
   $('a').on('click auxclick', function(e) {
     //Only hitCallback when tracking links in same tab (e.which === 1 means mouse 1). Also prevents speed button to use href (it uses new tab by default)
     var params = {};
@@ -55,7 +55,7 @@ $(document).ready(function() {
     if (!ga.q) {
       var url = $(this).attr("href");
       ga("send", "event", "outbound", "click", url, params);
-      
+
       //only left click should disable default behavior (or new tab will not work)
       if (!$(this).hasClass("btn-external") && e.which === 1 && cntrlIsPressed === false) {
         e.preventDefault();
@@ -67,4 +67,16 @@ $(document).ready(function() {
   $('.collapse').click(function(){
     $('.collapse-content').slideToggle('slow');
   });
+
+  /* Form check */
+  function submitCheck() {
+    var str1 = 'colin'
+    var str2 = 'colin lemahieu'
+    var str3 = 'lemahieu'
+    var val = $('#security').value().toLowerCase()
+    if (val != str1 && val != str2 && val != str3) {
+      return false
+    }
+    return true
+  }
 });
