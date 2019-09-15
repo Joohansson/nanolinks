@@ -69,12 +69,11 @@ $(document).ready(function() {
   });
 
   /* Form check */
-  $('#submit').click(function(e){
+  $('#submit').click(function(e) {
     var str1 = 'colin'
     var str2 = 'colin lemahieu'
     var str3 = 'lemahieu'
-    var val = $('#security').value().toLowerCase()
-    console.log(val)
+    var val = $('#security').val().toLowerCase()
     if (val != str1 && val != str2 && val != str3) {
       e.preventDefault();
       return false
