@@ -35,7 +35,6 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### September 2019
-* [Now Live - NanoSlots.co](https://www.reddit.com/r/nanocurrency/comments/d3pcba/now_live_nanoslotsco/)
 * [Nano added to Metalpay cryptocurrency marketplace](https://www.reddit.com/r/nanocurrency/comments/d2azff/nano_added_to_metalpay/)
 * [Kappture cryptopromo video. Steps towards adoption!](https://www.reddit.com/r/nanocurrency/comments/d0gfu0/kappture_cryptopromo_video_steps_towards_adoption/)
 * [Nano has been added to mobile crypto POS app MoonPos](https://www.reddit.com/r/nanocurrency/comments/czp6ae/nano_has_been_added_to_mobile_crypto_pos_app/)
