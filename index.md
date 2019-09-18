@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Sep 18: Nano Infographics](https://imgur.com/a/tPaK9hp)
 * [Sep 10: Metalpay cryptocurrency marketplace](https://www.metalpay.com/)
 * [Sep 05: NanoQuake JS](http://nanoquakejs.com)
 * [Sep 05: MoonPos - Mobile PoS](https://www.moonposapp.com/)
@@ -262,6 +263,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Guide: How to secure your Nano](https://medium.com/@d84/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
 * [Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 * [HelpNano - Guide for how to help the Nano ecosystem](https://helpnano.org/)
+* [Nano Infographics](https://imgur.com/a/tPaK9hp)
 
 #### External Media
 * [Colin LeMahieu joins the @Crypto101Pod podcast](https://soundcloud.com/crypto101podcast/from-the-archive-nano-and-holochain)
