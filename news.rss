@@ -15,6 +15,15 @@
       <url>http://github.com/Joohansson/nanolinks/raw/master/src/nano_rss.png</url>
     </image>
     <item>
+      <title>A Look at Lydia v20 and the new memory-hard PoW algorithm</title>
+      <pubDate>Fri, 20 Sep 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/d6s93h/v20_a_look_at_lydia_including_memoryhard_pow/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/d6s93h/v20_a_look_at_lydia_including_memoryhard_pow/</guid>
+      <category>General</category>
+      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[2019 has already brought substantial updates to the Nano protocol: V18.0 Dolphin was able to glide in with key optimizations that reinforced the speedy transactions that Nano is renowned for. V19.0 Solidus introduced block cementing and Dynamic PoW, which strengthened the node and made it even easier for services to integrate.<br>And our upcoming release, V20.0 Lydia, is now primed to add increased resilience to the network with some key changes.]]></description>
+    </item>
+    <item>
       <title>Nano principal representatives just became more decentralized than Bitcoin mining pools</title>
       <pubDate>Thu, 19 Sep 2019 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/d61344/nano_principal_representatives_just_became_more/</link>
