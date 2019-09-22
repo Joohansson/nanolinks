@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Sep 22: Miner.host - Mine BTC, ETH, LTC for Nano](https://miner.host/)
 * [Sep 18: Nano Infographics](https://imgur.com/a/tPaK9hp)
 * [Sep 10: Metalpay cryptocurrency marketplace](https://www.metalpay.com/)
 * [Sep 05: NanoQuake JS](http://nanoquakejs.com)
@@ -208,7 +209,6 @@ layout: default
 * [Aug 29: Feed the birds with Nano live stream](https://www.youtube.com/watch?v=otpqipL3H8Q)
 * [Aug 29: Uphold - Exchange](https://uphold.com/)
 * [Aug 27: Crypto.com - Exchange](https://crypto.com)
-* [Aug 24: Passwordless Authentication (Demo)](https://nanocharts.info/passwordless/)
 
 </div>
 </div>
@@ -540,6 +540,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Vanity Generator (vitorcremonez)](https://github.com/vitorcremonez/nano-vanity)
 * [Raimixer - Scrambler](https://github.com/juanjux/raimixer)
 * [EZNano - Mine ZCash](https://github.com/Ankonian1/EZNANO)
+* [Miner.host - Mine BTC, ETH, LTC for Nano](https://miner.host/)
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
 * [Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 * [Nanoodle - Account Toolbox](https://nanoodle.io/home)
