@@ -35,6 +35,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### September 2019
+* [Nano PoW - The Essentials](https://www.reddit.com/r/nanocurrency/comments/d89qib/nano_pow_the_essentials/)
 * [Adam Edwards joins the Nano Foundation](https://www.reddit.com/r/nanocurrency/comments/d6vr82/weekly_nano_update_92019/)
 * [A Look at Lydia v20 and the new memory-hard PoW algorithm](https://www.reddit.com/r/nanocurrency/comments/d6s93h/v20_a_look_at_lydia_including_memoryhard_pow/)
 * [Nano principal representatives just became more decentralized than Bitcoin mining pools](https://www.reddit.com/r/nanocurrency/comments/d61344/nano_principal_representatives_just_became_more/)
