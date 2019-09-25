@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Sep 25: OneFastWay - Betting](https://onefastway.com)
 * [Sep 22: Miner.host - Mine BTC, ETH, LTC for Nano](https://miner.host/)
 * [Sep 18: Nano Infographics](https://imgur.com/a/tPaK9hp)
 * [Sep 10: Metalpay cryptocurrency marketplace](https://www.metalpay.com/)
@@ -208,7 +209,6 @@ layout: default
 * [Aug 29: Nanode.cc - Explorer, Stats, Account list](https://nanode.cc/)
 * [Aug 29: Feed the birds with Nano live stream](https://www.youtube.com/watch?v=otpqipL3H8Q)
 * [Aug 29: Uphold - Exchange](https://uphold.com/)
-* [Aug 27: Crypto.com - Exchange](https://crypto.com)
 
 </div>
 </div>
@@ -657,6 +657,7 @@ There are much fun to do but please proceed with caution.
 * [LuckyNano - Gambling](https://luckynano.com/)
 * [Raffle Miner](https://www.raffleminer.com/)
 * [Luckygames.io - Gambling](https://luckygames.io/)
+* [OneFastWay - Betting](https://onefastway.com)
 
 ### Games
 * [NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
