@@ -15,6 +15,15 @@
       <url>http://github.com/Joohansson/nanolinks/raw/master/src/nano_rss.png</url>
     </image>
     <item>
+      <title>Nano is one step closer for being implemented into Appia payment system - Beta release of Manta</title>
+      <pubDate>Thu, 26 Sep 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/d9gvs6/beta_implementation_of_the_appia_manta_protocol/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/d9gvs6/beta_implementation_of_the_appia_manta_protocol/</guid>
+      <category>General</category>
+      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Written in python, now available on Github: https://github.com/appiapay/manta-python<br><br>Manta is a protocol to enable crypto coin (such as Nano) transaction between POS (of any kind, hardware, vending machines, online), payment processors and wallets.<br><br>Communication takes advantage of the MQTT protocol and needs a proper configured broker to work.<br><br>More documentation can be found at https://appiapay.github.io/manta-python]]></description>
+    </item>
+    <item>
       <title>Introducing Nano Jams! A Nano building competition for everyone!</title>
       <pubDate>Wed, 25 Sep 2019 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/d95vhx/introducing_nano_jams_a_nano_building_competition/</link>

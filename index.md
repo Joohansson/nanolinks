@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Sep 26: Appia Manta - Python](https://github.com/appiapay/manta-python)
 * [Sep 25: OneFastWay - Betting](https://onefastway.com)
 * [Sep 22: Miner.host - Mine BTC, ETH, LTC for Nano](https://miner.host/)
 * [Sep 18: Nano Infographics](https://imgur.com/a/tPaK9hp)
@@ -208,7 +209,6 @@ layout: default
 * [Sep 02: Colin LeMahieu Interviewed on Crypto Finder](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
 * [Aug 29: Nanode.cc - Explorer, Stats, Account list](https://nanode.cc/)
 * [Aug 29: Feed the birds with Nano live stream](https://www.youtube.com/watch?v=otpqipL3H8Q)
-* [Aug 29: Uphold - Exchange](https://uphold.com/)
 
 </div>
 </div>
@@ -559,6 +559,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [OpenAPI Specification for Nano RPC API](https://aspic.github.io/nano-rpc-api/)
 * [Nano Cold (Offline, air-gapped) Signing Script](https://github.com/noahc66260/nano-cold-signing)
 * [Passwordless Authentication (Demo)](https://nanocharts.info/passwordless/)
+* [Appia Manta - Python](https://github.com/appiapay/manta-python)
 
 ### Wallets [Source Code]
 * [Natrium](https://github.com/BananoCoin/natrium-android-wallet)
