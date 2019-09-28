@@ -201,7 +201,7 @@ layout: default
 ## Latest Additions
 * [Sep 26: Appia Manta - Python](https://github.com/appiapay/manta-python)
 * [Sep 25: OneFastWay - Betting](https://onefastway.com)
-* [Sep 22: Miner.host - Mine BTC, ETH, LTC for Nano](https://miner.host/)
+* [Sep 22: Miner.host - Mining Pool, Pays NANO](https://miner.host/)
 * [Sep 18: Nano Infographics](https://imgur.com/a/tPaK9hp)
 * [Sep 10: Metalpay cryptocurrency marketplace](https://www.metalpay.com/)
 * [Sep 05: NanoQuake JS](http://nanoquakejs.com)
@@ -540,7 +540,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Vanity Generator (vitorcremonez)](https://github.com/vitorcremonez/nano-vanity)
 * [Raimixer - Scrambler](https://github.com/juanjux/raimixer)
 * [EZNano - Mine ZCash](https://github.com/Ankonian1/EZNANO)
-* [Miner.host - Mine BTC, ETH, LTC for Nano](https://miner.host/)
+* [Miner.host - Mining Pool, Pays NANO](https://miner.host/)
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
 * [Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 * [Nanoodle - Account Toolbox](https://nanoodle.io/home)
