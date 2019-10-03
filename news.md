@@ -34,7 +34,11 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### October 2019
+* [Colin LeMahieu releasing details of the upcoming NanoPoW](https://www.reddit.com/r/nanocurrency/comments/dces6e/nanopow_the_details/)
+
 ### September 2019
+* [Nano Foundation sponsoring James M Levelle as part of the RaceForFuture](https://www.reddit.com/r/nanocurrency/comments/da1kxd/james_m_levelle_on_twitter_huge_thanks_to_nano/)
 * [Nano is one step closer for being implemented into Appia payment system - Beta release of Manta](https://www.reddit.com/r/nanocurrency/comments/d9gvs6/beta_implementation_of_the_appia_manta_protocol/)
 * [Introducing Nano Jams! A Nano building competition for everyone!](https://www.reddit.com/r/nanocurrency/comments/d95vhx/introducing_nano_jams_a_nano_building_competition/)
 * [NANO Reaches 100 Principal Representatives](https://www.reddit.com/r/nanocurrency/comments/d963t9/nano_reaches_100_principal_representatives/)

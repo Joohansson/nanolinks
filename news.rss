@@ -15,6 +15,24 @@
       <url>http://github.com/Joohansson/nanolinks/raw/master/src/nano_rss.png</url>
     </image>
     <item>
+      <title>Colin LeMahieu releasing details of the upcoming NanoPoW</title>
+      <pubDate>Wed, 2 Oct 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/dces6e/nanopow_the_details/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dces6e/nanopow_the_details/</guid>
+      <category>General</category>
+      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Get to know NanoPoW!<br><br>Take a look under the hood of our unique new memory based Proof-of-Work algorithm that's poised to make the Nano network more resilient than ever.]]></description>
+    </item>
+    <item>
+      <title>Nano Foundation sponsoring James M Levelle as part of the RaceForFuture</title>
+      <pubDate>Sat, 28 Sep 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/da1kxd/james_m_levelle_on_twitter_huge_thanks_to_nano/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/da1kxd/james_m_levelle_on_twitter_huge_thanks_to_nano/</guid>
+      <category>General</category>
+      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[James is on a 7000km fossil-fuel-free journey from the UK to Chile to amplify the voice of the global youth for climate change.<br>NANO choose to sponsor part of the trip.]]></description>
+    </item>
+    <item>
       <title>Nano is one step closer for being implemented into Appia payment system - Beta release of Manta</title>
       <pubDate>Thu, 26 Sep 2019 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/d9gvs6/beta_implementation_of_the_appia_manta_protocol/</link>
