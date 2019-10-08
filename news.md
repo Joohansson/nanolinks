@@ -35,6 +35,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### October 2019
+* [Why Nano is The Next Bitcoin - A video by Patrick Luberus](https://www.reddit.com/r/nanocurrency/comments/deioiy/a_nano_enthusiasts_perspective_on_andreas/)
 * [Colin LeMahieu releasing details of the upcoming NanoPoW](https://www.reddit.com/r/nanocurrency/comments/dces6e/nanopow_the_details/)
 
 ### September 2019

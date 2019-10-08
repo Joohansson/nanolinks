@@ -15,6 +15,15 @@
       <url>http://github.com/Joohansson/nanolinks/raw/master/src/nano_rss.png</url>
     </image>
     <item>
+      <title>Why Nano is The Next Bitcoin - A video by Patrick Luberus</title>
+      <pubDate>Mon, 7 Oct 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/deioiy/a_nano_enthusiasts_perspective_on_andreas/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/deioiy/a_nano_enthusiasts_perspective_on_andreas/</guid>
+      <category>General</category>
+      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Andreas Antonopoulos recently came out with a great video on why he thinks that "Bitcoin is the next Bitcoin". Even though Andreas is mostly a Bitcoin maximalist, a lot of the arguments he makes can actually be applied to Nano, so I decided to make a video about it :)<br><br>I love Andreas and his videos, but it's pretty funny how similar his views are to the Nano community's. I know he doesn't like Proof-of-Stake cryptocurrencies, but overall he aligns pretty closely with us:<br><br>Utility over store of value<br><br>The importance of decentralization<br><br>Being censorship-resistant<br><br>The focus on peer-to-peer cash<br><br>The importance of good UX]]></description>
+    </item>
+    <item>
       <title>Colin LeMahieu releasing details of the upcoming NanoPoW</title>
       <pubDate>Wed, 2 Oct 2019 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/dces6e/nanopow_the_details/</link>
