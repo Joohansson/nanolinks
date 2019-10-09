@@ -35,6 +35,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### October 2019
+* [DragonEx Adds NANO/USDT Trading Pair and Trading Pair List Sorting](https://www.reddit.com/r/nanocurrency/comments/dfefoq/dragonex_adds_nanousdt_trading_pair_and_trading/)
 * [Why Nano is The Next Bitcoin - A video by Patrick Luberus](https://www.reddit.com/r/nanocurrency/comments/deioiy/a_nano_enthusiasts_perspective_on_andreas/)
 * [Colin LeMahieu releasing details of the upcoming NanoPoW](https://www.reddit.com/r/nanocurrency/comments/dces6e/nanopow_the_details/)
 

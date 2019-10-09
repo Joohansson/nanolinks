@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Oct 09: DragonEx](https://dragonex.io/)
 * [Sep 26: Appia Manta - Python](https://github.com/appiapay/manta-python)
 * [Sep 25: OneFastWay - Betting](https://onefastway.com)
 * [Sep 22: Miner.host - Mining Pool, Pays NANO](https://miner.host/)
@@ -208,7 +209,6 @@ layout: default
 * [Sep 05: MoonPos - Mobile PoS](https://www.moonposapp.com/)
 * [Sep 02: Colin LeMahieu Interviewed on Crypto Finder](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
 * [Aug 29: Nanode.cc - Explorer, Stats, Account list](https://nanode.cc/)
-* [Aug 29: Feed the birds with Nano live stream](https://www.youtube.com/watch?v=otpqipL3H8Q)
 
 </div>
 </div>
