@@ -371,6 +371,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Bitturk](https://bitturk.com/)
 * [Qtrade](https://qtrade.io)
 * [Wazirx](https://wazirx.com/)
+* [DragonEx](https://dragonex.io/)
 
 #### Quick Crypto Swap/Buy
 ##### Simple way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.
