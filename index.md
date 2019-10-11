@@ -208,7 +208,7 @@ layout: default
 * [Sep 05: NanoQuake JS](http://nanoquakejs.com)
 * [Sep 05: MoonPos - Mobile PoS](https://www.moonposapp.com/)
 * [Sep 02: Colin LeMahieu Interviewed on Crypto Finder](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
-* [Aug 29: Nanode.cc - Explorer, Stats, Account list](https://nanode.cc/)
+* [Aug 29: Nanocean - Explorer, Stats, Account list](https://nanocean.org)
 
 </div>
 </div>
@@ -320,7 +320,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Nano-Faucet.org - Explorer, Stats, Visualizer, Map, Account list](https://nano-faucet.org/visualizer/)
 * [Repnode.org - Explorer, Stats, Reps, Network speed](https://repnode.org/)
 * [My Nano Ninja - Representatives, Stats, Explorer](https://mynano.ninja/)
-* [Nanode.cc - Explorer, Stats, Account list](https://nanode.cc/)
+* [Nanocean - Explorer, Stats, Account list](https://nanocean.org)
 * [Nanoticker - Nano Network Analytics & Performance](https://nanoticker.info/)
 * [NANOODLE - Explorer,  Fiat Tracker, Stat Charts, Account Alerting](https://nanoodle.io/live)
 * [Nanoverse - Visual Explorer](https://nanoverse.io/)
