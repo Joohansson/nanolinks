@@ -15,6 +15,15 @@
       <url>http://github.com/Joohansson/nanolinks/raw/master/src/nano_rss.png</url>
     </image>
     <item>
+      <title>Hashing It Out Podcast featuring Nano CEO Colin LeMahieu</title>
+      <pubDate>Fri, 11 Oct 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/dgizar/hashing_it_out_podcast_featuring_nano_ceo_colin/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dgizar/hashing_it_out_podcast_featuring_nano_ceo_colin/</guid>
+      <category>General</category>
+      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[EPISODE SUMMARY<br>Nano is providing a new approach to fee-less pure payments networks. We are privileged to speak with Colin LeMahieu, CEO of Nano to discuss their DAG voting-based consensus protocol, their accounts-blockchain model, and their NanoPoW for memory-hard PoW to replace fees in a network. Interesting stuff, and definitely a great conversation.]]></description>
+    </item>
+    <item>
       <title>Nano got added to Exodus Wallet</title>
       <pubDate>Fri, 11 Oct 2019 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/dgg8hy/nano_got_added_to_exodus_wallet/</link>

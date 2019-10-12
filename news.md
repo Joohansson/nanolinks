@@ -35,6 +35,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### October 2019
+* [Hashing It Out Podcast featuring Nano CEO Colin LeMahieu](https://www.reddit.com/r/nanocurrency/comments/dgizar/hashing_it_out_podcast_featuring_nano_ceo_colin/)
 * [Nano got added to Exodus Wallet](https://www.reddit.com/r/nanocurrency/comments/dgg8hy/nano_got_added_to_exodus_wallet/)
 * [DragonEx Adds NANO/USDT Trading Pair and Trading Pair List Sorting](https://www.reddit.com/r/nanocurrency/comments/dfefoq/dragonex_adds_nanousdt_trading_pair_and_trading/)
 * [Why Nano is The Next Bitcoin - A video by Patrick Luberus](https://www.reddit.com/r/nanocurrency/comments/deioiy/a_nano_enthusiasts_perspective_on_andreas/)
