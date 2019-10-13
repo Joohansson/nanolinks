@@ -432,6 +432,9 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [How to transfer Nano from a Ledger Nano recovery phrase using offline signing](https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
 * [Jolt](https://www.joltwallet.com/)
 
+### Mining Pools
+* [Miner.host - Mining Pool, Pays NANO](https://miner.host/)
+
 ### Related Mobile Apps
 * [Nano Track - Nano Ticker](https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8)
 * [Coin Stats - Multi-coin, Portfolio, Stats](https://coinstats.app/)
@@ -539,7 +542,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Vanity Generator (vitorcremonez)](https://github.com/vitorcremonez/nano-vanity)
 * [Raimixer - Scrambler](https://github.com/juanjux/raimixer)
 * [EZNano - Mine ZCash](https://github.com/Ankonian1/EZNANO)
-* [Miner.host - Mining Pool, Pays NANO](https://miner.host/)
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
 * [Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 * [Nanoodle - Account Toolbox](https://nanoodle.io/home)
