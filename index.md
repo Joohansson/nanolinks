@@ -200,6 +200,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Oct 14: Nanocurrency-web-js - JS Toolkit](https://github.com/numsu/nanocurrency-web-js)
+* [Oct 12: Hashing It Out Podcast featuring Nano CEO Colin LeMahieu](https://the-bitcoin-podcast-network.simplecast.com/episodes/hashing-it-out-63-nano-colin-lemahieu)
 * [Oct 09: DragonEx](https://dragonex.io/)
 * [Sep 26: Appia Manta - Python](https://github.com/appiapay/manta-python)
 * [Sep 25: OneFastWay - Betting](https://onefastway.com)
@@ -208,8 +210,6 @@ layout: default
 * [Sep 10: Metalpay cryptocurrency marketplace](https://www.metalpay.com/)
 * [Sep 05: NanoQuake JS](http://nanoquakejs.com)
 * [Sep 05: MoonPos - Mobile PoS](https://www.moonposapp.com/)
-* [Sep 02: Colin LeMahieu Interviewed on Crypto Finder](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
-* [Aug 29: Nanocean - Explorer, Stats, Account list](https://nanocean.org)
 
 </div>
 </div>
@@ -298,6 +298,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Colin LeMahieu Interviewed by The Crypto Lark Feb 18](https://youtu.be/hAy4GDV7tvQ)
 * [Colin LeMahieu Interviewed by DataDash Oct 18](https://youtu.be/eWdOkIev_xM)
 * [Colin LeMahieu Audio interviewed by Crypto101 (Start at 13min)](https://soundcloud.com/matthew-aaron-690749808/from-the-archive-nano-and-holochain)
+* [Oct 12: Colin LeMahieu Audio interview on Hashing It Out Podcast Oct 12 2019](https://the-bitcoin-podcast-network.simplecast.com/episodes/hashing-it-out-63-nano-colin-lemahieu)
 * [Everything you need to know about Nano](https://youtu.be/ywgMlJBli7g)
 * [Nano simply explained](https://youtu.be/dlRhUwLQWXc)
 * [Nano explained (Deep dive)](https://youtu.be/LcqPLlduE0w)
@@ -582,6 +583,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [JS Toolkit](https://github.com/marvinroger/nanocurrency-js)
 * [jNano - RPC library for Java](https://github.com/koczadly/jNano)
 * [JNano - Java RPC Client](https://github.com/rotilho/jnano-client)
+* [Nanocurrency-web-js - JS Toolkit](https://github.com/numsu/nanocurrency-web-js)
 * [SwiftyRai - Swift Lib for RPC](https://github.com/xcadaverx/SwiftyRai)
 * [RAI - Pythonic Lib for RPC](https://github.com/kennell/rai)
 * [Python Nano Tools](https://github.com/paulmelis/nano-tools)

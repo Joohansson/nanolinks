@@ -35,6 +35,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### October 2019
+* [New client-side Javascript library for Nano for offline & external key management](https://www.reddit.com/r/nanocurrency/comments/dhbrtp/i_created_a_new_clientside_javascript_library_for/)
 * [Hashing It Out Podcast featuring Nano CEO Colin LeMahieu](https://www.reddit.com/r/nanocurrency/comments/dgizar/hashing_it_out_podcast_featuring_nano_ceo_colin/)
 * [Nano got added to Exodus Wallet](https://www.reddit.com/r/nanocurrency/comments/dgg8hy/nano_got_added_to_exodus_wallet/)
 * [DragonEx Adds NANO/USDT Trading Pair and Trading Pair List Sorting](https://www.reddit.com/r/nanocurrency/comments/dfefoq/dragonex_adds_nanousdt_trading_pair_and_trading/)

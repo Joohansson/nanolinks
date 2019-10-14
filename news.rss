@@ -15,6 +15,15 @@
       <url>http://github.com/Joohansson/nanolinks/raw/master/src/nano_rss.png</url>
     </image>
     <item>
+      <title>New client-side Javascript library for Nano for offline & external key management</title>
+      <pubDate>Sun, 13 Oct 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/dhbrtp/i_created_a_new_clientside_javascript_library_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dhbrtp/i_created_a_new_clientside_javascript_library_for/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[The library is called nanocurrency-web and can be found in Github and at the npm repository. It features mnemonic phrase generation and key derivation based on BIP39/44 standard defined in the Nano documentation and works alongside the Nano Ledger implementation. You can derive as many accounts as the BIP standard allows with the same mnemonic phrase and seed.<br><br>You can also sign send, receive and change representative blocks with the user's private key. The library creates valid input data ready to be published to the blockchain using the Nano Node's process RPC command.<br><br>The library has automated tests validating the implementation.]]></description>
+    </item>
+    <item>
       <title>Hashing It Out Podcast featuring Nano CEO Colin LeMahieu</title>
       <pubDate>Fri, 11 Oct 2019 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/dgizar/hashing_it_out_podcast_featuring_nano_ceo_colin/</link>
