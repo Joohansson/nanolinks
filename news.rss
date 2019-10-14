@@ -14,6 +14,16 @@
       <link>https://nanolinks.info/news</link>
       <url>http://github.com/Joohansson/nanolinks/raw/master/src/nano_rss.png</url>
     </image>
+
+    <item>
+      <title>The Nano plugin for Unreal Engine 4 has been released</title>
+      <pubDate>Mon, 14 Oct 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/dhn4tj/the_nano_plugin_for_unreal_engine_4_has_been/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dhn4tj/the_nano_plugin_for_unreal_engine_4_has_been/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[The long-anticipated plugin for Unreal Engine is finally ready for game developers!]]></description>
+    </item>
     <item>
       <title>New client-side Javascript library for Nano for offline & external key management</title>
       <pubDate>Sun, 13 Oct 2019 09:00:00 +0200</pubDate>

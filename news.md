@@ -35,6 +35,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### October 2019
+* [The Nano plugin for Unreal Engine 4 has been released](https://www.reddit.com/r/nanocurrency/comments/dhn4tj/the_nano_plugin_for_unreal_engine_4_has_been/)
 * [New client-side Javascript library for Nano for offline & external key management](https://www.reddit.com/r/nanocurrency/comments/dhbrtp/i_created_a_new_clientside_javascript_library_for/)
 * [Hashing It Out Podcast featuring Nano CEO Colin LeMahieu](https://www.reddit.com/r/nanocurrency/comments/dgizar/hashing_it_out_podcast_featuring_nano_ceo_colin/)
 * [Nano got added to Exodus Wallet](https://www.reddit.com/r/nanocurrency/comments/dgg8hy/nano_got_added_to_exodus_wallet/)
