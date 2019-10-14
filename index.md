@@ -133,6 +133,7 @@ layout: default
     <ul>
       <li><a class="int-link" href="#wallets">Wallets</a></li>
       <li><a class="int-link" href="#faucets-free-nano">Faucets (Free nano)</a></li>
+      <li><a class="int-link" href="#services">Services</a></li>
       <li><a href="https://youtu.be/qSsIXy-NimE">Video Guide: Get Free Nano and Share with Anyone</a></li>
       <li><a href="https://youtu.be/5K8rRISz4RU">Video Demo: Transaction speed mobile to mobile</a></li>
     </ul>
@@ -538,8 +539,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Vanity Generator (PlasmaPower)](https://github.com/PlasmaPower/nano-vanity)
 * [Nano Vanity Generator (vitorcremonez)](https://github.com/vitorcremonez/nano-vanity)
 * [Raimixer - Scrambler](https://github.com/juanjux/raimixer)
-* [EZNano - Mine ZCash](https://github.com/Ankonian1/EZNANO)
-* [Miner.host - Mining Pool, Pays NANO](https://miner.host/)
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
 * [Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
 * [Nanoodle - Account Toolbox](https://nanoodle.io/home)
@@ -613,7 +612,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [NanoPoW - PoW Generator in Golang](https://github.com/serdaroquai/nanopow)
 * [Distributed PoW System (dPoW)- Client and Server](https://github.com/guilhermelawless/nano-dpow)
 * [Distributed PoW System (dPoW)- Web Client](https://nanopow.github.io/web/)
-* [Distributed PoW System (dPoW)- Dashboard](https://dpow.nanocenter.org/)
 * [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
 * [Nano-Prettify - Format Nano Raw Amounts in JavaScript](https://github.com/kilkelly/nano-prettify)
 * [Nanocap - Protocol Analyzer](https://github.com/cryptocode/nanocap)
@@ -674,10 +672,15 @@ There are much fun to do but please proceed with caution.
 * [Feed the birds with Nano live stream](https://www.youtube.com/watch?v=otpqipL3H8Q)
 
 ## Services
-Digital or physical services which accepts Nano
+Services which accepts Nano
 * [Put.io - File Serving](https://put.io)
 * [Wall of Nano](https://wallofnano.com/)
 * [Donano - Crowdfunding for Creators](https://www.donano.to)
+
+Services which payout Nano
+* [Distributed PoW System (dPOW) Dashboard](https://dpow.nanocenter.org/)
+* [EZNano - Mine ZCash, Pays NANO](https://github.com/Ankonian1/EZNANO)
+* [Miner.host - Mining Pool, Pays NANO](https://miner.host/)
 
 </div>
 </div>
