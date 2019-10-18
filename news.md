@@ -35,6 +35,10 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### October 2019
+* [Blockchain Central: interview with Colin and Andy](https://www.reddit.com/r/nanocurrency/comments/djpr4g/blockchain_central_interview_with_colin_and_andy/)
+* [Nano video review by Coin Bureau](https://www.reddit.com/r/nanocurrency/comments/dj6o6l/nano_video_review_by_coin_bureau/)
+* [Community Spotlight: James Levelle - Race for Future](https://www.reddit.com/r/nanocurrency/comments/diofbm/community_spotlight_james_levelle_race_for_future/)
+* [The NanoCenter Project Update: Google Ads Completed](https://www.reddit.com/r/nanocurrency/comments/dicpwu/the_nanocenter_project_update_google_ads_completed/)
 * [The Nano plugin for Unreal Engine 4 has been released](https://www.reddit.com/r/nanocurrency/comments/dhn4tj/the_nano_plugin_for_unreal_engine_4_has_been/)
 * [New client-side Javascript library for Nano for offline & external key management](https://www.reddit.com/r/nanocurrency/comments/dhbrtp/i_created_a_new_clientside_javascript_library_for/)
 * [Hashing It Out Podcast featuring Nano CEO Colin LeMahieu](https://www.reddit.com/r/nanocurrency/comments/dgizar/hashing_it_out_podcast_featuring_nano_ceo_colin/)
