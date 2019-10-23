@@ -35,6 +35,9 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### October 2019
+* [Natrium v2.1 is Released! — Security Audit & More](https://www.reddit.com/r/nanocurrency/comments/dm089c/natrium_v21_is_released_security_audit_more/)
+* [BrainBlocks Trading is now Live](https://www.reddit.com/r/nanocurrency/comments/dlx5c6/brainblocks_trading_is_now_live/)
+* [Nano available on changelly.com](https://www.reddit.com/r/nanocurrency/comments/dlxbig/nano_available_on_changellycom/)
 * [Blockchain Central: interview with Colin and Andy](https://www.reddit.com/r/nanocurrency/comments/djpr4g/blockchain_central_interview_with_colin_and_andy/)
 * [Nano video review by Coin Bureau](https://www.reddit.com/r/nanocurrency/comments/dj6o6l/nano_video_review_by_coin_bureau/)
 * [Community Spotlight: James Levelle - Race for Future](https://www.reddit.com/r/nanocurrency/comments/diofbm/community_spotlight_james_levelle_race_for_future/)
