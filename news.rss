@@ -16,6 +16,51 @@
     </image>
 
     <item>
+      <title>All NanoJam Projects Announced and voting started</title>
+      <pubDate>Sat, 26 Oct 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/dnfqxd/nanojam_one_community_voting_starts/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dnfqxd/nanojam_one_community_voting_starts/</guid>
+      <category>General</category>
+      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Today we open voting for the community projects that were presented at the first NanoJam<br>It brings great joy to present their projects as some of the submissions we had have a real good chance of making an impact with NANO.<br>Voting will close on Wednesday the 30th of October.]]></description>
+    </item>
+    <item>
+      <title>Lydia V20 Release Candidate 1 - now on the beta nework</title>
+      <pubDate>Sat, 26 Oct 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/dmy60l/lydia_v20_release_candidate_1_now_on_the_beta/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dmy60l/lydia_v20_release_candidate_1_now_on_the_beta/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[This latest RC includes easier configuration management with .toml files, Dynamic PoW generation available for external integrations, experimental support for RocksDB, infrastructure for supporting a transition to a new PoW algorithm in a future release, improvements in handling transactions on both the live and bootstrap network to reduce resource usage, and more.]]></description>
+    </item>
+    <item>
+      <title>5000+ Nano donated to the Teamtrees.org</title>
+      <pubDate>Sat, 26 Oct 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/dn3v57/found_you_on_the_teamtrees_donation_list/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dn3v57/found_you_on_the_teamtrees_donation_list/</guid>
+      <category>General</category>
+      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Help us plant 20 million trees around the globe by January 1st, 2020.]]></description>
+    </item>
+    <item>
+      <title>Trading has arrived in BrainBlocks Wallet</title>
+      <pubDate>Fri, 25 Oct 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/dmxjpk/trading_has_arrived_in_brainblocks_wallet/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dmxjpk/trading_has_arrived_in_brainblocks_wallet/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[We’re excited to announce that BrainBlocks wallet now features a “Buy & Sell” screen where you can easily trade Nano with other cryptocurrencies.]]></description>
+    </item>
+    <item>
+      <title>NANO promoted to the KuCoin Plus Trading Area</title>
+      <pubDate>Thu, 24 Oct 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/dmbbfd/nano_promoted_to_the_kucoin_plus_trading_area/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dmbbfd/nano_promoted_to_the_kucoin_plus_trading_area/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[KuCoin is dedicated to creating a healthy exchange ecosystem, investigating high-quality projects and utilizing resources to better serve our users. We have been closely monitoring and analyzing all the projects in the KuCoin Plus Trading Area.]]></description>
+    </item>
+    <item>
       <title>Natrium v2.1 is Released! — Security Audit & More</title>
       <pubDate>Wed, 23 Oct 2019 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/dm089c/natrium_v21_is_released_security_audit_more/</link>

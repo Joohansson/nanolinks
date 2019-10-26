@@ -200,16 +200,16 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
-* [Oct 14: Nanocurrency-web-js - JS Toolkit](https://github.com/numsu/nanocurrency-web-js)
-* [Oct 12: Hashing It Out Podcast featuring Nano CEO Colin LeMahieu](https://the-bitcoin-podcast-network.simplecast.com/episodes/hashing-it-out-63-nano-colin-lemahieu)
-* [Oct 09: DragonEx](https://dragonex.io/)
-* [Sep 26: Appia Manta - Python](https://github.com/appiapay/manta-python)
-* [Sep 25: OneFastWay - Betting](https://onefastway.com)
-* [Sep 22: Miner.host - Mining Pool, Pays NANO](https://miner.host/)
-* [Sep 18: Nano Infographics](https://imgur.com/a/tPaK9hp)
-* [Sep 10: Metalpay cryptocurrency marketplace](https://www.metalpay.com/)
-* [Sep 05: NanoQuake JS](http://nanoquakejs.com)
-* [Sep 05: MoonPos - Mobile PoS](https://www.moonposapp.com/)
+* [Oct 26: NanoMusic - Listen to the network live](https://joohansson.github.io/nanomusic/)
+* [Oct 26: Delegated Proof of Work](https://anarkrypto.github.io/Delegated-Proof-of-Work/)
+* [Oct 26: SomeNano Words - Betting on words](https://words.somenano.com/)
+* [Oct 26: Distributed Vanity Address Generation](https://plasmapower.github.io/distributed-vanity/)
+* [Oct 26: Split Nano - Split receives between your team](https://splitnano.com/)
+* [Oct 26: Nano RPC Playground](https://nanoo.tools/nano-rpc-playground)
+* [Oct 26: Heytipme](https://heytip.me/)
+* [Oct 25: Brainblocks Wallet](https://app.brainblocks.io)
+* [Oct 23: Changelly Exchanger](https://changelly.com/)
+* [Oct 18: Blockchain Central: Interview with Colin and Andy](https://youtu.be/rhMGXoWGZfg)
 
 </div>
 </div>
@@ -298,7 +298,9 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Colin LeMahieu Interviewed by The Crypto Lark Feb 18](https://youtu.be/hAy4GDV7tvQ)
 * [Colin LeMahieu Interviewed by DataDash Oct 18](https://youtu.be/eWdOkIev_xM)
 * [Colin LeMahieu Audio interviewed by Crypto101 (Start at 13min)](https://soundcloud.com/matthew-aaron-690749808/from-the-archive-nano-and-holochain)
-* [Oct 12: Colin LeMahieu Audio interview on Hashing It Out Podcast Oct 12 2019](https://the-bitcoin-podcast-network.simplecast.com/episodes/hashing-it-out-63-nano-colin-lemahieu)
+* [Colin LeMahieu Audio interview on Hashing It Out Podcast Oct 2019](https://the-bitcoin-podcast-network.simplecast.com/episodes/hashing-it-out-63-nano-colin-lemahieu)
+* [Nano review by Coin Bureau Oct 2019](https://youtu.be/JkoXe6M-59U)
+* [Blockchain Central: Interview with Colin and Andy Oct 2019](https://youtu.be/rhMGXoWGZfg)
 * [Everything you need to know about Nano](https://youtu.be/ywgMlJBli7g)
 * [Nano simply explained](https://youtu.be/dlRhUwLQWXc)
 * [Nano explained (Deep dive)](https://youtu.be/LcqPLlduE0w)
@@ -324,6 +326,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [My Nano Ninja - Representatives, Stats, Explorer](https://mynano.ninja/)
 * [Nanocean - Explorer, Stats, Account list](https://nanocean.org)
 * [Nanoticker - Nano Network Analytics & Performance](https://nanoticker.info/)
+* [NanoMusic - Musical Visualizer](https://joohansson.github.io/nanomusic/)
 * [NANOODLE - Explorer,  Fiat Tracker, Stat Charts, Account Alerting](https://nanoodle.io/live)
 * [Nanoverse - Visual Explorer](https://nanoverse.io/)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
@@ -379,6 +382,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 ##### Simple way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.
 
 * [Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
+* [Brainblocks Wallet](https://app.brainblocks.io)
+* [Changelly](https://changelly.com/)
 * [Coingate](https://coingate.com/buy/nano)
 * [Uphold](https://uphold.com/)
 * [Crypto.com](https://crypto.com)
@@ -395,6 +400,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Elastum.io - European Gateway](https://elastum.io/)
 * [Bitvavo - European Gateway](https://bitvavo.com/en)
 * [Lex.Exchange - Australian Gateway](https://lex.exchange/)
+
 
 #### Escrow and Peer-to-peer
 * [Localnano](https://www.localnano.com/)
@@ -414,6 +420,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nano Wallet Company** - OSX,Win,Linux,iOS,Android](https://nanowalletcompany.com/)
 
 #### Multi Asset Wallets
+* [**Exodus** - Win, Mac, Linux, iOS, Android](https://www.exodus.io/)
 * [**Hodler** - Android, Win, Linux](https://hodler.tech/)
 
 
@@ -421,11 +428,17 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [NanoPaperWallet.com](https://nanopaperwallet.com/)
 * [Paper Wallet Generator (vitorcremonez)](https://vitorcremonez.github.io/nano-paper-wallet/)
 * [Nano Gift - Gift Card and Paper Wallet Generator](https://nanogift.me)
+* [Heytipme](https://heytip.me/)
 * [RaiPaper](https://blootoon.github.io/rai-paper/)
 * [Rai Paper Wallet](https://numtel.github.io/rai-paper-wallet/)
 * [Nano Warp Wallet](https://termhn.github.io/nanowarpwallet/)
 * [Dropil - Graphical Templates](https://paper.dropil.com)
 * [Secure Seed Commands - How to Generate Seeds in various OS](https://www.secureseedcommands.com)
+* [Nano Vanity Generator (njakob)](https://nanoaddr.io/)
+* [Nano Vanity Generator (frankh)](https://github.com/frankh/nano-vanity)
+* [Nano Vanity Generator (PlasmaPower)](https://github.com/PlasmaPower/nano-vanity)
+* [Nano Vanity Generator (vitorcremonez)](https://github.com/vitorcremonez/nano-vanity)
+* [Distributed Vanity Address Generation](https://plasmapower.github.io/distributed-vanity/)
 
 #### Hardware Wallets and Nodes
 * [Ledger Nano S](https://www.ledger.fr/)
@@ -535,10 +548,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Ogdolo - Crypto Address Alias](https://ogdolo.com)
 * [BIP39 Demo](https://github.com/roosmaa/nano-bip39-demo)
 * [Telegram Bot Source Code](https://github.com/SergiySW/NanoWalletBot)
-* [Nano Vanity Generator (njakob)](https://nanoaddr.io/)
-* [Nano Vanity Generator (frankh)](https://github.com/frankh/nano-vanity)
-* [Nano Vanity Generator (PlasmaPower)](https://github.com/PlasmaPower/nano-vanity)
-* [Nano Vanity Generator (vitorcremonez)](https://github.com/vitorcremonez/nano-vanity)
 * [Raimixer - Scrambler](https://github.com/juanjux/raimixer)
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
 * [Daily Update of Nano Database - Quick Sync](https://yadi.sk/d/fcZgyES73Jzj5T)
@@ -555,10 +564,12 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Snapy - Free NANO API for Developers](https://snapy.io/)
 * [Mynano: Public node API](https://mynano.ninja/api)
 * [Nanoverse: Public node API & web console](https://nanoverse.io/api/)
+* [Nano RPC Playground](https://nanoo.tools/nano-rpc-playground)
 * [OpenAPI Specification for Nano RPC API](https://aspic.github.io/nano-rpc-api/)
 * [Nano Cold (Offline, air-gapped) Signing Script](https://github.com/noahc66260/nano-cold-signing)
 * [Passwordless Authentication (Demo)](https://nanocharts.info/passwordless/)
 * [Appia Manta - Python](https://github.com/appiapay/manta-python)
+* [Split Nano - Split receives between your team](https://splitnano.com/)
 
 ### Wallets [Source Code]
 * [Natrium](https://github.com/BananoCoin/natrium-android-wallet)
@@ -576,6 +587,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Paper Wallet 2](https://github.com/jelofsson/nano-paper-wallet)
 
 ### Protocol, RPC, Libraries, Tools, Servers
+* [Nano Unreal Engine 4 Plugin](https://github.com/wezrule/UE4NanoPlugin)
 * [RaiSharp - C# Lib for RPC](https://github.com/vardthomas/Aggrex.RaiSharp)
 * [Prailude - Nano node in Lua and C](https://github.com/slact/prailude)
 * [RaiBlocksJS - JS Lib for RPC](https://github.com/orrybaram/RaiBlocksJS)
@@ -658,6 +670,7 @@ There are much fun to do but please proceed with caution.
 * [Raffle Miner](https://www.raffleminer.com/)
 * [Luckygames.io - Gambling](https://luckygames.io/)
 * [OneFastWay - Betting](https://onefastway.com)
+* [SomeNano Words - Betting on words](https://words.somenano.com/)
 
 ### Games
 * [NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
@@ -668,6 +681,7 @@ There are much fun to do but please proceed with caution.
 * [The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
 
 ### Video, Music, Art
+* [NanoMusic - Listen to the network live](https://joohansson.github.io/nanomusic/)
 * [NanoPixelWall - Buy your pixel spot](https://nanopixelwall.com/)
 * [The Nanoji Generator](https://www.nanojigenerator.com/)
 * [Nano Wallpapers](https://www.nano-wallpapers.com/)
@@ -680,7 +694,8 @@ Services which accepts Nano
 * [Donano - Crowdfunding for Creators](https://www.donano.to)
 
 Services which payout Nano
-* [Distributed PoW System (dPOW) Dashboard](https://dpow.nanocenter.org/)
+* [Distributed PoW System (dPoW)](https://dpow.nanocenter.org/)
+* [Delegated Proof of Work](https://anarkrypto.github.io/Delegated-Proof-of-Work/)
 * [EZNano - Mine ZCash, Pays NANO](https://github.com/Ankonian1/EZNANO)
 * [Miner.host - Mining Pool, Pays NANO](https://miner.host/)
 
