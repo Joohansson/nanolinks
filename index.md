@@ -200,6 +200,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Oct 29: What is Nano in 60 Sec](https://youtu.be/ydVomoXEGe0)
+* [Oct 29: Support Forum](https://forum.nano.org)
 * [Oct 26: NanoMusic - Listen to the network live](https://joohansson.github.io/nanomusic/)
 * [Oct 26: Delegated Proof of Work](https://anarkrypto.github.io/Delegated-Proof-of-Work/)
 * [Oct 26: SomeNano Words - Betting on words](https://words.somenano.com/)
@@ -207,9 +209,6 @@ layout: default
 * [Oct 26: Split Nano - Split receives between your team](https://splitnano.com/)
 * [Oct 26: Nano RPC Playground](https://nanoo.tools/nano-rpc-playground)
 * [Oct 26: Heytipme](https://heytip.me/)
-* [Oct 25: Brainblocks Wallet](https://app.brainblocks.io)
-* [Oct 23: Changelly Exchanger](https://changelly.com/)
-* [Oct 18: Blockchain Central: Interview with Colin and Andy](https://youtu.be/rhMGXoWGZfg)
 
 </div>
 </div>
@@ -227,6 +226,7 @@ Learn everything there is to know about Nano!
 
 * [Main Site - nano.org](https://nano.org)
 * [Full Documentation, Roadmap, Integration guides](https://docs.nano.org/)
+* [Support Forum](https://forum.nano.org)
 * [Whitepaper (Eng)](https://nano.org/en/whitepaper)
 * [Official Nano GitHub Wiki](https://github.com/nanocurrency/raiblocks/wiki)
 * [Medium Channel - Main](https://medium.com/@nanocurrency)
@@ -250,6 +250,7 @@ Learn everything there is to know about Nano!
 protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTEXT02.pdf)
 
 ### Education & Adoption
+* [What is Nano in 60 Sec](https://youtu.be/ydVomoXEGe0)
 * [Nano Guide - Getting started](http://nano-guide.com/)
 * [Nano Guide 2 - Getting Started](https://gettingstarted.nanocenter.org/)
 * [What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
