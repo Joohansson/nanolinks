@@ -200,6 +200,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Oct 31: Nanonymous](https://github.com/LilleJohs/Nanonymous)
 * [Oct 29: What is Nano in 60 Sec](https://youtu.be/ydVomoXEGe0)
 * [Oct 29: Support Forum](https://forum.nano.org)
 * [Oct 26: NanoMusic - Listen to the network live](https://joohansson.github.io/nanomusic/)
@@ -208,7 +209,6 @@ layout: default
 * [Oct 26: Distributed Vanity Address Generation](https://plasmapower.github.io/distributed-vanity/)
 * [Oct 26: Split Nano - Split receives between your team](https://splitnano.com/)
 * [Oct 26: Nano RPC Playground](https://nanoo.tools/nano-rpc-playground)
-* [Oct 26: Heytipme](https://heytip.me/)
 
 </div>
 </div>
@@ -319,7 +319,6 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 
 ### Network Stats and Explorers
 * [NanoCrawler.cc - Explorer, Stats, Account list](https://nanocrawler.cc/)
-* [Nanode.co - Explorer, Stats](https://www.nanode.co/)
 * [Nano-Faucet.org - Explorer, Stats, Visualizer, Map, Account list](https://nano-faucet.org/visualizer/)
 * [Repnode.org - Explorer, Stats, Reps, Network speed](https://repnode.org/)
 * [My Nano Ninja - Representatives, Stats, Explorer](https://mynano.ninja/)
@@ -538,7 +537,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 
 ### Node & Account Applications
 * [Brainblocks](https://github.com/brainblocks)
-* [Nanode.co](https://github.com/mikepaszkiewicz/nanode)
 * [Nano Node Monitor](https://github.com/NanoTools/nanoNodeMonitor)
 * [Nano Node Graphics - Realtime Charts](https://github.com/Joohansson/NanoNodeGraphics)
 * [Nano Node Scripts](https://github.com/dbachm123/nanoNodeScripts)
@@ -580,6 +578,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanollet](https://github.com/brokenbydefault/Nanollet)
 * [Nanoblocks](https://github.com/nebyark/nano-blocks)
 * [Rain - Light Raiblocks Wallet](https://github.com/thehen101/Rain)
+* [Nanonymous](https://github.com/LilleJohs/Nanonymous)
 * [Nano Light Wallet - NodeJS](https://github.com/NanoDevs/NanoLightWallet)
 * [Nano Light Wallet](https://github.com/numtel/open-nano-wallet)
 * [Nano Gift - Gift Card and Paper Wallet](https://github.com/Joohansson/nanogift)
