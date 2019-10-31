@@ -35,6 +35,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### October 2019
+* [Nanonymous: A Proof of Concept wallet for Android of a privacy-focused wallet](https://www.reddit.com/r/nanocurrency/comments/dov7tz/nanonymous_a_proof_of_concept_wallet_for_android/)
+* [Excellent new video from Patrick: Nano in 60 Seconds](https://www.reddit.com/r/nanocurrency/comments/dota7z/nano_explained_in_60_seconds/)
 * [Announcement: New Nano Forum](https://www.reddit.com/r/nanocurrency/comments/dotfvx/announcement_new_nano_forum/)
 * [ProBit Exchange Lists Nano - Trading starting Nov 4](https://www.reddit.com/r/nanocurrency/comments/do6ol0/probit_exchange_lists_nano_trading_starting_nov_4/)
 * [All NanoJam Projects Announced and voting started](https://www.reddit.com/r/nanocurrency/comments/dnfqxd/nanojam_one_community_voting_starts/)
