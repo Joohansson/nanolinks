@@ -16,6 +16,15 @@
     </image>
 
     <item>
+      <title>Siliqua - first release of modular light wallet with CLI interface</title>
+      <pubDate>Thu, 31 Oct 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/dpqc0i/siliqua_first_release_of_modular_light_wallet/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dpqc0i/siliqua_first_release_of_modular_light_wallet/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[After a few months of development during my free time, I've released the first version of Siliqua: a modular light wallet written in Python. Modularity in this project means that the network, PoW and UI components can be developed as separate plugins. For example, you could develop a PoW plugin that uses the DPoW service to generate PoW for new blocks, or a graphical user interface for mobile devices that's developed separately from the wallet code.]]></description>
+    </item>
+    <item>
       <title>Nanonymous: A Proof of Concept wallet for Android of a privacy-focused wallet</title>
       <pubDate>Wed, 30 Oct 2019 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/dov7tz/nanonymous_a_proof_of_concept_wallet_for_android/</link>

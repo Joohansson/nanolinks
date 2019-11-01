@@ -200,6 +200,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Nov 01: Siliqua - Python modular light wallet](https://github.com/Matoking/siliqua)
 * [Oct 31: Nanonymous](https://github.com/LilleJohs/Nanonymous)
 * [Oct 29: What is Nano in 60 Sec](https://youtu.be/ydVomoXEGe0)
 * [Oct 29: Support Forum](https://forum.nano.org)
@@ -589,6 +590,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Unreal Engine 4 Plugin](https://github.com/wezrule/UE4NanoPlugin)
 * [RaiSharp - C# Lib for RPC](https://github.com/vardthomas/Aggrex.RaiSharp)
 * [Prailude - Nano node in Lua and C](https://github.com/slact/prailude)
+
 * [RaiBlocksJS - JS Lib for RPC](https://github.com/orrybaram/RaiBlocksJS)
 * [RaiBlocksJS 2 - JS Lib for RPC](https://github.com/SergiySW/RaiBlocksJS)
 * [JS Toolkit](https://github.com/marvinroger/nanocurrency-js)
@@ -597,6 +599,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanocurrency-web-js - JS Toolkit](https://github.com/numsu/nanocurrency-web-js)
 * [SwiftyRai - Swift Lib for RPC](https://github.com/xcadaverx/SwiftyRai)
 * [RAI - Pythonic Lib for RPC](https://github.com/kennell/rai)
+
 * [Python Nano Tools](https://github.com/paulmelis/nano-tools)
 * [Nanolib - Python library for Nano protocol](https://github.com/Matoking/nanolib)
 * [PRai - Python RPC Client](https://github.com/jxub/prai)
@@ -606,6 +609,8 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [NanoPy - Functions and Tools](https://github.com/nano128/nanopy)
 * [Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
 * [Pynanocurrency - Python protocol library](https://github.com/Matoking/pynanocurrency)
+* [Siliqua - Python modular light wallet](https://github.com/Matoking/siliqua)
+
 * [Nanio - RPC Gateway, API Browser](https://github.com/rbw/nanio)
 * [Nano Shell - Nano Node bash convenience wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Nanook - Ruby Lib for RPC](https://github.com/lukes/nanook)
