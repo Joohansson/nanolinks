@@ -702,6 +702,7 @@ Services which payout Nano
 * [Delegated Proof of Work](https://anarkrypto.github.io/Delegated-Proof-of-Work/)
 * [EZNano - Mine ZCash, Pays NANO](https://github.com/Ankonian1/EZNANO)
 * [Miner.host - Mining Pool, Pays NANO](https://miner.host/)
+* [Quicrypto - Earn Nano for completing tasks](https://www.quicrypto.com)
 
 </div>
 </div>
