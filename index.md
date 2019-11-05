@@ -200,6 +200,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Nov 05: Kraken Exchange](https://www.kraken.com/)
 * [Nov 01: Siliqua - Python modular light wallet](https://github.com/Matoking/siliqua)
 * [Oct 31: Nanonymous](https://github.com/LilleJohs/Nanonymous)
 * [Oct 29: What is Nano in 60 Sec](https://youtu.be/ydVomoXEGe0)
@@ -209,7 +210,6 @@ layout: default
 * [Oct 26: SomeNano Words - Betting on words](https://words.somenano.com/)
 * [Oct 26: Distributed Vanity Address Generation](https://plasmapower.github.io/distributed-vanity/)
 * [Oct 26: Split Nano - Split receives between your team](https://splitnano.com/)
-* [Oct 26: Nano RPC Playground](https://nanoo.tools/nano-rpc-playground)
 
 </div>
 </div>
@@ -356,6 +356,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 #### Traditional Exchanges
 * [Binance](https://www.binance.com)
+* [Kraken](https://www.kraken.com/)
 * [KuCoin](https://www.kucoin.com)
 * [OkEx](https://www.okex.com/)
 * [Huobi](https://www.huobi.com/en-us/)
