@@ -325,7 +325,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [My Nano Ninja - Representatives, Stats, Explorer](https://mynano.ninja/)
 * [Nanocean - Explorer, Stats, Account list](https://nanocean.org)
 * [Nanoticker - Nano Network Analytics & Performance](https://nanoticker.info/)
-* [NanoMusic - Musical Visualizer](https://joohansson.github.io/nanomusic/)
+* [NanoMusic - Musical/Art Visualizer](https://joohansson.github.io/nanomusic/)
 * [NANOODLE - Explorer,  Fiat Tracker, Stat Charts, Account Alerting](https://nanoodle.io/live)
 * [Nanoverse - Visual Explorer](https://nanoverse.io/)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
