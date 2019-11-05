@@ -616,8 +616,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanook - Ruby Lib for RPC](https://github.com/lukes/nanook)
 * [Ruby Nano RPC - RPC Wrapper for Ruby](https://github.com/jcraigk/ruby_nano_rpc)
 * [Nanocurrency Ruby - Toolkit for Ruby](https://rubygems.org/gems/nanocurrency)
-* [Raiblocks PHP](https://github.com/jaimehgb/RaiBlocksPHP)
-* [Easy Rai Kit PHP](https://github.com/SergiySW/easyraikitphp)
+* [PHP 4 Nano](https://github.com/mikerow/php4nano)
 * [Nano protocol in Golang](https://github.com/frankh/nano)
 * [NanoDotNet - .Net Lib](https://github.com/Flufd/NanoDotNet)
 * [Nano-rs - Nano in Rust](https://github.com/termhn/nano-rs)
@@ -671,7 +670,6 @@ There are much fun to do but please proceed with caution.
 * [PVP - Betting](https://pvp.me/)
 * [Nano Games - Betting](https://nanogames.io/)
 * [LuckyNano - Gambling](https://luckynano.com/)
-* [Raffle Miner](https://www.raffleminer.com/)
 * [Luckygames.io - Gambling](https://luckygames.io/)
 * [OneFastWay - Betting](https://onefastway.com)
 * [SomeNano Words - Betting on words](https://words.somenano.com/)
@@ -700,7 +698,6 @@ Services which accepts Nano
 Services which payout Nano
 * [Distributed PoW System (dPoW)](https://dpow.nanocenter.org/)
 * [Delegated Proof of Work](https://anarkrypto.github.io/Delegated-Proof-of-Work/)
-* [EZNano - Mine ZCash, Pays NANO](https://github.com/Ankonian1/EZNANO)
 * [Miner.host - Mining Pool, Pays NANO](https://miner.host/)
 * [Quicrypto - Earn Nano for completing tasks](https://www.quicrypto.com)
 
