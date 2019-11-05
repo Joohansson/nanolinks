@@ -771,5 +771,5 @@ It takes some effort to maintaining this content. If you want to contribute to t
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script src="src/js/index.js"></script>
 
-<!-- Track link submissions -->
+<!-- Link submissions -->
 <script src="https://usebasin.com/f/716ec11da426/ahoy.js" async defer></script>
