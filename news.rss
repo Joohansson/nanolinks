@@ -16,6 +16,15 @@
     </image>
 
     <item>
+      <title>Nano Foundation launching a new redesigned Nano.org</title>
+      <pubDate>Wed, 6 Nov 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/dsg7y1/introducing_the_new_nanoorg/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dsg7y1/introducing_the_new_nanoorg/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[We are excited to release the new Nano website - it has never been easier to discover and learn about Nano!]]></description>
+    </item>
+    <item>
       <title>Nano will be listed on Kraken on November 6</title>
       <pubDate>Tue, 5 Nov 2019 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/drzb07/nano_will_be_listed_on_kraken_on_november_6/</link>
@@ -32,6 +41,15 @@
       <category>Release</category>
       <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
       <description><![CDATA[After a few months of development during my free time, I've released the first version of Siliqua: a modular light wallet written in Python. Modularity in this project means that the network, PoW and UI components can be developed as separate plugins. For example, you could develop a PoW plugin that uses the DPoW service to generate PoW for new blocks, or a graphical user interface for mobile devices that's developed separately from the wallet code.]]></description>
+    </item>
+    <item>
+      <title>Nano Foundation adding a new Communications Coordinator Graham Cull</title>
+      <pubDate>Fri, 1 Nov 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/dq50sz/weekly_nano_update_11119/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dq50sz/weekly_nano_update_11119/</guid>
+      <category>General</category>
+      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[This week we’re excited to welcome Graham Cull into the Nano Foundation. Graham has contributed a great deal to the Nano ecosystem, and his knowledge, manner, and experience, in addition to his background in software sales and business development, make him the perfect addition to our communications team.<br>Graham will be responsible for assisting with a wide range of tasks, including developing our social media strategy, external communication, community management. Help us in welcoming Graham into the Nano Foundation!]]></description>
     </item>
     <item>
       <title>Nanonymous: A Proof of Concept wallet for Android of a privacy-focused wallet</title>

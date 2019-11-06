@@ -35,8 +35,10 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### November 2019
+* [Nano Foundation launching a new redesigned Nano.org](https://www.reddit.com/r/nanocurrency/comments/dsg7y1/introducing_the_new_nanoorg/)
 * [Nano listed on Kraken Exchange with USD, EUR, BTC and ETH pairs](https://www.reddit.com/r/nanocurrency/comments/drzb07/nano_will_be_listed_on_kraken_on_november_6/)
 * [Siliqua - first release of modular light wallet with CLI interface](https://www.reddit.com/r/nanocurrency/comments/dpqc0i/siliqua_first_release_of_modular_light_wallet/)
+* [Nano Foundation adding a new Communications Coordinator Graham Cull](https://www.reddit.com/r/nanocurrency/comments/dq50sz/weekly_nano_update_11119/)
 
 ### October 2019
 * [Nanonymous: A Proof of Concept wallet for Android of a privacy-focused wallet](https://www.reddit.com/r/nanocurrency/comments/dov7tz/nanonymous_a_proof_of_concept_wallet_for_android/)
