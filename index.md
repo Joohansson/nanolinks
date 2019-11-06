@@ -200,6 +200,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Nov 06: TipNano - Android Faucet App](https://play.google.com/store/apps/details?id=com.bdf.tipnano)
 * [Nov 05: Kraken Exchange](https://www.kraken.com/)
 * [Nov 01: Siliqua - Python modular light wallet](https://github.com/Matoking/siliqua)
 * [Oct 31: Nanonymous](https://github.com/LilleJohs/Nanonymous)
@@ -209,7 +210,6 @@ layout: default
 * [Oct 26: Delegated Proof of Work](https://anarkrypto.github.io/Delegated-Proof-of-Work/)
 * [Oct 26: SomeNano Words - Betting on words](https://words.somenano.com/)
 * [Oct 26: Distributed Vanity Address Generation](https://plasmapower.github.io/distributed-vanity/)
-* [Oct 26: Split Nano - Split receives between your team](https://splitnano.com/)
 
 </div>
 </div>
@@ -501,6 +501,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Getnano](https://getnano.co.uk/)
 * [GetFreeNano - Nano China](https://getfreenano.com/)
 * [NanoQuake - Faucet feature](https://nanocenter.fandom.com/wiki/Nano_Quake)
+* [TipNano - Android Faucet App](https://play.google.com/store/apps/details?id=com.bdf.tipnano)
 
 ### Point of Sale
 * [Appia - Payment service, PoS](http://appia.co/)
