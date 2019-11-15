@@ -35,7 +35,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### November 2019
-* [Introducing 1na.no - A domain name service for your Nano projects](https://www.reddit.com/r/nanocurrency/comments/dvpftp/introducing_1nano_a_domain_name_service_for_your/)
+* [Nano Node V20 Performance Improvements](https://www.reddit.com/r/nanocurrency/comments/dwbisj/nano_node_v20_performance_improvements/)
+* [Introducing One Nano Host - A domain name service for your Nano projects](https://www.reddit.com/r/nanocurrency/comments/dvpftp/introducing_1nano_a_domain_name_service_for_your/)
 * [Nano has been added to Binance's Trust Wallet app](https://www.reddit.com/r/nanocurrency/comments/dvrply/nano_has_been_added_to_binances_trust_wallet_app/)
 * [Announcement: Nano V20 Lydia is now live on the main network](https://www.reddit.com/r/nanocurrency/comments/dvflbc/announcement_nano_v20_lydia_is_now_live_on_the/)
 * [Wirex expanding its travelcard in Asia with 4000 Nano giveaway](https://www.reddit.com/r/nanocurrency/comments/dusokx/nano_wirex_in_asia/)
