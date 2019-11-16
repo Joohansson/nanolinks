@@ -200,6 +200,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Nov 16: Trust Wallet - iOS, Android](https://trustwallet.com/)
+* [Nov 14: One Nano Host - Free DNS Domain for Nano related endpoints](https://nanos.cc/)
 * [Nov 06: TipNano - Android Faucet App](https://play.google.com/store/apps/details?id=com.bdf.tipnano)
 * [Nov 05: Kraken Exchange](https://www.kraken.com/)
 * [Nov 01: Siliqua - Python modular light wallet](https://github.com/Matoking/siliqua)
@@ -208,8 +210,6 @@ layout: default
 * [Oct 29: Support Forum](https://forum.nano.org)
 * [Oct 26: NanoMusic - Listen to the network live](http://music.nanos.cc)
 * [Oct 26: Delegated Proof of Work](https://anarkrypto.github.io/Delegated-Proof-of-Work/)
-* [Oct 26: SomeNano Words - Betting on words](https://words.somenano.com/)
-* [Oct 26: Distributed Vanity Address Generation](https://plasmapower.github.io/distributed-vanity/)
 
 </div>
 </div>
@@ -422,6 +422,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 #### Multi Asset Wallets
 * [**Exodus** - Win, Mac, Linux, iOS, Android](https://www.exodus.io/)
+* [**Trust Wallet** - iOS, Android](https://trustwallet.com/)
 * [**Hodler** - Android, Win, Linux](https://hodler.tech/)
 
 
@@ -558,7 +559,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanofy - File Signing](https://nanofy.org/)
 * [Offline Audio Messenger - Ex. offline block signing](http://msg.nanos.cc/)
 * [Nano Paywall - Pay to unlock wordpress content](https://github.com/nanoble-org/nano-paywall)
-* [247 Node - Free Nano Node Domain](https://247node.net/)
 * [Nanote.io - Send messages with nano](https://nanote.io/)
 * [Paygenerator - Payment link generator (deep links)](https://nanotipbot.com/paygenerator)
 * [Nano Seed - A Nano take on keys.lol](https://nano-seeds.meltingice.dev/)
@@ -693,10 +693,12 @@ There are much fun to do but please proceed with caution.
 * [Feed the birds with Nano live stream](https://www.youtube.com/watch?v=otpqipL3H8Q)
 
 ## Services
-Services which accepts Nano
+Services which accepts Nano (mandatory or optional)
 * [Put.io - File Serving](https://put.io)
 * [Wall of Nano](https://wallofnano.com/)
 * [Donano - Crowdfunding for Creators](https://www.donano.to)
+* [One Nano Host - Free DNS Domain for Nano related endpoints](https://nanos.cc/)
+* [247 Node - Free DNS Domain for nodes](https://247node.net/)
 
 Services which payout Nano
 * [Distributed PoW System (dPoW)](https://dpow.nanocenter.org/)
