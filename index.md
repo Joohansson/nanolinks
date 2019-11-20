@@ -410,15 +410,14 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 ### Wallets
 * [**Natrium** - Android,iOS](https://natrium.io/)
-* [**Canoe** - OSX,Win,Linux,iOS,Android,WinPhone](https://getcanoe.io/)
-* [**Nanovault** - Web,Linux,Mac](https://nanovault.io/)
-* [**Ninjavault** - Web](https://vault.mynano.ninja/)
-* [**Nanovault #2** - Web](https://vault.nanocrawler.cc/)
-* [**Nanovault #3** - Web](https://vault.nifni.net)
 * [**Nanowallet** - Web](https://nanowallet.io/)
 * [**Brainblocks** - Web](https://app.brainblocks.io/)
+* [**Nanovault** - Web,Windows,Linux,Mac](https://nanovault.io/)
+* [**Ninjavault** - Web](https://vault.mynano.ninja/)
+* [**Nanovault #2** - Web](https://vault.nanocrawler.cc/)
 * [**Nanollet** - Windows,Linux,Darwin](https://nanollet.org/)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
+* [**Canoe** - OSX,Win,Linux,iOS,Android,WinPhone](https://getcanoe.io/)
 * [**Nano Wallet Company** - OSX,Win,Linux,iOS,Android](https://nanowalletcompany.com/)
 
 #### Multi Asset Wallets
