@@ -200,6 +200,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Nov 20: Binance US Exchange](https://www.binance.us/)
 * [Nov 16: Trust Wallet - iOS, Android](https://trustwallet.com/)
 * [Nov 14: One Nano Host - Free DNS Domain for Nano related endpoints](https://nanos.cc/)
 * [Nov 06: TipNano - Android Faucet App](https://play.google.com/store/apps/details?id=com.bdf.tipnano)
@@ -209,7 +210,6 @@ layout: default
 * [Oct 29: What is Nano in 60 Sec](https://youtu.be/ydVomoXEGe0)
 * [Oct 29: Support Forum](https://forum.nano.org)
 * [Oct 26: NanoMusic - Listen to the network live](http://music.nanos.cc)
-* [Oct 26: Delegated Proof of Work](https://anarkrypto.github.io/Delegated-Proof-of-Work/)
 
 </div>
 </div>
@@ -356,6 +356,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 #### Traditional Exchanges
 * [Binance](https://www.binance.com)
+* [Binance.US](https://www.binance.us/)
 * [Kraken](https://www.kraken.com/)
 * [KuCoin](https://www.kucoin.com)
 * [OkEx](https://www.okex.com/)

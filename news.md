@@ -35,6 +35,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### November 2019
+* [Nano start trading on Binance US Nov 21st](https://www.reddit.com/r/nanocurrency/comments/dyusrk/nano_will_be_listed_on_binance_us/)
 * [Nano Node V20 Performance Improvements](https://www.reddit.com/r/nanocurrency/comments/dwbisj/nano_node_v20_performance_improvements/)
 * [Introducing One Nano Host - A domain name service for your Nano projects](https://www.reddit.com/r/nanocurrency/comments/dvpftp/introducing_1nano_a_domain_name_service_for_your/)
 * [Nano has been added to Binance's Trust Wallet app](https://www.reddit.com/r/nanocurrency/comments/dvrply/nano_has_been_added_to_binances_trust_wallet_app/)
