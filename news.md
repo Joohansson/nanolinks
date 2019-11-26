@@ -35,6 +35,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### November 2019
+* [Travala partners with Booking.com - Use NANO to pay for Booking.com](https://www.reddit.com/r/nanocurrency/comments/e1na7f/travala_partners_with_bookingcom_use_nano_to_pay/)
 * [Kappture introduces self-service kiosk supporting Nano](https://www.reddit.com/r/nanocurrency/comments/e0j0ar/kappture_introduces_selfservice_kiosk_supporting/)
 * [Nano start trading on Binance US Nov 21st](https://www.reddit.com/r/nanocurrency/comments/dyusrk/nano_will_be_listed_on_binance_us/)
 * [Nano Node V20 Performance Improvements](https://www.reddit.com/r/nanocurrency/comments/dwbisj/nano_node_v20_performance_improvements/)
