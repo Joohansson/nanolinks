@@ -200,6 +200,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Nov 26: Magnum - Web wallet with Ledger & Swap support](https://app.magnumwallet.co/)
 * [Nov 20: Binance US Exchange](https://www.binance.us/)
 * [Nov 16: Trust Wallet - iOS, Android](https://trustwallet.com/)
 * [Nov 14: One Nano Host - Free DNS Domain for Nano related endpoints](https://nanos.cc/)
@@ -209,7 +210,6 @@ layout: default
 * [Oct 31: Nanonymous](https://github.com/LilleJohs/Nanonymous)
 * [Oct 29: What is Nano in 60 Sec](https://youtu.be/ydVomoXEGe0)
 * [Oct 29: Support Forum](https://forum.nano.org)
-* [Oct 26: NanoMusic - Listen to the network live](http://music.nanos.cc)
 
 </div>
 </div>
@@ -421,6 +421,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nano Wallet Company** - OSX,Win,Linux,iOS,Android](https://nanowalletcompany.com/)
 
 #### Multi Asset Wallets
+* [**Magnum** - Web (Ledger & Swap support)](https://app.magnumwallet.co/)
 * [**Exodus** - Win, Mac, Linux, iOS, Android](https://www.exodus.io/)
 * [**Trust Wallet** - iOS, Android](https://trustwallet.com/)
 * [**Hodler** - Android, Win, Linux](https://hodler.tech/)
