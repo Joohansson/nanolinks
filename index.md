@@ -200,6 +200,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Nov 29: Cake Wallet mobile exchange for XMR Monero](https://cakewallet.io/)
 * [Nov 26: Magnum - Web wallet with Ledger & Swap support](https://app.magnumwallet.co/)
 * [Nov 20: Binance US Exchange](https://www.binance.us/)
 * [Nov 16: Trust Wallet - iOS, Android](https://trustwallet.com/)
@@ -209,7 +210,6 @@ layout: default
 * [Nov 01: Siliqua - Python modular light wallet](https://github.com/Matoking/siliqua)
 * [Oct 31: Nanonymous](https://github.com/LilleJohs/Nanonymous)
 * [Oct 29: What is Nano in 60 Sec](https://youtu.be/ydVomoXEGe0)
-* [Oct 29: Support Forum](https://forum.nano.org)
 
 </div>
 </div>

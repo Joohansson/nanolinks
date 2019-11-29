@@ -35,6 +35,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### November 2019
+* [NANO added to the exchange part of the iOS Cake Wallet](https://www.reddit.com/r/nanocurrency/comments/e3ednp/we_have_added_nano_to_the_exchange_part_of_cake/)
 * [Nano added to Magnum Wallet with Ledger support and more!](https://www.reddit.com/r/nanocurrency/comments/e1x07u/nano_added_to_magnum_wallet_with_ledger_support/)
 * [Travala partners with Booking.com - Use NANO to pay for Booking.com](https://www.reddit.com/r/nanocurrency/comments/e1na7f/travala_partners_with_bookingcom_use_nano_to_pay/)
 * [Kappture introduces self-service kiosk supporting Nano](https://www.reddit.com/r/nanocurrency/comments/e0j0ar/kappture_introduces_selfservice_kiosk_supporting/)
