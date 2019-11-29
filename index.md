@@ -402,6 +402,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Elastum.io - European Gateway](https://elastum.io/)
 * [Bitvavo - European Gateway](https://bitvavo.com/en)
 * [Lex.Exchange - Australian Gateway](https://lex.exchange/)
+* [Cake Wallet for XMR Monero](https://cakewallet.io/)
 
 
 #### Escrow and Peer-to-peer
