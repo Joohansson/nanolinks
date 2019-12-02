@@ -200,6 +200,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Dec 02: Coinify cryptocurrency gateway](https://coinify.com/)
 * [Dec 01: SomeNano Snow - Real-time snowflakes](https://snow.somenano.com/)
 * [Nov 29: Cake Wallet mobile exchange for XMR Monero](https://cakewallet.io/)
 * [Nov 26: Magnum - Web wallet with Ledger & Swap support](https://app.magnumwallet.co/)
@@ -209,7 +210,6 @@ layout: default
 * [Nov 06: TipNano - Android Faucet App](https://play.google.com/store/apps/details?id=com.bdf.tipnano)
 * [Nov 05: Kraken Exchange](https://www.kraken.com/)
 * [Nov 01: Siliqua - Python modular light wallet](https://github.com/Matoking/siliqua)
-* [Oct 31: Nanonymous](https://github.com/LilleJohs/Nanonymous)
 
 </div>
 </div>
@@ -387,6 +387,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
 * [Brainblocks Wallet](https://app.brainblocks.io)
 * [Changelly](https://changelly.com/)
+* [Coinify](https://coinify.com/)
 * [Coingate](https://coingate.com/buy/nano)
 * [Uphold](https://uphold.com/)
 * [Crypto.com](https://crypto.com)

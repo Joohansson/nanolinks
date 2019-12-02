@@ -34,6 +34,9 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### December 2019
+* [Nano now supported on Coinify](https://www.reddit.com/r/nanocurrency/comments/e4zgd9/nano_now_supported_on_coinify/)
+
 ### November 2019
 * [NANO added to the exchange part of the iOS Cake Wallet](https://www.reddit.com/r/nanocurrency/comments/e3ednp/we_have_added_nano_to_the_exchange_part_of_cake/)
 * [Nano added to Magnum Wallet with Ledger support and more!](https://www.reddit.com/r/nanocurrency/comments/e1x07u/nano_added_to_magnum_wallet_with_ledger_support/)
