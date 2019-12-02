@@ -200,6 +200,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Dec 01: SomeNano Snow - Real-time snowflakes](https://snow.somenano.com/)
 * [Nov 29: Cake Wallet mobile exchange for XMR Monero](https://cakewallet.io/)
 * [Nov 26: Magnum - Web wallet with Ledger & Swap support](https://app.magnumwallet.co/)
 * [Nov 20: Binance US Exchange](https://www.binance.us/)
@@ -209,7 +210,6 @@ layout: default
 * [Nov 05: Kraken Exchange](https://www.kraken.com/)
 * [Nov 01: Siliqua - Python modular light wallet](https://github.com/Matoking/siliqua)
 * [Oct 31: Nanonymous](https://github.com/LilleJohs/Nanonymous)
-* [Oct 29: What is Nano in 60 Sec](https://youtu.be/ydVomoXEGe0)
 
 </div>
 </div>
@@ -331,6 +331,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
 * [TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
 * [NanoStream - Transaction Visualizer](https://nanostream.eu/)
+* [SomeNano Snow - Real-time snowflakes](https://snow.somenano.com/)
 * [Blocktivity - Utilization Comparision](https://blocktivity.info/)
 * [Nano Charts - Representative stats](https://nanocharts.info/)
 * [Nano SpeedTest - Test real nano transactions](https://nanospeed.live)
