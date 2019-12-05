@@ -16,6 +16,24 @@
     </image>
 
     <item>
+      <title>Happy Christmas from The Nano Center - The Nanoxmas tree is live!</title>
+      <pubDate>Wed, 4 Dec 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/e62iug/happy_christmas_from_the_nano_center_the_nanoxmas/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/e62iug/happy_christmas_from_the_nano_center_the_nanoxmas/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Now then, we are proud to present the Nanoxmas tree. A tree that anyone in the world can instantly animate with Nano just by sending a little Nano to the tree account. There are a lots of different animations for you to unlock - the final digit of the donation decides which animation will play.<br><br>You can trigger the tree with a tiny amount of Nano, but we knew people might send more, so we have contacted a local Leeds charity who do fantastic work supporting the homeless called “Simon on the Streets” - all the money donated to the Nanoxmas tree will go to them this Christmas.]]></description>
+    </item>
+    <item>
+      <title>The Ultimate Discord Bot for NANO - Upgraded to Graham 4.0</title>
+      <pubDate>Wed, 4 Dec 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/e60v5g/graham_40_the_ultimate_discord_bot_for_nano/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/e60v5g/graham_40_the_ultimate_discord_bot_for_nano/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Graham 4.0 is a remarkable improvement in every single way. It's the highest-performing, most efficient, and most feature-rich discord bot for any cryptocurrency ever.<br><br>Notable improvements<br><br>Rewritten from scratch<br><br>Multi-server friendly (stats, giveaways, and a lot of core features are server-specific) - meaning one Bot can be shared across many discord servers.<br><br>Fully asyncio with uvloop<br><br>Modular design<br><br>Single process, much easier to setup, much more reliable, faster<br><br>Much more sensible schema<br><br>Built-in aiohttp server so it can listen for callbacks]]></description>
+    </item>
+    <item>
       <title>Nano now supported on Coinify</title>
       <pubDate>Mon, 2 Dec 2019 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/e4zgd9/nano_now_supported_on_coinify/</link>
