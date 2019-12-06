@@ -200,6 +200,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Dec 06: The Power of Digital Money - 1 Nano passing around the world](https://youtu.be/iKt9KepQQF4)
+* [Dec 06: ShareRing - Sharing & Rental service](https://sharering.network)
 * [Dec 02: Coinify cryptocurrency gateway](https://coinify.com/)
 * [Dec 01: SomeNano Snow - Real-time snowflakes](https://snow.somenano.com/)
 * [Nov 29: Cake Wallet mobile exchange for XMR Monero](https://cakewallet.io/)
@@ -208,8 +210,6 @@ layout: default
 * [Nov 16: Trust Wallet - iOS, Android](https://trustwallet.com/)
 * [Nov 14: One Nano Host - Free DNS Domain for Nano related endpoints](https://nanos.cc/)
 * [Nov 06: TipNano - Android Faucet App](https://play.google.com/store/apps/details?id=com.bdf.tipnano)
-* [Nov 05: Kraken Exchange](https://www.kraken.com/)
-* [Nov 01: Siliqua - Python modular light wallet](https://github.com/Matoking/siliqua)
 
 </div>
 </div>
@@ -294,6 +294,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Patrick Luberus - Nano Education](https://www.youtube.com/user/PatrickLuberus/videos)
 
 ### Interesting Videos [Not in channels above]
+* [The Power of Digital Money - 1 Nano passing around the world](https://youtu.be/iKt9KepQQF4)
 * [Transaction Speed Demo - Mobile to Mobile](https://youtu.be/5K8rRISz4RU)
 * [Transaction Speed Demo - Confirmation Node to Node](https://youtu.be/R6oxmQaiFJI)
 * [Colin LeMahieu Interviewed on Crypto Finder Sep 02](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
@@ -478,6 +479,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
 * [CoinGate - Nano Payment Service & Gateway](https://coingate.com/)
 * [Brainblocks - Nano Payment Service](https://brainblocks.io/)
+* [ShareRing - Sharing & Rental service](https://sharering.network)
 * [KitePay - Nano Payment Service](https://kitepay.io/)
 * [Wordpress Plugin - Nano, IOTA, XLM, XRP, SEPA Payment Service](https://wordpress.org/plugins/bitvolo-trustless-crypto-payment-gateway/)
 * [SomeNano - Wordpress paywall plugin](https://wordpress.org/plugins/somenano/)
