@@ -14,6 +14,9 @@ nano_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo<br/>
 
 ## Build and run locally
 apt install ruby-dev
+<br>
 gem install bundler
+<br>
 bundle install
+<br>
 bundle exec jekyll serve
