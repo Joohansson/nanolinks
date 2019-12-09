@@ -994,3 +994,14 @@ li {
 #dropbtn:hover + #dropdown-container {
     /*visibility: visible;*/
 }
+
+.headerlink {
+  margin-left:.5rem;
+  opacity:0.1;
+  transition: opacity 0.1s ease-in-out;
+}
+
+.headerlink:hover {
+  text-decoration: none;
+  opacity: 0.5;
+}
