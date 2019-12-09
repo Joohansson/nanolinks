@@ -35,7 +35,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### December 2019
-* [Nano Round the Globe – The Power of Digital Money](https://www.reddit.com/r/nanocurrency/comments/e6vsfq/nano_round_the_globe_the_power_of_digital_money/)
+* [Nano Round the Globe – The Power of Digital Money (r/cc)](https://www.reddit.com/r/CryptoCurrency/comments/e6vs9x/video_1_nano_passed_around_the_globe_via_mobile/)
+* [Nano Round the Globe – The Power of Digital Money (r/nano)](https://www.reddit.com/r/nanocurrency/comments/e6vsfq/nano_round_the_globe_the_power_of_digital_money/)
 * [ShareRing sharing service adds Nano](https://www.reddit.com/r/nanocurrency/comments/e6v5v8/sharering_adds_nano/)
 * [Happy Christmas from The Nano Center - The Nanoxmas tree is live!](https://www.reddit.com/r/nanocurrency/comments/e62iug/happy_christmas_from_the_nano_center_the_nanoxmas/)
 * [The Ultimate Discord Bot for NANO - Upgraded to Graham 4.0](https://www.reddit.com/r/nanocurrency/comments/e60v5g/graham_40_the_ultimate_discord_bot_for_nano/)
