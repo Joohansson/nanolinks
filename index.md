@@ -449,7 +449,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 #### Hardware Wallets and Nodes
 * [Ledger Nano S](https://www.ledger.fr/)
-* [Ledger Nano - Text Guide](http://blog.nanovault.io/guides/use-your-ledger-device-with-nanovault/)
+* [Ledger Nano - Text Guide](https://medium.com/@d84/use-your-ledger-device-with-nanovault-3dc913a95418)
 * [Ledger Nano - Video Guide](https://youtu.be/OoTfRjXsxNk)
 * [How to transfer Nano from a Ledger Nano recovery phrase using offline signing](https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
 * [Jolt](https://www.joltwallet.com/)
