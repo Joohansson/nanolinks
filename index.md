@@ -200,6 +200,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Dec 12: Poinex - Exchange](https://www.pionex.com/)
 * [Dec 06: The Power of Digital Money - 1 Nano passing around the world](https://youtu.be/iKt9KepQQF4)
 * [Dec 06: ShareRing - Sharing & Rental service](https://sharering.network)
 * [Dec 02: Coinify cryptocurrency gateway](https://coinify.com/)
@@ -209,7 +210,6 @@ layout: default
 * [Nov 20: Binance US Exchange](https://www.binance.us/)
 * [Nov 16: Trust Wallet - iOS, Android](https://trustwallet.com/)
 * [Nov 14: One Nano Host - Free DNS Domain for Nano related endpoints](https://nanos.cc/)
-* [Nov 06: TipNano - Android Faucet App](https://play.google.com/store/apps/details?id=com.bdf.tipnano)
 
 </div>
 </div>
