@@ -381,6 +381,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Wazirx](https://wazirx.com/)
 * [DragonEx](https://dragonex.io/)
 * [ProBit](https://www.probit.com/)
+* [Poinex](https://www.pionex.com/)
+
 
 #### Quick Crypto Swap/Buy
 ##### Simple way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.
