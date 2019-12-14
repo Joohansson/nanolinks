@@ -35,6 +35,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### December 2019
+* [Introducing Pippin - a High Performance, Production-Ready Developer Wallet for Nano](https://www.reddit.com/r/nanocurrency/comments/ea9op9/introducing_pippin_a_high_performance/)
 * [Nano got added to Pionex exchange](https://www.reddit.com/r/nanocurrency/comments/e9lz1d/nano_got_added_to_pionex_exchange/)
 * [Nano Round the Globe – The Power of Digital Money (r/cc)](https://www.reddit.com/r/CryptoCurrency/comments/e6vs9x/video_1_nano_passed_around_the_globe_via_mobile/)
 * [Nano Round the Globe – The Power of Digital Money (r/nano)](https://www.reddit.com/r/nanocurrency/comments/e6vsfq/nano_round_the_globe_the_power_of_digital_money/)

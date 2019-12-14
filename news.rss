@@ -16,6 +16,15 @@
     </image>
 
     <item>
+      <title>Introducing Pippin - a High Performance, Production-Ready Developer Wallet for Nano</title>
+      <pubDate>Fri, 13 Dec 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/ea9op9/introducing_pippin_a_high_performance/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/ea9op9/introducing_pippin_a_high_performance/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[To put it simply, Pippin is a Nano (and BANANO) wallet for developers. Pippin is the first wallet of its kind that is 100% compatible with the developer wallet (aka “node wallet”) APIs. Of course the node wallet isn’t recommended for a lot of use cases, but a lot of developers use it anyway — because as you might expect, it’s the easiest solution and it generally works well enough. One of the goals of Pippin is to provide a production-ready, external key management solution that’s incredibly easy to setup and maintain.]]></description>
+    </item>
+    <item>
       <title>Nano got added to Pionex exchange</title>
       <pubDate>Thu, 12 Dec 2019 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/e9lz1d/nano_got_added_to_pionex_exchange/</link>
