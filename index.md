@@ -200,6 +200,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Dec 18: Atomic Wallet - Win, Mac, Ubuntu, Debian, Fedora](https://atomicwallet.io/)
 * [Dec 12: Poinex - Exchange](https://www.pionex.com/)
 * [Dec 06: The Power of Digital Money - 1 Nano passing around the world](https://youtu.be/iKt9KepQQF4)
 * [Dec 06: ShareRing - Sharing & Rental service](https://sharering.network)
@@ -209,7 +210,6 @@ layout: default
 * [Nov 26: Magnum - Web wallet with Ledger & Swap support](https://app.magnumwallet.co/)
 * [Nov 20: Binance US Exchange](https://www.binance.us/)
 * [Nov 16: Trust Wallet - iOS, Android](https://trustwallet.com/)
-* [Nov 14: One Nano Host - Free DNS Domain for Nano related endpoints](https://nanos.cc/)
 
 </div>
 </div>
@@ -424,13 +424,13 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nanollet** - Windows,Linux,Darwin](https://nanollet.org/)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 * [**Canoe** - OSX,Win,Linux,iOS,Android,WinPhone](https://getcanoe.io/)
-* [**Nano Wallet Company** - OSX,Win,Linux,iOS,Android](https://nanowalletcompany.com/)
 
 #### Multi Asset Wallets
 * [**Magnum** - Web (Ledger & Swap support)](https://app.magnumwallet.co/)
 * [**Exodus** - Win, Mac, Linux, iOS, Android](https://www.exodus.io/)
 * [**Trust Wallet** - iOS, Android](https://trustwallet.com/)
 * [**Hodler** - Android, Win, Linux](https://hodler.tech/)
+* [**Atomic** - Win, Mac, Ubuntu, Debian, Fedora](https://atomicwallet.io/)
 
 
 #### Address Generators, Paper Wallets
