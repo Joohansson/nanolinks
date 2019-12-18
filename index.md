@@ -200,7 +200,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
-* [Dec 18: Atomic Wallet - Win, Mac, Ubuntu, Debian, Fedora](https://atomicwallet.io/)
+* [Dec 14: Pippin - High-performance Python wallet](https://github.com/appditto/pippin_nano_wallet)
 * [Dec 12: Poinex - Exchange](https://www.pionex.com/)
 * [Dec 06: The Power of Digital Money - 1 Nano passing around the world](https://youtu.be/iKt9KepQQF4)
 * [Dec 06: ShareRing - Sharing & Rental service](https://sharering.network)
@@ -424,6 +424,10 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nanollet** - Windows,Linux,Darwin](https://nanollet.org/)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 * [**Canoe** - OSX,Win,Linux,iOS,Android,WinPhone](https://getcanoe.io/)
+
+#### Dev Wallets
+* [Nano Node Wallet - The original one](https://github.com/nanocurrency/nano-node/releases)
+* [Pippin - High-performance Python wallet](https://github.com/appditto/pippin_nano_wallet)
 
 #### Multi Asset Wallets
 * [**Magnum** - Web (Ledger & Swap support)](https://app.magnumwallet.co/)
