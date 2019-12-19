@@ -644,6 +644,8 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Distributed PoW System (dPoW)- Client and Server](https://github.com/guilhermelawless/nano-dpow)
 * [Distributed PoW System (dPoW)- Web Client](https://nanopow.github.io/web/)
 * [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)
+* [Nano webGL PoW - GPU](https://github.com/numtel/nano-webgl-pow)
+* [WebAssemblyPoW - CPU](https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW)
 * [Nano-Prettify - Format Nano Raw Amounts in JavaScript](https://github.com/kilkelly/nano-prettify)
 * [Nanocap - Protocol Analyzer](https://github.com/cryptocode/nanocap)
 * [Wireshark Raiblocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5)
