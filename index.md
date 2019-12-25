@@ -518,7 +518,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 ### Point of Sale
 * [Appia - Payment service, PoS](http://appia.co/)
-* [Kappture - Payment service, PoS](https://kappture.co.uk/)
+* [Kappture - Payment service, PoS](https://www.kappture.co.uk/cryptocurrency.html)
 * [Paytomat - Payment Service. PoS, Fiat gateway](https://paytomat.com/)
 * [Brainblocks Web PoS](https://pos.brainblocks.io/)
 * [MoonPos - Mobile PoS](https://www.moonposapp.com/)

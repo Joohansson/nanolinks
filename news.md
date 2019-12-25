@@ -35,6 +35,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### December 2019
+* [Kappture launched new website with cryptocurrency page](https://www.reddit.com/r/nanocurrency/comments/ef0014/kappture_launched_new_website_with_cryptocurrency/)
+* [Nano is now available on the crypto payments platform CycleBit](https://www.reddit.com/r/nanocurrency/comments/eeoa6y/nano_is_now_available_on_the_crypto_payments/)
 * [Nano Wallet Company apps shutting down on February 10th, 2020](https://www.reddit.com/r/nanocurrency/comments/ebyx3h/nano_wallet_company_apps_shutting_down_on/)
 * [Nano Added to Atomic Wallet](https://www.reddit.com/r/nanocurrency/comments/ebnko2/nano_added_to_atomic_wallet/)
 * [Introducing Pippin - a High Performance, Production-Ready Developer Wallet for Nano](https://www.reddit.com/r/nanocurrency/comments/ea9op9/introducing_pippin_a_high_performance/)
