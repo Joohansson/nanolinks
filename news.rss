@@ -16,6 +16,15 @@
     </image>
 
     <item>
+      <title>.NET API for Nano RPC</title>
+      <pubDate>Sun, 29 Dec 2019 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/ehamau/net_api_for_nano_rpc/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/ehamau/net_api_for_nano_rpc/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[The project is in fact API code generator based on Nano Docs, so it may be easily recreated on future updates.]]></description>
+    </item>
+    <item>
       <title>Kappture launched new website with cryptocurrency page</title>
       <pubDate>Tue, 24 Dec 2019 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/ef0014/kappture_launched_new_website_with_cryptocurrency/</link>

@@ -35,6 +35,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### December 2019
+* [.NET API for Nano RPC](https://www.reddit.com/r/nanocurrency/comments/ehamau/net_api_for_nano_rpc/)
 * [Kappture launched new website with cryptocurrency page](https://www.reddit.com/r/nanocurrency/comments/ef0014/kappture_launched_new_website_with_cryptocurrency/)
 * [Nano is now available on the crypto payments platform CycleBit](https://www.reddit.com/r/nanocurrency/comments/eeoa6y/nano_is_now_available_on_the_crypto_payments/)
 * [Nano Wallet Company apps shutting down on February 10th, 2020](https://www.reddit.com/r/nanocurrency/comments/ebyx3h/nano_wallet_company_apps_shutting_down_on/)
