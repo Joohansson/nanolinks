@@ -318,6 +318,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Nano The Future of Money](https://youtu.be/lw-rpO0jqYQ)
 * [Nano Overview](https://youtu.be/JynwiU2D_K0)
 * [Nano is Green](https://youtu.be/JChBTohSHlM)
+* [The Power of Digital Money - Nano Around The Globe](https://youtu.be/iKt9KepQQF4)
 
 ### Network Stats and Explorers
 * [NanoCrawler.cc - Explorer, Stats, Account list](https://nanocrawler.cc/)
@@ -633,6 +634,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [PHP 4 Nano](https://github.com/mikerow/php4nano)
 * [Nano protocol in Golang](https://github.com/frankh/nano)
 * [NanoDotNet - .Net Lib](https://github.com/Flufd/NanoDotNet)
+* [DotNano - .NET RPC API](https://github.com/JerzyStanislawski/DotNano)
 * [Nano-rs - Nano in Rust](https://github.com/termhn/nano-rs)
 * [Nanopow-rs-node - JS Wrapper for Nanopow-rs](https://github.com/termhn/nanopow-rs-node)
 * [RainServer - Wallet/Node Communicator](https://github.com/thehen101/RainServer)
