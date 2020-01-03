@@ -200,6 +200,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jan 03: Nano Fountain - Transaction Visualizer](https://www.nano-fountain.com/)
 * [Dec 18: Atomic Wallet - Win, Mac, Ubuntu, Debian, Fedora](https://atomicwallet.io/)
 * [Dec 14: Pippin - High-performance Python wallet](https://github.com/appditto/pippin_nano_wallet)
 * [Dec 12: Poinex - Exchange](https://www.pionex.com/)
@@ -209,7 +210,6 @@ layout: default
 * [Dec 01: SomeNano Snow - Real-time snowflakes](https://snow.somenano.com/)
 * [Nov 29: Cake Wallet mobile exchange for XMR Monero](https://cakewallet.io/)
 * [Nov 26: Magnum - Web wallet with Ledger & Swap support](https://app.magnumwallet.co/)
-* [Nov 20: Binance US Exchange](https://www.binance.us/)
 
 </div>
 </div>
@@ -334,6 +334,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
 * [NanoStream - Transaction Visualizer](https://nanostream.eu/)
 * [SomeNano Snow - Real-time snowflakes](https://snow.somenano.com/)
+* [Nano Fountain - Transaction Visualizer](https://www.nano-fountain.com/)
 * [Blocktivity - Utilization Comparision](https://blocktivity.info/)
 * [Nano Charts - Representative stats](https://nanocharts.info/)
 * [Nano SpeedTest - Test real nano transactions](https://nanospeed.live)
