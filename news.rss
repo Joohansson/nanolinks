@@ -16,6 +16,15 @@
     </image>
 
     <item>
+      <title>Presenting KeyTools - A brand new set of secure high-performance Nano web tools</title>
+      <pubDate>Tue, 7 Jan 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/el8tuk/presenting_keytools_a_brand_new_set_of_secure/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/el8tuk/presenting_keytools_a_brand_new_set_of_secure/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[After running in beta for a little while it's now time for the public to have a taste of the first full-featured release of KeyTools.<br><br>https://tools.nanos.cc/<br><br>Inspired by the well-known and personal favourite NanooTools that has been around since early 2018, I created this new collection from scratch using React.js, with focus on usability, portability and performance.]]></description>
+    </item>
+    <item>
       <title>.NET API for Nano RPC</title>
       <pubDate>Sun, 29 Dec 2019 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/ehamau/net_api_for_nano_rpc/</link>
@@ -455,143 +464,6 @@
       <category>General</category>
       <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
       <description><![CDATA[Get to know NanoPoW!<br><br>Take a look under the hood of our unique new memory based Proof-of-Work algorithm that's poised to make the Nano network more resilient than ever.]]></description>
-    </item>
-    <item>
-      <title>Nano Foundation sponsoring James M Levelle as part of the RaceForFuture</title>
-      <pubDate>Sat, 28 Sep 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/da1kxd/james_m_levelle_on_twitter_huge_thanks_to_nano/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/da1kxd/james_m_levelle_on_twitter_huge_thanks_to_nano/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[James is on a 7000km fossil-fuel-free journey from the UK to Chile to amplify the voice of the global youth for climate change.<br>NANO choose to sponsor part of the trip.]]></description>
-    </item>
-    <item>
-      <title>Nano is one step closer for being implemented into Appia payment system - Beta release of Manta</title>
-      <pubDate>Thu, 26 Sep 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/d9gvs6/beta_implementation_of_the_appia_manta_protocol/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/d9gvs6/beta_implementation_of_the_appia_manta_protocol/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Written in python, now available on Github: https://github.com/appiapay/manta-python<br><br>Manta is a protocol to enable crypto coin (such as Nano) transaction between POS (of any kind, hardware, vending machines, online), payment processors and wallets.<br><br>Communication takes advantage of the MQTT protocol and needs a proper configured broker to work.<br><br>More documentation can be found at https://appiapay.github.io/manta-python]]></description>
-    </item>
-    <item>
-      <title>Introducing Nano Jams! A Nano building competition for everyone!</title>
-      <pubDate>Wed, 25 Sep 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/d95vhx/introducing_nano_jams_a_nano_building_competition/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/d95vhx/introducing_nano_jams_a_nano_building_competition/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Since the start of Snapy.io, we’ve had a clear view of how we wanted to move forward the growth of Nano. With new ideas, applications, and attracting interested developers — by having fun and learning about Nano simply and easily.<br><br>We think it is time to announce the first NanoJam!]]></description>
-    </item>
-    <item>
-      <title>NANO Reaches 100 Principal Representatives</title>
-      <pubDate>Wed, 25 Sep 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/d963t9/nano_reaches_100_principal_representatives/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/d963t9/nano_reaches_100_principal_representatives/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[The milestone of 100 principal representatives in the Nano network has been met!]]></description>
-    </item>
-    <item>
-      <title>NanoGhana out showing local businesses Nano</title>
-      <pubDate>Tue, 24 Sep 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/d8rr37/nanoghana_out_showing_local_businesses_nano/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/d8rr37/nanoghana_out_showing_local_businesses_nano/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[The NanoGhana team have been out showing local businesses how to use Nano to pay for beers]]></description>
-    </item>
-    <item>
-      <title>Nano PoW - The Essentials</title>
-      <pubDate>Mon, 23 Sep 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/d89qib/nano_pow_the_essentials/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/d89qib/nano_pow_the_essentials/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Find out more about the upcoming groundbreaking memory-hard proof-of-work algorithm, Nano PoW, and what it will mean for the Nano network.]]></description>
-    </item>
-    <item>
-      <title>Adam Edwards joins the Nano Foundation</title>
-      <pubDate>Fri, 20 Sep 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/d6vr82/weekly_nano_update_92019/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/d6vr82/weekly_nano_update_92019/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Adam has come from being the Head of IT Law and a Partner at City of London law firm Wedlake Bell, with 21 years experience as a solicitor, 18 as a partner. Adam is a specialist in the areas of commercial and technology law, encompassing software, blockchain, data, privacy, information technology, computing, and e-commerce, as well as having expertise in corporate law and the protection of intellectual property rights.<br>Adam will be joining Nano Foundation as General Counsel and adviser on the strategic roll-out of Nano as viable digital money. Adam’s legal experience and further interest in the charitable sector, having been a trustee of two poverty alleviating organizations and adviser to many, will be an excellent addition to the ever-growing foundation.]]></description>
-    </item>
-    <item>
-      <title>A Look at Lydia v20 and the new memory-hard PoW algorithm</title>
-      <pubDate>Fri, 20 Sep 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/d6s93h/v20_a_look_at_lydia_including_memoryhard_pow/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/d6s93h/v20_a_look_at_lydia_including_memoryhard_pow/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[2019 has already brought substantial updates to the Nano protocol: V18.0 Dolphin was able to glide in with key optimizations that reinforced the speedy transactions that Nano is renowned for. V19.0 Solidus introduced block cementing and Dynamic PoW, which strengthened the node and made it even easier for services to integrate.<br>And our upcoming release, V20.0 Lydia, is now primed to add increased resilience to the network with some key changes.]]></description>
-    </item>
-    <item>
-      <title>Nano principal representatives just became more decentralized than Bitcoin mining pools</title>
-      <pubDate>Thu, 19 Sep 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/d61344/nano_principal_representatives_just_became_more/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/d61344/nano_principal_representatives_just_became_more/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[This is a good example of how Nano's Open Representative Voting consensus mechanism leads to more decentralization over time.<br><br>Nano users (not miners) have direct control over the network's level of decentralization, and they can remotely re-delegate their voting weight to anyone at any time.]]></description>
-    </item>
-    <item>
-      <title>Nano added to Metalpay cryptocurrency marketplace</title>
-      <pubDate>Tue, 10 Sep 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/d2azff/nano_added_to_metalpay/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/d2azff/nano_added_to_metalpay/</guid>
-      <category>Listing</category>
-      <enclosure url="http://nanolinks.info/src/listing.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[The Metal team is excited to announce the newest addition to our growing cryptocurrency marketplace: Nano (NANO). Don’t let the name fool you – Nano has one of the larger followings in the cryptocurrency community, and their addition to our marketplace is further evidence that Metal Pay is evolving into the premier all-in-one cryptocurrency platform.]]></description>
-    </item>
-    <item>
-      <title>Kappture cryptopromo video. Steps towards adoption!</title>
-      <pubDate>Fri, 6 Sep 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/d0gfu0/kappture_cryptopromo_video_steps_towards_adoption/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/d0gfu0/kappture_cryptopromo_video_steps_towards_adoption/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Kappture is showcasing how feeless cryptocurrency can be adapted by merchants by utilizing Nano mobile payments.]]></description>
-    </item>
-    <item>
-      <title>Nano has been added to mobile crypto POS app MoonPos</title>
-      <pubDate>Thu, 5 Sep 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/czp6ae/nano_has_been_added_to_mobile_crypto_pos_app/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/czp6ae/nano_has_been_added_to_mobile_crypto_pos_app/</guid>
-      <category>Release</category>
-      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[MoonPos is my attempt to help adoption of crypto by allowing merchants/restaurants/coffee shops/whatever other businesses to accept payments in cryptocurrencies in a simple, intuitive and safe way. We need more businesses to accept payments in cryptocurrencies.<br><br>MoonPos allows users to store public addresses and generate QR codes for payments. No private keys are stored, therefore the app is completely safe. MoonPos is not a wallet. A lot of you might agree that many crypto-related apps are not very pleasant to use, they feel like they have been made for engineers (by engineers). My app focuses on a pleasant and intuitive user experience. It is optimized for both smartphones and tablets. Cryptocurrency prices are refreshed often, so they are always up-to-date.]]></description>
-    </item>
-    <item>
-      <title>The Nano Center Project for Community Funding: Nano Venezuela Billboard</title>
-      <pubDate>Wed, 4 Sep 2019 10:00:51 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/czhm7h/the_nano_center_project_for_community_funding/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/czhm7h/the_nano_center_project_for_community_funding/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[We really want to thank the community for their support and trust in this project.
-        The step we are taking here is crucial, what we want to achieve with this brand-awareness campaign is that people can be able to associate Nano as a currency they can use, and as a more efficient alternative to send remittances to the country. it is important we start encouraging these associations in order to increase the possibilities people can trust our noble cryptocurrency. Taking actions is how we will be able to achieve adoption.
-        Sincerely, The Nano Venezuela Foundation]]></description>
-    </item>
-    <item>
-      <title>The Nano Center Project for Community Funding: Twitch Distribution Games and Faucets from TriggerHaven</title>
-      <pubDate>Wed, 4 Sep 2019 10:00:51 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/czhgtd/the_nano_center_project_for_community_funding/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/czhgtd/the_nano_center_project_for_community_funding/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[My name is Trigger Haven. I'm a voiceover artist wizard from space who enjoys streaming video games and playing with crypto currencies. I've always found the streamer/viewer relationship to be somewhat wanting, and Nano is the perfect solution. I applied to The Nano Center because I believe Nano's instant and feeless nature has enormous potential in the streaming space through micro faucets, and, if funded, I'd like to demonstrate that through fun interactive games on my channel! My moderator/bot-maker, Ridsevilla, and I have been developing fun ways to use Nano (and its silly brother, Banano) to improve the streamer/viewer relationship for some time, and I'm excited to share what we've created with you.]]></description>
-    </item>
-    <item>
-      <title>Technical interview with Colin LeMahieu on Crypto Finder</title>
-      <pubDate>Mon, 2 Sep 2019 10:00:51 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Colin joins the Crypto Finder channel for a 2019 up to date technical interview.]]></description>
     </item>
   </channel>
 </rss>

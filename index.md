@@ -200,6 +200,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Dec 07: KeyTools - Secure high-performance web tools](https://tools.nanos.cc)
 * [Jan 03: Nano Fountain - Transaction Visualizer](https://www.nano-fountain.com/)
 * [Dec 18: Atomic Wallet - Win, Mac, Ubuntu, Debian, Fedora](https://atomicwallet.io/)
 * [Dec 14: Pippin - High-performance Python wallet](https://github.com/appditto/pippin_nano_wallet)
@@ -542,7 +543,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Node Milestones](https://github.com/nanocurrency/nano-node/milestones)
 * [Bug Bounty](https://hackerone.com/nano)
 * [Unofficial Nano Community Wiki](https://github.com/georgehara/nano/wiki/unofficial)
-* [Nanoo Tools - Unofficial Developer Wiki + Toolbox](https://nanoo.tools/)
 * [Docker Repo](https://hub.docker.com/u/nanocurrency/)
 
 ### Project Specific Development Channels
@@ -554,7 +554,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Reddit: Nano Tipper Z (Reddit Tip bot)](https://www.reddit.com/r/nano_tipper)
 
 ### Node & Account Applications
-* [Brainblocks](https://github.com/brainblocks)
+* [KeyTools](https://tools.nanos.cc)
 * [Nano Node Monitor](https://github.com/NanoTools/nanoNodeMonitor)
 * [Nano Node Graphics - Realtime Charts](https://github.com/Joohansson/NanoNodeGraphics)
 * [Nano Node Scripts](https://github.com/dbachm123/nanoNodeScripts)
@@ -563,6 +563,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Guide - How to Setup a Node at DigitalOcean](https://1nano.co/support-the-network/)
 * [Ogdolo - Crypto Address Alias](https://ogdolo.com)
 * [BIP39 Demo](https://github.com/roosmaa/nano-bip39-demo)
+* [Brainblocks](https://github.com/brainblocks)
 * [Telegram Bot Source Code](https://github.com/SergiySW/NanoWalletBot)
 * [Raimixer - Scrambler](https://github.com/juanjux/raimixer)
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
@@ -579,7 +580,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Snapy - Free NANO API for Developers](https://snapy.io/)
 * [Mynano: Public node API](https://mynano.ninja/api)
 * [Nanoverse: Public node API & web console](https://nanoverse.io/api/)
-* [Nano RPC Playground](https://nanoo.tools/nano-rpc-playground)
+* [NanooTools](https://nanoo.tools/)
 * [OpenAPI Specification for Nano RPC API](https://aspic.github.io/nano-rpc-api/)
 * [Nano Cold (Offline, air-gapped) Signing Script](https://github.com/noahc66260/nano-cold-signing)
 * [Passwordless Authentication (Demo)](https://nanocharts.info/passwordless/)

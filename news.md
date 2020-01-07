@@ -34,6 +34,9 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### January 2020
+* [Presenting KeyTools - A brand new set of secure high-performance Nano web tools](https://www.reddit.com/r/nanocurrency/comments/el8tuk/presenting_keytools_a_brand_new_set_of_secure/)
+
 ### December 2019
 * [.NET API for Nano RPC](https://www.reddit.com/r/nanocurrency/comments/ehamau/net_api_for_nano_rpc/)
 * [Kappture launched new website with cryptocurrency page](https://www.reddit.com/r/nanocurrency/comments/ef0014/kappture_launched_new_website_with_cryptocurrency/)
