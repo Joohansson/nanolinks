@@ -200,7 +200,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
-* [Dec 07: KeyTools - Secure high-performance web tools](https://tools.nanos.cc)
+* [Jan 07: KeyTools - Secure high-performance web tools](https://tools.nanos.cc)
 * [Jan 03: Nano Fountain - Transaction Visualizer](https://www.nano-fountain.com/)
 * [Dec 18: Atomic Wallet - Win, Mac, Ubuntu, Debian, Fedora](https://atomicwallet.io/)
 * [Dec 14: Pippin - High-performance Python wallet](https://github.com/appditto/pippin_nano_wallet)
