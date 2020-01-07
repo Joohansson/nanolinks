@@ -784,7 +784,8 @@ It takes some effort to maintaining this content. If you want to contribute to t
 	</figcaption>
 </figure>
 <br>
-<a href="https://twitter.com/nano_links?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nano_links</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/nano_links?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @nano_links</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br/>
+<a href="https://discord.gg/RVCuFvc"><img alt="discord" src="src/discord.svg" width="150"></a>
 </div>
 </div>
 
