@@ -442,6 +442,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 #### Address Generators, Paper Wallets
 * [NanoPaperWallet.com](https://nanopaperwallet.com/)
+* [KeyTools Paper Wallet with Mnemonic](https://tools.nanos.cc/?tool=paper)
 * [Paper Wallet Generator (vitorcremonez)](https://vitorcremonez.github.io/nano-paper-wallet/)
 * [Nano Gift - Gift Card and Paper Wallet Generator](https://nanogift.me)
 * [Heytipme](https://heytip.me/)
@@ -450,6 +451,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nano Warp Wallet](https://termhn.github.io/nanowarpwallet/)
 * [Dropil - Graphical Templates](https://paper.dropil.com)
 * [Secure Seed Commands - How to Generate Seeds in various OS](https://www.secureseedcommands.com)
+* [KeyTools Vanity Generator](https://tools.nanos.cc/?tool=vanity)
 * [Nano Vanity Generator (njakob)](https://nanoaddr.io/)
 * [Nano Vanity Generator (frankh)](https://github.com/frankh/nano-vanity)
 * [Nano Vanity Generator (PlasmaPower)](https://github.com/PlasmaPower/nano-vanity)
@@ -508,6 +510,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nano Pay - Chrome payment extension](https://github.com/PaulBenabou/Nano-Pay)
 * [Nano Donate - Chrome donation extension](https://nanocharts.info/nano-donate.html)
 * [Mynano.link - Payment link generator](https://mynano.link/)
+* [KeyTools Payment Card](https://tools.nanos.cc/?tool=pay)
 
 ### Faucets (Free Nano)
 * [Nano-Faucet.org](https://nano-faucet.org/)
@@ -554,7 +557,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Reddit: Nano Tipper Z (Reddit Tip bot)](https://www.reddit.com/r/nano_tipper)
 
 ### Node & Account Applications
-* [KeyTools](https://tools.nanos.cc)
+* [KeyTools - High-performance & Secure Web Tools with offline support](https://tools.nanos.cc)
 * [Nano Node Monitor](https://github.com/NanoTools/nanoNodeMonitor)
 * [Nano Node Graphics - Realtime Charts](https://github.com/Joohansson/NanoNodeGraphics)
 * [Nano Node Scripts](https://github.com/dbachm123/nanoNodeScripts)
@@ -688,7 +691,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 ## Entertainment
 There are much fun to do but please proceed with caution.
 ### Gambling, Betting
-* [PVP - Betting](https://pvp.me/)
 * [Nano Games - Betting](https://nanogames.io/)
 * [LuckyNano - Gambling](https://luckynano.com/)
 * [Luckygames.io - Gambling](https://luckygames.io/)
