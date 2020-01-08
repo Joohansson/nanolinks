@@ -35,6 +35,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### January 2020
+* [The New Nano Africa Website Released](https://www.reddit.com/r/nanocurrency/comments/elh4u8/the_new_nano_africa_website_released/)
+* [Proposal for Nano Node Network Optimizations](https://www.reddit.com/r/nanocurrency/comments/eldliv/proposal_for_nano_node_network_optimizations/)
 * [Presenting KeyTools - A brand new set of secure high-performance Nano web tools](https://www.reddit.com/r/nanocurrency/comments/el8tuk/presenting_keytools_a_brand_new_set_of_secure/)
 
 ### December 2019
