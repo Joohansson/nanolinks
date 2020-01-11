@@ -35,6 +35,10 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### January 2020
+* [An Introduction to the Manta Protocol presented by Appia](https://www.reddit.com/r/nanocurrency/comments/en78pz/an_introduction_to_the_manta_protocol_presented/)
+* [The Nano Center Project For Community Funding: RoboCash Commercial](https://www.reddit.com/r/nanocurrency/comments/emw7gc/the_nano_center_project_for_community_funding/)
+* [The Nano Center for Community Funding: Nano Meet-up-Up in Ghana](https://www.reddit.com/r/nanocurrency/comments/emhmfu/the_nano_center_for_community_funding_nano/)
+* [Nano Batcoif Ad](https://www.reddit.com/r/nanocurrency/comments/emseof/alright_so_which_one_of_you_guys_did_this/)
 * [The New Nano Africa Website Released](https://www.reddit.com/r/nanocurrency/comments/elh4u8/the_new_nano_africa_website_released/)
 * [Proposal for Nano Node Network Optimizations](https://www.reddit.com/r/nanocurrency/comments/eldliv/proposal_for_nano_node_network_optimizations/)
 * [Presenting KeyTools - A brand new set of secure high-performance Nano web tools](https://www.reddit.com/r/nanocurrency/comments/el8tuk/presenting_keytools_a_brand_new_set_of_secure/)

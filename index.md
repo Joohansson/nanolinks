@@ -264,7 +264,7 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Informative Medium Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 * [Informative Medium Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
 * [Informative Medium Articles - James Coxon](https://medium.com/@jacoxon)
-* [Guide: How to secure your Nano](https://medium.com/@d84/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
+* [Informative Medium Articles - Json](https://medium.com/@d84)
 * [Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 * [HelpNano - Guide for how to help the Nano ecosystem](https://helpnano.org/)
 * [Nano Infographics](https://imgur.com/a/tPaK9hp)
