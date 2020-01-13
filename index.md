@@ -426,7 +426,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nanovault #2** - Web](https://vault.nanocrawler.cc/)
 * [**Nanollet** - Windows,Linux,Darwin](https://nanollet.org/)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
-* [**Canoe** - OSX,Win,Linux,iOS,Android,WinPhone](https://getcanoe.io/)
 
 #### Dev Wallets
 * [Nano Node Wallet - The original one](https://github.com/nanocurrency/nano-node/releases)
