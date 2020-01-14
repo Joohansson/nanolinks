@@ -35,6 +35,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### January 2020
+* [New Swap Service: Godex Lists Nano!](https://www.reddit.com/r/nanocurrency/comments/eo8ert/new_swap_service_godex_lists_nano/)
+* [Guide: How to securely transact using an offline device + Ledger recovery methods](https://www.reddit.com/r/nanocurrency/comments/en9t6w/guide_how_to_securely_transact_using_an_offline/)
 * [An Introduction to the Manta Protocol presented by Appia](https://www.reddit.com/r/nanocurrency/comments/en78pz/an_introduction_to_the_manta_protocol_presented/)
 * [The Nano Center Project For Community Funding: RoboCash Commercial](https://www.reddit.com/r/nanocurrency/comments/emw7gc/the_nano_center_project_for_community_funding/)
 * [The Nano Center for Community Funding: Nano Meet-up-Up in Ghana](https://www.reddit.com/r/nanocurrency/comments/emhmfu/the_nano_center_for_community_funding_nano/)

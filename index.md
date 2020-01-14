@@ -200,6 +200,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jan 14: Godex.io](https://godex.io/)
 * [Jan 07: KeyTools - Secure high-performance web tools](https://tools.nanos.cc)
 * [Jan 03: Nano Fountain - Transaction Visualizer](https://www.nano-fountain.com/)
 * [Dec 18: Atomic Wallet - Win, Mac, Ubuntu, Debian, Fedora](https://atomicwallet.io/)
@@ -209,8 +210,6 @@ layout: default
 * [Dec 06: ShareRing - Sharing & Rental service](https://sharering.network)
 * [Dec 02: Coinify cryptocurrency gateway](https://coinify.com/)
 * [Dec 01: SomeNano Snow - Real-time snowflakes](https://snow.somenano.com/)
-* [Nov 29: Cake Wallet mobile exchange for XMR Monero](https://cakewallet.io/)
-* [Nov 26: Magnum - Web wallet with Ledger & Swap support](https://app.magnumwallet.co/)
 
 </div>
 </div>
@@ -411,7 +410,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Bitvavo - European Gateway](https://bitvavo.com/en)
 * [Lex.Exchange - Australian Gateway](https://lex.exchange/)
 * [Cake Wallet for XMR Monero](https://cakewallet.io/)
-* [Godex](https://godex.io/)
+* [Godex.io](https://godex.io/)
 
 
 #### Escrow and Peer-to-peer
@@ -423,11 +422,10 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nanowallet** - Web](https://nanowallet.io/)
 * [**Brainblocks** - Web](https://app.brainblocks.io/)
 * [**Nanovault** - Web,Windows,Linux,Mac](https://nanovault.io/)
-* [**Ninjavault** - Web](https://vault.mynano.ninja/)
-* [**Nanovault #2** - Web](https://vault.nanocrawler.cc/)
+* [**Nanovault Ninja** - Web](https://vault.mynano.ninja/)
+* [**Nanovault NCrawler** - Web](https://vault.nanocrawler.cc/)
 * [**Nanollet** - Windows,Linux,Darwin](https://nanollet.org/)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
-* [**Canoe** - OSX,Win,Linux,iOS,Android,WinPhone](https://getcanoe.io/)
 
 #### Dev Wallets
 * [Nano Node Wallet - The original one](https://github.com/nanocurrency/nano-node/releases)

@@ -16,6 +16,24 @@
     </image>
 
     <item>
+      <title>New Swap Service: Godex Lists Nano!</title>
+      <pubDate>Mon, 13 Jan 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/eo8ert/new_swap_service_godex_lists_nano/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/eo8ert/new_swap_service_godex_lists_nano/</guid>
+      <category>Listing</category>
+      <enclosure url="http://nanolinks.info/src/listing.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[New Swap Service]]></description>
+    </item>
+    <item>
+    <title>Guide: How to securely transact using an offline device + Ledger recovery methods</title>
+      <pubDate>Sun, 12 Jan 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/en9t6w/guide_how_to_securely_transact_using_an_offline/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/en9t6w/guide_how_to_securely_transact_using_an_offline/</guid>
+      <category>General</category>
+      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Offline storage is widely considered one of the most secure methods of protecting private keys. But how can we use these private keys to transact on an online network like Nano without exposing them? That’s where off-chain/offline-signing comes into play!]]></description>
+    </item>
+    <item>
       <title>An Introduction to the Manta Protocol presented by Appia</title>
       <pubDate>Sat, 11 Jan 2020 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/en78pz/an_introduction_to_the_manta_protocol_presented/</link>
