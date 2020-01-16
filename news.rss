@@ -1,3 +1,4 @@
+<!-- Generated with https://nanolinks.info/rss/-->
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -15,6 +16,15 @@
       <url>http://github.com/Joohansson/nanolinks/raw/master/src/nano_rss.png</url>
     </image>
 
+    <item>
+      <title>NanoArcade Released</title>
+      <pubDate>Wed, 15 Jan 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/ep3zbl/nanoarcade_released/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/ep3zbl/nanoarcade_released/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Nano Arcade is released - https://nanoarcade.org<br><br>Our first official Nano game - Colin Vs The Fudders can now be played either on your PC or Mobile.<br><br>A simple and small Nano payment activates the game and allows you to fight off the FUD<br><br>We have been working on a few different things for a while now that will appear on this online nano arcade, but some of the games are taking a lot longer to make then we first expected.<br><br>We will be releasing a few little games over the next few weeks / months until we can release the bigger games we have been working on (Which will include Nano prizes / Payouts )<br><br>The nano you send to play the game will go towards costs and developing new games.]]></description>
+    </item>
     <item>
       <title>New Swap Service: Godex Lists Nano!</title>
       <pubDate>Mon, 13 Jan 2020 09:00:00 +0200</pubDate>
