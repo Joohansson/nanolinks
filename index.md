@@ -460,12 +460,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Ledger Nano S](https://www.ledger.fr/)
 * [Jolt](https://www.joltwallet.com/)
 
-### Related Mobile Apps
-* [Nano Track - Nano Ticker](https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8)
-* [Coin Stats - Multi-coin, Portfolio, Stats](https://coinstats.app/)
-* [Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto-coin-tracker/id1375812090?mt=8)
-* [Tradingview - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
-
 #### Wallet and Account Guides
 * [Nano Wallets - Security and Convenience](https://medium.com/nano-education/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
 * [How to securely transact on the Nano network using an offline device](https://medium.com/nanocurrency/how-to-securely-transact-on-the-nano-network-using-an-offline-device-93713d217377)
@@ -475,6 +469,12 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Magnum Nano Wallets in Detail](Magnum Nano Wallets in Detail)
 * [How to create a custom NANO account at maximum speed](https://medium.com/nanocurrency/how-to-create-a-custom-nano-account-at-maximum-speed-cd9be0045ead)
 * [How to create a stylish Nano QR code](https://medium.com/@d84/how-to-create-a-stylish-nano-qr-code-1bfc1eba5a96)
+
+### Related Mobile Apps
+* [Nano Track - Nano Ticker](https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8)
+* [Coin Stats - Multi-coin, Portfolio, Stats](https://coinstats.app/)
+* [Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto-coin-tracker/id1375812090?mt=8)
+* [Tradingview - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
 
 ### Market Data, Analysis & Tickers
 * [Coinmarketcap](https://coinmarketcap.com/currencies/nano/)
