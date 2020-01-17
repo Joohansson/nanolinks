@@ -429,7 +429,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 #### Dev Wallets
 * [**Nano Node Wallet** - The original one](https://github.com/nanocurrency/nano-node/releases)
 * [**Pippin** - High-performance Python wallet](https://github.com/appditto/pippin_nano_wallet)
-* [**KeyTools** - Off-chain Signing (main or beta net)](https://tools.nanos.cc/?tool=sign)
+* [**KeyTools** - Manual Block Handler](https://tools.nanos.cc/?tool=sign)
 
 #### Multi Asset Wallets
 * [**Magnum** - Web, Android (Ledger & Swap support)](https://app.magnumwallet.co/)
