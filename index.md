@@ -427,16 +427,16 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 
 #### Dev Wallets
-* [Nano Node Wallet - The original one](https://github.com/nanocurrency/nano-node/releases)
-* [Pippin - High-performance Python wallet](https://github.com/appditto/pippin_nano_wallet)
+* [**Nano Node Wallet** - The original one](https://github.com/nanocurrency/nano-node/releases)
+* [**Pippin** - High-performance Python wallet](https://github.com/appditto/pippin_nano_wallet)
+* [**KeyTools** - Off-chain Signing (main or beta net)](https://tools.nanos.cc/?tool=sign)
 
 #### Multi Asset Wallets
-* [**Magnum** - Web (Ledger & Swap support)](https://app.magnumwallet.co/)
+* [**Magnum** - Web, Android (Ledger & Swap support)](https://app.magnumwallet.co/)
 * [**Exodus** - Win, Mac, Linux, iOS, Android](https://www.exodus.io/)
 * [**Trust Wallet** - iOS, Android](https://trustwallet.com/)
 * [**Hodler** - Android, Win, Linux](https://hodler.tech/)
 * [**Atomic** - Win, Mac, Ubuntu, Debian, Fedora](https://atomicwallet.io/)
-
 
 #### Address Generators, Paper Wallets
 * [NanoPaperWallet.com](https://nanopaperwallet.com/)
@@ -458,9 +458,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 #### Hardware Wallets and Nodes
 * [Ledger Nano S](https://www.ledger.fr/)
-* [Ledger Nano - Text Guide](https://medium.com/@d84/use-your-ledger-device-with-nanovault-3dc913a95418)
-* [Ledger Nano - Video Guide](https://youtu.be/OoTfRjXsxNk)
-* [How to transfer Nano from a Ledger Nano recovery phrase using offline signing](https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
 * [Jolt](https://www.joltwallet.com/)
 
 ### Related Mobile Apps
@@ -468,6 +465,16 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Coin Stats - Multi-coin, Portfolio, Stats](https://coinstats.app/)
 * [Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto-coin-tracker/id1375812090?mt=8)
 * [Tradingview - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
+
+#### Wallet and Account Guides
+* [Nano Wallets - Security and Convenience](https://medium.com/nano-education/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
+* [How to securely transact on the Nano network using an offline device](https://medium.com/nanocurrency/how-to-securely-transact-on-the-nano-network-using-an-offline-device-93713d217377)
+* [Ledger Nano - Text Guide](https://medium.com/@d84/use-your-ledger-device-with-nanovault-3dc913a95418)
+* [Ledger Nano - Video Guide](https://youtu.be/OoTfRjXsxNk)
+* [How to transfer Nano from a Ledger Nano recovery phrase using offline signing](https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
+* [Magnum Nano Wallets in Detail](Magnum Nano Wallets in Detail)
+* [How to create a custom NANO account at maximum speed](https://medium.com/nanocurrency/how-to-create-a-custom-nano-account-at-maximum-speed-cd9be0045ead)
+* [How to create a stylish Nano QR code](https://medium.com/@d84/how-to-create-a-stylish-nano-qr-code-1bfc1eba5a96)
 
 ### Market Data, Analysis & Tickers
 * [Coinmarketcap](https://coinmarketcap.com/currencies/nano/)
