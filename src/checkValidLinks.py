@@ -1,71 +1,104 @@
 #Check list for invalid URLs by testing connectivity
 #HOW TO (needs at least python3)
-#pip install httplib2
-#pip install requests
+#pip install asyncio
+#pip install aiohttp
+#pip install async_timeout
 #git clone https://github.com/Joohansson/nanolinks.git
 #cd nanolinks/src
 #python3 checkValidLinks.py
 
-import httplib2
-import requests
-file = open('../index.md', 'r') #File to check
+import asyncio
+import aiohttp
+import async_timeout
+import sys
 
-#Filters to find URL from markdown syntax
-start = '* ['
-end = ')'
-startURL = ']('
-ignore = '#'
+async def fetch(session, url):
+    try:
+        async with session.get(url) as response:
+            try:
+                status = response.status
+                #r = await response.text()
+                #await asyncio.sleep(5) #cause timeout 1
+            except:
+                return
+            return {'url':url, 'status':status}
+    except aiohttp.client_exceptions.ClientConnectorError:
+        print('Failed to connect: ' + url)
+    except aiohttp.client_exceptions.InvalidURL:
+        print('Invalid URL: ' + url)
+    except:
+        return
 
-#Loop text file
-badURL = 0
-URLs = 0
-for line in file:
-  urlOK = False
-  #Find every URL on the format "* [Description](URL)" 
-  if len(line) >= 10: #Minimum URL is http://x.x
-    if(line.find(start) == 0 and line.find(ignore) == -1):
-      url = line[line.find(start)+len(start):line.rfind(end)]
-      urlFinal = url[url.find(startURL) + len(startURL):]
-      #Check connectivity by only checking HEAD (fast method)
-      h = httplib2.Http(".cache", disable_ssl_certificate_validation=True)
-      try:
-        resp = h.request(urlFinal, 'HEAD')
-        httpCode = int(resp[0]['status'])
-      except Exception as e:
-        #print('Failed to check link. Error: %r' %e)
-        httpCode = 504
+async def getData(url):
+    try:
+        #await asyncio.sleep(5) #cause timeout 2, working
+        with async_timeout.timeout(10):
+            async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
+                r = await fetch(session, url)
+                return r
 
-      if(httpCode < 400):
-        urlOK = True
-      elif(httpCode == 404):
-        badURL = badURL + 1
-        print('Not Found: %s' % (urlFinal))
-      elif(httpCode == 503):
-        badURL = badURL + 1
-        print('Service Unavailable: %s' % (urlFinal))
-      else:
-        #Try connect with request instead (download site, slow method)
-        try:
-          response = requests.get(urlFinal)
-          httpCode = response.status_code
-        except Exception as e:
-          #print('Failed to check link. Error: %r' %e)
-          httpCode = 504
+    except asyncio.TimeoutError as t:
+        print('Timeout: ' + url)
 
-        if(httpCode < 400):
-          urlOK = True
-        #Everything has failed
+async def main():
+    links = []
+    file = open('../index.md', 'r') #File to check
+
+    #Filters to find URL from markdown syntax
+    start = '* ['
+    end = ')'
+    startURL = ']('
+    ignore = '#'
+
+    #Loop text file
+    badURL = 0
+    URLs = 0
+    for line in file:
+      #Find every URL on the format "* [Description](URL)"
+      if len(line) >= 10: #Minimum URL is http://x.x
+        if(line.find(start) == 0 and line.find(ignore) == -1):
+          url = line[line.find(start)+len(start):line.rfind(end)]
+          urlFinal = url[url.find(startURL) + len(startURL):]
+          links.append(urlFinal)
+
+    tasks = []
+    print('Start checking ' + str(len(links)) + ' links')
+
+    for url in links:
+        tasks.append(asyncio.ensure_future(getData(url)))
+    try:
+        with async_timeout.timeout(30):
+            await asyncio.gather(*tasks)
+    except asyncio.TimeoutError as t:
+        print('Main Timeout')
+        return
+
+    okLinks = 0
+    badLinks = 0
+    for task in tasks:
+        if task.result() == None:
+            continue
+        url = task.result()['url']
+        code = task.result()['status']
+        if code < 400:
+            print('OK: ' + url)
+            okLinks += 1
+
+        elif code == 404:
+            print('Not Found: ' + url)
+            badLinks += 1
+
+        elif code == 503:
+            print('Service Unavailable: ' + url)
+            badLinks += 1
+
         else:
-          urlOK = False
+            print('Error ' + str(code) + ': ' + url)
+            badLinks += 1
 
-      #Print result (if not already printed)
-      if(httpCode != 404 and httpCode != 503):
-        if(urlOK):
-          URLs = URLs + 1
-          print('OK: %s' % (urlFinal))
-        else:
-          badURL = badURL + 1
-          print('BAD, HTTP=%s %s' % (httpCode,urlFinal))
+    print("OK links: " + str(okLinks))
+    print("Strange links: " + str(badLinks))
 
-print('Ok: %s' % (URLs))
-print('Error: %s' % (badURL))
+if __name__ == '__main__':
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(main())

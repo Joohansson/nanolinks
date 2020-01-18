@@ -246,8 +246,7 @@ Learn everything there is to know about Nano!
 
 ### Scientific Papers
 * [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
-* [Scalability of the Bitcoin and Nano
-protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTEXT02.pdf)
+* [Scalability of Bitcoin and Nano protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTEXT02.pdf)
 
 ### Education & Adoption
 * [What is Nano in 60 Sec](https://youtu.be/ydVomoXEGe0)
@@ -277,7 +276,6 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 
 #### Targeted Countries
 * [Venezuela 1](https://nano.org.ve/)
-* [Venezuela 2](http://www.nanovenezuela.org/)
 * [Nano China](https://nanochina.co/)
 * [Chinese information and news](http://www.nano.wang/)
 * [Chinese forum](https://www.chainnode.com/forum/349)
@@ -299,7 +297,6 @@ protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTE
 * [Colin LeMahieu Interviewed on Crypto Finder Sep 02](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
 * [Colin LeMahieu Interviewed by The Crypto Lark Feb 18](https://youtu.be/hAy4GDV7tvQ)
 * [Colin LeMahieu Interviewed by DataDash Oct 18](https://youtu.be/eWdOkIev_xM)
-* [Colin LeMahieu Audio interviewed by Crypto101 (Start at 13min)](https://soundcloud.com/matthew-aaron-690749808/from-the-archive-nano-and-holochain)
 * [Colin LeMahieu Audio interview on Hashing It Out Podcast Oct 2019](https://the-bitcoin-podcast-network.simplecast.com/episodes/hashing-it-out-63-nano-colin-lemahieu)
 * [Nano review by Coin Bureau Oct 2019](https://youtu.be/JkoXe6M-59U)
 * [Blockchain Central: Interview with Colin and Andy Oct 2019](https://youtu.be/rhMGXoWGZfg)
@@ -398,7 +395,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Metalpay](https://www.metalpay.com/)
 * [N.Exchange](https://n.exchange/)
 * [Swaplab](https://swaplab.cc/)
-* [FastX](https://fastx.io/)
 * [One Page Exchange](https://onepagex.com)
 * [Cryptowolf](https://cryptowolf.eu/)
 * [Coinsave](https://coinsave.io/)
@@ -414,7 +410,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 #### Escrow and Peer-to-peer
 * [Localnano](https://www.localnano.com/)
-* [PayFair](https://payfair.io/)
 
 ### Wallets
 * [**Natrium** - Android,iOS](https://natrium.io/)
@@ -466,7 +461,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Ledger Nano - Text Guide](https://medium.com/@d84/use-your-ledger-device-with-nanovault-3dc913a95418)
 * [Ledger Nano - Video Guide](https://youtu.be/OoTfRjXsxNk)
 * [How to transfer Nano from a Ledger Nano recovery phrase using offline signing](https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
-* [Magnum Nano Wallets in Detail](Magnum Nano Wallets in Detail)
+* [Magnum Nano Wallets in Detail](https://medium.com/@d84/magnum-nano-wallets-in-detail-d7188ed62fbc)
 * [How to create a custom NANO account at maximum speed](https://medium.com/nanocurrency/how-to-create-a-custom-nano-account-at-maximum-speed-cd9be0045ead)
 * [How to create a stylish Nano QR code](https://medium.com/@d84/how-to-create-a-stylish-nano-qr-code-1bfc1eba5a96)
 
@@ -496,7 +491,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [CoinGate - Nano Payment Service & Gateway](https://coingate.com/)
 * [Brainblocks - Nano Payment Service](https://brainblocks.io/)
 * [ShareRing - Sharing & Rental service](https://sharering.network)
-* [KitePay - Nano Payment Service](https://kitepay.io/)
 * [Wordpress Plugin - Nano, IOTA, XLM, XRP, SEPA Payment Service](https://wordpress.org/plugins/bitvolo-trustless-crypto-payment-gateway/)
 * [SomeNano - Wordpress paywall plugin](https://wordpress.org/plugins/somenano/)
 * [Bitback - Payment Service, Address book](https://bitback.me/)
@@ -507,7 +501,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [NanoTwitch - Gaming donation service](https://nanotwit.ch/)
 * [UseNano - Nano Merchants Directory](https://usenano.org/)
 * [CryptoAccepted - Crypto Merchants Directory](https://cryptoaccepted.app/)
-* [Eutrino - Ebay with Nano](https://eutrino.com/)
 * [Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
 * [Nano Gift - Gift Card and Paper Wallet Generator](https://nanogift.me)
 * [Nanogate - Giftcards](https://nanogate.io/)
@@ -525,7 +518,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Getnano](https://getnano.co.uk/)
 * [GetFreeNano - Nano China](https://getfreenano.com/)
 * [NanoQuake - Faucet feature](https://nanocenter.fandom.com/wiki/Nano_Quake)
-* [TipNano - Android Faucet App](https://play.google.com/store/apps/details?id=com.bdf.tipnano)
 
 ### Point of Sale
 * [Appia - Payment service, PoS](http://appia.co/)
@@ -554,10 +546,9 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Docker Repo](https://hub.docker.com/u/nanocurrency/)
 
 ### Project Specific Development Channels
-* [Discord: Canoe Wallet](https://discord.gg/ecVcJM3)
 * [Discord: Nanoblocks Wallet](https://discord.gg/n76DkEt)
-* [Discord: My Nano Ninja](https://discord.me/nanonodeninja)
 * [Discord: Brainblocks](https://discord.gg/MwaQcVM)
+* [Discord: Json Dev Server](https://discord.gg/RVCuFvc)
 * [Reddit: Jolt Wallet](https://www.reddit.com/r/joltwallet)
 * [Reddit: Nano Tipper Z (Reddit Tip bot)](https://www.reddit.com/r/nano_tipper)
 
@@ -579,8 +570,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanoodle - Account Toolbox](https://nanoodle.io/home)
 * [Stylish QR Code Guide](https://medium.com/@d84/how-to-create-a-stylish-nano-qr-code-1bfc1eba5a96)
 * [Custom QR Generator](http://nanosign.org)
-* [Nanofy - File Signing](https://nanofy.org/)
-* [Offline Audio Messenger - Ex. offline block signing](http://msg.nanos.cc/)
 * [Nano Paywall - Pay to unlock wordpress content](https://github.com/nanoble-org/nano-paywall)
 * [Nanote.io - Send messages with nano](https://nanote.io/)
 * [Paygenerator - Payment link generator (deep links)](https://nanotipbot.com/paygenerator)
@@ -603,7 +592,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanovault](https://github.com/cronoh/nanovault)
 * [Nanollet](https://github.com/brokenbydefault/Nanollet)
 * [Nanoblocks](https://github.com/nebyark/nano-blocks)
-* [Rain - Light Raiblocks Wallet](https://github.com/thehen101/Rain)
 * [Nanonymous](https://github.com/LilleJohs/Nanonymous)
 * [Nano Light Wallet - NodeJS](https://github.com/NanoDevs/NanoLightWallet)
 * [Nano Light Wallet](https://github.com/numtel/open-nano-wallet)
@@ -622,7 +610,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [jNano - RPC library for Java](https://github.com/koczadly/jNano)
 * [JNano - Java RPC Client](https://github.com/rotilho/jnano-client)
 * [Nanocurrency-web-js - JS Toolkit](https://github.com/numsu/nanocurrency-web-js)
-* [SwiftyRai - Swift Lib for RPC](https://github.com/xcadaverx/SwiftyRai)
 * [RAI - Pythonic Lib for RPC](https://github.com/kennell/rai)
 
 * [Python Nano Tools](https://github.com/paulmelis/nano-tools)
@@ -647,7 +634,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [DotNano - .NET RPC API](https://github.com/JerzyStanislawski/DotNano)
 * [Nano-rs - Nano in Rust](https://github.com/termhn/nano-rs)
 * [Nanopow-rs-node - JS Wrapper for Nanopow-rs](https://github.com/termhn/nanopow-rs-node)
-* [RainServer - Wallet/Node Communicator](https://github.com/thehen101/RainServer)
 * [NanoLightServer](https://github.com/NanoDevs/NanoLightServer)
 * [RaiBlocksWebAssemblyPoW](https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW)
 * [Nano Work Server](https://github.com/nanocurrency/nano-work-server)
@@ -699,7 +685,6 @@ There are much fun to do but please proceed with caution.
 * [Nano Games - Betting](https://nanogames.io/)
 * [LuckyNano - Gambling](https://luckynano.com/)
 * [Luckygames.io - Gambling](https://luckygames.io/)
-* [OneFastWay - Betting](https://onefastway.com)
 * [SomeNano Words - Betting on words](https://words.somenano.com/)
 
 ### Games
