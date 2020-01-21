@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jan 21: NANO Arcade](https://nanoarcade.org/games)
 * [Jan 14: Godex.io](https://godex.io/)
 * [Jan 07: KeyTools - Secure high-performance web tools](https://tools.nanos.cc)
 * [Jan 03: Nano Fountain - Transaction Visualizer](https://www.nano-fountain.com/)
@@ -208,7 +209,6 @@ layout: default
 * [Dec 06: The Power of Digital Money - 1 Nano passing around the world](https://youtu.be/iKt9KepQQF4)
 * [Dec 06: ShareRing - Sharing & Rental service](https://sharering.network)
 * [Dec 02: Coinify cryptocurrency gateway](https://coinify.com/)
-* [Dec 01: SomeNano Snow - Real-time snowflakes](https://snow.somenano.com/)
 
 </div>
 </div>
@@ -688,6 +688,7 @@ There are much fun to do but please proceed with caution.
 * [SomeNano Words - Betting on words](https://words.somenano.com/)
 
 ### Games
+* [NANO Arcade](https://nanoarcade.org/games)
 * [NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
 * [NanoQuake JS](http://nanoquakejs.com)
 * [NanoCards - A free printable card game](https://nanocards.net/)
