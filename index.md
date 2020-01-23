@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jan 23: Nano-PvP - Player vs Player Coinflip Matches](https://nano-pvp.web.app/)
 * [Jan 21: NANO Arcade](https://nanoarcade.org/games)
 * [Jan 14: Godex.io](https://godex.io/)
 * [Jan 07: KeyTools - Secure high-performance web tools](https://tools.nanos.cc)
@@ -208,7 +209,6 @@ layout: default
 * [Dec 12: Poinex - Exchange](https://www.pionex.com/)
 * [Dec 06: The Power of Digital Money - 1 Nano passing around the world](https://youtu.be/iKt9KepQQF4)
 * [Dec 06: ShareRing - Sharing & Rental service](https://sharering.network)
-* [Dec 02: Coinify cryptocurrency gateway](https://coinify.com/)
 
 </div>
 </div>
@@ -686,6 +686,7 @@ There are much fun to do but please proceed with caution.
 * [LuckyNano - Gambling](https://luckynano.com/)
 * [Luckygames.io - Gambling](https://luckygames.io/)
 * [SomeNano Words - Betting on words](https://words.somenano.com/)
+* [Nano-PvP - Player vs Player Coinflip Matches](https://nano-pvp.web.app/)
 
 ### Games
 * [NANO Arcade](https://nanoarcade.org/games)

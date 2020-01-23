@@ -35,6 +35,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### January 2020
+* [Nano-PvP - Player vs Player Coinflip Matches](https://www.reddit.com/r/nanocurrency/comments/eseka1/nanopvp_player_vs_player_coinflip_matches/)
 * [NanoArcade Released](https://www.reddit.com/r/nanocurrency/comments/ep3zbl/nanoarcade_released/)
 * [New Swap Service: Godex Lists Nano!](https://www.reddit.com/r/nanocurrency/comments/eo8ert/new_swap_service_godex_lists_nano/)
 * [Guide: How to securely transact using an offline device + Ledger recovery methods](https://www.reddit.com/r/nanocurrency/comments/en9t6w/guide_how_to_securely_transact_using_an_offline/)

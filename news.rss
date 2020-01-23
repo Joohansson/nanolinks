@@ -15,7 +15,15 @@
       <link>https://nanolinks.info/news</link>
       <url>http://github.com/Joohansson/nanolinks/raw/master/src/nano_rss.png</url>
     </image>
-
+    <item>
+      <title>Nano-PvP - Player vs Player Coinflip Matches</title>
+      <pubDate>Wed, 22 Jan 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/eseka1/nanopvp_player_vs_player_coinflip_matches/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/eseka1/nanopvp_player_vs_player_coinflip_matches/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Hey guys, I just finished creating https://nano-pvp.web.app/ as a cool side project. It's a site where you can wager any amount of Nano against another player in a coinflip. Whatever side the coin lands on, the winner takes all. Currently, it is in beta testing and has a 0% fee. It has a provably fair system with instant deposits and withdrawals. I would really appreciate it if you guys could take a look and leave feedback about the site.]]></description>
+    </item>
     <item>
       <title>NanoArcade Released</title>
       <pubDate>Wed, 15 Jan 2020 09:00:00 +0200</pubDate>
