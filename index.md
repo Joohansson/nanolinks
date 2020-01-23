@@ -199,7 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
-* [Jan 23: Nano Payment - Payment Processor API](https://github.com/besoeasy/nano-payment)
+* [Jan 23: Nano Payment Processor API](https://github.com/besoeasy/nano-payment)
 * [Jan 23: Nano-PvP - Player vs Player Coinflip Matches](https://nano-pvp.web.app/)
 * [Jan 21: NANO Arcade](https://nanoarcade.org/games)
 * [Jan 14: Godex.io](https://godex.io/)
@@ -650,7 +650,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Betsy - NANO/BANANO POW precacher, distributor, & callback forwarder](https://github.com/bbedward/betsy-middleware)
 * [Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System)
 * [Accept Nano Payment Gateway (Self-hosted)](https://accept-nano.com)
-* [Nano Payment - Payment Processor API](https://github.com/besoeasy/nano-payment)
+* [Nano Payment Processor API](https://github.com/besoeasy/nano-payment)
 * [Nano Address Validator](https://github.com/alecrios/nano-address-validator)
 * [Nano Unit Converter](https://github.com/alecrios/nano-unit-converter)
 * [Nano Base32 encoding/decoding](https://github.com/termhn/nano-base32)
