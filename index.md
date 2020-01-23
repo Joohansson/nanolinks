@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jan 23: Nano Payment - Payment Processor API](https://github.com/besoeasy/nano-payment)
 * [Jan 23: Nano-PvP - Player vs Player Coinflip Matches](https://nano-pvp.web.app/)
 * [Jan 21: NANO Arcade](https://nanoarcade.org/games)
 * [Jan 14: Godex.io](https://godex.io/)
@@ -208,7 +209,6 @@ layout: default
 * [Dec 14: Pippin - High-performance Python wallet](https://github.com/appditto/pippin_nano_wallet)
 * [Dec 12: Poinex - Exchange](https://www.pionex.com/)
 * [Dec 06: The Power of Digital Money - 1 Nano passing around the world](https://youtu.be/iKt9KepQQF4)
-* [Dec 06: ShareRing - Sharing & Rental service](https://sharering.network)
 
 </div>
 </div>
@@ -650,6 +650,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Betsy - NANO/BANANO POW precacher, distributor, & callback forwarder](https://github.com/bbedward/betsy-middleware)
 * [Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System)
 * [Accept Nano Payment Gateway (Self-hosted)](https://accept-nano.com)
+* [Nano Payment - Payment Processor API](https://github.com/besoeasy/nano-payment)
 * [Nano Address Validator](https://github.com/alecrios/nano-address-validator)
 * [Nano Unit Converter](https://github.com/alecrios/nano-unit-converter)
 * [Nano Base32 encoding/decoding](https://github.com/termhn/nano-base32)
