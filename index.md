@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jan 27: OneFastWay - Nano Cards Casino (Solo & Multiplayer)](https://onefastway.com/)
 * [Jan 23: Nano Payment Processor API](https://github.com/besoeasy/nano-payment)
 * [Jan 23: Nano-PvP - Player vs Player Coinflip Matches](https://nano-pvp.web.app/)
 * [Jan 21: NANO Arcade](https://nanoarcade.org/games)
@@ -208,7 +209,6 @@ layout: default
 * [Dec 18: Atomic Wallet - Win, Mac, Ubuntu, Debian, Fedora](https://atomicwallet.io/)
 * [Dec 14: Pippin - High-performance Python wallet](https://github.com/appditto/pippin_nano_wallet)
 * [Dec 12: Poinex - Exchange](https://www.pionex.com/)
-* [Dec 06: The Power of Digital Money - 1 Nano passing around the world](https://youtu.be/iKt9KepQQF4)
 
 </div>
 </div>
@@ -688,6 +688,7 @@ There are much fun to do but please proceed with caution.
 * [Luckygames.io - Gambling](https://luckygames.io/)
 * [SomeNano Words - Betting on words](https://words.somenano.com/)
 * [Nano-PvP - Player vs Player Coinflip Matches](https://nano-pvp.web.app/)
+* [OneFastWay - Nano Cards Casino (Solo & Multiplayer)](https://onefastway.com/)
 
 ### Games
 * [NANO Arcade](https://nanoarcade.org/games)
