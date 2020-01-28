@@ -691,7 +691,7 @@ There are much fun to do but please proceed with caution.
 * [OneFastWay - Nano Cards Casino (Solo & Multiplayer)](https://onefastway.com/)
 
 ### Games
-* [NANO Arcade](https://nanoarcade.org/games)
+* [NANO Arcade - Game Collection](https://nanoarcade.org/games)
 * [NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
 * [NanoQuake JS](http://nanoquakejs.com)
 * [NanoCards - A free printable card game](https://nanocards.net/)

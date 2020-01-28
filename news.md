@@ -35,6 +35,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### January 2020
+* [Results of recent Nano Display Ads Marketing project](https://www.reddit.com/r/nanocurrency/comments/euq19g/results_of_our_recent_nano_display_ads_marketing/)
+* [NanoArcade - New Game Released](https://www.reddit.com/r/nanocurrency/comments/eutwuz/nanoarcade_new_game_released/)
 * [Nano-PvP - Player vs Player Coinflip Matches](https://www.reddit.com/r/nanocurrency/comments/eseka1/nanopvp_player_vs_player_coinflip_matches/)
 * [NanoArcade Released](https://www.reddit.com/r/nanocurrency/comments/ep3zbl/nanoarcade_released/)
 * [New Swap Service: Godex Lists Nano!](https://www.reddit.com/r/nanocurrency/comments/eo8ert/new_swap_service_godex_lists_nano/)

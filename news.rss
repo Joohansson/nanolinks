@@ -15,6 +15,25 @@
       <link>https://nanolinks.info/news</link>
       <url>http://github.com/Joohansson/nanolinks/raw/master/src/nano_rss.png</url>
     </image>
+
+    <item>
+      <title>Results of our recent Nano Display Ads Marketing project</title>
+      <pubDate>Mon, 27 Jan 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/euq19g/results_of_our_recent_nano_display_ads_marketing/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/euq19g/results_of_our_recent_nano_display_ads_marketing/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[This is the initial results of our recent project to promote Nano to existing cryptocurrency users using display / banner ads on 100s of cryptocurrency topic websites that were run between December 21st - January 22nd across 4 different ad networks.<br><br>The primary objective of the advertising was of brand awareness - to communicate the core values of Nano to users by grabbing the users' attention - not for users to click on the ads.]]></description>
+    </item>
+    <item>
+      <title>NanoArcade - New Game Released</title>
+      <pubDate>Mon, 27 Jan 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/eutwuz/nanoarcade_new_game_released/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/eutwuz/nanoarcade_new_game_released/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[We are pleased to announce a second Nano Themed game.<br>NanoDungeon<br><br>We are currently developing a few different games to upload to NanoArcade and hope to release them often. We are also updating existing games from the feedback you give us<br><br>Prizes will soon be introduced once we iron out a few security features etc.<br><br>If you're not already in our discord join here - https://discord.gg/QadwhP9]]></description>
+    </item>
     <item>
       <title>Nano-PvP - Player vs Player Coinflip Matches</title>
       <pubDate>Wed, 22 Jan 2020 09:00:00 +0200</pubDate>
