@@ -35,10 +35,10 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### January 2020
-* [New site that list NANO merchants (among other crypto) - Weacceptcryptocurrency.com](https://www.reddit.com/r/nanocurrency/comments/ewfuk3/i_built_a_website_that_lists_merchants_accepting/)
+* [A New site that lists NANO merchants (among other crypto) - Weacceptcryptocurrency.com](https://www.reddit.com/r/nanocurrency/comments/ewfuk3/i_built_a_website_that_lists_merchants_accepting/)
 * [You can now update your representative in Exodus Wallet](https://www.reddit.com/r/nanocurrency/comments/ewbrn0/you_can_now_update_your_representative_in_exodus/)
 * [NOWPayments is supporting Nano now!](https://www.reddit.com/r/nanocurrency/comments/ew89nc/nowpayments_is_supporting_nano_now/)
-* [Nanowallets.guide | A brand new feature guide to all Nano wallets](https://www.reddit.com/r/nanocurrency/comments/ew6bsu/nanowalletsguide_a_guide_to_nano_wallets/)
+* [Nanowallets.guide - A brand new feature guide to all Nano wallets](https://www.reddit.com/r/nanocurrency/comments/ew6bsu/nanowalletsguide_a_guide_to_nano_wallets/)
 * [Magnum wallet is now open beta on iOS](https://www.reddit.com/r/nanocurrency/comments/ew88oj/magnum_wallet_is_now_open_beta_on_ios_via/)
 * [RoboCash NanoCenter project, funding complete!](https://www.reddit.com/r/nanocurrency/comments/evoqkd/robocash_nanocenter_project_funding_complete_3/)
 * [Visualizing Nano Beta Network at 750 CPS - 20k tx in 28sec](https://www.reddit.com/r/nanocurrency/comments/et6sl4/visualizing_nano_beta_network_at_750_cps_for_real/)
