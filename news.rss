@@ -17,6 +17,69 @@
     </image>
 
     <item>
+      <title>New site that list NANO merchants (among other crypto) - Weacceptcryptocurrency.com</title>
+      <pubDate>Fri, 31 Jan 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/ewfuk3/i_built_a_website_that_lists_merchants_accepting/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/ewfuk3/i_built_a_website_that_lists_merchants_accepting/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Hi everyone, wanted to share something I've been working on for a bit on the side. I built a website called weacceptcryptocurrency.com which lists merchants online that accept crypto as payment.<br><br>I know there are already NANO-specific sites, but this will have a much wider reach as we begin to rank on Google for general crypto-related terms.<br><br>Another problem this site solves is I link whenever possible to the crypto payments page on the merchant site, because often there will be specific discounts or instructions for those looking to pay with cryptocurrency, which aren't easily found from the homepage.<br><br>I know the site looks shitty and is a beta-version, so please let me know how you think I could improve it.<br><br>Also let me know of merchants I'm missing that accept NANO as payment if you know of any. There is no fee for merchants to be listed on this site, nor will there ever be.<br><br>This website will always be free and free of ads for users. I believe in crypto long term which is why I'm committing time to this!]]></description>
+    </item>
+    <item>
+      <title>You can now update your representative in Exodus Wallet</title>
+      <pubDate>Fri, 31 Jan 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/ewbrn0/you_can_now_update_your_representative_in_exodus/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/ewbrn0/you_can_now_update_your_representative_in_exodus/</guid>
+      <category>General</category>
+      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Just updated my Exodus app on iOS and see the following message: "Lo and behold, NANO holders can now set a custom representative in the NANO wallet Advanced Drawer."]]></description>
+    </item>
+    <item>
+      <title>NOWPayments is supporting Nano now!</title>
+      <pubDate>Thu, 30 Jan 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/ew89nc/nowpayments_is_supporting_nano_now/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/ew89nc/nowpayments_is_supporting_nano_now/</guid>
+      <category>Listing</category>
+      <enclosure url="http://nanolinks.info/src/listing.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[@NOWPayments_io is extremely happy to announce that we are now supporting $NANO!#NANO represents values that we are proud to share with our customers. Enjoy instant, fee-free #crypto transactions that are also eco-friendly 💚]]></description>
+    </item>
+    <item>
+      <title>Nanowallets.guide | A brand new feature guide to all Nano wallets</title>
+      <pubDate>Thu, 30 Jan 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/ew6bsu/nanowalletsguide_a_guide_to_nano_wallets/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/ew6bsu/nanowalletsguide_a_guide_to_nano_wallets/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[This is nanowallets.guide, a simple site that (hopefully) offers a good overview of all the wallets that support Nano and features that they provide.All wallet related content including filters are dynamically generated/rendered from this json file. That json file is part of this Github project that is open for anyone to contribute to. So any feature/wallet added there (once approved/merged) will automatically be made available here and nanowallets.guide updated. All currently listed features are explained in the README.]]></description>
+    </item>
+    <item>
+      <title>Magnum wallet is now open beta on iOS</title>
+      <pubDate>Thu, 30 Jan 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/ew88oj/magnum_wallet_is_now_open_beta_on_ios_via/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/ew88oj/magnum_wallet_is_now_open_beta_on_ios_via/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Did a quick test. I think all features seen on the web wallet is on the phone as well. Import/export of mnemonic/private keys, multi account, multi asset, change rep, watch only account, exchange, etc etc.]]></description>
+    </item>
+    <item>
+      <title>RoboCash NanoCenter project, funding complete!</title>
+      <pubDate>Thu, 30 Jan 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/evoqkd/robocash_nanocenter_project_funding_complete_3/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/evoqkd/robocash_nanocenter_project_funding_complete_3/</guid>
+      <category>General</category>
+      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Wow, 18 days to full funding!<br>Thanks for the love everyone. I could certainly use it after a rejection from the startup world cup that left me feeling like this.<br><br>Luckily, EvoNexus has investors who regularly comb through our incubator for promising startups, so I was able to pitch to a notable institution yesterday anyways. We're also finalist in the UC Big Ideas competition too. There's always other paths to explore.<br><br>Still hustling for pre-seed funding, but now I have some cash to make a fun commercial for Feb., just in time for our March Release.<br><br>Funds will be sent to this address and I'll have fun trying to find ways to spend the Nano directly on my items, rather than cashing out to fiat.]]></description>
+    </item>
+    <item>
+      <title>Visualizing Nano Beta Network at 750 CPS - 20k tx in 28sec</title>
+      <pubDate>Fri, 24 Jan 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/et6sl4/visualizing_nano_beta_network_at_750_cps_for_real/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/et6sl4/visualizing_nano_beta_network_at_750_cps_for_real/</guid>
+      <category>General</category>
+      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Beta network stress test by visualizing cars]]></description>
+    </item>
+    <item>
       <title>Results of our recent Nano Display Ads Marketing project</title>
       <pubDate>Mon, 27 Jan 2020 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/euq19g/results_of_our_recent_nano_display_ads_marketing/</link>
@@ -24,6 +87,15 @@
       <category>Release</category>
       <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
       <description><![CDATA[This is the initial results of our recent project to promote Nano to existing cryptocurrency users using display / banner ads on 100s of cryptocurrency topic websites that were run between December 21st - January 22nd across 4 different ad networks.<br><br>The primary objective of the advertising was of brand awareness - to communicate the core values of Nano to users by grabbing the users' attention - not for users to click on the ads.]]></description>
+    </item>
+    <item>
+      <title>The Nano Center for Community Funding: NanoGhana Meet-up - Funded!</title>
+      <pubDate>Wed, 15 Jan 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/eqdbw1/the_nano_center_for_community_funding_nanoghana/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/eqdbw1/the_nano_center_for_community_funding_nanoghana/</guid>
+      <category>General</category>
+      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[I’m pleased to say that TNC have successfully funded the NanoGhana Meet-up. Following an amazing community response (and a little help from market upswing) the funding target was hit. The team are now in the process of setting the date of the meet-up which is likely to be near the end of February.<br><br>This is a great example of how this community helps others and we are really grateful for all the donations, every single one helps.<br><br>For more info about the proposal check out https://nanocenter.org/projects/496fd7c0-1c66-11ea-8618-01a70fd59a0a]]></description>
     </item>
     <item>
       <title>NanoArcade - New Game Released</title>
@@ -105,6 +177,15 @@
       <category>General</category>
       <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
       <description><![CDATA[Community driven advertisement for the lulz]]></description>
+    </item>
+    <item>
+      <title>Canoe End of Road</title>
+      <pubDate>Wed, 8 Jan 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/elsy5d/canoe_end_of_road/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/elsy5d/canoe_end_of_road/</guid>
+      <category>General</category>
+      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Dear community,<br><br>The Canoe project has reached the end of the road. Read more at:<br><br>https://getcanoe.io/2020/01/08/end-of-the-road.html<br><br>For the impatient - Canoe is not being developed further, server will run for one year (at least), you can keep using Canoe or switch. iOS version does not work currently, I am unsure if we will remove it from Appstore, need to talk to Tyler about it.]]></description>
     </item>
     <item>
       <title>The New Nano Africa Website Released</title>
@@ -348,231 +429,6 @@
       <category>Listing</category>
       <enclosure url="http://nanolinks.info/src/listing.jpg" length="0" type="image/jpeg" />
       <description><![CDATA[Funding: Kraken will enable deposits and withdrawals for Nano (NANO) at approximately 13:30 UTC on November 6<br>Trading: The first trades will start shortly after funding is enabled, because sell orders cannot be placed until deposits clear (see the required confirmation times for deposits below)<br><br>NANO/USD, NANO/EUR, NANO/XBT, NANO/ETH]]></description>
-    </item>
-    <item>
-      <title>Siliqua - first release of modular light wallet with CLI interface</title>
-      <pubDate>Thu, 31 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dpqc0i/siliqua_first_release_of_modular_light_wallet/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dpqc0i/siliqua_first_release_of_modular_light_wallet/</guid>
-      <category>Release</category>
-      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[After a few months of development during my free time, I've released the first version of Siliqua: a modular light wallet written in Python. Modularity in this project means that the network, PoW and UI components can be developed as separate plugins. For example, you could develop a PoW plugin that uses the DPoW service to generate PoW for new blocks, or a graphical user interface for mobile devices that's developed separately from the wallet code.]]></description>
-    </item>
-    <item>
-      <title>Nano Foundation adding a new Communications Coordinator Graham Cull</title>
-      <pubDate>Fri, 1 Nov 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dq50sz/weekly_nano_update_11119/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dq50sz/weekly_nano_update_11119/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[This week we’re excited to welcome Graham Cull into the Nano Foundation. Graham has contributed a great deal to the Nano ecosystem, and his knowledge, manner, and experience, in addition to his background in software sales and business development, make him the perfect addition to our communications team.<br>Graham will be responsible for assisting with a wide range of tasks, including developing our social media strategy, external communication, community management. Help us in welcoming Graham into the Nano Foundation!]]></description>
-    </item>
-    <item>
-      <title>Nanonymous: A Proof of Concept wallet for Android of a privacy-focused wallet</title>
-      <pubDate>Wed, 30 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dov7tz/nanonymous_a_proof_of_concept_wallet_for_android/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dov7tz/nanonymous_a_proof_of_concept_wallet_for_android/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[I wrote this Reddit post in July were I was stating that I was developing a privacy-focused wallet for Nano. I have now spent much of my spare time the past couple of months making an Android wallet which uses multiple addresses to make it harder to track where you send and receive your Nano.]]></description>
-    </item>
-    <item>
-      <title>Excellent new video from Patrick: Nano in 60 Seconds</title>
-      <pubDate>Wed, 30 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dota7z/nano_explained_in_60_seconds/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dota7z/nano_explained_in_60_seconds/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Excellent new video from Patrick: Nano in 60 Seconds]]></description>
-    </item>
-    <item>
-      <title>Announcement: New Nano Forum</title>
-      <pubDate>Tue, 29 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dotfvx/announcement_new_nano_forum/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dotfvx/announcement_new_nano_forum/</guid>
-      <category>Release</category>
-      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>ProBit Exchange Lists Nano - Trading starting Nov 4</title>
-      <pubDate>Mon, 28 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/do6ol0/probit_exchange_lists_nano_trading_starting_nov_4/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/do6ol0/probit_exchange_lists_nano_trading_starting_nov_4/</guid>
-      <category>Listing</category>
-      <enclosure url="http://nanolinks.info/src/listing.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[ProBit Exchange Lists Nano - Trading starting Nov 4]]></description>
-    </item>
-    <item>
-      <title>All NanoJam Projects Announced and voting started</title>
-      <pubDate>Sat, 26 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dnfqxd/nanojam_one_community_voting_starts/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dnfqxd/nanojam_one_community_voting_starts/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Today we open voting for the community projects that were presented at the first NanoJam<br>It brings great joy to present their projects as some of the submissions we had have a real good chance of making an impact with NANO.<br>Voting will close on Wednesday the 30th of October.]]></description>
-    </item>
-    <item>
-      <title>Lydia V20 Release Candidate 1 - now on the beta nework</title>
-      <pubDate>Sat, 26 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dmy60l/lydia_v20_release_candidate_1_now_on_the_beta/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dmy60l/lydia_v20_release_candidate_1_now_on_the_beta/</guid>
-      <category>Release</category>
-      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[This latest RC includes easier configuration management with .toml files, Dynamic PoW generation available for external integrations, experimental support for RocksDB, infrastructure for supporting a transition to a new PoW algorithm in a future release, improvements in handling transactions on both the live and bootstrap network to reduce resource usage, and more.]]></description>
-    </item>
-    <item>
-      <title>5000+ Nano donated to the Teamtrees.org</title>
-      <pubDate>Sat, 26 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dn3v57/found_you_on_the_teamtrees_donation_list/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dn3v57/found_you_on_the_teamtrees_donation_list/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Help us plant 20 million trees around the globe by January 1st, 2020.]]></description>
-    </item>
-    <item>
-      <title>Trading has arrived in BrainBlocks Wallet</title>
-      <pubDate>Fri, 25 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dmxjpk/trading_has_arrived_in_brainblocks_wallet/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dmxjpk/trading_has_arrived_in_brainblocks_wallet/</guid>
-      <category>Release</category>
-      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[We’re excited to announce that BrainBlocks wallet now features a “Buy & Sell” screen where you can easily trade Nano with other cryptocurrencies.]]></description>
-    </item>
-    <item>
-      <title>NANO promoted to the KuCoin Plus Trading Area</title>
-      <pubDate>Thu, 24 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dmbbfd/nano_promoted_to_the_kucoin_plus_trading_area/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dmbbfd/nano_promoted_to_the_kucoin_plus_trading_area/</guid>
-      <category>Release</category>
-      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[KuCoin is dedicated to creating a healthy exchange ecosystem, investigating high-quality projects and utilizing resources to better serve our users. We have been closely monitoring and analyzing all the projects in the KuCoin Plus Trading Area.]]></description>
-    </item>
-    <item>
-      <title>Natrium v2.1 is Released! — Security Audit & More</title>
-      <pubDate>Wed, 23 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dm089c/natrium_v21_is_released_security_audit_more/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dm089c/natrium_v21_is_released_security_audit_more/</guid>
-      <category>Release</category>
-      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Natrium v2.1 is now available on both stores, it brings live support, QR scanner shortcut, ability to hide your balance, a new language, security related improvements and more.<br><br>A while ago the Nano Foundation connected us with Red4Sec, a security firm with a lot of experience on auditing cryptocurrency projects. They conducted a comprehensive security audit and they found that Natrium had no critical vulnerabilities. They had some recommendations to prevent lower risk vulnerabilities that require a higher skill, depend on certain factors - such as being rooted, or are related to protecting less sensitive information such as your public NANO address. Their recommendations have been implemented into Natrium v2.1.]]></description>
-    </item>
-    <item>
-      <title>BrainBlocks Trading is now Live</title>
-      <pubDate>Wed, 23 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dlx5c6/brainblocks_trading_is_now_live/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dlx5c6/brainblocks_trading_is_now_live/</guid>
-      <category>Release</category>
-      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[New Partnership Incoming! @ChangeNOW_io is excited to provide fast and seamless $NANO exchanges for @BrainBlocksPay - a secure feeless instant payment processor! <br>With that said, two-way #NANO swaps are also available - check it out!]]></description>
-    </item>
-    <item>
-      <title>Nano available on changelly.com</title>
-      <pubDate>Wed, 23 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dlxbig/nano_available_on_changellycom/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dlxbig/nano_available_on_changellycom/</guid>
-      <category>Listing</category>
-      <enclosure url="http://nanolinks.info/src/listing.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Nano is now available on changelly! EUR/Nano and USD/Nano too!]]></description>
-    </item>
-    <item>
-      <title>Blockchain Central: interview with Colin and Andy</title>
-      <pubDate>Fri, 18 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/djpr4g/blockchain_central_interview_with_colin_and_andy/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/djpr4g/blockchain_central_interview_with_colin_and_andy/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Interview with the NANO Foundation: Ft. Colin LeMahieu and Andy Johnson at Blockchain Central]]></description>
-    </item>
-    <item>
-      <title>Nano video review by Coin Bureau</title>
-      <pubDate>Thu, 17 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dj6o6l/nano_video_review_by_coin_bureau/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dj6o6l/nano_video_review_by_coin_bureau/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Pretty solid review.]]></description>
-    </item>
-    <item>
-      <title>Community Spotlight: James Levelle - Race for Future</title>
-      <pubDate>Wed, 16 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/diofbm/community_spotlight_james_levelle_race_for_future/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/diofbm/community_spotlight_james_levelle_race_for_future/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Traveling 7000 miles without the use of fossil fuels from the UK to the UN Climate Conference in Chile, James Levelle is on a mission to document the feelings of young people faced with leading the fight against climate change.<br><br>Get to know the man behind the camera and learn more about the #RaceforFuture in our newest spotlight interview]]></description>
-    </item>
-    <item>
-      <title>The NanoCenter Project Update: Google Ads Completed</title>
-      <pubDate>Tue, 15 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dicpwu/the_nanocenter_project_update_google_ads_completed/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dicpwu/the_nanocenter_project_update_google_ads_completed/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Hello everyone! Here are the results of the latest Google Ads Nano The Center Campaign. Thank you, everyone, who donated to this second campaign. In summary, the results have been positive in penetrating the Asian-Pacific regions of the world with display advertising. The project was able to hit an average cost per click of £0.02 which was the bottom end of Googles predictions allowing us to stretch the budget much further.]]></description>
-    </item>
-    <item>
-      <title>The Nano plugin for Unreal Engine 4 has been released</title>
-      <pubDate>Mon, 14 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dhn4tj/the_nano_plugin_for_unreal_engine_4_has_been/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dhn4tj/the_nano_plugin_for_unreal_engine_4_has_been/</guid>
-      <category>Release</category>
-      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[The long-anticipated plugin for Unreal Engine is finally ready for game developers!]]></description>
-    </item>
-    <item>
-      <title>New client-side Javascript library for Nano for offline & external key management</title>
-      <pubDate>Sun, 13 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dhbrtp/i_created_a_new_clientside_javascript_library_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dhbrtp/i_created_a_new_clientside_javascript_library_for/</guid>
-      <category>Release</category>
-      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[The library is called nanocurrency-web and can be found in Github and at the npm repository. It features mnemonic phrase generation and key derivation based on BIP39/44 standard defined in the Nano documentation and works alongside the Nano Ledger implementation. You can derive as many accounts as the BIP standard allows with the same mnemonic phrase and seed.<br><br>You can also sign send, receive and change representative blocks with the user's private key. The library creates valid input data ready to be published to the blockchain using the Nano Node's process RPC command.<br><br>The library has automated tests validating the implementation.]]></description>
-    </item>
-    <item>
-      <title>Hashing It Out Podcast featuring Nano CEO Colin LeMahieu</title>
-      <pubDate>Fri, 11 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dgizar/hashing_it_out_podcast_featuring_nano_ceo_colin/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dgizar/hashing_it_out_podcast_featuring_nano_ceo_colin/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[EPISODE SUMMARY<br>Nano is providing a new approach to fee-less pure payments networks. We are privileged to speak with Colin LeMahieu, CEO of Nano to discuss their DAG voting-based consensus protocol, their accounts-blockchain model, and their NanoPoW for memory-hard PoW to replace fees in a network. Interesting stuff, and definitely a great conversation.]]></description>
-    </item>
-    <item>
-      <title>Nano got added to Exodus Wallet</title>
-      <pubDate>Fri, 11 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dgg8hy/nano_got_added_to_exodus_wallet/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dgg8hy/nano_got_added_to_exodus_wallet/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Desktop 19.10.11 is now live! In this update, we're excited to welcome $NANO to our family of Exodus-supported assets<br><br>Securely send, receive, manage and exchange NANO across both Desktop and Mobile]]></description>
-    </item>
-    <item>
-      <title>DragonEx Adds NANO/USDT Trading Pair and Trading Pair List Sorting</title>
-      <pubDate>Wed, 9 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dfefoq/dragonex_adds_nanousdt_trading_pair_and_trading/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dfefoq/dragonex_adds_nanousdt_trading_pair_and_trading/</guid>
-      <category>Listing</category>
-      <enclosure url="http://nanolinks.info/src/listing.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Launched on 2 November 2017 in Singapore, DragonEx is a cryptocurrency exchange with a cryptocurrency trading service license acquired in Estonia. DragonEx describes itself as a community-driven exchange with over 300,000 KYC-verified users and aims to become the best community exchange. As of Jun 2019, there are over 18 wechat communities, 8 QQ Communities, and 2 telegram communities for DragonEx. DragonEx focuses on the Asian market. There are different levels of trading fees, usually 0.2% for taker and 0% for maker.<br><br>DragonEx Officially Launches in South Korea at 16:00 (UTC + 8) on September 25, 2019.]]></description>
-    </item>
-    <item>
-      <title>Why Nano is The Next Bitcoin - A video by Patrick Luberus</title>
-      <pubDate>Mon, 7 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/deioiy/a_nano_enthusiasts_perspective_on_andreas/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/deioiy/a_nano_enthusiasts_perspective_on_andreas/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Andreas Antonopoulos recently came out with a great video on why he thinks that "Bitcoin is the next Bitcoin". Even though Andreas is mostly a Bitcoin maximalist, a lot of the arguments he makes can actually be applied to Nano, so I decided to make a video about it :)<br><br>I love Andreas and his videos, but it's pretty funny how similar his views are to the Nano community's. I know he doesn't like Proof-of-Stake cryptocurrencies, but overall he aligns pretty closely with us:<br><br>Utility over store of value<br><br>The importance of decentralization<br><br>Being censorship-resistant<br><br>The focus on peer-to-peer cash<br><br>The importance of good UX]]></description>
-    </item>
-    <item>
-      <title>Colin LeMahieu releasing details of the upcoming NanoPoW</title>
-      <pubDate>Wed, 2 Oct 2019 09:00:00 +0200</pubDate>
-      <link>https://www.reddit.com/r/nanocurrency/comments/dces6e/nanopow_the_details/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/dces6e/nanopow_the_details/</guid>
-      <category>General</category>
-      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
-      <description><![CDATA[Get to know NanoPoW!<br><br>Take a look under the hood of our unique new memory based Proof-of-Work algorithm that's poised to make the Nano network more resilient than ever.]]></description>
     </item>
   </channel>
 </rss>

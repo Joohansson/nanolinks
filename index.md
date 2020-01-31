@@ -199,6 +199,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jan 31: WeAcceptCryptocurrency.com](https://www.weacceptcryptocurrency.com/)
+* [Jan 30: Nanowallets - Feature Guide](https://nanowallets.guide/))
 * [Jan 27: OneFastWay - Nano Cards Casino (Solo & Multiplayer)](https://onefastway.com/)
 * [Jan 23: Nano Payment Processor API](https://github.com/besoeasy/nano-payment)
 * [Jan 23: Nano-PvP - Player vs Player Coinflip Matches](https://nano-pvp.web.app/)
@@ -207,8 +209,6 @@ layout: default
 * [Jan 07: KeyTools - Secure high-performance web tools](https://tools.nanos.cc)
 * [Jan 03: Nano Fountain - Transaction Visualizer](https://www.nano-fountain.com/)
 * [Dec 18: Atomic Wallet - Win, Mac, Ubuntu, Debian, Fedora](https://atomicwallet.io/)
-* [Dec 14: Pippin - High-performance Python wallet](https://github.com/appditto/pippin_nano_wallet)
-* [Dec 12: Poinex - Exchange](https://www.pionex.com/)
 
 </div>
 </div>
@@ -412,6 +412,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Localnano](https://www.localnano.com/)
 
 ### Wallets
+* [Nanowallets - Feature Guide](https://nanowallets.guide/)
 * [**Natrium** - Android,iOS](https://natrium.io/)
 * [**Nanowallet** - Web](https://nanowallet.io/)
 * [**Brainblocks** - Web](https://app.brainblocks.io/)
@@ -500,6 +501,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Reddit Tip Bot - Donation service](https://github.com/danhitchcock/nano_tipper_z)
 * [NanoTwitch - Gaming donation service](https://nanotwit.ch/)
 * [UseNano - Nano Merchants Directory](https://usenano.org/)
+* [WeAcceptCryptocurrency.com](https://www.weacceptcryptocurrency.com/)
 * [CryptoAccepted - Crypto Merchants Directory](https://cryptoaccepted.app/)
 * [Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
 * [Nano Gift - Gift Card and Paper Wallet Generator](https://nanogift.me)
@@ -585,14 +587,19 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Split Nano - Split receives between your team](https://splitnano.com/)
 
 ### Wallets [Source Code]
+* [NF Wallet (dev)](https://github.com/nanocurrency/nano-node)
 * [Natrium](https://github.com/BananoCoin/natrium-android-wallet)
 * [Canoe](https://github.com/getcanoe/canoe)
-* [Nano Wallet Company](https://github.com/nano-wallet-company)
-* [Nanowallet Source Code](https://github.com/jaimehgb/RaiWebWallet)
 * [Nanovault](https://github.com/cronoh/nanovault)
 * [Nanollet](https://github.com/brokenbydefault/Nanollet)
 * [Nanoblocks](https://github.com/nebyark/nano-blocks)
 * [Nanonymous](https://github.com/LilleJohs/Nanonymous)
+* [Atom](https://github.com/Atomicwallet)
+* [Exodus](https://www.exodus.io/)
+* [Keytools (dev)](https://github.com/Joohansson/keytools)
+* [Magnum](https://github.com/magnumwallet)
+* [Pippin (dev)](https://github.com/appditto/pippin_nano_wallet)
+* [Trust](https://github.com/trustwallet)
 * [Nano Light Wallet - NodeJS](https://github.com/NanoDevs/NanoLightWallet)
 * [Nano Light Wallet](https://github.com/numtel/open-nano-wallet)
 * [Nano Gift - Gift Card and Paper Wallet](https://github.com/Joohansson/nanogift)
