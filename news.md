@@ -51,6 +51,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Guide: How to securely transact using an offline device + Ledger recovery methods](https://www.reddit.com/r/nanocurrency/comments/en9t6w/guide_how_to_securely_transact_using_an_offline/)
 * [An Introduction to the Manta Protocol presented by Appia](https://www.reddit.com/r/nanocurrency/comments/en78pz/an_introduction_to_the_manta_protocol_presented/)
 * [Nano Batcoif Ad](https://www.reddit.com/r/nanocurrency/comments/emseof/alright_so_which_one_of_you_guys_did_this/)
+* [Development Update: Research for a new PoW algorithm](https://www.reddit.com/r/nanocurrency/comments/emcak0/development_update_research_for_a_new_pow/)
 * [Canoe End of Road](https://www.reddit.com/r/nanocurrency/comments/elsy5d/canoe_end_of_road/)
 * [The New Nano Africa Website Released](https://www.reddit.com/r/nanocurrency/comments/elh4u8/the_new_nano_africa_website_released/)
 * [Proposal for Nano Node Network Optimizations](https://www.reddit.com/r/nanocurrency/comments/eldliv/proposal_for_nano_node_network_optimizations/)
