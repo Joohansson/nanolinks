@@ -34,6 +34,10 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### February 2020
+* [Release: New Nano wallet sweep tool for automatic transferring of funds](https://www.reddit.com/r/nanocurrency/comments/ey41sh/release_new_nano_wallet_sweep_tool_for_automatic/)
+* [NANORoll - Multiplayer Roulette Casino Game](https://www.reddit.com/r/nanocurrency/comments/expewq/nanoroll_multiplayer_roulette_casino_game/)
+
 ### January 2020
 * [A New site that lists NANO merchants (among other crypto) - Weacceptcryptocurrency.com](https://www.reddit.com/r/nanocurrency/comments/ewfuk3/i_built_a_website_that_lists_merchants_accepting/)
 * [You can now update your representative in Exodus Wallet](https://www.reddit.com/r/nanocurrency/comments/ewbrn0/you_can_now_update_your_representative_in_exodus/)

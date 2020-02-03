@@ -17,6 +17,24 @@
     </image>
 
     <item>
+      <title>Release: New Nano wallet sweep tool for automatic transferring of funds</title>
+      <pubDate>Mon, 3 Feb 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/ey41sh/release_new_nano_wallet_sweep_tool_for_automatic/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/ey41sh/release_new_nano_wallet_sweep_tool_for_automatic/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[A wallet sweeper will search for any received or pending funds in any account/index bound to a master key, collect them and empty the wallet by transferring all funds to a new account. This can be useful in a variety of scenarios:<br><br>Your master key has been compromised and you wish to quickly move all funds, however complicated they are arranged, into a new fresh wallet account without exposing the new master key<br><br>Your Ledger hardware wallet is broken/stolen och you wish to recover the backup key with locked-up funds to a new fresh secure account (if not ordering a new device)<br><br>You were given a private key or seed as a gift or by a treasure hunt and wish to collect that into your existing wallet (that is not Natrium)<br><br>You simply have a lot of pending transactions you wish to collect (without transferring any funds)<br><br>Keytools Wallet Sweeper will solve this for you!]]></description>
+    </item>
+    <item>
+      <title>NANORoll - Multiplayer Roulette Casino Game</title>
+      <pubDate>Sun, 2 Feb 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/expewq/nanoroll_multiplayer_roulette_casino_game/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/expewq/nanoroll_multiplayer_roulette_casino_game/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Past month I've been creating a multiplayer roulette game. There reason was that I couldn't find any other NANO site that would offer fun betting experience.<br><br>https://nanoroll.xyz/<br><br>This app was made purely for NANO currency.<br><br>Some of the features:<br><br>Made with anonymity and simplicity in mind.<br><br>Seeing all the players bet, win, lose at the same game as you, live.<br><br>Chat so you can interact with all the online players.<br><br>Provably Fair and transparent result generation.<br><br>Deposits are powered using BrainBlocks.<br><br>Currently the max bet is 10 NANO, but it will increase gradually.]]></description>
+    </item>
+    <item>
       <title>New site that list NANO merchants (among other crypto) - Weacceptcryptocurrency.com</title>
       <pubDate>Fri, 31 Jan 2020 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/ewfuk3/i_built_a_website_that_lists_merchants_accepting/</link>
