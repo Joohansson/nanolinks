@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Feb 12: Puki - Nano Payment API](https://puki.website/)
 * [Jan 31: WeAcceptCryptocurrency.com](https://www.weacceptcryptocurrency.com/)
 * [Jan 30: Nanowallets - Feature Guide](https://nanowallets.guide/))
 * [Jan 27: OneFastWay - Nano Cards Casino (Solo & Multiplayer)](https://onefastway.com/)
@@ -208,7 +209,6 @@ layout: default
 * [Jan 14: Godex.io](https://godex.io/)
 * [Jan 07: KeyTools - Secure high-performance web tools](https://tools.nanos.cc)
 * [Jan 03: Nano Fountain - Transaction Visualizer](https://www.nano-fountain.com/)
-* [Dec 18: Atomic Wallet - Win, Mac, Ubuntu, Debian, Fedora](https://atomicwallet.io/)
 
 </div>
 </div>
@@ -579,6 +579,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Snapy - Free NANO API for Developers](https://snapy.io/)
 * [Mynano: Public node API](https://mynano.ninja/api)
 * [Nanoverse: Public node API & web console](https://nanoverse.io/api/)
+* [Puki - Nano Payment API](https://puki.website/)
 * [NanooTools](https://nanoo.tools/)
 * [OpenAPI Specification for Nano RPC API](https://aspic.github.io/nano-rpc-api/)
 * [Nano Cold (Offline, air-gapped) Signing Script](https://github.com/noahc66260/nano-cold-signing)

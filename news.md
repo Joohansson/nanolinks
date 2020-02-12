@@ -35,7 +35,9 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### February 2020
-* [Release: New Nano wallet sweep tool for automatic transferring of funds](https://www.reddit.com/r/nanocurrency/comments/ey41sh/release_new_nano_wallet_sweep_tool_for_automatic/)
+* [Nano on Wikipedia!](https://www.reddit.com/r/nanocurrency/comments/f1o5wb/nano_on_wikipedia/)
+* [V21 Athena - Feature Review](https://www.reddit.com/r/nanocurrency/comments/f09bun/v21_athena_feature_review/)
+* [Release: New Nano wallet sweep tool](https://www.reddit.com/r/nanocurrency/comments/ey41sh/release_new_nano_wallet_sweep_tool_for_automatic/)
 * [NANORoll - Multiplayer Roulette Casino Game](https://www.reddit.com/r/nanocurrency/comments/expewq/nanoroll_multiplayer_roulette_casino_game/)
 
 ### January 2020
