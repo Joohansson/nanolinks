@@ -520,6 +520,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Getnano](https://getnano.co.uk/)
 * [GetFreeNano - Nano China](https://getfreenano.com/)
 * [NanoQuake - Faucet feature](https://nanocenter.fandom.com/wiki/Nano_Quake)
+* [OneFastWay - Faucet](https://onefastway.com/faucet/)
+
 
 ### Point of Sale
 * [Appia - Payment service, PoS](http://appia.co/)
@@ -696,7 +698,7 @@ There are much fun to do but please proceed with caution.
 * [Luckygames.io - Gambling](https://luckygames.io/)
 * [SomeNano Words - Betting on words](https://words.somenano.com/)
 * [Nano-PvP - Player vs Player Coinflip Matches](https://nano-pvp.web.app/)
-* [OneFastWay - Nano Cards Casino (Solo & Multiplayer)](https://onefastway.com/)
+* [OneFastWay Casino - Built On NANO Blockchain](https://onefastway.com/casino)
 
 ### Games
 * [NANO Arcade - Game Collection](https://nanoarcade.org/games)
@@ -725,7 +727,7 @@ Services which accepts Nano (mandatory or optional)
 Services which payout Nano
 * [Distributed PoW System (dPoW)](https://dpow.nanocenter.org/)
 * [Delegated Proof of Work](https://anarkrypto.github.io/Delegated-Proof-of-Work/)
-* [Miner.host - Mining Pool, Pays NANO](https://miner.host/)
+* [OneFastWay Mining Pool, Pays in NANO](https://onefastway.com/pool)
 * [Quicrypto - Earn Nano for completing tasks](https://www.quicrypto.com)
 
 </div>
