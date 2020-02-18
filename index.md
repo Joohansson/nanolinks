@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Feb 18: EarnAcademy](https://earnacademy.cc/)
 * [Feb 12: Puki - Nano Payment API](https://puki.website/)
 * [Jan 31: WeAcceptCryptocurrency.com](https://www.weacceptcryptocurrency.com/)
 * [Jan 30: Nanowallets - Feature Guide](https://nanowallets.guide/))
@@ -208,7 +209,6 @@ layout: default
 * [Jan 21: NANO Arcade](https://nanoarcade.org/games)
 * [Jan 14: Godex.io](https://godex.io/)
 * [Jan 07: KeyTools - Secure high-performance web tools](https://tools.nanos.cc)
-* [Jan 03: Nano Fountain - Transaction Visualizer](https://www.nano-fountain.com/)
 
 </div>
 </div>
@@ -729,6 +729,7 @@ Services which payout Nano
 * [Delegated Proof of Work](https://anarkrypto.github.io/Delegated-Proof-of-Work/)
 * [OneFastWay Mining Pool, Pays in NANO](https://onefastway.com/pool)
 * [Quicrypto - Earn Nano for completing tasks](https://www.quicrypto.com)
+* [EarnAcademy](https://earnacademy.cc/)
 
 </div>
 </div>
