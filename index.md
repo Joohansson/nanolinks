@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Feb 20: TOR Block Lattice Explorer (NOTE: .onion link)](http://nanonycgzbzozgnfdhu7wyn3xwmufo4nuzrqgemjwxavqjmznzbgt7ad.onion)
 * [Feb 18: EarnAcademy](https://earnacademy.cc/)
 * [Feb 12: Puki - Nano Payment API](https://puki.website/)
 * [Jan 31: WeAcceptCryptocurrency.com](https://www.weacceptcryptocurrency.com/)
@@ -208,7 +209,6 @@ layout: default
 * [Jan 23: Nano-PvP - Player vs Player Coinflip Matches](https://nano-pvp.web.app/)
 * [Jan 21: NANO Arcade](https://nanoarcade.org/games)
 * [Jan 14: Godex.io](https://godex.io/)
-* [Jan 07: KeyTools - Secure high-performance web tools](https://tools.nanos.cc)
 
 </div>
 </div>
@@ -322,6 +322,7 @@ Learn everything there is to know about Nano!
 * [Repnode.org - Explorer, Stats, Reps, Network speed](https://repnode.org/)
 * [My Nano Ninja - Representatives, Stats, Explorer](https://mynano.ninja/)
 * [Nanocean - Explorer, Stats, Account list](https://nanocean.org)
+* [TOR Block Lattice Explorer (NOTE: .onion link)](http://nanonycgzbzozgnfdhu7wyn3xwmufo4nuzrqgemjwxavqjmznzbgt7ad.onion)
 * [Nanoticker - Nano Network Analytics & Performance](https://nanoticker.info/)
 * [NanoMusic - Musical/Art Visualizer](http://music.nanos.cc)
 * [NANOODLE - Explorer,  Fiat Tracker, Stat Charts, Account Alerting](https://nanoodle.io/live)
