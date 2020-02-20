@@ -199,6 +199,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Feb 20: Simplex - Credit cards payment service](https://www.simplex.com/))
+* [Feb 20: Nano Work Cache - Golang](https://github.com/catenocrypt/nano-work-cache)
 * [Feb 20: TOR Block Lattice Explorer (NOTE: .onion link)](http://nanonycgzbzozgnfdhu7wyn3xwmufo4nuzrqgemjwxavqjmznzbgt7ad.onion)
 * [Feb 18: EarnAcademy](https://earnacademy.cc/)
 * [Feb 12: Puki - Nano Payment API](https://puki.website/)
@@ -207,8 +209,6 @@ layout: default
 * [Jan 27: OneFastWay - Nano Cards Casino (Solo & Multiplayer)](https://onefastway.com/)
 * [Jan 23: Nano Payment Processor API](https://github.com/besoeasy/nano-payment)
 * [Jan 23: Nano-PvP - Player vs Player Coinflip Matches](https://nano-pvp.web.app/)
-* [Jan 21: NANO Arcade](https://nanoarcade.org/games)
-* [Jan 14: Godex.io](https://godex.io/)
 
 </div>
 </div>
@@ -492,6 +492,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
 * [CoinGate - Nano Payment Service & Gateway](https://coingate.com/)
 * [Brainblocks - Nano Payment Service](https://brainblocks.io/)
+* [Simplex - Credit cards payment service](https://www.simplex.com/)
 * [ShareRing - Sharing & Rental service](https://sharering.network)
 * [Wordpress Plugin - Nano, IOTA, XLM, XRP, SEPA Payment Service](https://wordpress.org/plugins/bitvolo-trustless-crypto-payment-gateway/)
 * [SomeNano - Wordpress paywall plugin](https://wordpress.org/plugins/somenano/)
@@ -650,6 +651,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Work Server](https://github.com/nanocurrency/nano-work-server)
 * [Rai Ex - Elixir Client](https://github.com/willHol/rai_ex)
 * [NanoPoW - PoW Generator in Golang](https://github.com/serdaroquai/nanopow)
+* [Nano Work Cache - Golang](https://github.com/catenocrypt/nano-work-cache)
 * [Distributed PoW System (dPoW)- Client and Server](https://github.com/guilhermelawless/nano-dpow)
 * [Distributed PoW System (dPoW)- Web Client](https://nanopow.github.io/web/)
 * [Node Raiblocks POW](https://github.com/numtel/node-raiblocks-pow)

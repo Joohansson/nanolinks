@@ -17,6 +17,42 @@
     </image>
 
     <item>
+      <title>Binance adds BUSD trading pair for Nano!</title>
+      <pubDate>Thu, 20 Feb 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/f542m3/binance_adds_busd_trading_pair_for_nano/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/f542m3/binance_adds_busd_trading_pair_for_nano/</guid>
+      <category>General</category>
+      <enclosure url="http://nanolinks.info/src/general.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Binance will open trading for BAT/BUSD, ENJ/BUSD, NANO/BUSD, ONT/BUSD and RVN/BUSD trading pairs at 2020/02/14 8:00 AM (UTC).<br><br>Risk warning: Cryptocurrency trading is subject to high market risk. Please make your trades cautiously. Binance will make best efforts to choose high quality coins, but will not be responsible for your trading losses.]]></description>
+    </item>
+    <item>
+      <title>Nano is now available on Simplex platform!</title>
+      <pubDate>Thu, 20 Feb 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/f5snaa/nano_is_now_available_on_simplex_platform/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/f5snaa/nano_is_now_available_on_simplex_platform/</guid>
+      <category>Listing</category>
+      <enclosure url="http://nanolinks.info/src/listing.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[We’re excited to announce that users can now purchase $NANO using credit and debit card via @SimplexCC. <br><br>Used by many of the largest #cryptocurrency platforms in the space, Simplex makes buying #DigitalMoney easy.]]></description>
+    </item>
+    <item>
+      <title>Nano work cache available (golang)</title>
+      <pubDate>Thu, 20 Feb 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/f6bqsx/nano_work_cache_available_golang/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/f6bqsx/nano_work_cache_available_golang/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[A new project: https://github.com/catenocrypt/nano-work-cache<br>Nano PoW computation helper service, relieve light clients from the burden of work precomputation. Nano PoW generation proxy and cache, written in Go.<br><br>Usable v0.2 is available.]]></description>
+    </item>
+    <item>
+      <title>A Simple Nano Block Lattice Explorer on Tor</title>
+      <pubDate>Thu, 20 Feb 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/f677r5/a_simple_nano_block_lattice_explorer_on_tor/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/f677r5/a_simple_nano_block_lattice_explorer_on_tor/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[http://nanonycgzbzozgnfdhu7wyn3xwmufo4nuzrqgemjwxavqjmznzbgt7ad.onion<br><br>I’ve put together a super simple block lattice explorer that can be accessed using the tor browser via its own (vanity) onion address. This means that it can only be connected to via tor and not on the normal web.<br><br>This was a simple project to learn a bit more about tor and setting up hidden services. Currently it allows you to look up accounts and blocks. There are a number of features still to add including account histories and also exploring the possibility of having a send block form for pre-signed blocks.<br><br>This is not a privacy system, the service does not log accounts/blocks that are searched for and the clients are anonymous however Nano is not private in the same way as privacy currencies. The aim of this service is to allow people to access the nano block lattice via the tor network.]]></description>
+    </item>
+    <item>
       <title>Nano on Wikipedia!</title>
       <pubDate>Mon, 10 Feb 2020 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/f1o5wb/nano_on_wikipedia/</link>

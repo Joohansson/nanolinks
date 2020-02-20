@@ -35,6 +35,10 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### February 2020
+* [Nano work cache available (golang)](https://www.reddit.com/r/nanocurrency/comments/f6bqsx/nano_work_cache_available_golang/)
+* [A Simple Nano Block Lattice Explorer on Tor](https://www.reddit.com/r/nanocurrency/comments/f677r5/a_simple_nano_block_lattice_explorer_on_tor/)
+* [Nano is now available on Simplex platform!](https://www.reddit.com/r/nanocurrency/comments/f5snaa/nano_is_now_available_on_simplex_platform/)
+* [Binance adds BUSD trading pair for Nano!](https://www.reddit.com/r/nanocurrency/comments/f542m3/binance_adds_busd_trading_pair_for_nano/)
 * [Nano on Wikipedia!](https://www.reddit.com/r/nanocurrency/comments/f1o5wb/nano_on_wikipedia/)
 * [V21 Athena - Feature Review](https://www.reddit.com/r/nanocurrency/comments/f09bun/v21_athena_feature_review/)
 * [Release: New Nano wallet sweep tool](https://www.reddit.com/r/nanocurrency/comments/ey41sh/release_new_nano_wallet_sweep_tool_for_automatic/)
