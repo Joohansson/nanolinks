@@ -503,7 +503,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Reddit Tip Bot - Donation service](https://github.com/danhitchcock/nano_tipper_z)
 * [NanoTwitch - Gaming donation service](https://nanotwit.ch/)
 * [UseNano - Nano Merchants Directory](https://usenano.org/)
-* [WeAcceptCryptocurrency.com](https://www.weacceptcryptocurrency.com/)
+* [WeAcceptCryptocurrency.com](https://www.weacceptcryptocurrency.com/pay-with-nano)
 * [CryptoAccepted - Crypto Merchants Directory](https://cryptoaccepted.app/)
 * [Coinbates - Crypto Cashback Service](https://www.coinbateslaunch.com/)
 * [Nano Gift - Gift Card and Paper Wallet Generator](https://nanogift.me)
