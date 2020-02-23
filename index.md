@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Feb 23: Nanoji Chart - Emotional Nano Price Charts and Discord Bot](https://price.nanoticker.info/)
 * [Feb 20: Simplex - Credit cards payment service](https://www.simplex.com/))
 * [Feb 20: Nano Work Cache - Golang](https://github.com/catenocrypt/nano-work-cache)
 * [Feb 20: TOR Block Lattice Explorer (NOTE: .onion link)](http://nanonycgzbzozgnfdhu7wyn3xwmufo4nuzrqgemjwxavqjmznzbgt7ad.onion)
@@ -208,7 +209,6 @@ layout: default
 * [Jan 30: Nanowallets - Feature Guide](https://nanowallets.guide/))
 * [Jan 27: OneFastWay - Nano Cards Casino (Solo & Multiplayer)](https://onefastway.com/)
 * [Jan 23: Nano Payment Processor API](https://github.com/besoeasy/nano-payment)
-* [Jan 23: Nano-PvP - Player vs Player Coinflip Matches](https://nano-pvp.web.app/)
 
 </div>
 </div>
@@ -485,8 +485,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Tradingview - Nano/BTC Binance](https://www.tradingview.com/symbols/NANOBTC/)
 * [Coinyep - Multi-Currencies Converter](https://coinyep.com/)
 * [Livecoins - Nano/BRL/USD/BTC Converter](https://livecoins.com.br/nano-hoje-cotacao-nano/)
-* [Nano/USD Converter](http://raiw.krampe.se/value.html?currency=raiblocks&to=usd&value=100)
 * [Niuyan Market Data](https://niuyan.com/currencies/nano)
+* [Nanoji Chart - Emotional Nano Price Charts and Discord Bot](https://price.nanoticker.info/)
 
 ### Merchant & Donation Related [No shops, too many]
 * [Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
