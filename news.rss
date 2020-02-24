@@ -17,6 +17,15 @@
     </image>
 
     <item>
+      <title>Nix/NixOS integration</title>
+      <pubDate>Sun, 23 Feb 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/f7yfww/nixnixos_integration/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/f7yfww/nixnixos_integration/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Part of the work that we've been doing on the backend of our services has been to make it easier to deploy and scale NANO nodes without much of a headache and notably without Docker. Although Docker is an excellent tool for cross-platform deterministic build- and runtime environments, we currently use the functional Nix/NixOS/NixOps (https://nixos.org) stack in our development and production environments for the many benefits it provides. For those of you who aren't familiar with the Nix ecosystem, it can be briefly summarised as an operating system and package manager that ensures deterministic system configurations on an OS-level, ensuring rock-solid reliability and the elimination of many sysadmin-related headaches as well as much of the spaghetti code that arises from Kubernetes/Terraform/etc. stacks.]]></description>
+    </item>
+    <item>
       <title>Binance adds BUSD trading pair for Nano!</title>
       <pubDate>Thu, 20 Feb 2020 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/f542m3/binance_adds_busd_trading_pair_for_nano/</link>
