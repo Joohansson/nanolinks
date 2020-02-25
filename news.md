@@ -36,6 +36,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### February 2020
 * [Nix/NixOS integration](https://www.reddit.com/r/nanocurrency/comments/f7yfww/nixnixos_integration/)
+* [NanoGhana Meetup](https://www.reddit.com/r/nanocurrency/comments/f8ecmp/nanoghana_meetup/)
 * [Nano work cache available (golang)](https://www.reddit.com/r/nanocurrency/comments/f6bqsx/nano_work_cache_available_golang/)
 * [A Simple Nano Block Lattice Explorer on Tor](https://www.reddit.com/r/nanocurrency/comments/f677r5/a_simple_nano_block_lattice_explorer_on_tor/)
 * [Nano is now available on Simplex platform!](https://www.reddit.com/r/nanocurrency/comments/f5snaa/nano_is_now_available_on_simplex_platform/)
