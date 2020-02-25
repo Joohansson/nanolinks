@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Feb 25: WeNano - Mobile iOS wallet with geo spots](https://wenano.net/)
 * [Feb 23: Nanoji Chart - Emotional Nano Price Charts and Discord Bot](https://price.nanoticker.info/)
 * [Feb 20: Simplex - Credit cards payment service](https://www.simplex.com/))
 * [Feb 20: Nano Work Cache - Golang](https://github.com/catenocrypt/nano-work-cache)
@@ -208,7 +209,6 @@ layout: default
 * [Jan 31: WeAcceptCryptocurrency.com](https://www.weacceptcryptocurrency.com/)
 * [Jan 30: Nanowallets - Feature Guide](https://nanowallets.guide/))
 * [Jan 27: OneFastWay - Nano Cards Casino (Solo & Multiplayer)](https://onefastway.com/)
-* [Jan 23: Nano Payment Processor API](https://github.com/besoeasy/nano-payment)
 
 </div>
 </div>
@@ -421,6 +421,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nanovault Ninja** - Web](https://vault.mynano.ninja/)
 * [**Nanovault NCrawler** - Web](https://vault.nanocrawler.cc/)
 * [**Nanollet** - Windows,Linux,Darwin](https://nanollet.org/)
+* [**WeNano** - iOS](https://wenano.net/)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 
 #### Dev Wallets
