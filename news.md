@@ -35,6 +35,9 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### February 2020
+* [Announcing WeNano for iOS](https://www.reddit.com/r/nanocurrency/comments/f9gg65/announcing_wenano_for_ios/)
+* [Binance rolls out credit card purchases of Nano, one of 12 coins supported](https://www.reddit.com/r/nanocurrency/comments/f9awdm/worlds_largest_most_popular_crypto_exchange/)
+* [Nano is now in the list of cryptocurrencies on Wikipedia](https://www.reddit.com/r/nanocurrency/comments/f8v9cq/nano_is_now_in_the_list_of_27_notable/)
 * [Nix/NixOS integration](https://www.reddit.com/r/nanocurrency/comments/f7yfww/nixnixos_integration/)
 * [NanoGhana Meetup](https://www.reddit.com/r/nanocurrency/comments/f8ecmp/nanoghana_meetup/)
 * [Nano work cache available (golang)](https://www.reddit.com/r/nanocurrency/comments/f6bqsx/nano_work_cache_available_golang/)
