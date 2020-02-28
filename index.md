@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Feb 28: Nanofun - Betting](https://nanohub.online/)
 * [Feb 25: WeNano - Mobile iOS wallet with geo spots](https://wenano.net/)
 * [Feb 23: Nanoji Chart - Emotional Nano Price Charts and Discord Bot](https://price.nanoticker.info/)
 * [Feb 20: Simplex - Credit cards payment service](https://www.simplex.com/))
@@ -208,7 +209,6 @@ layout: default
 * [Feb 12: Puki - Nano Payment API](https://puki.website/)
 * [Jan 31: WeAcceptCryptocurrency.com](https://www.weacceptcryptocurrency.com/)
 * [Jan 30: Nanowallets - Feature Guide](https://nanowallets.guide/))
-* [Jan 27: OneFastWay - Nano Cards Casino (Solo & Multiplayer)](https://onefastway.com/)
 
 </div>
 </div>
@@ -703,6 +703,7 @@ There are much fun to do but please proceed with caution.
 * [SomeNano Words - Betting on words](https://words.somenano.com/)
 * [Nano-PvP - Player vs Player Coinflip Matches](https://nano-pvp.web.app/)
 * [OneFastWay Casino - Built On NANO Blockchain](https://onefastway.com/casino)
+* [Nanofun - Betting](https://nanohub.online/)
 
 ### Games
 * [NANO Arcade - Game Collection](https://nanoarcade.org/games)
