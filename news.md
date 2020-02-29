@@ -438,6 +438,9 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [First question in Raiblocks Google group by Austin](https://groups.google.com/forum/#!topic/raiblocks/PSbX_onjLfU)
 * [Colin Announces Raiblocks - 0 Upvotes](https://www.reddit.com/r/CryptoCurrency/comments/2p6utv/raiblocks_unique_cryptocurrency/)
 
+### May 2014
+* [Raiblocks Logo Revealed - May 1 2014](https://commons.wikimedia.org/wiki/File:Raiblocks_Logo.png)
+
 </div>
 </div>
 
