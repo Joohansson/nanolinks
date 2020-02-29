@@ -35,6 +35,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### February 2020
+* [Raesonic browser-based racing game with Nano microtransactions](https://www.reddit.com/r/nanocurrency/comments/fb2itj/ive_implemented_nano_microtransactions_in_my/)
 * [Announcing WeNano for iOS](https://www.reddit.com/r/nanocurrency/comments/f9gg65/announcing_wenano_for_ios/)
 * [Binance rolls out credit card purchases of Nano, one of 12 coins supported](https://www.reddit.com/r/nanocurrency/comments/f9awdm/worlds_largest_most_popular_crypto_exchange/)
 * [Nano is now in the list of cryptocurrencies on Wikipedia](https://www.reddit.com/r/nanocurrency/comments/f8v9cq/nano_is_now_in_the_list_of_27_notable/)
