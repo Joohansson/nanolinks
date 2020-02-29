@@ -440,6 +440,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### May 2014
 * [Raiblocks Logo Revealed - May 1 2014](https://commons.wikimedia.org/wiki/File:Raiblocks_Logo.png)
+* [The initial Github node commit - May 1 2014](https://github.com/nanocurrency/nano-node/commit/e387c894861f4d04dab24e2d230ef394e58eaffa)
 
 </div>
 </div>
