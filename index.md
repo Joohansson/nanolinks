@@ -433,7 +433,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Magnum** - Web, Android (Ledger & Swap support)](https://app.magnumwallet.co/)
 * [**Exodus** - Win, Mac, Linux, iOS, Android](https://www.exodus.io/)
 * [**Trust Wallet** - iOS, Android](https://trustwallet.com/)
-* [**Hodler** - Android, Win, Linux](https://hodler.tech/)
 * [**Atomic** - Win, Mac, Ubuntu, Debian, Fedora](https://atomicwallet.io/)
 
 #### Address Generators, Paper Wallets
