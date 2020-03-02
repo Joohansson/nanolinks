@@ -477,6 +477,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 ### Market Data, Analysis & Tickers
 * [Coinmarketcap](https://coinmarketcap.com/currencies/nano/)
 * [Coinpaprika](https://coinpaprika.com/coin/nano-nano/)
+* [CoinDataFlow](https://coindataflow.com/en/currency/nano)
 * [Coinlore](https://www.coinlore.com/coin/nano)
 * [Bitscreener](https://bitscreener.com/coins/nano)
 * [CoinFYI](https://coin.fyi/coins/nano)
