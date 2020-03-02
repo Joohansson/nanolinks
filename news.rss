@@ -17,6 +17,15 @@
     </image>
 
     <item>
+      <title>Raesonic browser-based racing game with Nano microtransactions</title>
+      <pubDate>Sat, 29 Feb 2020 09:00:00 +0200</pubDate>
+      <link>https://www.reddit.com/r/nanocurrency/comments/fb2itj/ive_implemented_nano_microtransactions_in_my/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/nanocurrency/comments/fb2itj/ive_implemented_nano_microtransactions_in_my/</guid>
+      <category>Release</category>
+      <enclosure url="http://nanolinks.info/src/release.jpg" length="0" type="image/jpeg" />
+      <description><![CDATA[Lately I've been working on a somewhat niche 2D multiplayer game (turn-based racing does sound niche doesn't it?) called Raesonic. For a while I planned to add premium cosmetics which could only be obtained with Nano, but I wanted the quality of the content and gameplay value to be a little better. It's still in early development stages but today is the day.]]></description>
+    </item>
+    <item>
       <title>Announcing WeNano for iOS</title>
       <pubDate>Wed, 26 Feb 2020 09:00:00 +0200</pubDate>
       <link>https://www.reddit.com/r/nanocurrency/comments/f9gg65/announcing_wenano_for_ios/</link>

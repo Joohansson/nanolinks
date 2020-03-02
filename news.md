@@ -35,6 +35,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### February 2020
+* [Raesonic browser-based racing game with Nano microtransactions](https://www.reddit.com/r/nanocurrency/comments/fb2itj/ive_implemented_nano_microtransactions_in_my/)
 * [Announcing WeNano for iOS](https://www.reddit.com/r/nanocurrency/comments/f9gg65/announcing_wenano_for_ios/)
 * [Binance rolls out credit card purchases of Nano, one of 12 coins supported](https://www.reddit.com/r/nanocurrency/comments/f9awdm/worlds_largest_most_popular_crypto_exchange/)
 * [Nano is now in the list of cryptocurrencies on Wikipedia](https://www.reddit.com/r/nanocurrency/comments/f8v9cq/nano_is_now_in_the_list_of_27_notable/)
@@ -436,6 +437,10 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Exclusive Interview with Raiblocks Team](https://bitcoinist.com/exclusive-interview-raiblocks-team/)
 * [First question in Raiblocks Google group by Austin](https://groups.google.com/forum/#!topic/raiblocks/PSbX_onjLfU)
 * [Colin Announces Raiblocks - 0 Upvotes](https://www.reddit.com/r/CryptoCurrency/comments/2p6utv/raiblocks_unique_cryptocurrency/)
+
+### May 2014
+* [Raiblocks Logo Revealed - May 1 2014](https://commons.wikimedia.org/wiki/File:Raiblocks_Logo.png)
+* [The initial Github node commit - May 1 2014](https://github.com/nanocurrency/nano-node/commit/e387c894861f4d04dab24e2d230ef394e58eaffa)
 
 </div>
 </div>

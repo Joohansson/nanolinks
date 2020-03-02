@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Feb 29: Raesonic Racing Game- In-game purchases](https://raesonic.com/)
 * [Feb 28: Nanofun - Betting](https://nanohub.online/)
 * [Feb 25: WeNano - Mobile iOS wallet with geo spots](https://wenano.net/)
 * [Feb 23: Nanoji Chart - Emotional Nano Price Charts and Discord Bot](https://price.nanoticker.info/)
@@ -208,7 +209,6 @@ layout: default
 * [Feb 18: EarnAcademy](https://earnacademy.cc/)
 * [Feb 12: Puki - Nano Payment API](https://puki.website/)
 * [Jan 31: WeAcceptCryptocurrency.com](https://www.weacceptcryptocurrency.com/)
-* [Jan 30: Nanowallets - Feature Guide](https://nanowallets.guide/))
 
 </div>
 </div>
@@ -476,6 +476,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 ### Market Data, Analysis & Tickers
 * [Coinmarketcap](https://coinmarketcap.com/currencies/nano/)
 * [Coinpaprika](https://coinpaprika.com/coin/nano-nano/)
+* [CoinDataFlow](https://coindataflow.com/en/currency/nano)
 * [Coinlore](https://www.coinlore.com/coin/nano)
 * [Bitscreener](https://bitscreener.com/coins/nano)
 * [CoinFYI](https://coin.fyi/coins/nano)
@@ -712,6 +713,7 @@ There are much fun to do but please proceed with caution.
 * [Eternity Tower](https://eternitytower.net/)
 * [Player Killers Exchange](https://playerkillers.exchange)
 * [The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
+* [Raesonic - In-game purchases](https://raesonic.com/)
 
 ### Video, Music, Art
 * [NanoMusic - Listen to the network live](http://music.nanos.cc)
