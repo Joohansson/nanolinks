@@ -34,6 +34,9 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### Mars 2020
+* [Announcing the Nano Community Project Award](https://www.reddit.com/r/nanocurrency/comments/fd0cvg/announcing_the_nano_community_project_award/)
+
 ### February 2020
 * [Raesonic browser-based racing game with Nano microtransactions](https://www.reddit.com/r/nanocurrency/comments/fb2itj/ive_implemented_nano_microtransactions_in_my/)
 * [Announcing WeNano for iOS](https://www.reddit.com/r/nanocurrency/comments/f9gg65/announcing_wenano_for_ios/)
