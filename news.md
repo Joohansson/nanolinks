@@ -27,14 +27,14 @@ layout: newslayout
   <span class="helper"></span>
   <p class="intro"><strong>Great news easily gets buried in a continuous media stream like Reddit and Discord. Here we try to keep track of the most important ones as a news archive.</strong><br>
   <a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info/news&edit-text=&act=url">Translate this page or any sub page to other languages</a><br><br>
-  Stay up to date with <strong><a href="http://feeds.feedburner.com/nanolinks">NanoLinks RSS feed</a></strong><br>
-  If not working, try the <a href="https://nanolinks.info/news.rss">original non-optimized RSS</a></p>
 </div>
 
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### Mars 2020
+* [Announcing EarnAcademy.cc — Earn money by learning and answering questions](https://www.reddit.com/r/nanocurrency/comments/fdfoee/announcing_earnacademycc_earn_money_by_learning/)
+* [Bidali enables gift cards and phone top-ups with Nano](https://www.reddit.com/r/nanocurrency/comments/fdvpi7/nano_ecosystem_spotlight_bidali/)
 * [Announcing the Nano Community Project Award](https://www.reddit.com/r/nanocurrency/comments/fd0cvg/announcing_the_nano_community_project_award/)
 
 ### February 2020
