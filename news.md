@@ -26,8 +26,7 @@ layout: newslayout
 <div class="first-header-news">
   <span class="helper"></span>
   <p class="intro"><strong>Great news easily gets buried in a continuous media stream like Reddit and Discord. Here we try to keep track of the most important ones as a news archive.</strong><br>
-  <a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info/news&edit-text=&act=url">Translate this page or any sub page to other languages</a><br><br>
-</div>
+  <a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info/news&edit-text=&act=url">Translate this page or any sub page to other languages</a><br>
 
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
