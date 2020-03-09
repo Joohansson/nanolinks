@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### Mars 2020
+* [DeMixor, music vocal remover, integrates Nano](https://www.reddit.com/r/nanocurrency/comments/fflayx/its_like_magic_just_integrated_nano_payment/)
 * [Announcing EarnAcademy.cc — Earn money by learning and answering questions](https://www.reddit.com/r/nanocurrency/comments/fdfoee/announcing_earnacademycc_earn_money_by_learning/)
 * [Bidali enables gift cards and phone top-ups with Nano](https://www.reddit.com/r/nanocurrency/comments/fdvpi7/nano_ecosystem_spotlight_bidali/)
 * [Announcing the Nano Community Project Award](https://www.reddit.com/r/nanocurrency/comments/fd0cvg/announcing_the_nano_community_project_award/)

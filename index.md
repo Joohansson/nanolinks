@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Mar 9: DeMixor - Music Vocal Remover](https://demixor.com/)
 * [Feb 29: Raesonic Racing Game- In-game purchases](https://raesonic.com/)
 * [Feb 28: Nanofun - Betting](https://nanohub.online/)
 * [Feb 25: WeNano - Mobile iOS wallet with geo spots](https://wenano.net/)
@@ -208,7 +209,6 @@ layout: default
 * [Feb 20: TOR Block Lattice Explorer (NOTE: .onion link)](http://nanonycgzbzozgnfdhu7wyn3xwmufo4nuzrqgemjwxavqjmznzbgt7ad.onion)
 * [Feb 18: EarnAcademy](https://earnacademy.cc/)
 * [Feb 12: Puki - Nano Payment API](https://puki.website/)
-* [Jan 31: WeAcceptCryptocurrency.com](https://www.weacceptcryptocurrency.com/)
 
 </div>
 </div>
@@ -729,6 +729,7 @@ Services which accepts Nano (mandatory or optional)
 * [Donano - Crowdfunding for Creators](https://www.donano.to)
 * [One Nano Host - Free DNS Domain for Nano related endpoints](https://nanos.cc/)
 * [247 Node - Free DNS Domain for nodes](https://247node.net/)
+* [DeMixor - Music Vocal Remover](https://demixor.com/)
 
 Services which payout Nano
 * [Distributed PoW System (dPoW)](https://dpow.nanocenter.org/)
