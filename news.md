@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### Mars 2020
+* [LuckyNano 2.0 Released](https://www.reddit.com/r/nanocurrency/comments/fg5b2x/i_worked_hard_for_it_version_20_of_luckynano_is/)
 * [DeMixor, music vocal remover, integrates Nano](https://www.reddit.com/r/nanocurrency/comments/fflayx/its_like_magic_just_integrated_nano_payment/)
 * [Announcing EarnAcademy.cc — Earn money by learning and answering questions](https://www.reddit.com/r/nanocurrency/comments/fdfoee/announcing_earnacademycc_earn_money_by_learning/)
 * [Bidali enables gift cards and phone top-ups with Nano](https://www.reddit.com/r/nanocurrency/comments/fdvpi7/nano_ecosystem_spotlight_bidali/)
