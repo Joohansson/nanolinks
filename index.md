@@ -517,8 +517,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [KeyTools Payment Card](https://tools.nanos.cc/?tool=pay)
 
 ### Faucets (Free Nano)
-Find more ways to get payout under [Services](#services)
-
 * [Nano-Faucet.org](https://nano-faucet.org/)
 * [FreeNanoFaucet.com ](https://www.freenanofaucet.com/)
 * [A Lil Nano](https://www.alilnano.com/)
