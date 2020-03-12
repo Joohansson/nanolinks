@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Mar 12: Earn Nano - Directory for getting Nano without purchase](https://earn-nano.com/)
 * [Mar 9: DeMixor - Music Vocal Remover](https://demixor.com/)
 * [Feb 29: Raesonic Racing Game- In-game purchases](https://raesonic.com/)
 * [Feb 28: Nanofun - Betting](https://nanohub.online/)
@@ -208,7 +209,6 @@ layout: default
 * [Feb 20: Nano Work Cache - Golang](https://github.com/catenocrypt/nano-work-cache)
 * [Feb 20: TOR Block Lattice Explorer (NOTE: .onion link)](http://nanonycgzbzozgnfdhu7wyn3xwmufo4nuzrqgemjwxavqjmznzbgt7ad.onion)
 * [Feb 18: EarnAcademy](https://earnacademy.cc/)
-* [Feb 12: Puki - Nano Payment API](https://puki.website/)
 
 </div>
 </div>
@@ -472,6 +472,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Coin Stats - Multi-coin, Portfolio, Stats](https://coinstats.app/)
 * [Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto-coin-tracker/id1375812090?mt=8)
 * [Tradingview - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
+* [TipNano - Free Android Nano tipper](https://play.google.com/store/apps/details?id=com.bdf.tipnano)
 
 ### Market Data, Analysis & Tickers
 * [Coinmarketcap](https://coinmarketcap.com/currencies/nano/)
@@ -516,13 +517,14 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [KeyTools Payment Card](https://tools.nanos.cc/?tool=pay)
 
 ### Faucets (Free Nano)
+Find more ways to get payout under [Services](#services)
+
 * [Nano-Faucet.org](https://nano-faucet.org/)
 * [FreeNanoFaucet.com ](https://www.freenanofaucet.com/)
 * [A Lil Nano](https://www.alilnano.com/)
 * [NanoFaucet.org](https://www.nanofaucet.org/)
 * [Getnano](https://getnano.co.uk/)
 * [GetFreeNano - Nano China](https://getfreenano.com/)
-* [NanoQuake - Faucet feature](https://nanocenter.fandom.com/wiki/Nano_Quake)
 * [OneFastWay - Faucet](https://onefastway.com/faucet/)
 
 
@@ -732,11 +734,18 @@ Services which accepts Nano (mandatory or optional)
 * [DeMixor - Music Vocal Remover](https://demixor.com/)
 
 Services which payout Nano
+* [Earn Nano - Directory for getting Nano without purchase](https://earn-nano.com/)
 * [Distributed PoW System (dPoW)](https://dpow.nanocenter.org/)
 * [Delegated Proof of Work](https://anarkrypto.github.io/Delegated-Proof-of-Work/)
 * [OneFastWay Mining Pool, Pays in NANO](https://onefastway.com/pool)
 * [Quicrypto - Earn Nano for completing tasks](https://www.quicrypto.com)
 * [EarnAcademy](https://earnacademy.cc/)
+* [BitForTip - Earn Nano by being helpful](https://www.bitfortip.com/)
+* [TryNano - Telegram bot rewards for watching videos](https://t.me/TryNanoBot)
+* [Deligate - Do small tasks and earn Nano in Telegram](https://t.me/deligate_bot?start=8101)
+* [WeNano - Mobile app with geo-fenced spots with free payouts](https://wenano.net/)
+* [NanoQuake JS - Action game with payout for kills](http://nanoquakejs.com)
+* [Player Killers Exchange - RPG game with payouts](https://playerkillers.exchange)
 
 </div>
 </div>
