@@ -33,6 +33,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### Mars 2020
+* [Nano Foundation AmA with Atomic Wallet - Summary](https://www.reddit.com/r/nanocurrency/comments/fngsfu/nano_foundation_ama_with_atomic_wallet_summary/)
+* [Counter Strike: Go Nano](https://www.reddit.com/r/nanocurrency/comments/fmw0vi/counter_strike_go_nano/)
 * [Announcing Earn-Nano.com - Collection of places to earn Nano](https://www.reddit.com/r/nanocurrency/comments/fhd3h7/announcing_earnnanocom_collection_of_places_to/)
 * [Nanoquake JS Season 2](https://www.reddit.com/r/nanocurrency/comments/fgeya5/nanoquakejs_is_back_with_season_2/)
 * [LuckyNano 2.0 Released](https://www.reddit.com/r/nanocurrency/comments/fg5b2x/i_worked_hard_for_it_version_20_of_luckynano_is/)

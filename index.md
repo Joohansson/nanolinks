@@ -743,6 +743,7 @@ Services which payout Nano
 * [Deligate - Do small tasks and earn Nano in Telegram](https://t.me/deligate_bot?start=8101)
 * [WeNano - Mobile app with geo-fenced spots with free payouts](https://wenano.net/)
 * [NanoQuake JS - Action game with payout for kills](http://nanoquakejs.com)
+* [Counter-strike - Action game with nano payout](https://earn-nano.com/csgo)
 * [Player Killers Exchange - RPG game with payouts](https://playerkillers.exchange)
 
 </div>
