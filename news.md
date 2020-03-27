@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### Mars 2020
+* [Nanocurrency on Reddit reaches 50,000 members](https://www.reddit.com/r/nanocurrency/comments/fpmxug/reached_50k_members/)
 * [Nano Foundation AmA with Atomic Wallet - Summary](https://www.reddit.com/r/nanocurrency/comments/fngsfu/nano_foundation_ama_with_atomic_wallet_summary/)
 * [Counter Strike: Go Nano](https://www.reddit.com/r/nanocurrency/comments/fmw0vi/counter_strike_go_nano/)
 * [Announcing Earn-Nano.com - Collection of places to earn Nano](https://www.reddit.com/r/nanocurrency/comments/fhd3h7/announcing_earnnanocom_collection_of_places_to/)
