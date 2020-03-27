@@ -488,6 +488,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Coinyep - Multi-Currencies Converter](https://coinyep.com/)
 * [Livecoins - Nano/BRL/USD/BTC Converter](https://livecoins.com.br/nano-hoje-cotacao-nano/)
 * [Niuyan Market Data](https://niuyan.com/currencies/nano)
+* [CoinGecko](https://www.coingecko.com/en/coins/nano)
 * [Nanoji Chart - Emotional Nano Price Charts and Discord Bot](https://price.nanoticker.info/)
 
 ### Merchant & Donation Related [No shops, too many]
