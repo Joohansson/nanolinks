@@ -32,7 +32,10 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 
-### Mars 2020
+### April
+[March NCPA Community Award Winner: MyNano.ninja](https://www.reddit.com/r/nanocurrency/comments/fv0rbm/march_ncpa_community_award_winner/)
+
+### March 2020
 * [Nanocurrency on Reddit reaches 50,000 members](https://www.reddit.com/r/nanocurrency/comments/fpmxug/reached_50k_members/)
 * [Nano Foundation AmA with Atomic Wallet - Summary](https://www.reddit.com/r/nanocurrency/comments/fngsfu/nano_foundation_ama_with_atomic_wallet_summary/)
 * [Counter Strike: Go Nano](https://www.reddit.com/r/nanocurrency/comments/fmw0vi/counter_strike_go_nano/)
