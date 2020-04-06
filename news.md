@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### April
+[Announcing the Nano Build-Off - A $75,000 competition to incentivize nano developers](https://www.reddit.com/r/nanocurrency/comments/fw4jrc/announcing_the_nano_buildoff_a_75000_competition/)
 [March NCPA Community Award Winner: MyNano.ninja](https://www.reddit.com/r/nanocurrency/comments/fv0rbm/march_ncpa_community_award_winner/)
 
 ### March 2020
