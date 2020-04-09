@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Apr 9: PixelPortfolio](https://play.google.com/store/apps/details?id=com.pixelportfolio)
 * [Mar 12: Earn Nano - Directory for getting Nano without purchase](https://earn-nano.com/)
 * [Mar 9: DeMixor - Music Vocal Remover](https://demixor.com/)
 * [Feb 29: Raesonic Racing Game- In-game purchases](https://raesonic.com/)
@@ -208,7 +209,6 @@ layout: default
 * [Feb 20: Simplex - Credit cards payment service](https://www.simplex.com/))
 * [Feb 20: Nano Work Cache - Golang](https://github.com/catenocrypt/nano-work-cache)
 * [Feb 20: TOR Block Lattice Explorer (NOTE: .onion link)](http://nanonycgzbzozgnfdhu7wyn3xwmufo4nuzrqgemjwxavqjmznzbgt7ad.onion)
-* [Feb 18: EarnAcademy](https://earnacademy.cc/)
 
 </div>
 </div>
@@ -473,6 +473,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto-coin-tracker/id1375812090?mt=8)
 * [Tradingview - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
 * [TipNano - Free Android Nano tipper](https://play.google.com/store/apps/details?id=com.bdf.tipnano)
+* [PixelPortfolio](https://play.google.com/store/apps/details?id=com.pixelportfolio)
 
 ### Market Data, Analysis & Tickers
 * [Coinmarketcap](https://coinmarketcap.com/currencies/nano/)
