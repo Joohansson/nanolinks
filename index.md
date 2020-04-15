@@ -586,13 +586,14 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Snapy - Free NANO API for Developers](https://snapy.io/)
 * [Mynano: Public node API](https://mynano.ninja/api)
 * [Nanoverse: Public node API & web console](https://nanoverse.io/api/)
-* [Puki - Nano Payment API](https://puki.website/)
 * [NanooTools](https://nanoo.tools/)
 * [OpenAPI Specification for Nano RPC API](https://aspic.github.io/nano-rpc-api/)
 * [Nano Cold (Offline, air-gapped) Signing Script](https://github.com/noahc66260/nano-cold-signing)
 * [Passwordless Authentication (Demo)](https://nanocharts.info/passwordless/)
 * [Appia Manta - Python](https://github.com/appiapay/manta-python)
 * [Split Nano - Split receives between your team](https://splitnano.com/)
+* [NANOPAY - Open Source API](https://github.com/besoeasy/nanopay)
+
 
 ### Wallets [Source Code]
 * [NF Wallet (dev)](https://github.com/nanocurrency/nano-node)
@@ -666,7 +667,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Betsy - NANO/BANANO POW precacher, distributor, & callback forwarder](https://github.com/bbedward/betsy-middleware)
 * [Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System)
 * [Accept Nano Payment Gateway (Self-hosted)](https://accept-nano.com)
-* [Nano Payment Processor API](https://github.com/besoeasy/nano-payment)
 * [Nano Address Validator](https://github.com/alecrios/nano-address-validator)
 * [Nano Unit Converter](https://github.com/alecrios/nano-unit-converter)
 * [Nano Base32 encoding/decoding](https://github.com/termhn/nano-base32)
