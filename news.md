@@ -33,6 +33,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### April
+* [A new faucet has launched - TetraLoom](https://www.reddit.com/r/nanocurrency/comments/fzqrp7/i_made_a_faucet/)
+* [Privacy research project update - Funded](https://www.reddit.com/r/nanocurrency/comments/fy1kzf/privacy_research_update/)
 * [Nano RUM dispenser](https://www.reddit.com/r/nanocurrency/comments/fx808k/hi_guys_finally_a_glass_of_nano_rum/)
 * [Announcing the Nano Build-Off - A $75,000 competition to incentivize nano developers](https://www.reddit.com/r/nanocurrency/comments/fw4jrc/announcing_the_nano_buildoff_a_75000_competition/)
 * [March NCPA Community Award Winner: MyNano.ninja](https://www.reddit.com/r/nanocurrency/comments/fv0rbm/march_ncpa_community_award_winner/)

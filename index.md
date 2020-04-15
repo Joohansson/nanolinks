@@ -199,16 +199,16 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Apr 15: Tetraloom - Faucet](https://tetraloom.com/nano/)
 * [Apr 9: PixelPortfolio](https://play.google.com/store/apps/details?id=com.pixelportfolio)
-* [Mar 12: Earn Nano - Directory for getting Nano without purchase](https://earn-nano.com/)
+* [Mar 12: Earn Nano - Directory for getting Nano](https://earn-nano.com/)
 * [Mar 9: DeMixor - Music Vocal Remover](https://demixor.com/)
 * [Feb 29: Raesonic Racing Game- In-game purchases](https://raesonic.com/)
 * [Feb 28: Nanofun - Betting](https://nanohub.online/)
 * [Feb 25: WeNano - Mobile iOS wallet with geo spots](https://wenano.net/)
-* [Feb 23: Nanoji Chart - Emotional Nano Price Charts and Discord Bot](https://price.nanoticker.info/)
+* [Feb 23: Nanoji Chart - Emotional Nano Price Charts](https://price.nanoticker.info/)
 * [Feb 20: Simplex - Credit cards payment service](https://www.simplex.com/))
 * [Feb 20: Nano Work Cache - Golang](https://github.com/catenocrypt/nano-work-cache)
-* [Feb 20: TOR Block Lattice Explorer (NOTE: .onion link)](http://nanonycgzbzozgnfdhu7wyn3xwmufo4nuzrqgemjwxavqjmznzbgt7ad.onion)
 
 </div>
 </div>
@@ -521,11 +521,12 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 ### Faucets (Free Nano)
 * [Nano-Faucet.org](https://nano-faucet.org/)
 * [FreeNanoFaucet.com ](https://www.freenanofaucet.com/)
-* [A Lil Nano](https://www.alilnano.com/)
+* [A Lil Nano - Faucet](https://www.alilnano.com/)
 * [NanoFaucet.org](https://www.nanofaucet.org/)
-* [Getnano](https://getnano.co.uk/)
-* [GetFreeNano - Nano China](https://getfreenano.com/)
+* [Getnano - Faucet](https://getnano.co.uk/)
+* [GetFreeNano - China Faucet](https://getfreenano.com/)
 * [OneFastWay - Faucet](https://onefastway.com/faucet/)
+* [Tetraloom - Faucet](https://tetraloom.com/nano/)
 
 
 ### Point of Sale
