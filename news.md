@@ -33,6 +33,12 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### April
+* [NanoPvP is Back better than ever!](https://www.reddit.com/r/nanocurrency/comments/g5bml7/nanopvp_is_back/)
+* [Nano Charts V1.13 - More Accurate Pie Chart Data, Binance True Holdings and Help Boxes](https://www.reddit.com/r/nanocurrency/comments/g4ybmi/nano_charts_v113_more_accurate_pie_chart_data/)
+* [Nodes CLI obersever: new CLI tool in php4nano repository](https://www.reddit.com/r/nanocurrency/comments/g45p92/nodes_cli_obersever_released_a_new_cli_tool_in/)
+* [Nano Foundation - CryptoFriendly AMA Recap](https://www.reddit.com/r/nanocurrency/comments/g2iu1c/nano_foundation_cryptofriendly_ama_recap/)
+* [Nano available on the new Binance Widget](https://www.reddit.com/r/nanocurrency/comments/g1r3ra/nano_available_on_the_new_binance_widget/)
+* [Great beta results for v21](https://www.reddit.com/r/nanocurrency/comments/g0mmwo/nano_v21_looks_promising/)
 * [A new faucet has launched - TetraLoom](https://www.reddit.com/r/nanocurrency/comments/fzqrp7/i_made_a_faucet/)
 * [Privacy research project update - Funded](https://www.reddit.com/r/nanocurrency/comments/fy1kzf/privacy_research_update/)
 * [Nano RUM dispenser](https://www.reddit.com/r/nanocurrency/comments/fx808k/hi_guys_finally_a_glass_of_nano_rum/)
