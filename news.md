@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### April
+* [WeNano light for Android is out](https://www.reddit.com/r/nanocurrency/comments/g8vviu/wenano_light_for_android_is_out/)
 * [NanoPvP is Back better than ever!](https://www.reddit.com/r/nanocurrency/comments/g5bml7/nanopvp_is_back/)
 * [Nano Charts V1.13 - More Accurate Pie Chart Data, Binance True Holdings and Help Boxes](https://www.reddit.com/r/nanocurrency/comments/g4ybmi/nano_charts_v113_more_accurate_pie_chart_data/)
 * [Nodes CLI obersever: new CLI tool in php4nano repository](https://www.reddit.com/r/nanocurrency/comments/g45p92/nodes_cli_obersever_released_a_new_cli_tool_in/)
