@@ -33,6 +33,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### April
+* [Nano ecosystem april 2020](https://www.reddit.com/r/nanocurrency/comments/g9kqpz/nano_ecosystem_april_2020/)
+* [Alexa Nano bot](https://www.reddit.com/r/nanocurrency/comments/g6r469/alexa_nano_bot_website/)
 * [WeNano light for Android is out](https://www.reddit.com/r/nanocurrency/comments/g8vviu/wenano_light_for_android_is_out/)
 * [NanoPvP is Back better than ever!](https://www.reddit.com/r/nanocurrency/comments/g5bml7/nanopvp_is_back/)
 * [Nano Charts V1.13 - More Accurate Pie Chart Data, Binance True Holdings and Help Boxes](https://www.reddit.com/r/nanocurrency/comments/g4ybmi/nano_charts_v113_more_accurate_pie_chart_data/)
