@@ -31,8 +31,14 @@ layout: newslayout
 
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
+### May 2020
+* [Millions of Brave browser users can now seamlessly purchase, deposit, and convert NANO](https://www.reddit.com/r/nanocurrency/comments/gb0uu7/millions_of_brave_browser_users_can_now/)
+* [Happy Birthday Nano! Nano turns six today](https://www.reddit.com/r/nanocurrency/comments/gbhsem/happy_birthday_nano_nano_turns_six_today/)
+* [New Nano Center Bounty: Unity3D Plugin](https://www.reddit.com/r/nanocurrency/comments/gb5acf/new_nano_center_bounty_unity3d_plugin/)
+* [RoboCash alpha APK - stop spam calls with Nano](https://www.reddit.com/r/nanocurrency/comments/gb5zvl/robocash_alpha_apk_stop_spam_calls_with_nano/)
+* [myNanoEmbedded - Lightweight C library for IoT](https://www.reddit.com/r/nanocurrency/comments/gawwcf/nano_iot_portable_c_library_with_integration_with/)
 
-### April
+### April 2020
 * [Nano ecosystem april 2020](https://www.reddit.com/r/nanocurrency/comments/g9kqpz/nano_ecosystem_april_2020/)
 * [Alexa Nano bot](https://www.reddit.com/r/nanocurrency/comments/g6r469/alexa_nano_bot_website/)
 * [WeNano light for Android is out](https://www.reddit.com/r/nanocurrency/comments/g8vviu/wenano_light_for_android_is_out/)
