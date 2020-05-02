@@ -228,10 +228,8 @@ Learn everything there is to know about Nano!
 * [Full Documentation, Roadmap, Integration guides](https://docs.nano.org/)
 * [Support Forum](https://forum.nano.org)
 * [Whitepaper (Eng)](https://nano.org/en/whitepaper)
-* [Official Nano GitHub Wiki](https://github.com/nanocurrency/raiblocks/wiki)
 * [Medium Channel - Main](https://medium.com/@nanocurrency)
 * [Medium Channel - The Nano Center](https://medium.com/the-nano-center)
-* [Nano Development Fund](https://nanocrawler.cc/explorer/account/xrb_1ipx847tk8o46pwxt5qjdbncjqcbwcc1rrmqnkztrfjy5k7z4imsrata9est/history)
 
 ### Core Social Media & Contribution Channels
 * [Reddit](https://www.reddit.com/r/nanocurrency/)
@@ -420,7 +418,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nanovault** - Web,Windows,Linux,Mac](https://nanovault.io/)
 * [**Nanovault Ninja** - Web](https://vault.mynano.ninja/)
 * [**Nanovault NCrawler** - Web](https://vault.nanocrawler.cc/)
-* [**Nanollet** - Windows,Linux,Darwin](https://nanollet.org/)
 * [**WeNano** - iOS](https://wenano.net/)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 
@@ -551,7 +548,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 ### Nano Main Protocol
 * [Nano Source Code Main Repositories](https://github.com/nanocurrency)
 * [Node Milestones](https://github.com/nanocurrency/nano-node/milestones)
-* [Bug Bounty](https://hackerone.com/nano)
 * [Unofficial Nano Community Wiki](https://github.com/georgehara/nano/wiki/unofficial)
 * [Docker Repo](https://hub.docker.com/u/nanocurrency/)
 
