@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 3: Nanoce.net - Nano powered gaming tournaments](https://nanoce.net/)
 * [May 1: myNanoEmbedded - Lightweight C library for IoT](https://github.com/devfabiosilva/myNanoEmbedded)
 * [Apr 15: Tetraloom - Faucet](https://tetraloom.com/nano/)
 * [Apr 9: PixelPortfolio](https://play.google.com/store/apps/details?id=com.pixelportfolio)
@@ -208,7 +209,6 @@ layout: default
 * [Feb 28: Nanofun - Betting](https://nanohub.online/)
 * [Feb 25: WeNano - Mobile iOS wallet with geo spots](https://wenano.net/)
 * [Feb 23: Nanoji Chart - Emotional Nano Price Charts](https://price.nanoticker.info/)
-* [Feb 20: Simplex - Credit cards payment service](https://www.simplex.com/))
 
 </div>
 </div>
@@ -708,11 +708,12 @@ There are much fun to do but please proceed with caution.
 * [NANO Arcade - Game Collection](https://nanoarcade.org/games)
 * [NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
 * [NanoQuake JS](http://nanoquakejs.com)
-* [NanoCards - A free printable card game](https://nanocards.net/)
+* [NanoCards - A free printable card game](https://cards.nanos.cc/)
 * [Eternity Tower](https://eternitytower.net/)
 * [Player Killers Exchange](https://playerkillers.exchange)
 * [The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
 * [Raesonic - In-game purchases](https://raesonic.com/)
+* [Nanoce - Nano powered gaming tournaments](https://nanoce.net/)
 
 ### Video, Music, Art
 * [NanoMusic - Listen to the network live](http://music.nanos.cc)

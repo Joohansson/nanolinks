@@ -32,11 +32,13 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 ### May 2020
+* [Nanoce.net - Nano powered gaming tournaments](https://www.reddit.com/r/nanocurrency/comments/gc3cpa/nanocenet_open_lol_tournament_2_starts_soon_come/)
 * [Millions of Brave browser users can now seamlessly purchase, deposit, and convert NANO](https://www.reddit.com/r/nanocurrency/comments/gb0uu7/millions_of_brave_browser_users_can_now/)
 * [Happy Birthday Nano! Nano turns six today](https://www.reddit.com/r/nanocurrency/comments/gbhsem/happy_birthday_nano_nano_turns_six_today/)
 * [New Nano Center Bounty: Unity3D Plugin](https://www.reddit.com/r/nanocurrency/comments/gb5acf/new_nano_center_bounty_unity3d_plugin/)
 * [RoboCash alpha APK - stop spam calls with Nano](https://www.reddit.com/r/nanocurrency/comments/gb5zvl/robocash_alpha_apk_stop_spam_calls_with_nano/)
 * [myNanoEmbedded - Lightweight C library for IoT](https://www.reddit.com/r/nanocurrency/comments/gawwcf/nano_iot_portable_c_library_with_integration_with/)
+* [April NCPA Community Award Winner: Json](https://www.reddit.com/r/nanocurrency/comments/gc7wil/announcing_the_winner_of_the_april_nano_community/)
 
 ### April 2020
 * [Nano ecosystem april 2020](https://www.reddit.com/r/nanocurrency/comments/g9kqpz/nano_ecosystem_april_2020/)
