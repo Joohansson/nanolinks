@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 8: Camo Nano (Beta) - Desktop](https://github.com/coranos/camo-nano-light-wallet)
 * [May 3: Nanoce.net - Nano powered gaming tournaments](https://nanoce.net/)
 * [May 1: myNanoEmbedded - Lightweight C library for IoT](https://github.com/devfabiosilva/myNanoEmbedded)
 * [Apr 15: Tetraloom - Faucet](https://tetraloom.com/nano/)
@@ -208,7 +209,6 @@ layout: default
 * [Feb 29: Raesonic Racing Game- In-game purchases](https://raesonic.com/)
 * [Feb 28: Nanofun - Betting](https://nanohub.online/)
 * [Feb 25: WeNano - Mobile iOS wallet with geo spots](https://wenano.net/)
-* [Feb 23: Nanoji Chart - Emotional Nano Price Charts](https://price.nanoticker.info/)
 
 </div>
 </div>
@@ -420,6 +420,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nanovault NCrawler** - Web](https://vault.nanocrawler.cc/)
 * [**WeNano** - iOS](https://wenano.net/)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
+* [**Camo Nano (beta)** - Desktop](https://github.com/coranos/camo-nano-light-wallet)
 
 #### Dev Wallets
 * [**Nano Node Wallet** - The original one](https://github.com/nanocurrency/nano-node/releases)
