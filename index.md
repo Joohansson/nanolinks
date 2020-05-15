@@ -681,6 +681,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Beta Net Stats - Repnode](https://b.repnode.org/)
 * [Beta Net Visualizer](https://nano-faucet.org/visualizer/beta/)
 * [Beta Net Car Visualizer](http://btraffic.nanos.cc/)
+* [Beta Net Water Visualizer](https://bfountain.nanos.cc/)
 * [Beta Net Confirmation Chart](https://nano-faucet.org/beta/chart/)
 * [Beta Net Stats - Nanode21](https://nanode21.cloud/testnetstats.php)
 * [Beta Net - Nanoticker analytics and performance](https://beta.nanoticker.info)
