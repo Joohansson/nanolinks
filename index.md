@@ -201,7 +201,7 @@ layout: default
 ## Latest Additions
 * [May 17: NanoFusion - Multi-signature trustless mixing](http://nanofusion.casa/)
 * [May 15: NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
-* [May 8: Camo Nano (Beta) - Desktop](https://github.com/coranos/camo-nano-light-wallet)
+* [May 8: Camo Nano - Desktop Wallet](https://github.com/coranos/camo-nano-light-wallet)
 * [May 3: Nanoce.net - Nano powered gaming tournaments](https://nanoce.net/)
 * [May 1: myNanoEmbedded - Lightweight C library for IoT](https://github.com/devfabiosilva/myNanoEmbedded)
 * [Apr 15: Tetraloom - Faucet](https://tetraloom.com/nano/)
@@ -220,7 +220,7 @@ layout: default
 <div class="link-content" markdown="1">
 
 ## Nano Build-of 2020
-* [Camo Nano (Beta) - Desktop](https://github.com/coranos/camo-nano-light-wallet)
+* [Camo Nano - Desktop Wallet](https://github.com/coranos/camo-nano-light-wallet)
 * [NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
 * [NanoFusion - Multi-signature trustless mixing](http://nanofusion.casa/)
 
