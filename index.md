@@ -200,7 +200,7 @@ layout: default
 
 ## Latest Additions
 * [May 17: NanoFusion - Multi-signature trustless mixing](http://nanofusion.casa/)
-* [May 17: NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
+* [May 15: NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
 * [May 8: Camo Nano (Beta) - Desktop](https://github.com/coranos/camo-nano-light-wallet)
 * [May 3: Nanoce.net - Nano powered gaming tournaments](https://nanoce.net/)
 * [May 1: myNanoEmbedded - Lightweight C library for IoT](https://github.com/devfabiosilva/myNanoEmbedded)
@@ -209,8 +209,6 @@ layout: default
 * [Mar 12: Earn Nano - Directory for getting Nano](https://earn-nano.com/)
 * [Mar 9: DeMixor - Music Vocal Remover](https://demixor.com/)
 * [Feb 29: Raesonic Racing Game- In-game purchases](https://raesonic.com/)
-* [Feb 28: Nanofun - Betting](https://nanohub.online/)
-* [Feb 25: WeNano - Mobile iOS wallet with geo spots](https://wenano.net/)
 
 </div>
 </div>
