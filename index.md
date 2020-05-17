@@ -199,6 +199,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 17: NanoFusion - Multi-signature trustless mixing](http://nanofusion.casa/)
+* [May 17: NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
 * [May 8: Camo Nano (Beta) - Desktop](https://github.com/coranos/camo-nano-light-wallet)
 * [May 3: Nanoce.net - Nano powered gaming tournaments](https://nanoce.net/)
 * [May 1: myNanoEmbedded - Lightweight C library for IoT](https://github.com/devfabiosilva/myNanoEmbedded)
@@ -211,6 +213,19 @@ layout: default
 * [Feb 25: WeNano - Mobile iOS wallet with geo spots](https://wenano.net/)
 
 </div>
+</div>
+</div>
+
+<div class="div-full div-compact">
+<div class="blur"></div>
+<div class="overlay"></div>
+<div class="link-content" markdown="1">
+
+## Nano Build-of 2020
+* [Camo Nano (Beta) - Desktop](https://github.com/coranos/camo-nano-light-wallet)
+* [NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
+* [NanoFusion - Multi-signature trustless mixing](http://nanofusion.casa/)
+
 </div>
 </div>
 
@@ -591,6 +606,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Appia Manta - Python](https://github.com/appiapay/manta-python)
 * [Split Nano - Split receives between your team](https://splitnano.com/)
 * [NANOPAY - Open Source API](https://github.com/besoeasy/nanopay)
+* [NanoFusion - Multi-signature trustless mixing](http://nanofusion.casa/)
 
 
 ### Wallets [Source Code]
@@ -724,6 +740,7 @@ There are much fun to do but please proceed with caution.
 * [The Nanoji Generator](https://www.nanojigenerator.com/)
 * [Nano Wallpapers](https://www.nano-wallpapers.com/)
 * [Feed the birds with Nano live stream](https://www.youtube.com/watch?v=otpqipL3H8Q)
+* [NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
 
 ## Services
 Services which accepts Nano (mandatory or optional)
