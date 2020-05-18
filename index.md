@@ -220,11 +220,11 @@ layout: default
 <div class="link-content" markdown="1">
 
 ## Nano Build-off 2020
-* [Alexa bot <arranHarty>](https://www.reddit.com/r/nanocurrency/comments/g6r469/alexa_nano_bot_website/)
-* [Camo Nano - Desktop Wallet <coranos>](https://github.com/coranos/camo-nano-light-wallet)
-* [NanoPaint - Buy pixels encoded in block chain <SonderDev>](https://www.reddit.com/r/nanocurrency/comments/gkg6oe/introducing_nanopaint_my_project_submission_for/)
-* [NanoFusion - Multi-signature trustless mixing <Fatal_Glory>](https://www.reddit.com/r/nanocurrency/comments/glesgc/introducing_nanofusion_nano_buildoff_project/)
-* [NanoRPCPRoxy - Customizable proxy server for node calls <Json>](https://www.reddit.com/r/nanocurrency/comments/glxfja/introducing_buildoff_project_nano_rpc_proxy_a/)
+* [Alexa bot **arranHarty**](https://www.reddit.com/r/nanocurrency/comments/g6r469/alexa_nano_bot_website/)
+* [Camo Nano - Desktop Wallet **coranos**](https://github.com/coranos/camo-nano-light-wallet)
+* [NanoPaint - Buy pixels encoded in block chain **SonderDev**](https://www.reddit.com/r/nanocurrency/comments/gkg6oe/introducing_nanopaint_my_project_submission_for/)
+* [NanoFusion - Multi-signature trustless mixing **Fatal_Glory**](https://www.reddit.com/r/nanocurrency/comments/glesgc/introducing_nanofusion_nano_buildoff_project/)
+* [NanoRPCPRoxy - Customizable proxy server for node calls **Json**](https://www.reddit.com/r/nanocurrency/comments/glxfja/introducing_buildoff_project_nano_rpc_proxy_a/)
 
 </div>
 </div>
