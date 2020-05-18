@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 18: NanoUganda](https://nanoug.com/)
 * [May 17: NanoFusion - Multi-signature trustless mixing](http://nanofusion.casa/)
 * [May 15: NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
 * [May 8: Camo Nano - Desktop Wallet](https://github.com/coranos/camo-nano-light-wallet)
@@ -208,7 +209,6 @@ layout: default
 * [Apr 9: PixelPortfolio](https://play.google.com/store/apps/details?id=com.pixelportfolio)
 * [Mar 12: Earn Nano - Directory for getting Nano](https://earn-nano.com/)
 * [Mar 9: DeMixor - Music Vocal Remover](https://demixor.com/)
-* [Feb 29: Raesonic Racing Game- In-game purchases](https://raesonic.com/)
 
 </div>
 </div>
@@ -291,6 +291,7 @@ Learn everything there is to know about Nano!
 * [Chinese information and news](http://www.nano.wang/)
 * [Chinese forum](https://www.chainnode.com/forum/349)
 * [Brazil Facebook Group](https://www.facebook.com/groups/RaiBlocksBrasil/)
+* [NanoUganda](https://nanoug.com/)
 
 ### Video Channels
 * [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
