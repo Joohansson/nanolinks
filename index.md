@@ -219,7 +219,7 @@ layout: default
 <div class="overlay"></div>
 <div class="link-content" markdown="1">
 
-## Nano Build-of 2020
+## Nano Build-off 2020
 * [Camo Nano - Desktop Wallet](https://github.com/coranos/camo-nano-light-wallet)
 * [NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
 * [NanoFusion - Multi-signature trustless mixing](http://nanofusion.casa/)
