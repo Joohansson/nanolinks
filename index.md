@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 19: TheNanoBot - Whatsapp bot](https://thenanobot.com/)
 * [May 18: NanoUganda](https://nanoug.com/)
 * [May 17: NanoFusion - Multi-signature trustless mixing](http://nanofusion.casa/)
 * [May 15: NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
@@ -208,7 +209,6 @@ layout: default
 * [Apr 15: Tetraloom - Faucet](https://tetraloom.com/nano/)
 * [Apr 9: PixelPortfolio](https://play.google.com/store/apps/details?id=com.pixelportfolio)
 * [Mar 12: Earn Nano - Directory for getting Nano](https://earn-nano.com/)
-* [Mar 9: DeMixor - Music Vocal Remover](https://demixor.com/)
 
 </div>
 </div>
@@ -225,6 +225,7 @@ layout: default
 * [NanoPaint - Buy pixels encoded in block chain **SonderDev**](https://www.reddit.com/r/nanocurrency/comments/gkg6oe/introducing_nanopaint_my_project_submission_for/)
 * [NanoFusion - Multi-signature trustless mixing **Fatal_Glory**](https://www.reddit.com/r/nanocurrency/comments/glesgc/introducing_nanofusion_nano_buildoff_project/)
 * [NanoRPCPRoxy - Customizable proxy server for node calls **Json**](https://www.reddit.com/r/nanocurrency/comments/glxfja/introducing_buildoff_project_nano_rpc_proxy_a/)
+* [TheNanoBot - Whatsapp bot for Nano **NanoIsSuperior**](https://www.reddit.com/r/nanocurrency/comments/gmo8rg/introducing_thenanobot_nano_build_off_submission/)
 
 </div>
 </div>
@@ -482,6 +483,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [How to create a stylish Nano QR code](https://medium.com/@d84/how-to-create-a-stylish-nano-qr-code-1bfc1eba5a96)
 
 ### Related Mobile Apps
+* [TheNanoBot - Whatsapp bot](https://thenanobot.com/)
 * [Nano Track - Nano Ticker](https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8)
 * [Coin Stats - Multi-coin, Portfolio, Stats](https://coinstats.app/)
 * [Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto-coin-tracker/id1375812090?mt=8)
