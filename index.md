@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 20: Play with Nano](https://playwithnano.com/)
 * [May 19: TheNanoBot - Whatsapp bot](https://thenanobot.com/)
 * [May 18: NanoUganda](https://nanoug.com/)
 * [May 17: NanoFusion - Multi-signature trustless mixing](http://nanofusion.casa/)
@@ -208,7 +209,6 @@ layout: default
 * [May 1: myNanoEmbedded - Lightweight C library for IoT](https://github.com/devfabiosilva/myNanoEmbedded)
 * [Apr 15: Tetraloom - Faucet](https://tetraloom.com/nano/)
 * [Apr 9: PixelPortfolio](https://play.google.com/store/apps/details?id=com.pixelportfolio)
-* [Mar 12: Earn Nano - Directory for getting Nano](https://earn-nano.com/)
 
 </div>
 </div>
@@ -226,6 +226,7 @@ layout: default
 * [NanoFusion - Multi-signature trustless mixing **Fatal_Glory**](https://www.reddit.com/r/nanocurrency/comments/glesgc/introducing_nanofusion_nano_buildoff_project/)
 * [NanoRPCPRoxy - Customizable proxy server for node calls **Json**](https://www.reddit.com/r/nanocurrency/comments/glxfja/introducing_buildoff_project_nano_rpc_proxy_a/)
 * [TheNanoBot - Whatsapp bot for Nano **NanoIsSuperior**](https://www.reddit.com/r/nanocurrency/comments/gmo8rg/introducing_thenanobot_nano_build_off_submission/)
+* [Play with Nano **pwlk**](https://www.reddit.com/r/nanocurrency/comments/gnchmw/play_with_nano_nano_buildoff_submission/)
 
 </div>
 </div>
@@ -736,6 +737,7 @@ There are much fun to do but please proceed with caution.
 * [The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
 * [Raesonic - In-game purchases](https://raesonic.com/)
 * [Nanoce - Nano powered gaming tournaments](https://nanoce.net/)
+* [Play with Nano](https://playwithnano.com/)
 
 ### Video, Music, Art
 * [NanoMusic - Listen to the network live](http://music.nanos.cc)
