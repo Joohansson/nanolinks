@@ -424,6 +424,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Lex.Exchange - Australian Gateway](https://lex.exchange/)
 * [Cake Wallet for XMR Monero](https://cakewallet.io/)
 * [Godex.io](https://godex.io/)
+* [SwapSpace](https://swapspace.co/)
 
 
 #### Escrow and Peer-to-peer
