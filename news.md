@@ -32,6 +32,7 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 ### May 2020
+* [FakeFork - Nano dashboard for tabletop gamers](https://www.reddit.com/r/nanocurrency/comments/goicwr/buildoff_project_fakefork_a_dashboard_and_tool/)
 * [Play with Nano - (Nano Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gnchmw/play_with_nano_nano_buildoff_submission/)
 * [Introducing - TheNanoBot (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/gmo8rg/introducing_thenanobot_nano_build_off_submission/)
 * [Introducing Nano RPC Proxy - A fully customizable and secure backend for node calls (Nano Build-Off Project)](https://www.reddit.com/r/nanocurrency/comments/glxfja/introducing_buildoff_project_nano_rpc_proxy_a/)

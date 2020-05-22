@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 22: FakeFork - Nano dashboard for tabletop gamers](https://fakefork.com/)
 * [May 20: Play with Nano](https://playwithnano.com/)
 * [May 19: TheNanoBot - Whatsapp bot](https://thenanobot.com/)
 * [May 18: NanoUganda](https://nanoug.com/)
@@ -208,7 +209,6 @@ layout: default
 * [May 3: Nanoce.net - Nano powered gaming tournaments](https://nanoce.net/)
 * [May 1: myNanoEmbedded - Lightweight C library for IoT](https://github.com/devfabiosilva/myNanoEmbedded)
 * [Apr 15: Tetraloom - Faucet](https://tetraloom.com/nano/)
-* [Apr 9: PixelPortfolio](https://play.google.com/store/apps/details?id=com.pixelportfolio)
 
 </div>
 </div>
@@ -227,6 +227,7 @@ layout: default
 * [NanoRPCPRoxy - Customizable proxy server for node calls **Json**](https://www.reddit.com/r/nanocurrency/comments/glxfja/introducing_buildoff_project_nano_rpc_proxy_a/)
 * [TheNanoBot - Whatsapp bot for Nano **NanoIsSuperior**](https://www.reddit.com/r/nanocurrency/comments/gmo8rg/introducing_thenanobot_nano_build_off_submission/)
 * [Play with Nano **pwlk**](https://www.reddit.com/r/nanocurrency/comments/gnchmw/play_with_nano_nano_buildoff_submission/)
+* [FakeFork - Nano dashboard for tabletop gamers **kilrizzy**](https://www.reddit.com/r/nanocurrency/comments/goicwr/buildoff_project_fakefork_a_dashboard_and_tool/)
 
 </div>
 </div>
@@ -737,7 +738,6 @@ There are much fun to do but please proceed with caution.
 * [The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
 * [Raesonic - In-game purchases](https://raesonic.com/)
 * [Nanoce - Nano powered gaming tournaments](https://nanoce.net/)
-* [Play with Nano](https://playwithnano.com/)
 
 ### Video, Music, Art
 * [NanoMusic - Listen to the network live](http://music.nanos.cc)
@@ -755,6 +755,8 @@ Services which accepts Nano (mandatory or optional)
 * [One Nano Host - Free DNS Domain for Nano related endpoints](https://nanos.cc/)
 * [247 Node - Free DNS Domain for nodes](https://247node.net/)
 * [DeMixor - Music Vocal Remover](https://demixor.com/)
+* [Play with Nano](https://playwithnano.com/)
+* [FakeFork - Nano dashboard for tabletop gamers](https://fakefork.com/)
 
 Services which payout Nano
 * [Earn Nano - Directory for getting Nano without purchase](https://earn-nano.com/)
