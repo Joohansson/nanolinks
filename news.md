@@ -32,12 +32,14 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 ### May 2020
-* [FakeFork - Nano dashboard for tabletop gamers](https://www.reddit.com/r/nanocurrency/comments/goicwr/buildoff_project_fakefork_a_dashboard_and_tool/)
+* [NanoGift - Browser extension for site donations (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/goxqgr/introducing_nanogift_buildoff_submission/)
+* [nPass - Web content payments (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/gp19af/do_you_hate_ads_introducing_npass_my_submission/)
+* [FakeFork - Nano dashboard for tabletop gamers (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/goicwr/buildoff_project_fakefork_a_dashboard_and_tool/)
 * [Play with Nano - (Nano Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gnchmw/play_with_nano_nano_buildoff_submission/)
-* [Introducing - TheNanoBot (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/gmo8rg/introducing_thenanobot_nano_build_off_submission/)
-* [Introducing Nano RPC Proxy - A fully customizable and secure backend for node calls (Nano Build-Off Project)](https://www.reddit.com/r/nanocurrency/comments/glxfja/introducing_buildoff_project_nano_rpc_proxy_a/)
-* [Introducing: NanoFusion (Nano Build-Off Project)](https://www.reddit.com/r/nanocurrency/comments/glesgc/introducing_nanofusion_nano_buildoff_project/)
-* [Introducing NanoPaint (Nano Build-Off Project)](https://www.reddit.com/r/nanocurrency/comments/gkg6oe/introducing_nanopaint_my_project_submission_for/)
+* [TheNanoBot (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/gmo8rg/introducing_thenanobot_nano_build_off_submission/)
+* [Nano RPC Proxy - A fully customizable and secure backend for node calls (Nano Build-Off Project)](https://www.reddit.com/r/nanocurrency/comments/glxfja/introducing_buildoff_project_nano_rpc_proxy_a/)
+* [NanoFusion (Nano Build-Off Project)](https://www.reddit.com/r/nanocurrency/comments/glesgc/introducing_nanofusion_nano_buildoff_project/)
+* [NanoPaint (Nano Build-Off Project)](https://www.reddit.com/r/nanocurrency/comments/gkg6oe/introducing_nanopaint_my_project_submission_for/)
 * [Natrium v2.2 Released on iOS and Android](https://www.reddit.com/r/nanocurrency/comments/gkgn77/natrium_v22_released_on_ios_and_android/)
 * [Nanoce.net - Nano powered gaming tournaments](https://www.reddit.com/r/nanocurrency/comments/gc3cpa/nanocenet_open_lol_tournament_2_starts_soon_come/)
 * [Millions of Brave browser users can now seamlessly purchase, deposit, and convert NANO](https://www.reddit.com/r/nanocurrency/comments/gb0uu7/millions_of_brave_browser_users_can_now/)

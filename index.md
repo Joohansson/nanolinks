@@ -199,6 +199,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 23: NanoGift - Browser extension for site donations](https://www.reddit.com/r/nanocurrency/comments/goxqgr/introducing_nanogift_buildoff_submission/)
+* [May 23: nPass - Web content payments](https://www.reddit.com/r/nanocurrency/comments/gp19af/do_you_hate_ads_introducing_npass_my_submission/)
 * [May 22: FakeFork - Nano dashboard for tabletop gamers](https://fakefork.com/)
 * [May 20: Play with Nano](https://playwithnano.com/)
 * [May 19: TheNanoBot - Whatsapp bot](https://thenanobot.com/)
@@ -207,8 +209,6 @@ layout: default
 * [May 15: NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
 * [May 8: Camo Nano - Desktop Wallet](https://github.com/coranos/camo-nano-light-wallet)
 * [May 3: Nanoce.net - Nano powered gaming tournaments](https://nanoce.net/)
-* [May 1: myNanoEmbedded - Lightweight C library for IoT](https://github.com/devfabiosilva/myNanoEmbedded)
-* [Apr 15: Tetraloom - Faucet](https://tetraloom.com/nano/)
 
 </div>
 </div>
@@ -228,6 +228,8 @@ layout: default
 * [TheNanoBot - Whatsapp bot for Nano **NanoIsSuperior**](https://www.reddit.com/r/nanocurrency/comments/gmo8rg/introducing_thenanobot_nano_build_off_submission/)
 * [Play with Nano **pwlk**](https://www.reddit.com/r/nanocurrency/comments/gnchmw/play_with_nano_nano_buildoff_submission/)
 * [FakeFork - Nano dashboard for tabletop gamers **kilrizzy**](https://www.reddit.com/r/nanocurrency/comments/goicwr/buildoff_project_fakefork_a_dashboard_and_tool/)
+* [NanoGift - Browser extension for site donations **SonderDev**](https://www.reddit.com/r/nanocurrency/comments/goxqgr/introducing_nanogift_buildoff_submission/)
+* [nPass - Web content payments **TjL**](https://www.reddit.com/r/nanocurrency/comments/gp19af/do_you_hate_ads_introducing_npass_my_submission/)
 
 </div>
 </div>
@@ -534,6 +536,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [The Micrypto Marketplace - Hash power trading](https://www.micrypto.co)
 * [Nano Pay - Chrome payment extension](https://github.com/PaulBenabou/Nano-Pay)
 * [Nano Donate - Chrome donation extension](https://nanocharts.info/nano-donate.html)
+* [NanoGift - Browser extension for site donations](https://tetraloom.com/nanogift/)
 * [Mynano.link - Payment link generator](https://mynano.link/)
 * [KeyTools Payment Card](https://tools.nanos.cc/?tool=pay)
 
@@ -758,6 +761,7 @@ Services which accepts Nano (mandatory or optional)
 * [DeMixor - Music Vocal Remover](https://demixor.com/)
 * [Play with Nano](https://playwithnano.com/)
 * [FakeFork - Nano dashboard for tabletop gamers](https://fakefork.com/)
+* [nPass - Web content payments](http://npass.ddns.net/npass)
 
 Services which payout Nano
 * [Earn Nano - Directory for getting Nano without purchase](https://earn-nano.com/)
