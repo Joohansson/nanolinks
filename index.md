@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 23: Nanolytics - Network stats](https://nanolytics.info/)
 * [May 23: NanoGift - Browser extension for site donations](https://www.reddit.com/r/nanocurrency/comments/goxqgr/introducing_nanogift_buildoff_submission/)
 * [May 23: nPass - Web content payments](https://www.reddit.com/r/nanocurrency/comments/gp19af/do_you_hate_ads_introducing_npass_my_submission/)
 * [May 22: FakeFork - Nano dashboard for tabletop gamers](https://fakefork.com/)
@@ -208,7 +209,6 @@ layout: default
 * [May 17: NanoFusion - Multi-signature trustless mixing](http://nanofusion.casa/)
 * [May 15: NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
 * [May 8: Camo Nano - Desktop Wallet](https://github.com/coranos/camo-nano-light-wallet)
-* [May 3: Nanoce.net - Nano powered gaming tournaments](https://nanoce.net/)
 
 </div>
 </div>
@@ -230,6 +230,7 @@ layout: default
 * [FakeFork - Nano dashboard for tabletop gamers **kilrizzy**](https://www.reddit.com/r/nanocurrency/comments/goicwr/buildoff_project_fakefork_a_dashboard_and_tool/)
 * [NanoGift - Browser extension for site donations **SonderDev**](https://www.reddit.com/r/nanocurrency/comments/goxqgr/introducing_nanogift_buildoff_submission/)
 * [nPass - Web content payments **TjL**](https://www.reddit.com/r/nanocurrency/comments/gp19af/do_you_hate_ads_introducing_npass_my_submission/)
+* [Nanolytics - Network stats **theonlyalt2**](https://www.reddit.com/r/nanocurrency/comments/gp8yst/nano_buildoff_introducing_nanolytics/)
 
 </div>
 </div>
@@ -352,6 +353,7 @@ Learn everything there is to know about Nano!
 * [SomeNano Snow - Real-time snowflakes](https://snow.somenano.com/)
 * [Nano Fountain - Transaction Visualizer](https://www.nano-fountain.com/)
 * [Blocktivity - Utilization Comparision](https://blocktivity.info/)
+* [Nanolytics - Network stats](https://nanolytics.info/)
 * [Nano Charts - Representative stats](https://nanocharts.info/)
 * [Nano SpeedTest - Test real nano transactions](https://nanospeed.live)
 * [Transaction Speed Demo Button](https://speed.nanolinks.info/)

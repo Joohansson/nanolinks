@@ -32,6 +32,7 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 ### May 2020
+* [Nanolytics - Network stats (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/gp8yst/nano_buildoff_introducing_nanolytics/)
 * [NanoGift - Browser extension for site donations (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/goxqgr/introducing_nanogift_buildoff_submission/)
 * [nPass - Web content payments (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/gp19af/do_you_hate_ads_introducing_npass_my_submission/)
 * [FakeFork - Nano dashboard for tabletop gamers (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/goicwr/buildoff_project_fakefork_a_dashboard_and_tool/)
