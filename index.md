@@ -620,7 +620,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 
 ### Wallets [Source Code]
 * [NF Wallet (dev)](https://github.com/nanocurrency/nano-node)
-* [Natrium](https://github.com/BananoCoin/natrium-android-wallet)
+* [Natrium](https://github.com/appditto/natrium_wallet_flutter)
 * [Canoe](https://github.com/getcanoe/canoe)
 * [Nanovault](https://github.com/cronoh/nanovault)
 * [Nanollet](https://github.com/brokenbydefault/Nanollet)
