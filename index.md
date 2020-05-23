@@ -224,7 +224,7 @@ layout: default
 * [Camo Nano - Desktop Wallet **coranos**](https://github.com/coranos/camo-nano-light-wallet)
 * [NanoPaint - Buy pixels encoded in block chain **SonderDev**](https://www.reddit.com/r/nanocurrency/comments/gkg6oe/introducing_nanopaint_my_project_submission_for/)
 * [NanoFusion - Multi-signature trustless mixing **Fatal_Glory**](https://www.reddit.com/r/nanocurrency/comments/glesgc/introducing_nanofusion_nano_buildoff_project/)
-* [NanoRPCPRoxy - Customizable proxy server for node calls **Json**](https://www.reddit.com/r/nanocurrency/comments/glxfja/introducing_buildoff_project_nano_rpc_proxy_a/)
+* [NanoRPCPRoxy - Customizable secure proxy server / public API for node calls **Json**](https://www.reddit.com/r/nanocurrency/comments/glxfja/introducing_buildoff_project_nano_rpc_proxy_a/)
 * [TheNanoBot - Whatsapp bot for Nano **NanoIsSuperior**](https://www.reddit.com/r/nanocurrency/comments/gmo8rg/introducing_thenanobot_nano_build_off_submission/)
 * [Play with Nano **pwlk**](https://www.reddit.com/r/nanocurrency/comments/gnchmw/play_with_nano_nano_buildoff_submission/)
 * [FakeFork - Nano dashboard for tabletop gamers **kilrizzy**](https://www.reddit.com/r/nanocurrency/comments/goicwr/buildoff_project_fakefork_a_dashboard_and_tool/)
