@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Max 24: Alexa Nano Bot - Ask about Nano](http://nano-bot.info/)
 * [May 23: Nanolytics - Network stats](https://nanolytics.info/)
 * [May 23: NanoGift - Browser extension for site donations](https://www.reddit.com/r/nanocurrency/comments/goxqgr/introducing_nanogift_buildoff_submission/)
 * [May 23: nPass - Web content payments](https://www.reddit.com/r/nanocurrency/comments/gp19af/do_you_hate_ads_introducing_npass_my_submission/)
@@ -208,7 +209,6 @@ layout: default
 * [May 18: NanoUganda](https://nanoug.com/)
 * [May 17: NanoFusion - Multi-signature trustless mixing](http://nanofusion.casa/)
 * [May 15: NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
-* [May 8: Camo Nano - Desktop Wallet](https://github.com/coranos/camo-nano-light-wallet)
 
 </div>
 </div>
@@ -618,7 +618,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Split Nano - Split receives between your team](https://splitnano.com/)
 * [NANOPAY - Open Source API](https://github.com/besoeasy/nanopay)
 * [NanoFusion - Multi-signature trustless mixing](http://nanofusion.casa/)
-
+* [Alexa Nano Bot - Ask about Nano](http://nano-bot.info/)
 
 ### Wallets [Source Code]
 * [NF Wallet (dev)](https://github.com/nanocurrency/nano-node)
