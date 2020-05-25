@@ -32,6 +32,8 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 ### May 2020
+* [BlockHunters - Augmented Reality Game (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
+* [Nano Repeat - Subscription Management for Vendors (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/gq1eh7/nano_build_off_nano_repeat_subscription/)
 * [Nanolytics - Network stats (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/gp8yst/nano_buildoff_introducing_nanolytics/)
 * [NanoGift - Browser extension for site donations (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/goxqgr/introducing_nanogift_buildoff_submission/)
 * [nPass - Web content payments (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/gp19af/do_you_hate_ads_introducing_npass_my_submission/)

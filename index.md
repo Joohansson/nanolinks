@@ -199,6 +199,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 25: BlockHunters - Augmented Reality Nano Hunt](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
+* [May 25: Nano Repeat - Subscription Management for Vendors](https://nanorepeat.com/)
 * [Max 24: Alexa Nano Bot - Ask about Nano](http://nano-bot.info/)
 * [May 23: Nanolytics - Network stats](https://nanolytics.info/)
 * [May 23: NanoGift - Browser extension for site donations](https://www.reddit.com/r/nanocurrency/comments/goxqgr/introducing_nanogift_buildoff_submission/)
@@ -207,8 +209,6 @@ layout: default
 * [May 20: Play with Nano](https://playwithnano.com/)
 * [May 19: TheNanoBot - Whatsapp bot](https://thenanobot.com/)
 * [May 18: NanoUganda](https://nanoug.com/)
-* [May 17: NanoFusion - Multi-signature trustless mixing](http://nanofusion.casa/)
-* [May 15: NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
 
 </div>
 </div>
@@ -231,6 +231,8 @@ layout: default
 * [NanoGift - Browser extension for site donations **SonderDev**](https://www.reddit.com/r/nanocurrency/comments/goxqgr/introducing_nanogift_buildoff_submission/)
 * [nPass - Web content payments **TjL**](https://www.reddit.com/r/nanocurrency/comments/gp19af/do_you_hate_ads_introducing_npass_my_submission/)
 * [Nanolytics - Network stats **theonlyalt2**](https://www.reddit.com/r/nanocurrency/comments/gp8yst/nano_buildoff_introducing_nanolytics/)
+* [BlockHunters - Augmented Reality Game **robotn/tipanano**](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
+* [Nano Repeat - Subscription Management for Vendors **mitche50**](https://www.reddit.com/r/nanocurrency/comments/gq1eh7/nano_build_off_nano_repeat_subscription/)
 
 </div>
 </div>
@@ -607,7 +609,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanote.io - Send messages with nano](https://nanote.io/)
 * [Paygenerator - Payment link generator (deep links)](https://nanotipbot.com/paygenerator)
 * [Nano Seed - A Nano take on keys.lol](https://nano-seeds.meltingice.dev/)
-* [Snapy - Free NANO API for Developers](https://snapy.io/)
 * [Mynano: Public node API](https://mynano.ninja/api)
 * [Nanoverse: Public node API & web console](https://nanoverse.io/api/)
 * [NanooTools](https://nanoo.tools/)
@@ -616,6 +617,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Passwordless Authentication (Demo)](https://nanocharts.info/passwordless/)
 * [Appia Manta - Python](https://github.com/appiapay/manta-python)
 * [Split Nano - Split receives between your team](https://splitnano.com/)
+* [Nano Repeat - Subscription Management for Vendors](https://nanorepeat.com/)
 * [NANOPAY - Open Source API](https://github.com/besoeasy/nanopay)
 * [NanoFusion - Multi-signature trustless mixing](http://nanofusion.casa/)
 * [Alexa Nano Bot - Ask about Nano](http://nano-bot.info/)
@@ -744,6 +746,7 @@ There are much fun to do but please proceed with caution.
 * [The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
 * [Raesonic - In-game purchases](https://raesonic.com/)
 * [Nanoce - Nano powered gaming tournaments](https://nanoce.net/)
+* [BlockHunters - Augmented Reality Nano Hunt](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
 
 ### Video, Music, Art
 * [NanoMusic - Listen to the network live](http://music.nanos.cc)
