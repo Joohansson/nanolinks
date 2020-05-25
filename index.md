@@ -199,6 +199,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 25: Nanos.cc Public API with token support](https://api.nanos.cc/)
+* [May 25: Nanos.cc Public Websocket](https://api.nanos.cc/socket)
 * [May 25: BlockHunters - Augmented Reality Nano Hunt](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
 * [May 25: Nano Repeat - Subscription Management for Vendors](https://nanorepeat.com/)
 * [Max 24: Alexa Nano Bot - Ask about Nano](http://nano-bot.info/)
@@ -207,8 +209,6 @@ layout: default
 * [May 23: nPass - Web content payments](https://www.reddit.com/r/nanocurrency/comments/gp19af/do_you_hate_ads_introducing_npass_my_submission/)
 * [May 22: FakeFork - Nano dashboard for tabletop gamers](https://fakefork.com/)
 * [May 20: Play with Nano](https://playwithnano.com/)
-* [May 19: TheNanoBot - Whatsapp bot](https://thenanobot.com/)
-* [May 18: NanoUganda](https://nanoug.com/)
 
 </div>
 </div>
@@ -609,6 +609,8 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanote.io - Send messages with nano](https://nanote.io/)
 * [Paygenerator - Payment link generator (deep links)](https://nanotipbot.com/paygenerator)
 * [Nano Seed - A Nano take on keys.lol](https://nano-seeds.meltingice.dev/)
+* [Nanos.cc Public API with token support](https://api.nanos.cc/)
+* [Nanos.cc Public Websocket](https://api.nanos.cc/socket)
 * [Mynano: Public node API](https://mynano.ninja/api)
 * [Nanoverse: Public node API & web console](https://nanoverse.io/api/)
 * [NanooTools](https://nanoo.tools/)
