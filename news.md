@@ -32,8 +32,10 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 ### May 2020
+* [NanoRPCProxy - Now with a secure websocket layer, including free public subscriptions for block confirmations](https://www.reddit.com/r/nanocurrency/comments/gq52fz/nanorpcproxy_part2_now_with_a_secure_websocket/)
 * [BlockHunters - Augmented Reality Game (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
 * [Nano Repeat - Subscription Management for Vendors (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/gq1eh7/nano_build_off_nano_repeat_subscription/)
+* [Alexa Nano Bot is now live on the Alexa skill store (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/gpmr9c/nano_buildoff_alexa_nano_bot_is_now_live_on_the/)
 * ['How to use crypto' article (featuring Nano, because it's so easy)](https://www.reddit.com/r/nanocurrency/comments/gpr6xf/how_to_use_crypto_article_featuring_nano_because/)
 * [Nano now accepted at TravelbyBit after merging with Travala](https://www.reddit.com/r/nanocurrency/comments/gp26mg/after_merging_with_travala_nano_is_now_also/)
 * [Nanolytics - Network stats (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/gp8yst/nano_buildoff_introducing_nanolytics/)
