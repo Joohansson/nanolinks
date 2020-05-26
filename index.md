@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 26: PlayNano - Games](https://playnano.online/)
 * [May 26: Vola iOS Wallet](https://getvola.com)
 * [May 25: Nanos.cc Public API with token support](https://api.nanos.cc/)
 * [May 25: Nanos.cc Public Websocket](https://api.nanos.cc/socket)
@@ -234,6 +235,7 @@ layout: default
 * [BlockHunters - Augmented Reality Game **tipanano(robotn)**](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
 * [Nano Repeat - Subscription Management for Vendors **mitche50**](https://www.reddit.com/r/nanocurrency/comments/gq1eh7/nano_build_off_nano_repeat_subscription/)
 * [Vola Wallet - iOS **appdev980(Ty)/2D3S3RT(BitDesert)**](https://www.reddit.com/r/nanocurrency/comments/gqjc54/vola_wallet_is_now_in_public_beta/)
+* [PlayNANO - Games **playnano**](https://www.reddit.com/r/nanocurrency/comments/gqz326/playnano_lets_show_everyone_what_nano_is_capable/)
 
 </div>
 </div>
@@ -751,6 +753,7 @@ There are much fun to do but please proceed with caution.
 * [Raesonic - In-game purchases](https://raesonic.com/)
 * [Nanoce - Nano powered gaming tournaments](https://nanoce.net/)
 * [BlockHunters - Augmented Reality Nano Hunt](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
+* [PlayNano - Games](https://playnano.online/)
 
 ### Video, Music, Art
 * [NanoMusic - Listen to the network live](http://music.nanos.cc)
