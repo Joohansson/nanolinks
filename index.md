@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 26: Vola iOS Wallet](https://getvola.com)
 * [May 25: Nanos.cc Public API with token support](https://api.nanos.cc/)
 * [May 25: Nanos.cc Public Websocket](https://api.nanos.cc/socket)
 * [May 25: BlockHunters - Augmented Reality Nano Hunt](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
@@ -208,7 +209,6 @@ layout: default
 * [May 23: NanoGift - Browser extension for site donations](https://www.reddit.com/r/nanocurrency/comments/goxqgr/introducing_nanogift_buildoff_submission/)
 * [May 23: nPass - Web content payments](https://www.reddit.com/r/nanocurrency/comments/gp19af/do_you_hate_ads_introducing_npass_my_submission/)
 * [May 22: FakeFork - Nano dashboard for tabletop gamers](https://fakefork.com/)
-* [May 20: Play with Nano](https://playwithnano.com/)
 
 </div>
 </div>
@@ -231,8 +231,9 @@ layout: default
 * [NanoGift - Browser extension for site donations **SonderDev**](https://www.reddit.com/r/nanocurrency/comments/goxqgr/introducing_nanogift_buildoff_submission/)
 * [nPass - Web content payments **TjL**](https://www.reddit.com/r/nanocurrency/comments/gp19af/do_you_hate_ads_introducing_npass_my_submission/)
 * [Nanolytics - Network stats **theonlyalt2**](https://www.reddit.com/r/nanocurrency/comments/gp8yst/nano_buildoff_introducing_nanolytics/)
-* [BlockHunters - Augmented Reality Game **robotn/tipanano**](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
+* [BlockHunters - Augmented Reality Game **tipanano(robotn)**](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
 * [Nano Repeat - Subscription Management for Vendors **mitche50**](https://www.reddit.com/r/nanocurrency/comments/gq1eh7/nano_build_off_nano_repeat_subscription/)
+* [Vola Wallet - iOS **appdev980(Ty)/2D3S3RT(BitDesert)**](https://www.reddit.com/r/nanocurrency/comments/gqjc54/vola_wallet_is_now_in_public_beta/)
 
 </div>
 </div>
@@ -446,6 +447,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nanovault NCrawler** - Web](https://vault.nanocrawler.cc/)
 * [**WeNano** - iOS](https://wenano.net/)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
+* [**Vola** - iOS](https://getvola.com)
 * [**Camo Nano (beta)** - Desktop](https://github.com/coranos/camo-nano-light-wallet)
 
 #### Dev Wallets

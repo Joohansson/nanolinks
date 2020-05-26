@@ -32,6 +32,7 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 ### May 2020
+* [Vola Wallet - iOS (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/gqjc54/vola_wallet_is_now_in_public_beta/)
 * [NanoRPCProxy - Now with a secure websocket layer, including free public subscriptions for block confirmations](https://www.reddit.com/r/nanocurrency/comments/gq52fz/nanorpcproxy_part2_now_with_a_secure_websocket/)
 * [BlockHunters - Augmented Reality Game (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
 * [Nano Repeat - Subscription Management for Vendors (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/gq1eh7/nano_build_off_nano_repeat_subscription/)
