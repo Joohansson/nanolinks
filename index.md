@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 27: Rock Paper Scissors Online](https://rock-paper-scissors.online/)
 * [May 27: Nano Connect - Free distributed RPC proxy](https://github.com/brendena/NanoConnect)
 * [May 26: PlayNano - Games](https://playnano.online/)
 * [May 26: Vola iOS Wallet](https://getvola.com)
@@ -208,9 +209,6 @@ layout: default
 * [May 25: Nano Repeat - Subscription Management for Vendors](https://nanorepeat.com/)
 * [Max 24: Alexa Nano Bot - Ask about Nano](http://nano-bot.info/)
 * [May 23: Nanolytics - Network stats](https://nanolytics.info/)
-* [May 23: NanoGift - Browser extension for site donations](https://www.reddit.com/r/nanocurrency/comments/goxqgr/introducing_nanogift_buildoff_submission/)
-* [May 23: nPass - Web content payments](https://www.reddit.com/r/nanocurrency/comments/gp19af/do_you_hate_ads_introducing_npass_my_submission/)
-* [May 22: FakeFork - Nano dashboard for tabletop gamers](https://fakefork.com/)
 
 </div>
 </div>
@@ -759,6 +757,7 @@ There are much fun to do but please proceed with caution.
 * [Nanoce - Nano powered gaming tournaments](https://nanoce.net/)
 * [BlockHunters - Augmented Reality Nano Hunt](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
 * [PlayNano - Games](https://playnano.online/)
+* [Rock Paper Scissors Online](https://rock-paper-scissors.online/)
 
 ### Video, Music, Art
 * [NanoMusic - Listen to the network live](http://music.nanos.cc)
