@@ -199,6 +199,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 27: Nano Trade - Banano/Nano](https://nano.trade/)
+* [May 27: Nanotify - API and web callback platform](https://www.nanotify.io/)
 * [May 27: Rock Paper Scissors Online](https://rock-paper-scissors.online/)
 * [May 27: Nano Connect - Free distributed RPC proxy](https://github.com/brendena/NanoConnect)
 * [May 26: PlayNano - Games](https://playnano.online/)
@@ -207,8 +209,6 @@ layout: default
 * [May 25: Nanos.cc Public Websocket](https://api.nanos.cc/socket)
 * [May 25: BlockHunters - Augmented Reality Nano Hunt](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
 * [May 25: Nano Repeat - Subscription Management for Vendors](https://nanorepeat.com/)
-* [Max 24: Alexa Nano Bot - Ask about Nano](http://nano-bot.info/)
-* [May 23: Nanolytics - Network stats](https://nanolytics.info/)
 
 </div>
 </div>
@@ -236,6 +236,7 @@ layout: default
 * [Vola Wallet - iOS **appdev980(Ty)/2D3S3RT(BitDesert)**](https://www.reddit.com/r/nanocurrency/comments/gqjc54/vola_wallet_is_now_in_public_beta/)
 * [PlayNANO - Games **playnano**](https://www.reddit.com/r/nanocurrency/comments/gqz326/playnano_lets_show_everyone_what_nano_is_capable/)
 * [Nano Connect - Free distributed RPC proxy **cryptocoinzzzz**](https://www.reddit.com/r/nanocurrency/comments/gqmpf6/nano_build_off_nano_connect_free_distributed_rpc/)
+* [Nanotify - API and web callback platform **_the_sound**](https://www.reddit.com/r/nanocurrency/comments/grkli4/introducing_nanotify_an_api_and_web_callback/)
 
 </div>
 </div>
@@ -434,6 +435,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Cake Wallet for XMR Monero](https://cakewallet.io/)
 * [Godex.io](https://godex.io/)
 * [SwapSpace](https://swapspace.co/)
+* [Nano Trade - Banano/Nano](https://nano.trade/)
 
 
 #### Escrow and Peer-to-peer
@@ -618,6 +620,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Mynano: Public node API](https://mynano.ninja/api)
 * [Nanoverse: Public node API & web console](https://nanoverse.io/api/)
 * [Nano Connect - Free distributed RPC proxy](https://github.com/brendena/NanoConnect)
+* [Nanotify - API and web callback platform](https://www.nanotify.io/)
 * [NanooTools](https://nanoo.tools/)
 * [OpenAPI Specification for Nano RPC API](https://aspic.github.io/nano-rpc-api/)
 * [Nano Cold (Offline, air-gapped) Signing Script](https://github.com/noahc66260/nano-cold-signing)
