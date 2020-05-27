@@ -713,6 +713,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Offline QR - Send/Receive data with an air-gapped computer using JS html](https://github.com/Joohansson/offline-qr)
 * [Nano Websocket Client for Python](https://github.com/guilhermelawless/nano-websocket-sample-py)
 * [Nano Websocket Client for NodeJS](https://github.com/guilhermelawless/nano-websocket-sample-nodejs)
+* [Thousand Nano Page - Nanopixelwall.com](https://github.com/jcburuchaga/thousand-nano-page)
 
 ### Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
