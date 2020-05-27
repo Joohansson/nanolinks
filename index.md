@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 27: Nano Connect - Free distributed RPC proxy](https://github.com/brendena/NanoConnect)
 * [May 26: PlayNano - Games](https://playnano.online/)
 * [May 26: Vola iOS Wallet](https://getvola.com)
 * [May 25: Nanos.cc Public API with token support](https://api.nanos.cc/)
@@ -236,6 +237,7 @@ layout: default
 * [Nano Repeat - Subscription Management for Vendors **mitche50**](https://www.reddit.com/r/nanocurrency/comments/gq1eh7/nano_build_off_nano_repeat_subscription/)
 * [Vola Wallet - iOS **appdev980(Ty)/2D3S3RT(BitDesert)**](https://www.reddit.com/r/nanocurrency/comments/gqjc54/vola_wallet_is_now_in_public_beta/)
 * [PlayNANO - Games **playnano**](https://www.reddit.com/r/nanocurrency/comments/gqz326/playnano_lets_show_everyone_what_nano_is_capable/)
+* [Nano Connect - Free distributed RPC proxy **cryptocoinzzzz**](https://www.reddit.com/r/nanocurrency/comments/gqmpf6/nano_build_off_nano_connect_free_distributed_rpc/)
 
 </div>
 </div>
@@ -617,6 +619,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanos.cc Public Websocket](https://api.nanos.cc/socket)
 * [Mynano: Public node API](https://mynano.ninja/api)
 * [Nanoverse: Public node API & web console](https://nanoverse.io/api/)
+* [Nano Connect - Free distributed RPC proxy](https://github.com/brendena/NanoConnect)
 * [NanooTools](https://nanoo.tools/)
 * [OpenAPI Specification for Nano RPC API](https://aspic.github.io/nano-rpc-api/)
 * [Nano Cold (Offline, air-gapped) Signing Script](https://github.com/noahc66260/nano-cold-signing)
@@ -673,6 +676,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Pynanocurrency - Python protocol library](https://github.com/Matoking/pynanocurrency)
 * [Siliqua - Python modular light wallet](https://github.com/Matoking/siliqua)
 
+* [NanoRPCProxy - A secure RPC/Websocket proxy server for talking with Nano nodes](https://github.com/joohansson/nanorpcproxy)
 * [Nanio - RPC Gateway, API Browser](https://github.com/rbw/nanio)
 * [Nano Shell - Nano Node bash convenience wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Nanook - Ruby Lib for RPC](https://github.com/lukes/nanook)
