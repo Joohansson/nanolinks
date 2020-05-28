@@ -32,6 +32,7 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 ### May 2020
+* [KojoSlayer - Battle RPG (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/grr308/introducing_kojoslayer_battle_rpg_nano_buildoff/)
 * [Rock Paper Scissors Online (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/grkv4e/rock_paper_scissors_online/)
 * [Nanotify - API and web callback platform (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/grkli4/introducing_nanotify_an_api_and_web_callback/)
 * [Nano Connect - Free distributed RPC proxy (Nano Build off Submission)](https://www.reddit.com/r/nanocurrency/comments/gqmpf6/nano_build_off_nano_connect_free_distributed_rpc/)

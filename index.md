@@ -199,6 +199,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 28: The Million Nano Homepage](https://millionnanohomepage.com/)
+* [May 28: KojoSlayer - Battle RPG](https://kojoslayer.com/)
 * [May 27: Nano Trade - Banano/Nano](https://nano.trade/)
 * [May 27: Nanotify - API and web callback platform](https://www.nanotify.io/)
 * [May 27: Rock Paper Scissors Online](https://rock-paper-scissors.online/)
@@ -207,8 +209,6 @@ layout: default
 * [May 26: Vola iOS Wallet](https://getvola.com)
 * [May 25: Nanos.cc Public API with token support](https://api.nanos.cc/)
 * [May 25: Nanos.cc Public Websocket](https://api.nanos.cc/socket)
-* [May 25: BlockHunters - Augmented Reality Nano Hunt](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
-* [May 25: Nano Repeat - Subscription Management for Vendors](https://nanorepeat.com/)
 
 </div>
 </div>
@@ -238,6 +238,7 @@ layout: default
 * [Nano Connect - Free distributed RPC proxy **cryptocoinzzzz**](https://www.reddit.com/r/nanocurrency/comments/gqmpf6/nano_build_off_nano_connect_free_distributed_rpc/)
 * [Rock Paper Scissors Online **Ballstone_Group**](https://www.reddit.com/r/nanocurrency/comments/grkv4e/rock_paper_scissors_online/)
 * [Nanotify - API and web callback platform **_the_sound**](https://www.reddit.com/r/nanocurrency/comments/grkli4/introducing_nanotify_an_api_and_web_callback/)
+* [KojoSlayer - Battle RPG **KojoSlayer**](https://www.reddit.com/r/nanocurrency/comments/grr308/introducing_kojoslayer_battle_rpg_nano_buildoff/)
 
 </div>
 </div>
@@ -762,6 +763,7 @@ There are much fun to do but please proceed with caution.
 * [BlockHunters - Augmented Reality Nano Hunt](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
 * [PlayNano - Games](https://playnano.online/)
 * [Rock Paper Scissors Online](https://rock-paper-scissors.online/)
+* [KojoSlayer - Battle RPG](https://kojoslayer.com/)
 
 ### Video, Music, Art
 * [NanoMusic - Listen to the network live](http://music.nanos.cc)
@@ -770,6 +772,7 @@ There are much fun to do but please proceed with caution.
 * [Nano Wallpapers](https://www.nano-wallpapers.com/)
 * [Feed the birds with Nano live stream](https://www.youtube.com/watch?v=otpqipL3H8Q)
 * [NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
+* [The Million Nano Homepage](https://millionnanohomepage.com/)
 
 ## Services
 Services which accepts Nano (mandatory or optional)
