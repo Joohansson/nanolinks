@@ -199,6 +199,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 29: Polyrun - Workout rewards](https://test.polyrun.app/)
+* [May 29: CoinChores - Teach your kids about Nano](https://coinchores.com/)
 * [May 28: The Million Nano Homepage](https://millionnanohomepage.com/)
 * [May 28: KojoSlayer - Battle RPG](https://kojoslayer.com/)
 * [May 27: Nano Trade - Banano/Nano](https://nano.trade/)
@@ -207,8 +209,6 @@ layout: default
 * [May 27: Nano Connect - Free distributed RPC proxy](https://github.com/brendena/NanoConnect)
 * [May 26: PlayNano - Games](https://playnano.online/)
 * [May 26: Vola iOS Wallet](https://getvola.com)
-* [May 25: Nanos.cc Public API with token support](https://api.nanos.cc/)
-* [May 25: Nanos.cc Public Websocket](https://api.nanos.cc/socket)
 
 </div>
 </div>
@@ -239,6 +239,8 @@ layout: default
 * [Rock Paper Scissors Online **Ballstone_Group**](https://www.reddit.com/r/nanocurrency/comments/grkv4e/rock_paper_scissors_online/)
 * [Nanotify - API and web callback platform **_the_sound**](https://www.reddit.com/r/nanocurrency/comments/grkli4/introducing_nanotify_an_api_and_web_callback/)
 * [KojoSlayer - Battle RPG **KojoSlayer**](https://www.reddit.com/r/nanocurrency/comments/grr308/introducing_kojoslayer_battle_rpg_nano_buildoff/)
+* [CoinChores - Teach your kids about Nano **kilrizzy**](https://www.reddit.com/r/nanocurrency/comments/gse8xb/buildoff_project_coinchores_give_tasks_to_your/)
+* [Polyrun - Workout rewards **GeographicalG**](https://www.reddit.com/r/nanocurrency/comments/gsb3m9/introducing_polyrun_activity_tracker_with_nano/)
 
 </div>
 </div>
@@ -633,6 +635,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [NANOPAY - Open Source API](https://github.com/besoeasy/nanopay)
 * [NanoFusion - Multi-signature trustless mixing](http://nanofusion.casa/)
 * [Alexa Nano Bot - Ask about Nano](http://nano-bot.info/)
+* [CoinChores - Teach your kids about Nano](https://coinchores.com/)
 
 ### Wallets [Source Code]
 * [NF Wallet (dev)](https://github.com/nanocurrency/nano-node)
@@ -760,7 +763,6 @@ There are much fun to do but please proceed with caution.
 * [The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
 * [Raesonic - In-game purchases](https://raesonic.com/)
 * [Nanoce - Nano powered gaming tournaments](https://nanoce.net/)
-* [BlockHunters - Augmented Reality Nano Hunt](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
 * [PlayNano - Games](https://playnano.online/)
 * [Rock Paper Scissors Online](https://rock-paper-scissors.online/)
 * [KojoSlayer - Battle RPG](https://kojoslayer.com/)
@@ -800,6 +802,9 @@ Services which payout Nano
 * [NanoQuake JS - Action game with payout for kills](http://nanoquakejs.com)
 * [Counter-strike - Action game with nano payout](https://earn-nano.com/csgo)
 * [Player Killers Exchange - RPG game with payouts](https://playerkillers.exchange)
+* [WeNano - iOS wallet with Geo-spots payout](https://wenano.net/)
+* [BlockHunters - Augmented Reality Nano Hunt](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
+* [Polyrun - Workout rewards](https://test.polyrun.app/)
 
 </div>
 </div>
