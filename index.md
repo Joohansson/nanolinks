@@ -220,6 +220,10 @@ layout: default
 <div class="link-content" markdown="1">
 
 ## Nano Build-off 2020
+* [Build-off Home](https://nanobuildoff.com/)
+* [Build-off Public Submissions](https://app.nanobuildoff.com/list/submissions)
+* [Build-off Dev Portal (edit/submit projects/teams)](https://app.nanobuildoff.com/login)
+
 * [Alexa bot **arranHarty**](https://www.reddit.com/r/nanocurrency/comments/g6r469/alexa_nano_bot_website/)
 * [Camo Nano - Desktop Wallet **coranos**](https://github.com/coranos/camo-nano-light-wallet)
 * [NanoPaint - Buy pixels encoded in block chain **SonderDev**](https://www.reddit.com/r/nanocurrency/comments/gkg6oe/introducing_nanopaint_my_project_submission_for/)
