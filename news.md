@@ -32,6 +32,7 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 ### May 2020
+* [NanoRequest - Payment link generator (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gtdoxo/nanorequestio_request_payment_in_nano_buildoff/)
 * [CoinChores - Teach your kids about Nano (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gse8xb/buildoff_project_coinchores_give_tasks_to_your/)
 * [Polyrun - Workout rewards (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gsb3m9/introducing_polyrun_activity_tracker_with_nano/)
 * [KojoSlayer - Battle RPG (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/grr308/introducing_kojoslayer_battle_rpg_nano_buildoff/)

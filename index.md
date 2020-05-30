@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 30: Nano Request - Payment link generator](https://nanorequest.io/)
 * [May 29: Polyrun - Workout rewards](https://test.polyrun.app/)
 * [May 29: CoinChores - Teach your kids about Nano](https://coinchores.com/)
 * [May 28: The Million Nano Homepage](https://millionnanohomepage.com/)
@@ -208,7 +209,6 @@ layout: default
 * [May 27: Rock Paper Scissors Online](https://rock-paper-scissors.online/)
 * [May 27: Nano Connect - Free distributed RPC proxy](https://github.com/brendena/NanoConnect)
 * [May 26: PlayNano - Games](https://playnano.online/)
-* [May 26: Vola iOS Wallet](https://getvola.com)
 
 </div>
 </div>
@@ -241,6 +241,7 @@ layout: default
 * [KojoSlayer - Battle RPG **KojoSlayer**](https://www.reddit.com/r/nanocurrency/comments/grr308/introducing_kojoslayer_battle_rpg_nano_buildoff/)
 * [CoinChores - Teach your kids about Nano **kilrizzy**](https://www.reddit.com/r/nanocurrency/comments/gse8xb/buildoff_project_coinchores_give_tasks_to_your/)
 * [Polyrun - Workout rewards **GeographicalG**](https://www.reddit.com/r/nanocurrency/comments/gsb3m9/introducing_polyrun_activity_tracker_with_nano/)
+* [NanoRequest - Payment link generator **OnionWushu**](https://www.reddit.com/r/nanocurrency/comments/gtdoxo/nanorequestio_request_payment_in_nano_buildoff/)
 
 </div>
 </div>
@@ -552,7 +553,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nano Donate - Chrome donation extension](https://nanocharts.info/nano-donate.html)
 * [NanoGift - Browser extension for site donations](https://tetraloom.com/nanogift/)
 * [Mynano.link - Payment link generator](https://mynano.link/)
-* [KeyTools Payment Card](https://tools.nanos.cc/?tool=pay)
+* [KeyTools Payment link generator](https://tools.nanos.cc/?tool=pay)
+* [Nano Request - Payment link generator](https://nanorequest.io/)
 
 ### Faucets (Free Nano)
 * [Nano-Faucet.org](https://nano-faucet.org/)
@@ -804,7 +806,7 @@ Services which payout Nano
 * [Player Killers Exchange - RPG game with payouts](https://playerkillers.exchange)
 * [WeNano - iOS wallet with Geo-spots payout](https://wenano.net/)
 * [BlockHunters - Augmented Reality Nano Hunt](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
-* [Polyrun - Workout rewards](https://test.polyrun.app/)
+* [Polyrun - Workout rewards](https://polyrun.app/)
 
 </div>
 </div>
