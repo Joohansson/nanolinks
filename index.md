@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [May 31: NanoBlog - Decentralized blogging using IPFS](https://blog.mynano.ninja/)
 * [May 30: Nano Request - Payment link generator](https://nanorequest.io/)
 * [May 29: Polyrun - Workout rewards](https://test.polyrun.app/)
 * [May 29: CoinChores - Teach your kids about Nano](https://coinchores.com/)
@@ -208,7 +209,6 @@ layout: default
 * [May 27: Nanotify - API and web callback platform](https://www.nanotify.io/)
 * [May 27: Rock Paper Scissors Online](https://rock-paper-scissors.online/)
 * [May 27: Nano Connect - Free distributed RPC proxy](https://github.com/brendena/NanoConnect)
-* [May 26: PlayNano - Games](https://playnano.online/)
 
 </div>
 </div>
@@ -237,7 +237,7 @@ layout: default
 * [Nanolytics - Network stats **theonlyalt2**](https://www.reddit.com/r/nanocurrency/comments/gp8yst/nano_buildoff_introducing_nanolytics/)
 * [BlockHunters - Augmented Reality Game **tipanano(robotn)**](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
 * [Nano Repeat - Subscription Management for Vendors **mitche50**](https://www.reddit.com/r/nanocurrency/comments/gq1eh7/nano_build_off_nano_repeat_subscription/)
-* [Vola Wallet - iOS **appdev980/2D3S3RT**](https://www.reddit.com/r/nanocurrency/comments/gqjc54/vola_wallet_is_now_in_public_beta/)
+* [Vola Wallet - iOS **appdev980/BitDesert**](https://www.reddit.com/r/nanocurrency/comments/gqjc54/vola_wallet_is_now_in_public_beta/)
 * [PlayNANO - Games **playnano**](https://www.reddit.com/r/nanocurrency/comments/gqz326/playnano_lets_show_everyone_what_nano_is_capable/)
 * [Nano Connect - Free distributed RPC proxy **cryptocoinzzzz**](https://www.reddit.com/r/nanocurrency/comments/gqmpf6/nano_build_off_nano_connect_free_distributed_rpc/)
 * [Rock Paper Scissors Online **Ballstone_Group**](https://www.reddit.com/r/nanocurrency/comments/grkv4e/rock_paper_scissors_online/)
@@ -246,6 +246,7 @@ layout: default
 * [CoinChores - Teach your kids about Nano **kilrizzy**](https://www.reddit.com/r/nanocurrency/comments/gse8xb/buildoff_project_coinchores_give_tasks_to_your/)
 * [Polyrun - Workout rewards **GeographicalG**](https://www.reddit.com/r/nanocurrency/comments/gsb3m9/introducing_polyrun_activity_tracker_with_nano/)
 * [NanoRequest - Payment link generator **OnionWushu**](https://www.reddit.com/r/nanocurrency/comments/gtdoxo/nanorequestio_request_payment_in_nano_buildoff/)
+* [NanoBlog - Decentralized blogging using IPFS **BitDesert**](https://www.reddit.com/r/nanocurrency/comments/gtifso/nanoblog_decentralized_blogging_on_nano_buildoff/)
 
 </div>
 </div>
@@ -642,6 +643,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [NanoFusion - Multi-signature trustless mixing](http://nanofusion.casa/)
 * [Alexa Nano Bot - Ask about Nano](http://nano-bot.info/)
 * [CoinChores - Teach your kids about Nano](https://coinchores.com/)
+* [NanoBlog - Decentralized blogging using IPFS](https://blog.mynano.ninja/)
 
 ### Wallets [Source Code]
 * [NF Wallet (dev)](https://github.com/nanocurrency/nano-node)
