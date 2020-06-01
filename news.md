@@ -31,6 +31,10 @@ layout: newslayout
 
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
+
+### June 2020
+* [InstantCash - Point of sale for Android (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/guhftz/introducing_instantcash_a_nano_point_of_sale/)
+
 ### May 2020
 * [NanoBlog - Decentralized blogging using IPFS (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gtifso/nanoblog_decentralized_blogging_on_nano_buildoff/)
 * [NanoRequest - Payment link generator (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gtdoxo/nanorequestio_request_payment_in_nano_buildoff/)

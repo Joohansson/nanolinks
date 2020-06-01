@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [June 1: InstantCash - Point of sale for Android](https://instantcashpos.xyz/)
 * [May 31: NanoBlog - Decentralized blogging using IPFS](https://blog.mynano.ninja/)
 * [May 30: Nano Request - Payment link generator](https://nanorequest.io/)
 * [May 29: Polyrun - Workout rewards](https://test.polyrun.app/)
@@ -208,7 +209,6 @@ layout: default
 * [May 27: Nano Trade - Banano/Nano](https://nano.trade/)
 * [May 27: Nanotify - API and web callback platform](https://www.nanotify.io/)
 * [May 27: Rock Paper Scissors Online](https://rock-paper-scissors.online/)
-* [May 27: Nano Connect - Free distributed RPC proxy](https://github.com/brendena/NanoConnect)
 
 </div>
 </div>
@@ -247,6 +247,7 @@ layout: default
 * [Polyrun - Workout rewards **GeographicalG**](https://www.reddit.com/r/nanocurrency/comments/gsb3m9/introducing_polyrun_activity_tracker_with_nano/)
 * [NanoRequest - Payment link generator **OnionWushu**](https://www.reddit.com/r/nanocurrency/comments/gtdoxo/nanorequestio_request_payment_in_nano_buildoff/)
 * [NanoBlog - Decentralized blogging using IPFS **BitDesert**](https://www.reddit.com/r/nanocurrency/comments/gtifso/nanoblog_decentralized_blogging_on_nano_buildoff/)
+* [InstantCash - Point of sale for Android **Oxygenjacket**](https://www.reddit.com/r/nanocurrency/comments/guhftz/introducing_instantcash_a_nano_point_of_sale/)
 
 </div>
 </div>
@@ -579,6 +580,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Paytomat - Payment Service. PoS, Fiat gateway](https://paytomat.com/)
 * [Brainblocks Web PoS](https://pos.brainblocks.io/)
 * [MoonPos - Mobile PoS](https://www.moonposapp.com/)
+* [InstantCash - Point of sale for Android](https://instantcashpos.xyz/)
 
 </div>
 </div>
