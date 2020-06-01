@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [June 1: Sendr.space - Social media platform using Nano](https://sendr.space/)
 * [June 1: InstantCash - Point of sale for Android](https://instantcashpos.xyz/)
 * [May 31: NanoBlog - Decentralized blogging using IPFS](https://blog.mynano.ninja/)
 * [May 30: Nano Request - Payment link generator](https://nanorequest.io/)
@@ -208,7 +209,6 @@ layout: default
 * [May 28: KojoSlayer - Battle RPG](https://kojoslayer.com/)
 * [May 27: Nano Trade - Banano/Nano](https://nano.trade/)
 * [May 27: Nanotify - API and web callback platform](https://www.nanotify.io/)
-* [May 27: Rock Paper Scissors Online](https://rock-paper-scissors.online/)
 
 </div>
 </div>
@@ -248,6 +248,7 @@ layout: default
 * [NanoRequest - Payment link generator **OnionWushu**](https://www.reddit.com/r/nanocurrency/comments/gtdoxo/nanorequestio_request_payment_in_nano_buildoff/)
 * [NanoBlog - Decentralized blogging using IPFS **BitDesert**](https://www.reddit.com/r/nanocurrency/comments/gtifso/nanoblog_decentralized_blogging_on_nano_buildoff/)
 * [InstantCash - Point of sale for Android **Oxygenjacket**](https://www.reddit.com/r/nanocurrency/comments/guhftz/introducing_instantcash_a_nano_point_of_sale/)
+* [Sendr.space - Social media platform using Nano **SendrSpace**](https://www.reddit.com/r/nanocurrency/comments/gujmes/introducing_sendrspace_a_social_media_built_on/)
 
 </div>
 </div>
@@ -786,6 +787,9 @@ There are much fun to do but please proceed with caution.
 * [Feed the birds with Nano live stream](https://www.youtube.com/watch?v=otpqipL3H8Q)
 * [NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
 * [The Million Nano Homepage](https://millionnanohomepage.com/)
+
+### Social Media
+* [Sendr.space - Social media platform using Nano](https://sendr.space/)
 
 ## Services
 Services which accepts Nano (mandatory or optional)

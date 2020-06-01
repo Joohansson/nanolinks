@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2020
+* [Sendr.space - Social media platform using Nano (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gujmes/introducing_sendrspace_a_social_media_built_on/)
 * [InstantCash - Point of sale for Android (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/guhftz/introducing_instantcash_a_nano_point_of_sale/)
 
 ### May 2020
