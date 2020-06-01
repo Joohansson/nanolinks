@@ -445,7 +445,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Cake Wallet for XMR Monero](https://cakewallet.io/)
 * [Godex.io](https://godex.io/)
 * [SwapSpace](https://swapspace.co/)
-* [Nano Trade - Banano/Nano](https://nano.trade/)
+* [Nano.Trade - Banano/Nano](https://nano.trade/)
 
 
 #### Escrow and Peer-to-peer
@@ -532,6 +532,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Niuyan Market Data](https://niuyan.com/currencies/nano)
 * [CoinGecko](https://www.coingecko.com/en/coins/nano)
 * [Nanoji Chart - Emotional Nano Price Charts and Discord Bot](https://price.nanoticker.info/)
+* [Coincircus - Nano/BTC/USD](https://coincircus.io/crypto/prices/nano/NANO)
 
 ### Merchant & Donation Related [No shops, too many]
 * [Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
