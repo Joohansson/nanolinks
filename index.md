@@ -199,6 +199,9 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [June 2: NanoSpider - Visual Block explorer](https://www.reddit.com/r/nanocurrency/comments/gusctm/introducing_nanospider_buildoff_submission/)
+* [June 2: NANO Espresso NFC - Coffee machine acceping NANO payments](https://www.reddit.com/r/nanocurrency/comments/guqqfs/buildoff_nano_espresso_nfc_this_coffee_machine/)
+* [June 2: FlappyNano - Flappy Bird against friends](https://www.reddit.com/r/nanocurrency/comments/guwnfd/nano_buildoff_flappynano_play_flappy_bird_against/)
 * [June 1: Sendr.space - Social media platform using Nano](https://sendr.space/)
 * [June 1: InstantCash - Point of sale for Android](https://instantcashpos.xyz/)
 * [May 31: NanoBlog - Decentralized blogging using IPFS](https://blog.mynano.ninja/)
@@ -206,9 +209,6 @@ layout: default
 * [May 29: Polyrun - Workout rewards](https://test.polyrun.app/)
 * [May 29: CoinChores - Teach your kids about Nano](https://coinchores.com/)
 * [May 28: The Million Nano Homepage](https://millionnanohomepage.com/)
-* [May 28: KojoSlayer - Battle RPG](https://kojoslayer.com/)
-* [May 27: Nano Trade - Banano/Nano](https://nano.trade/)
-* [May 27: Nanotify - API and web callback platform](https://www.nanotify.io/)
 
 </div>
 </div>
@@ -247,8 +247,11 @@ layout: default
 * [Polyrun - Workout rewards **GeographicalG**](https://www.reddit.com/r/nanocurrency/comments/gsb3m9/introducing_polyrun_activity_tracker_with_nano/)
 * [NanoRequest - Payment link generator **OnionWushu**](https://www.reddit.com/r/nanocurrency/comments/gtdoxo/nanorequestio_request_payment_in_nano_buildoff/)
 * [NanoBlog - Decentralized blogging using IPFS **BitDesert**](https://www.reddit.com/r/nanocurrency/comments/gtifso/nanoblog_decentralized_blogging_on_nano_buildoff/)
-* [InstantCash - Point of sale for Android **Oxygenjacket**](https://www.reddit.com/r/nanocurrency/comments/guhftz/introducing_instantcash_a_nano_point_of_sale/)
+* [InstantCash - Point of sale for Android **Oxygenjacket(BigHands)**](https://www.reddit.com/r/nanocurrency/comments/guhftz/introducing_instantcash_a_nano_point_of_sale/)
 * [Sendr.space - Social media platform using Nano **SendrSpace**](https://www.reddit.com/r/nanocurrency/comments/gujmes/introducing_sendrspace_a_social_media_built_on/)
+* [NanoSpider - Visual Block explorer **SonderDev**](https://www.reddit.com/r/nanocurrency/comments/gusctm/introducing_nanospider_buildoff_submission/)
+* [NANO Espresso NFC - Coffee machine acceping NANO payments **fcdeluxe(flavio)**](https://www.reddit.com/r/nanocurrency/comments/guqqfs/buildoff_nano_espresso_nfc_this_coffee_machine/)
+* [FlappyNano - Flappy Bird against friends **theonlyalt2(Ashar)**](https://www.reddit.com/r/nanocurrency/comments/guwnfd/nano_buildoff_flappynano_play_flappy_bird_against/)
 
 </div>
 </div>
@@ -347,6 +350,7 @@ Learn everything there is to know about Nano!
 * [Guide: Get Free Nano and Share with Anyone with Zero Fees](https://youtu.be/qSsIXy-NimE)
 * [Guide: How to buy NANO with Coinbase and Binance](https://youtu.be/FE5yUT4-UYk)
 * [NanoBrewed - Beer dispensing for nano](https://youtu.be/UfLqHz5Ls-g)
+* [NANO Espresso NFC - Coffee machine acceping NANO payments](https://youtu.be/3GmhIWZC7hA)
 
 ### Video Advertisement
 * [Nano The Future of Money](https://youtu.be/lw-rpO0jqYQ)
@@ -365,6 +369,7 @@ Learn everything there is to know about Nano!
 * [NanoMusic - Musical/Art Visualizer](http://music.nanos.cc)
 * [NANOODLE - Explorer,  Fiat Tracker, Stat Charts, Account Alerting](https://nanoodle.io/live)
 * [Nanoverse - Visual Explorer](https://nanoverse.io/)
+* [NanoSpider - Visual explorer](https://tetraloom.com/spider/)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
 * [TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
 * [NanoStream - Transaction Visualizer](https://nanostream.eu/)
@@ -778,6 +783,7 @@ There are much fun to do but please proceed with caution.
 * [PlayNano - Games](https://playnano.online/)
 * [Rock Paper Scissors Online](https://rock-paper-scissors.online/)
 * [KojoSlayer - Battle RPG](https://kojoslayer.com/)
+* [FlappyNano - Flappy Bird against friends](https://flappynano.com/)
 
 ### Video, Music, Art
 * [NanoMusic - Listen to the network live](http://music.nanos.cc)
