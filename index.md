@@ -202,13 +202,13 @@ layout: default
 * [June 2: NanoSpider - Visual Block explorer](https://www.reddit.com/r/nanocurrency/comments/gusctm/introducing_nanospider_buildoff_submission/)
 * [June 2: NANO Espresso NFC - Coffee machine acceping NANO payments](https://www.reddit.com/r/nanocurrency/comments/guqqfs/buildoff_nano_espresso_nfc_this_coffee_machine/)
 * [June 2: FlappyNano - Flappy Bird against friends](https://www.reddit.com/r/nanocurrency/comments/guwnfd/nano_buildoff_flappynano_play_flappy_bird_against/)
+* [June 2: Linuxserver.io Nano Stack](https://blog.linuxserver.io/2020/05/31/deploying-your-own-crypto/)
 * [June 1: Sendr.space - Social media platform using Nano](https://sendr.space/)
 * [June 1: InstantCash - Point of sale for Android](https://instantcashpos.xyz/)
 * [May 31: NanoBlog - Decentralized blogging using IPFS](https://blog.mynano.ninja/)
 * [May 30: Nano Request - Payment link generator](https://nanorequest.io/)
 * [May 29: Polyrun - Workout rewards](https://test.polyrun.app/)
 * [May 29: CoinChores - Teach your kids about Nano](https://coinchores.com/)
-* [May 28: The Million Nano Homepage](https://millionnanohomepage.com/)
 
 </div>
 </div>
@@ -244,11 +244,13 @@ layout: default
 * [Nanotify - API and web callback platform **_the_sound**](https://www.reddit.com/r/nanocurrency/comments/grkli4/introducing_nanotify_an_api_and_web_callback/)
 * [KojoSlayer - Battle RPG **KojoSlayer**](https://www.reddit.com/r/nanocurrency/comments/grr308/introducing_kojoslayer_battle_rpg_nano_buildoff/)
 * [CoinChores - Teach your kids about Nano **kilrizzy**](https://www.reddit.com/r/nanocurrency/comments/gse8xb/buildoff_project_coinchores_give_tasks_to_your/)
+* [Kuyumcu and nano.trade - Nano/Banano **yusufgurdogan**](https://www.reddit.com/r/nanocurrency/comments/gr4jez/introducing_kuyumcu_and_nanotrade/)
 * [Polyrun - Workout rewards **GeographicalG**](https://www.reddit.com/r/nanocurrency/comments/gsb3m9/introducing_polyrun_activity_tracker_with_nano/)
 * [NanoRequest - Payment link generator **OnionWushu**](https://www.reddit.com/r/nanocurrency/comments/gtdoxo/nanorequestio_request_payment_in_nano_buildoff/)
 * [NanoBlog - Decentralized blogging using IPFS **BitDesert**](https://www.reddit.com/r/nanocurrency/comments/gtifso/nanoblog_decentralized_blogging_on_nano_buildoff/)
 * [InstantCash - Point of sale for Android **Oxygenjacket(BigHands)**](https://www.reddit.com/r/nanocurrency/comments/guhftz/introducing_instantcash_a_nano_point_of_sale/)
 * [Sendr.space - Social media platform using Nano **SendrSpace**](https://www.reddit.com/r/nanocurrency/comments/gujmes/introducing_sendrspace_a_social_media_built_on/)
+* [Linuxserver.io Nano Stack **ls_kode/TheLamer**](https://www.reddit.com/r/nanocurrency/comments/gukf5d/buildoff_linuxserverio_nano_stack/)
 * [NanoSpider - Visual Block explorer **SonderDev**](https://www.reddit.com/r/nanocurrency/comments/gusctm/introducing_nanospider_buildoff_submission/)
 * [NANO Espresso NFC - Coffee machine acceping NANO payments **fcdeluxe(flavio)**](https://www.reddit.com/r/nanocurrency/comments/guqqfs/buildoff_nano_espresso_nfc_this_coffee_machine/)
 * [FlappyNano - Flappy Bird against friends **theonlyalt2(Ashar)**](https://www.reddit.com/r/nanocurrency/comments/guwnfd/nano_buildoff_flappynano_play_flappy_bird_against/)
@@ -737,6 +739,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Websocket Client for Python](https://github.com/guilhermelawless/nano-websocket-sample-py)
 * [Nano Websocket Client for NodeJS](https://github.com/guilhermelawless/nano-websocket-sample-nodejs)
 * [Thousand Nano Page - Nanopixelwall.com](https://github.com/jcburuchaga/thousand-nano-page)
+* [Linuxserver.io Nano Stack - How to deploy your own currency with Nano](https://blog.linuxserver.io/2020/05/31/deploying-your-own-crypto/)
 
 ### Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)

@@ -36,6 +36,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [NanoSpider - Block explorer (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gusctm/introducing_nanospider_buildoff_submission/)
 * [NANO Espresso NFC - Coffee machine acceping NANO payments (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/guqqfs/buildoff_nano_espresso_nfc_this_coffee_machine/)
 * [FlappyNano - Flappy Bird against friends (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/guwnfd/nano_buildoff_flappynano_play_flappy_bird_against/)
+* [Linuxserver.io Nano Stack (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gukf5d/buildoff_linuxserverio_nano_stack/)
 * [Sendr.space - Social media platform using Nano (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gujmes/introducing_sendrspace_a_social_media_built_on/)
 * [InstantCash - Point of sale for Android (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/guhftz/introducing_instantcash_a_nano_point_of_sale/)
 
