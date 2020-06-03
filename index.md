@@ -882,7 +882,7 @@ It takes some effort to maintaining this content. If you want to contribute to t
 <br>
 </div>
 <figure>
-	<img id="qrImage" src="https://raw.githubusercontent.com/Joohansson/nanolinks/master/src/qr_new.png" alt="Nano Donation" />
+	<img id="qrImage" src="https://github.com/Joohansson/nanolinks/raw/master/src/qr_new.png" alt="Nano Donation" />
 	<br/>
 	<figcaption class="subtext">
 		nano_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo<br/>
