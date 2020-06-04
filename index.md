@@ -199,16 +199,16 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
-* [June 2: NanoSpider - Visual Block explorer](https://www.reddit.com/r/nanocurrency/comments/gusctm/introducing_nanospider_buildoff_submission/)
+* [June 4: TIX Wallet - Simple Nano web wallet](https://tix.nanos.cc)
+* [June 4: Nano on Tap - Docker backend](https://github.com/silverstar194/NanoOnTap)
+* [June 4: Natricon - Icon identifier for accounts](https://natricon.com/)
+* [June 4: Nano-it-all Live Trivia Competition](http://nano-it-all.com/)
+* [June 2: NanoSpider - Visual Block explorer](https://tetraloom.com/spider//)
 * [June 2: NANO Espresso NFC - Coffee machine acceping NANO payments](https://www.reddit.com/r/nanocurrency/comments/guqqfs/buildoff_nano_espresso_nfc_this_coffee_machine/)
 * [June 2: FlappyNano - Flappy Bird against friends](https://www.reddit.com/r/nanocurrency/comments/guwnfd/nano_buildoff_flappynano_play_flappy_bird_against/)
 * [June 2: Linuxserver.io Nano Stack](https://blog.linuxserver.io/2020/05/31/deploying-your-own-crypto/)
 * [June 1: Sendr.space - Social media platform using Nano](https://sendr.space/)
 * [June 1: InstantCash - Point of sale for Android](https://instantcashpos.xyz/)
-* [May 31: NanoBlog - Decentralized blogging using IPFS](https://blog.mynano.ninja/)
-* [May 30: Nano Request - Payment link generator](https://nanorequest.io/)
-* [May 29: Polyrun - Workout rewards](https://test.polyrun.app/)
-* [May 29: CoinChores - Teach your kids about Nano](https://coinchores.com/)
 
 </div>
 </div>
@@ -254,6 +254,9 @@ layout: default
 * [NanoSpider - Visual Block explorer **SonderDev**](https://www.reddit.com/r/nanocurrency/comments/gusctm/introducing_nanospider_buildoff_submission/)
 * [NANO Espresso NFC - Coffee machine acceping NANO payments **fcdeluxe(flavio)**](https://www.reddit.com/r/nanocurrency/comments/guqqfs/buildoff_nano_espresso_nfc_this_coffee_machine/)
 * [FlappyNano - Flappy Bird against friends **theonlyalt2(Ashar)**](https://www.reddit.com/r/nanocurrency/comments/guwnfd/nano_buildoff_flappynano_play_flappy_bird_against/)
+* [Nano on Tap - Docker backend **silverstar194**](https://www.reddit.com/r/nanocurrency/comments/gw7cl9/nano_buildoff_nano_on_tap_nano_docker_backend/)
+* [Natricon - Icon identifier for accounts **Natrium(ngyekta)**](https://www.reddit.com/r/nanocurrency/comments/gvusgs/meet_natricon_a_friendly_familiar_face_for_your/)
+* [Nano-it-all Live Trivia Competition **nano-it-all**](https://www.reddit.com/r/nanocurrency/comments/gvumw6/nanoitall_live_trivia_competition_buildoff/)
 
 </div>
 </div>
@@ -468,6 +471,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nanovault** - Web,Windows,Linux,Mac](https://nanovault.io/)
 * [**Nanovault Ninja** - Web](https://vault.mynano.ninja/)
 * [**Nanovault NCrawler** - Web](https://vault.nanocrawler.cc/)
+* [**TIX** - Web](https://tix.nanos.cc)
 * [**WeNano** - iOS](https://wenano.net/)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 * [**Vola** - iOS](https://getvola.com)
@@ -655,11 +659,13 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Alexa Nano Bot - Ask about Nano](http://nano-bot.info/)
 * [CoinChores - Teach your kids about Nano](https://coinchores.com/)
 * [NanoBlog - Decentralized blogging using IPFS](https://blog.mynano.ninja/)
+* [Natricon - Icon identifier for accounts](https://natricon.com/)
 
 ### Wallets [Source Code]
 * [NF Wallet (dev)](https://github.com/nanocurrency/nano-node)
 * [Natrium](https://github.com/appditto/natrium_wallet_flutter)
 * [Canoe](https://github.com/getcanoe/canoe)
+* [TIX](https://github.com/Joohansson/nano-wallet)
 * [Nanovault](https://github.com/cronoh/nanovault)
 * [Nanollet](https://github.com/brokenbydefault/Nanollet)
 * [Nanoblocks](https://github.com/nebyark/nano-blocks)
@@ -740,6 +746,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Websocket Client for NodeJS](https://github.com/guilhermelawless/nano-websocket-sample-nodejs)
 * [Thousand Nano Page - Nanopixelwall.com](https://github.com/jcburuchaga/thousand-nano-page)
 * [Linuxserver.io Nano Stack - How to deploy your own currency with Nano](https://blog.linuxserver.io/2020/05/31/deploying-your-own-crypto/)
+* [Nano on Tap - Docker backend](https://github.com/silverstar194/NanoOnTap)
 
 ### Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
@@ -787,6 +794,7 @@ There are much fun to do but please proceed with caution.
 * [Rock Paper Scissors Online](https://rock-paper-scissors.online/)
 * [KojoSlayer - Battle RPG](https://kojoslayer.com/)
 * [FlappyNano - Flappy Bird against friends](https://flappynano.com/)
+* [Nano-it-all Live Trivia Competition](http://nano-it-all.com/)
 
 ### Video, Music, Art
 * [NanoMusic - Listen to the network live](http://music.nanos.cc)

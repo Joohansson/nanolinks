@@ -33,6 +33,10 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2020
+* [Introducing TIX Wallet - Simple web wallet](https://www.reddit.com/r/nanocurrency/comments/gwdcmq/introducing_tix_the_simple_web_wallet/)
+* [Nano on Tap - Docker backend (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gw7cl9/nano_buildoff_nano_on_tap_nano_docker_backend/)
+* [Natricon - Icon identifier for accounts (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gvusgs/meet_natricon_a_friendly_familiar_face_for_your/)
+* [Nano-it-all Live Trivia Competition (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gvumw6/nanoitall_live_trivia_competition_buildoff/)
 * [NanoSpider - Block explorer (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gusctm/introducing_nanospider_buildoff_submission/)
 * [NANO Espresso NFC - Coffee machine acceping NANO payments (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/guqqfs/buildoff_nano_espresso_nfc_this_coffee_machine/)
 * [FlappyNano - Flappy Bird against friends (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/guwnfd/nano_buildoff_flappynano_play_flappy_bird_against/)
