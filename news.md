@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2020
+* [NANO Connect Messenger - Message app with Nano transactions (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gx0loz/nano_connect_messenger_a_first_ever_chat_message/)
 * [Nanoom - Service for pulling Nano payments (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gwtl8r/introducing_nanoom_nano_buildoff_submission/)
 * [Bloesem - App with nano rewards to stay focused (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gwqdpz/introducing_bloesem_nano_buildoff/)
 * [Nanowall.link - Content monetizer (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gwo83a/nano_buildoff_nanowalllink_easiest_way_to/)

@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [June 5: NANO Connect Messenger - Message app with Nano transactions](https://github.com/crixuscoach/Nano-Connect-Messenger)
 * [June 5: Nanoidenticons - Identification icons for Nano](https://github.com/keerifox/Nanoidenticons)
 * [June 5: NanoWire - Sell/Buy unused bandwidth](https://nanowire.com/)
 * [June 5: Nano Profile - IPFS hosted profile picture network for Nano](http://nanoprofile.online/)
@@ -264,6 +265,7 @@ layout: default
 * [Nanowall.link - Content monetizer **tylereyes**](https://www.reddit.com/r/nanocurrency/comments/gwo83a/nano_buildoff_nanowalllink_easiest_way_to/)
 * [Nalli - Mobile wallet with sms support **numsu**](https://www.reddit.com/r/nanocurrency/comments/gwifbp/presenting_nalli_a_new_mobile_wallet_with_the/)
 * [Upstart - Digital content hosting and sale platform **Dwarfdeaths**](https://www.reddit.com/r/nanocurrency/comments/gwihn3/nano_buildoff_introducing_upstart_a_platform_to/)
+* [NANO Connect Messenger - Message app with Nano transactions **bizi0909**](https://www.reddit.com/r/nanocurrency/comments/gx0loz/nano_connect_messenger_a_first_ever_chat_message/)
 
 </div>
 </div>
@@ -539,6 +541,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [TipNano - Free Android Nano tipper](https://play.google.com/store/apps/details?id=com.bdf.tipnano)
 * [PixelPortfolio](https://play.google.com/store/apps/details?id=com.pixelportfolio)
 * [Bloesem - App with nano rewards to stay focused](https://mybloesem.com/)
+* [NANO Connect Messenger - Message app with Nano transactions](https://github.com/crixuscoach/Nano-Connect-Messenger)
 
 ### Market Data, Analysis & Tickers
 * [Coinmarketcap](https://coinmarketcap.com/currencies/nano/)
