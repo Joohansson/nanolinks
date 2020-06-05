@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [June 5: Nanoidenticons - Identification icons for Nano](https://github.com/keerifox/Nanoidenticons)
 * [June 5: NanoWire - Sell/Buy unused bandwidth](https://nanowire.com/)
 * [June 5: Nano Profile - IPFS hosted profile picture network for Nano](http://nanoprofile.online/)
 * [June 5: NanoAuth - Authentication service](https://www.nanoauth.app/#/)
@@ -761,6 +762,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Linuxserver.io Nano Stack - How to deploy your own currency with Nano](https://blog.linuxserver.io/2020/05/31/deploying-your-own-crypto/)
 * [Nano on Tap - Docker backend](https://github.com/silverstar194/NanoOnTap)
 * [Nanoom - Service for pulling Nano payments](https://nanoom.tech/)
+* [Nanoidenticons - Identification icons for Nano](https://github.com/keerifox/Nanoidenticons)
 
 ### Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
