@@ -199,16 +199,17 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
-* [June 4: TIX Wallet - Simple Nano web wallet](https://tix.nanos.cc)
-* [June 4: Nano on Tap - Docker backend](https://github.com/silverstar194/NanoOnTap)
-* [June 4: Natricon - Icon identifier for accounts](https://natricon.com/)
-* [June 4: Nano-it-all Live Trivia Competition](http://nano-it-all.com/)
-* [June 2: NanoSpider - Visual Block explorer](https://tetraloom.com/spider//)
-* [June 2: NANO Espresso NFC - Coffee machine acceping NANO payments](https://www.reddit.com/r/nanocurrency/comments/guqqfs/buildoff_nano_espresso_nfc_this_coffee_machine/)
-* [June 2: FlappyNano - Flappy Bird against friends](https://www.reddit.com/r/nanocurrency/comments/guwnfd/nano_buildoff_flappynano_play_flappy_bird_against/)
-* [June 2: Linuxserver.io Nano Stack](https://blog.linuxserver.io/2020/05/31/deploying-your-own-crypto/)
-* [June 1: Sendr.space - Social media platform using Nano](https://sendr.space/)
-* [June 1: InstantCash - Point of sale for Android](https://instantcashpos.xyz/)
+* [June 5: NanoWire - Sell/Buy unused bandwidth](https://nanowire.com/)
+* [June 5: Nano Profile - IPFS hosted profile picture network for Nano](http://nanoprofile.online/)
+* [June 5: NanoAuth - Authentication service](https://www.nanoauth.app/#/)
+* [June 5: YayMe - Online marketplace for short-form video lessons](https://yayme.cc/)
+* [June 5: Nanex - Consolidated transaction explorer](https://nanex.cc/)
+* [June 5: nanoomPay - Simplified nano payments](https://nanoompay.io/)
+* [June 5: Nanoom - Service for pulling Nano payments](https://nanoom.tech/)
+* [June 5: Bloesem - App with nano rewards to stay focused](https://mybloesem.com/)
+* [June 5: Nanowall.link - Content monetizer](https://nanowall.link/)
+* [June 5: Nalli - Mobile wallet with sms support](https://nalli.app/)
+* [June 5: Upstart - Digital content hosting and sale platform](https://upst-art.net/)
 
 </div>
 </div>
@@ -257,6 +258,11 @@ layout: default
 * [Nano on Tap - Docker backend **silverstar194**](https://www.reddit.com/r/nanocurrency/comments/gw7cl9/nano_buildoff_nano_on_tap_nano_docker_backend/)
 * [Natricon - Icon identifier for accounts **Natrium(ngyekta)**](https://www.reddit.com/r/nanocurrency/comments/gvusgs/meet_natricon_a_friendly_familiar_face_for_your/)
 * [Nano-it-all Live Trivia Competition **nano-it-all**](https://www.reddit.com/r/nanocurrency/comments/gvumw6/nanoitall_live_trivia_competition_buildoff/)
+* [Nanoom - Service for pulling Nano payments **btcludo/jaimehbg**](https://www.reddit.com/r/nanocurrency/comments/gwtl8r/introducing_nanoom_nano_buildoff_submission/)
+* [Bloesem - App with nano rewards to stay focused **Velomo_(Maarten)**](https://www.reddit.com/r/nanocurrency/comments/gwqdpz/introducing_bloesem_nano_buildoff/)
+* [Nanowall.link - Content monetizer **tylereyes**](https://www.reddit.com/r/nanocurrency/comments/gwo83a/nano_buildoff_nanowalllink_easiest_way_to/)
+* [Nalli - Mobile wallet with sms support **numsu**](https://www.reddit.com/r/nanocurrency/comments/gwifbp/presenting_nalli_a_new_mobile_wallet_with_the/)
+* [Upstart - Digital content hosting and sale platform **Dwarfdeaths**](https://www.reddit.com/r/nanocurrency/comments/gwihn3/nano_buildoff_introducing_upstart_a_platform_to/)
 
 </div>
 </div>
@@ -370,6 +376,7 @@ Learn everything there is to know about Nano!
 * [My Nano Ninja - Representatives, Stats, Explorer](https://mynano.ninja/)
 * [Nanocean - Explorer, Stats, Account list](https://nanocean.org)
 * [TOR Block Lattice Explorer (NOTE: .onion link)](http://nanonycgzbzozgnfdhu7wyn3xwmufo4nuzrqgemjwxavqjmznzbgt7ad.onion)
+* [Nanex - Consolidated transaction explorer](https://nanex.cc/)
 * [Nanoticker - Nano Network Analytics & Performance](https://nanoticker.info/)
 * [NanoMusic - Musical/Art Visualizer](http://music.nanos.cc)
 * [NANOODLE - Explorer,  Fiat Tracker, Stat Charts, Account Alerting](https://nanoodle.io/live)
@@ -475,7 +482,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**WeNano** - iOS](https://wenano.net/)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 * [**Vola** - iOS](https://getvola.com)
-* [**Camo Nano (beta)** - Desktop](https://github.com/coranos/camo-nano-light-wallet)
+* [**Nalli** - Android,iOS](https://nalli.app/)
+* [**Camo Nano** - Desktop](https://github.com/coranos/camo-nano-light-wallet)
 
 #### Dev Wallets
 * [**Nano Node Wallet** - The original one](https://github.com/nanocurrency/nano-node/releases)
@@ -528,6 +536,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Tradingview - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
 * [TipNano - Free Android Nano tipper](https://play.google.com/store/apps/details?id=com.bdf.tipnano)
 * [PixelPortfolio](https://play.google.com/store/apps/details?id=com.pixelportfolio)
+* [Bloesem - App with nano rewards to stay focused](https://mybloesem.com/)
 
 ### Market Data, Analysis & Tickers
 * [Coinmarketcap](https://coinmarketcap.com/currencies/nano/)
@@ -574,6 +583,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Mynano.link - Payment link generator](https://mynano.link/)
 * [KeyTools Payment link generator](https://tools.nanos.cc/?tool=pay)
 * [Nano Request - Payment link generator](https://nanorequest.io/)
+* [nanoomPay - Simplified nano payments](https://nanoompay.io/)
 
 ### Faucets (Free Nano)
 * [Nano-Faucet.org](https://nano-faucet.org/)
@@ -660,6 +670,8 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [CoinChores - Teach your kids about Nano](https://coinchores.com/)
 * [NanoBlog - Decentralized blogging using IPFS](https://blog.mynano.ninja/)
 * [Natricon - Icon identifier for accounts](https://natricon.com/)
+* [NanoAuth - Authentication service](https://www.nanoauth.app/#/)
+* [Nano Profile - IPFS hosted profile picture network for Nano](http://nanoprofile.online/)
 
 ### Wallets [Source Code]
 * [NF Wallet (dev)](https://github.com/nanocurrency/nano-node)
@@ -747,6 +759,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Thousand Nano Page - Nanopixelwall.com](https://github.com/jcburuchaga/thousand-nano-page)
 * [Linuxserver.io Nano Stack - How to deploy your own currency with Nano](https://blog.linuxserver.io/2020/05/31/deploying-your-own-crypto/)
 * [Nano on Tap - Docker backend](https://github.com/silverstar194/NanoOnTap)
+* [Nanoom - Service for pulling Nano payments](https://nanoom.tech/)
 
 ### Beta Network
 * [Nano Beta Network Resources](https://beta.nano.org/)
@@ -809,7 +822,6 @@ There are much fun to do but please proceed with caution.
 * [Sendr.space - Social media platform using Nano](https://sendr.space/)
 
 ## Services
-Services which accepts Nano (mandatory or optional)
 * [Put.io - File Serving](https://put.io)
 * [Wall of Nano](https://wallofnano.com/)
 * [Donano - Crowdfunding for Creators](https://www.donano.to)
@@ -818,7 +830,11 @@ Services which accepts Nano (mandatory or optional)
 * [DeMixor - Music Vocal Remover](https://demixor.com/)
 * [Play with Nano](https://playwithnano.com/)
 * [FakeFork - Nano dashboard for tabletop gamers](https://fakefork.com/)
+* [NanoWire - Sell/Buy unused bandwidth](https://nanowire.com/)
 * [nPass - Web content payments](http://npass.ddns.net/npass)
+* [Nanowall.link - Content monetizer](https://nanowall.link/)
+* [Upstart - Digital content hosting and sale platform](https://upst-art.net/)
+* [YayMe - Online marketplace for short-form video lessons](https://yayme.cc/)
 
 Services which payout Nano
 * [Earn Nano - Directory for getting Nano without purchase](https://earn-nano.com/)
