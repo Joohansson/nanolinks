@@ -316,6 +316,7 @@ Learn everything there is to know about Nano!
 * [Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 * [HelpNano - Guide for how to help the Nano ecosystem](https://helpnano.org/)
 * [Nano Infographics](https://imgur.com/a/tPaK9hp)
+* [NANO TAA - Promotion](https://www.nanotaa.com/)
 
 #### External Media
 * [Colin LeMahieu joins the @Crypto101Pod podcast](https://soundcloud.com/crypto101podcast/from-the-archive-nano-and-holochain)
