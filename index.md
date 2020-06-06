@@ -241,7 +241,7 @@ layout: default
 * [BlockHunters - Augmented Reality Game **tipanano(robotn)**](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
 * [Nano Repeat - Subscription Management for Vendors **mitche50**](https://www.reddit.com/r/nanocurrency/comments/gq1eh7/nano_build_off_nano_repeat_subscription/)
 * [Vola Wallet - iOS **appdev980/BitDesert**](https://www.reddit.com/r/nanocurrency/comments/gqjc54/vola_wallet_is_now_in_public_beta/)
-* [PlayNANO - Games **playnano**](https://www.reddit.com/r/nanocurrency/comments/gqz326/playnano_lets_show_everyone_what_nano_is_capable/)
+* [PlayNANO - Games **playnano**](https://www.reddit.com/r/nanocurrency/comments/gss9n6/repost_playnano_lets_show_everyone_what_nano_is/)
 * [Nano Connect - Free distributed RPC proxy **cryptocoinzzzz**](https://www.reddit.com/r/nanocurrency/comments/gqmpf6/nano_build_off_nano_connect_free_distributed_rpc/)
 * [Rock Paper Scissors Online **Ballstone_Group**](https://www.reddit.com/r/nanocurrency/comments/grkv4e/rock_paper_scissors_online/)
 * [Nanotify - API and web callback platform **_the_sound**](https://www.reddit.com/r/nanocurrency/comments/grkli4/introducing_nanotify_an_api_and_web_callback/)

@@ -62,7 +62,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Nanotify - API and web callback platform (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/grkli4/introducing_nanotify_an_api_and_web_callback/)
 * [Nano Connect - Free distributed RPC proxy (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gqmpf6/nano_build_off_nano_connect_free_distributed_rpc/)
 * [Buy NANO with USD in Trust Wallet](https://www.reddit.com/r/nanocurrency/comments/gqxwq8/buy_nano_with_usd_in_trust_wallet/)
-* [PlayNANO - Games (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gqz326/playnano_lets_show_everyone_what_nano_is_capable/)
+* [PlayNANO - Games (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gss9n6/repost_playnano_lets_show_everyone_what_nano_is/)
 * [Vola Wallet - iOS (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gqjc54/vola_wallet_is_now_in_public_beta/)
 * [NanoRPCProxy - Now with a secure websocket layer, including free public subscriptions for block confirmations](https://www.reddit.com/r/nanocurrency/comments/gq52fz/nanorpcproxy_part2_now_with_a_secure_websocket/)
 * [BlockHunters - Augmented Reality Game (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
