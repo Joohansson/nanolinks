@@ -33,6 +33,9 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2020
+* [NanoAuth - Authentication service (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gyxwpr/build_off_nanoauth_login_with_nano_instead_of/)
+* [NanoWire - Sell/Buy unused bandwidth (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gxoisd/buildoff_introducing_nanowire_sell_buy_unused/)
+* [Nano Profile - IPFS hosted profile picture network for Nano (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gx73a7/introducing_nanoprofile/)
 * [NANO Connect Messenger - Message app with Nano transactions (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gx0loz/nano_connect_messenger_a_first_ever_chat_message/)
 * [Nanoom - Service for pulling Nano payments (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gwtl8r/introducing_nanoom_nano_buildoff_submission/)
 * [Bloesem - App with nano rewards to stay focused (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gwqdpz/introducing_bloesem_nano_buildoff/)
