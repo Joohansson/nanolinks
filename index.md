@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [June 10: MoonPay](https://www.moonpay.io/)
 * [June 5: NANO Connect Messenger - Message app with Nano transactions](https://github.com/crixuscoach/Nano-Connect-Messenger)
 * [June 5: Nanoidenticons - Identification icons for Nano](https://github.com/keerifox/Nanoidenticons)
 * [June 5: NanoWire - Sell/Buy unused bandwidth](https://nanowire.com/)
@@ -208,10 +209,6 @@ layout: default
 * [June 5: Nanex - Consolidated transaction explorer](https://nanex.cc/)
 * [June 5: nanoomPay - Simplified nano payments](https://nanoompay.io/)
 * [June 5: Nanoom - Service for pulling Nano payments](https://nanoom.tech/)
-* [June 5: Bloesem - App with nano rewards to stay focused](https://mybloesem.com/)
-* [June 5: Nanowall.link - Content monetizer](https://nanowall.link/)
-* [June 5: Nalli - Mobile wallet with sms support](https://nalli.app/)
-* [June 5: Upstart - Digital content hosting and sale platform](https://upst-art.net/)
 
 </div>
 </div>
@@ -475,6 +472,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Godex.io](https://godex.io/)
 * [SwapSpace](https://swapspace.co/)
 * [Nano.Trade - Banano/Nano](https://nano.trade/)
+* [MoonPay](https://www.moonpay.io/)
 
 
 #### Escrow and Peer-to-peer
