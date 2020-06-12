@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [June 10: MoonPay](https://www.moonpay.io/)
 * [June 5: NANO Connect Messenger - Message app with Nano transactions](https://github.com/crixuscoach/Nano-Connect-Messenger)
 * [June 5: Nanoidenticons - Identification icons for Nano](https://github.com/keerifox/Nanoidenticons)
 * [June 5: NanoWire - Sell/Buy unused bandwidth](https://nanowire.com/)
@@ -208,10 +209,6 @@ layout: default
 * [June 5: Nanex - Consolidated transaction explorer](https://nanex.cc/)
 * [June 5: nanoomPay - Simplified nano payments](https://nanoompay.io/)
 * [June 5: Nanoom - Service for pulling Nano payments](https://nanoom.tech/)
-* [June 5: Bloesem - App with nano rewards to stay focused](https://mybloesem.com/)
-* [June 5: Nanowall.link - Content monetizer](https://nanowall.link/)
-* [June 5: Nalli - Mobile wallet with sms support](https://nalli.app/)
-* [June 5: Upstart - Digital content hosting and sale platform](https://upst-art.net/)
 
 </div>
 </div>
@@ -241,7 +238,7 @@ layout: default
 * [BlockHunters - Augmented Reality Game **tipanano(robotn)**](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
 * [Nano Repeat - Subscription Management for Vendors **mitche50**](https://www.reddit.com/r/nanocurrency/comments/gq1eh7/nano_build_off_nano_repeat_subscription/)
 * [Vola Wallet - iOS **appdev980/BitDesert**](https://www.reddit.com/r/nanocurrency/comments/gqjc54/vola_wallet_is_now_in_public_beta/)
-* [PlayNANO - Games **playnano**](https://www.reddit.com/r/nanocurrency/comments/gqz326/playnano_lets_show_everyone_what_nano_is_capable/)
+* [PlayNANO - Games **playnano**](https://www.reddit.com/r/nanocurrency/comments/gss9n6/repost_playnano_lets_show_everyone_what_nano_is/)
 * [Nano Connect - Free distributed RPC proxy **cryptocoinzzzz**](https://www.reddit.com/r/nanocurrency/comments/gqmpf6/nano_build_off_nano_connect_free_distributed_rpc/)
 * [Rock Paper Scissors Online **Ballstone_Group**](https://www.reddit.com/r/nanocurrency/comments/grkv4e/rock_paper_scissors_online/)
 * [Nanotify - API and web callback platform **_the_sound**](https://www.reddit.com/r/nanocurrency/comments/grkli4/introducing_nanotify_an_api_and_web_callback/)
@@ -258,14 +255,20 @@ layout: default
 * [NANO Espresso NFC - Coffee machine acceping NANO payments **fcdeluxe(flavio)**](https://www.reddit.com/r/nanocurrency/comments/guqqfs/buildoff_nano_espresso_nfc_this_coffee_machine/)
 * [FlappyNano - Flappy Bird against friends **theonlyalt2(Ashar)**](https://www.reddit.com/r/nanocurrency/comments/guwnfd/nano_buildoff_flappynano_play_flappy_bird_against/)
 * [Nano on Tap - Docker backend **silverstar194**](https://www.reddit.com/r/nanocurrency/comments/gw7cl9/nano_buildoff_nano_on_tap_nano_docker_backend/)
-* [Natricon - Icon identifier for accounts **Natrium(ngyekta)**](https://www.reddit.com/r/nanocurrency/comments/gvusgs/meet_natricon_a_friendly_familiar_face_for_your/)
+* [Natricon - Icon identifier for accounts **Natrium(yekta/bbedward)**](https://www.reddit.com/r/nanocurrency/comments/gvusgs/meet_natricon_a_friendly_familiar_face_for_your/)
 * [Nano-it-all Live Trivia Competition **nano-it-all**](https://www.reddit.com/r/nanocurrency/comments/gvumw6/nanoitall_live_trivia_competition_buildoff/)
 * [Nanoom - Service for pulling Nano payments **btcludo/jaimehbg**](https://www.reddit.com/r/nanocurrency/comments/gwtl8r/introducing_nanoom_nano_buildoff_submission/)
 * [Bloesem - App with nano rewards to stay focused **Velomo_(Maarten)**](https://www.reddit.com/r/nanocurrency/comments/gwqdpz/introducing_bloesem_nano_buildoff/)
 * [Nanowall.link - Content monetizer **tylereyes**](https://www.reddit.com/r/nanocurrency/comments/gwo83a/nano_buildoff_nanowalllink_easiest_way_to/)
 * [Nalli - Mobile wallet with sms support **numsu**](https://www.reddit.com/r/nanocurrency/comments/gwifbp/presenting_nalli_a_new_mobile_wallet_with_the/)
 * [Upstart - Digital content hosting and sale platform **Dwarfdeaths**](https://www.reddit.com/r/nanocurrency/comments/gwihn3/nano_buildoff_introducing_upstart_a_platform_to/)
+* [NanoWire - Sell/Buy unused bandwidth **Volatile Technologies**](https://www.reddit.com/r/nanocurrency/comments/gxoisd/buildoff_introducing_nanowire_sell_buy_unused/)
+* [Nano Profile - IPFS hosted profile picture network for Nano **Anarkrypto**](https://www.reddit.com/r/nanocurrency/comments/gx73a7/introducing_nanoprofile/)
+* [NanoAuth - Authentication service **NanoAuth**](https://www.reddit.com/r/nanocurrency/comments/gyxwpr/build_off_nanoauth_login_with_nano_instead_of/)
 * [NANO Connect Messenger - Message app with Nano transactions **bizi0909**](https://www.reddit.com/r/nanocurrency/comments/gx0loz/nano_connect_messenger_a_first_ever_chat_message/)
+* [Nanex - Consolidated transaction explorer **renesq**](https://nanex.cc/)
+* [YayMe - Online marketplace for short-form video lessons **Miguel**](https://yayme.cc/)
+* [Upstart - Digital content hosting and sale platform **Keith/Albin/Raj**](https://upst-art.net/)
 
 </div>
 </div>
@@ -469,6 +472,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Godex.io](https://godex.io/)
 * [SwapSpace](https://swapspace.co/)
 * [Nano.Trade - Banano/Nano](https://nano.trade/)
+* [MoonPay](https://www.moonpay.io/)
 
 
 #### Escrow and Peer-to-peer
