@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [June 12: TIX Web Wallet](https://tixwallet.cc/)
 * [June 10: MoonPay](https://www.moonpay.io/)
 * [June 5: NANO Connect Messenger - Message app with Nano transactions](https://github.com/crixuscoach/Nano-Connect-Messenger)
 * [June 5: Nanoidenticons - Identification icons for Nano](https://github.com/keerifox/Nanoidenticons)
@@ -208,7 +209,6 @@ layout: default
 * [June 5: YayMe - Online marketplace for short-form video lessons](https://yayme.cc/)
 * [June 5: Nanex - Consolidated transaction explorer](https://nanex.cc/)
 * [June 5: nanoomPay - Simplified nano payments](https://nanoompay.io/)
-* [June 5: Nanoom - Service for pulling Nano payments](https://nanoom.tech/)
 
 </div>
 </div>
