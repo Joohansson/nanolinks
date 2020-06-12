@@ -33,6 +33,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2020
+* [V21 Athena RC1 Released](https://www.reddit.com/r/nanocurrency/comments/h0dtda/v21_athena_rc1_released/)
+* [Nalli, the new mobile wallet with SMS support is now available for iOS in TestFlight](https://www.reddit.com/r/nanocurrency/comments/h0bxsy/nalli_the_new_mobile_wallet_with_sms_support_is/)
 * [NanoAuth - Authentication service (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gyxwpr/build_off_nanoauth_login_with_nano_instead_of/)
 * [NanoWire - Sell/Buy unused bandwidth (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gxoisd/buildoff_introducing_nanowire_sell_buy_unused/)
 * [Nano Profile - IPFS hosted profile picture network for Nano (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gx73a7/introducing_nanoprofile/)
