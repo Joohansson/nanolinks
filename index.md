@@ -593,13 +593,9 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 ### Faucets (Free Nano)
 * [Nano-Faucet.org](https://nano-faucet.org/)
 * [FreeNanoFaucet.com ](https://www.freenanofaucet.com/)
-* [A Lil Nano - Faucet](https://www.alilnano.com/)
-* [NanoFaucet.org](https://www.nanofaucet.org/)
-* [Getnano - Faucet](https://getnano.co.uk/)
-* [GetFreeNano - China Faucet](https://getfreenano.com/)
-* [OneFastWay - Faucet](https://onefastway.com/faucet/)
 * [Tetraloom - Faucet](https://tetraloom.com/nano/)
-
+* [Getnano - Faucet](https://getnano.co.uk/)
+* [OneFastWay - Faucet](https://onefastway.com/faucet/)
 
 ### Point of Sale
 * [Appia - Payment service, PoS](http://appia.co/)
