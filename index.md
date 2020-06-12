@@ -482,7 +482,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nanovault** - Web,Windows,Linux,Mac](https://nanovault.io/)
 * [**Nanovault Ninja** - Web](https://vault.mynano.ninja/)
 * [**Nanovault NCrawler** - Web](https://vault.nanocrawler.cc/)
-* [**TIX** - Web](https://tix.nanos.cc)
+* [**TIX** - Web](https://tixwallet.cc)
 * [**WeNano** - iOS](https://wenano.net/)
 * [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
 * [**Vola** - iOS](https://getvola.com)
