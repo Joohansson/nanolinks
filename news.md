@@ -33,6 +33,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2020
+* [Community-made marketing video: 10 reasons to use NANO instead of the Dollar](https://www.reddit.com/r/nanocurrency/comments/h80j1j/10_reasons_to_use_nano_instead_of_the_dollar_or/)
+* [The Nano Faucet Distribution: Visualized and Analyzed](https://www.reddit.com/r/nanocurrency/comments/h7fmge/the_nano_faucet_distribution_visualized_and/)
 * [V21 Athena RC1 Released](https://www.reddit.com/r/nanocurrency/comments/h0dtda/v21_athena_rc1_released/)
 * [Nalli, the new mobile wallet with SMS support is now available for iOS in TestFlight](https://www.reddit.com/r/nanocurrency/comments/h0bxsy/nalli_the_new_mobile_wallet_with_sms_support_is/)
 * [NanoAuth - Authentication service (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gyxwpr/build_off_nanoauth_login_with_nano_instead_of/)

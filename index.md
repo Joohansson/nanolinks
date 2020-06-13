@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [June 13: 10 reasons to use NANO instead of the Dollar](https://www.reddit.com/r/nanocurrency/comments/h80j1j/10_reasons_to_use_nano_instead_of_the_dollar_or/)
 * [June 12: TIX Web Wallet](https://tixwallet.cc/)
 * [June 10: MoonPay](https://www.moonpay.io/)
 * [June 5: NANO Connect Messenger - Message app with Nano transactions](https://github.com/crixuscoach/Nano-Connect-Messenger)
@@ -208,7 +209,6 @@ layout: default
 * [June 5: NanoAuth - Authentication service](https://www.nanoauth.app/#/)
 * [June 5: YayMe - Online marketplace for short-form video lessons](https://yayme.cc/)
 * [June 5: Nanex - Consolidated transaction explorer](https://nanex.cc/)
-* [June 5: nanoomPay - Simplified nano payments](https://nanoompay.io/)
 
 </div>
 </div>
@@ -375,6 +375,7 @@ Learn everything there is to know about Nano!
 * [Nano Overview](https://youtu.be/JynwiU2D_K0)
 * [Nano is Green](https://youtu.be/JChBTohSHlM)
 * [The Power of Digital Money - Nano Around The Globe](https://youtu.be/iKt9KepQQF4)
+* [10 reasons to use NANO instead of the Dollar](https://www.reddit.com/r/nanocurrency/comments/h80j1j/10_reasons_to_use_nano_instead_of_the_dollar_or/)
 
 ### Network Stats and Explorers
 * [NanoCrawler.cc - Explorer, Stats, Account list](https://nanocrawler.cc/)
@@ -608,6 +609,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Brainblocks Web PoS](https://pos.brainblocks.io/)
 * [MoonPos - Mobile PoS](https://www.moonposapp.com/)
 * [InstantCash - Point of sale for Android](https://instantcashpos.xyz/)
+* [TIX - PoS without login/seed needed (Demo URL)](https://tixwallet.cc/#/pos/nano_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo)
 
 </div>
 </div>
