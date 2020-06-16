@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [June 16: Swapzone - Trading offers](https://swapzone.io/?to=nano)
 * [June 13: 10 reasons to use NANO instead of the Dollar](https://www.reddit.com/r/nanocurrency/comments/h80j1j/10_reasons_to_use_nano_instead_of_the_dollar_or/)
 * [June 12: TIX Web Wallet](https://tixwallet.cc/)
 * [June 10: MoonPay](https://www.moonpay.io/)
@@ -208,7 +209,6 @@ layout: default
 * [June 5: Nano Profile - IPFS hosted profile picture network for Nano](http://nanoprofile.online/)
 * [June 5: NanoAuth - Authentication service](https://www.nanoauth.app/#/)
 * [June 5: YayMe - Online marketplace for short-form video lessons](https://yayme.cc/)
-* [June 5: Nanex - Consolidated transaction explorer](https://nanex.cc/)
 
 </div>
 </div>
@@ -474,6 +474,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [SwapSpace](https://swapspace.co/)
 * [Nano.Trade - Banano/Nano](https://nano.trade/)
 * [MoonPay](https://www.moonpay.io/)
+* [Swapzone - Trading offers](https://swapzone.io/?to=nano)
 
 
 #### Escrow and Peer-to-peer
