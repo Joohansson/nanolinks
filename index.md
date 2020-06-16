@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [June 16: Nano Jackpot - Betting](https://nanojackpot.xyz/)
 * [June 16: Swapzone - Trading offers](https://swapzone.io/?to=nano)
 * [June 13: 10 reasons to use NANO instead of the Dollar](https://www.reddit.com/r/nanocurrency/comments/h80j1j/10_reasons_to_use_nano_instead_of_the_dollar_or/)
 * [June 12: TIX Web Wallet](https://tixwallet.cc/)
@@ -208,7 +209,6 @@ layout: default
 * [June 5: NanoWire - Sell/Buy unused bandwidth](https://nanowire.com/)
 * [June 5: Nano Profile - IPFS hosted profile picture network for Nano](http://nanoprofile.online/)
 * [June 5: NanoAuth - Authentication service](https://www.nanoauth.app/#/)
-* [June 5: YayMe - Online marketplace for short-form video lessons](https://yayme.cc/)
 
 </div>
 </div>
@@ -801,6 +801,7 @@ There are much fun to do but please proceed with caution.
 * [Nano-PvP - Player vs Player Coinflip Matches](https://nano-pvp.web.app/)
 * [OneFastWay Casino - Built On NANO Blockchain](https://onefastway.com/casino)
 * [Nanofun - Betting](https://nanohub.online/)
+* [Nano Jackpot - Betting](https://nanojackpot.xyz/)
 
 ### Games
 * [NANO Arcade - Game Collection](https://nanoarcade.org/games)

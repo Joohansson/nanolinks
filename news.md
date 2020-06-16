@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2020
+* [Introducing NANOJackpot - Feeless Lottery Game](https://www.reddit.com/r/nanocurrency/comments/ha2222/introducing_nanojackpot_feeless_lottery_game/)
 * [Competition to come up with the best marketing ideas to increase Nano adoption](https://www.reddit.com/r/nanocurrency/comments/h94bvl/competition_to_come_up_with_the_best_marketing/)
 * [Community-made marketing video: 10 reasons to use NANO instead of the Dollar](https://www.reddit.com/r/nanocurrency/comments/h80j1j/10_reasons_to_use_nano_instead_of_the_dollar_or/)
 * [The Nano Faucet Distribution: Visualized and Analyzed](https://www.reddit.com/r/nanocurrency/comments/h7fmge/the_nano_faucet_distribution_visualized_and/)
