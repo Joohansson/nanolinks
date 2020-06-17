@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2020
+* [NanoTicker upgraded for v21 with new features and improved data accuracy](https://www.reddit.com/r/nanocurrency/comments/hacgda/nanoticker_upgraded_for_v21_with_new_features_and/)
 * [V21 Athena is live on the Nano network!](https://www.reddit.com/r/nanocurrency/comments/ha7zd8/v21_athena_is_live_on_the_nano_network/)
 * [Introducing NANOJackpot - Feeless Lottery Game](https://www.reddit.com/r/nanocurrency/comments/ha2222/introducing_nanojackpot_feeless_lottery_game/)
 * [Competition to come up with the best marketing ideas to increase Nano adoption](https://www.reddit.com/r/nanocurrency/comments/h94bvl/competition_to_come_up_with_the_best_marketing/)
