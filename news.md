@@ -33,6 +33,9 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2020
+* [You can now buy NANO instantly or recurring using Buy Crypto on Binance.US](https://www.reddit.com/r/nanocurrency/comments/hf38f1/you_can_now_buy_nano_instantly_or_recurring_using/)
+* [Nano Repeat - Subscription Bot for Discord](https://www.reddit.com/r/nanocurrency/comments/herz0s/nano_repeat_subscription_bot_for_discord/)
+* [New version of CSGO - Nano tournament released](https://www.reddit.com/r/nanocurrency/comments/hf1469/new_version_of_csgo_nano_tournament_released/)
 * [NanoTicker upgraded for v21 with new features and improved data accuracy](https://www.reddit.com/r/nanocurrency/comments/hacgda/nanoticker_upgraded_for_v21_with_new_features_and/)
 * [V21 Athena is live on the Nano network!](https://www.reddit.com/r/nanocurrency/comments/ha7zd8/v21_athena_is_live_on_the_nano_network/)
 * [Introducing NANOJackpot - Feeless Lottery Game](https://www.reddit.com/r/nanocurrency/comments/ha2222/introducing_nanojackpot_feeless_lottery_game/)
