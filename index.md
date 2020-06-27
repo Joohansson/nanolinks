@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [June 27: Colin LeMahieu Interviewed on Keyword:Crypto Jun 2020](https://open.spotify.com/episode/0ONmBDDxSaQZcM3Du1t7wG)
 * [June 16: Nano Jackpot - Betting](https://nanojackpot.xyz/)
 * [June 16: Swapzone - Trading offers](https://swapzone.io/?to=nano)
 * [June 13: 10 reasons to use NANO instead of the Dollar](https://www.reddit.com/r/nanocurrency/comments/h80j1j/10_reasons_to_use_nano_instead_of_the_dollar_or/)
@@ -208,7 +209,6 @@ layout: default
 * [June 5: Nanoidenticons - Identification icons for Nano](https://github.com/keerifox/Nanoidenticons)
 * [June 5: NanoWire - Sell/Buy unused bandwidth](https://nanowire.com/)
 * [June 5: Nano Profile - IPFS hosted profile picture network for Nano](http://nanoprofile.online/)
-* [June 5: NanoAuth - Authentication service](https://www.nanoauth.app/#/)
 
 </div>
 </div>
@@ -353,10 +353,11 @@ Learn everything there is to know about Nano!
 * [The Power of Digital Money - 1 Nano passing around the world](https://youtu.be/iKt9KepQQF4)
 * [Transaction Speed Demo - Mobile to Mobile](https://youtu.be/5K8rRISz4RU)
 * [Transaction Speed Demo - Confirmation Node to Node](https://youtu.be/R6oxmQaiFJI)
-* [Colin LeMahieu Interviewed on Crypto Finder Sep 02](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
-* [Colin LeMahieu Interviewed by The Crypto Lark Feb 18](https://youtu.be/hAy4GDV7tvQ)
-* [Colin LeMahieu Interviewed by DataDash Oct 18](https://youtu.be/eWdOkIev_xM)
+* [Colin LeMahieu Interviewed by The Crypto Lark Feb 2018](https://youtu.be/hAy4GDV7tvQ)
+* [Colin LeMahieu Interviewed by DataDash Oct 2018](https://youtu.be/eWdOkIev_xM)
 * [Colin LeMahieu Audio interview on Hashing It Out Podcast Oct 2019](https://the-bitcoin-podcast-network.simplecast.com/episodes/hashing-it-out-63-nano-colin-lemahieu)
+* [Colin LeMahieu Interviewed on Crypto Finder Sep 2019](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
+* [Colin LeMahieu Interviewed on Keyword:Crypto Jun 2020](https://open.spotify.com/episode/0ONmBDDxSaQZcM3Du1t7wG)
 * [Nano review by Coin Bureau Oct 2019](https://youtu.be/JkoXe6M-59U)
 * [Blockchain Central: Interview with Colin and Andy Oct 2019](https://youtu.be/rhMGXoWGZfg)
 * [Everything you need to know about Nano](https://youtu.be/ywgMlJBli7g)

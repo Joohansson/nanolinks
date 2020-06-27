@@ -33,6 +33,9 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2020
+* [Interview with Colin LeMahieu - Hosted by Keyword: Crypto](https://www.reddit.com/r/nanocurrency/comments/hfqy8o/interview_with_colin_lemahieu_hosted_by_keyword/)
+* [RoboCash Beta + NanoCenter Update](https://www.reddit.com/r/nanocurrency/comments/hgfoob/robocash_beta_nanocenter_update/)
+* [Notes from Nano Foundation Dev AMA on Discord](https://www.reddit.com/r/nanocurrency/comments/hfrj37/nano_foundation_dev_ama_on_discord_my_notes/)
 * [You can now buy NANO instantly or recurring using Buy Crypto on Binance.US](https://www.reddit.com/r/nanocurrency/comments/hf38f1/you_can_now_buy_nano_instantly_or_recurring_using/)
 * [Nano Repeat - Subscription Bot for Discord](https://www.reddit.com/r/nanocurrency/comments/herz0s/nano_repeat_subscription_bot_for_discord/)
 * [New version of CSGO - Nano tournament released](https://www.reddit.com/r/nanocurrency/comments/hf1469/new_version_of_csgo_nano_tournament_released/)
