@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [June 29: Nault Wallet](https://nault.cc)
 * [June 27: Colin LeMahieu Interviewed on Keyword:Crypto Jun 2020](https://open.spotify.com/episode/0ONmBDDxSaQZcM3Du1t7wG)
 * [June 16: Nano Jackpot - Betting](https://nanojackpot.xyz/)
 * [June 16: Swapzone - Trading offers](https://swapzone.io/?to=nano)
@@ -208,7 +209,6 @@ layout: default
 * [June 5: NANO Connect Messenger - Message app with Nano transactions](https://github.com/crixuscoach/Nano-Connect-Messenger)
 * [June 5: Nanoidenticons - Identification icons for Nano](https://github.com/keerifox/Nanoidenticons)
 * [June 5: NanoWire - Sell/Buy unused bandwidth](https://nanowire.com/)
-* [June 5: Nano Profile - IPFS hosted profile picture network for Nano](http://nanoprofile.online/)
 
 </div>
 </div>
