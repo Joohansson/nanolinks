@@ -33,6 +33,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2020
+* [The re-birth of NanoVault: Nault](https://www.reddit.com/r/nanocurrency/comments/hhxjfv/the_rebirth_of_nanovault_nault/)
+* [Nano now available on GuardaWallet](https://www.reddit.com/r/nanocurrency/comments/hi75ix/nano_now_available_on_guardawallet/)
 * [Interview with Colin LeMahieu - Hosted by Keyword: Crypto](https://www.reddit.com/r/nanocurrency/comments/hfqy8o/interview_with_colin_lemahieu_hosted_by_keyword/)
 * [RoboCash Beta + NanoCenter Update](https://www.reddit.com/r/nanocurrency/comments/hgfoob/robocash_beta_nanocenter_update/)
 * [Notes from Nano Foundation Dev AMA on Discord](https://www.reddit.com/r/nanocurrency/comments/hfrj37/nano_foundation_dev_ama_on_discord_my_notes/)

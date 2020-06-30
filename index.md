@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [June 30: Guarda Wallet](https://guarda.com/)
 * [June 29: Nault Wallet](https://nault.cc)
 * [June 27: Colin LeMahieu Interviewed on Keyword:Crypto Jun 2020](https://open.spotify.com/episode/0ONmBDDxSaQZcM3Du1t7wG)
 * [June 16: Nano Jackpot - Betting](https://nanojackpot.xyz/)
@@ -208,7 +209,6 @@ layout: default
 * [June 10: MoonPay](https://www.moonpay.io/)
 * [June 5: NANO Connect Messenger - Message app with Nano transactions](https://github.com/crixuscoach/Nano-Connect-Messenger)
 * [June 5: Nanoidenticons - Identification icons for Nano](https://github.com/keerifox/Nanoidenticons)
-* [June 5: NanoWire - Sell/Buy unused bandwidth](https://nanowire.com/)
 
 </div>
 </div>
@@ -505,6 +505,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Exodus** - Win, Mac, Linux, iOS, Android](https://www.exodus.io/)
 * [**Trust Wallet** - iOS, Android](https://trustwallet.com/)
 * [**Atomic** - Win, Mac, Ubuntu, Debian, Fedora](https://atomicwallet.io/)
+* [**Guarda** - Win, Mac, Debian, Ubuntu, Linux, Web, iOS, Android, Chrome extension](https://guarda.com/)
 
 #### Address Generators, Paper Wallets
 * [NanoPaperWallet.com](https://nanopaperwallet.com/)
