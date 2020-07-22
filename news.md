@@ -33,6 +33,9 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### July 2020
+[NANO Founder Colin Lemahieu LIVE with Barely Sociable](https://www.reddit.com/r/nanocurrency/comments/hvbac2/nano_founder_colin_lemahieu_live_with_barely/)
+[V21.1 Athena release now available](https://www.reddit.com/r/nanocurrency/comments/hr63jd/v211_athena_release_now_available/)
+[NanoFusion - Project Update and Next Steps](https://www.reddit.com/r/nanocurrency/comments/hoblrn/nanofusion_project_update_and_next_steps/)
 [Announcing the winners of the $75,000 Nano Build-Off](https://www.reddit.com/r/nanocurrency/comments/hnim3i/announcing_the_winners_of_the_75000_nano_buildoff/)
 [June Nano Community Project Award: Nano Tip Bot](https://www.reddit.com/r/nanocurrency/comments/hmp8c5/june_nano_community_project_award_nano_tip_bot/)
 
