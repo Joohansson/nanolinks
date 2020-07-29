@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Jul 29: Robocash - Spam killer that turns phone calls into cash](http://myrobocash.com/)
 * [June 30: Guarda Wallet](https://guarda.com/)
 * [June 29: Nault Wallet](https://nault.cc)
 * [June 27: Colin LeMahieu Interviewed on Keyword:Crypto Jun 2020](https://open.spotify.com/episode/0ONmBDDxSaQZcM3Du1t7wG)
@@ -208,7 +209,6 @@ layout: default
 * [June 12: TIX Web Wallet](https://tixwallet.cc/)
 * [June 10: MoonPay](https://www.moonpay.io/)
 * [June 5: NANO Connect Messenger - Message app with Nano transactions](https://github.com/crixuscoach/Nano-Connect-Messenger)
-* [June 5: Nanoidenticons - Identification icons for Nano](https://github.com/keerifox/Nanoidenticons)
 
 </div>
 </div>
@@ -845,6 +845,7 @@ There are much fun to do but please proceed with caution.
 * [Nanowall.link - Content monetizer](https://nanowall.link/)
 * [Upstart - Digital content hosting and sale platform](https://upst-art.net/)
 * [YayMe - Online marketplace for short-form video lessons](https://yayme.cc/)
+* [Robocash - Spam killer that turns phone calls into cash](http://myrobocash.com/)
 
 Services which payout Nano
 * [Earn Nano - Directory for getting Nano without purchase](https://earn-nano.com/)

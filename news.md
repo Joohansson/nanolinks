@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### July 2020
+[RoboCash app in Google Play - Try the Nano-powered phone spam blocker today!](https://www.reddit.com/r/nanocurrency/comments/hzjfci/robocash_app_in_google_play_try_the_nanopowered/)
 [Say hello to the new ultra-secure remote/offline signing feature in Nault!](https://www.reddit.com/r/nanocurrency/comments/hxlm7t/say_hello_to_the_new_ultrasecure_remoteoffline/)
 [Introducing PhraseFile: A file-based 2FA method for Nano seeds](https://www.reddit.com/r/nanocurrency/comments/hx4gi9/introducing_phrasefile_a_filebased_2fa_method_for/)
 [NANO Founder Colin Lemahieu LIVE with Barely Sociable](https://www.reddit.com/r/nanocurrency/comments/hvbac2/nano_founder_colin_lemahieu_live_with_barely/)
