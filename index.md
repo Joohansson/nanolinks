@@ -566,6 +566,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [CoinGecko](https://www.coingecko.com/en/coins/nano)
 * [Nanoji Chart - Emotional Nano Price Charts and Discord Bot](https://price.nanoticker.info/)
 * [Coincircus - Nano/BTC/USD](https://coincircus.io/crypto/prices/nano/NANO)
+* [Currency World - Nano/USD/BTC](https://currency.world/convert/NANO/USD/BTC)
 
 ### Merchant & Donation Related [No shops, too many]
 * [Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
