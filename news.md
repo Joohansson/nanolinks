@@ -33,6 +33,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### July 2020
+[Nault wallet redesign](https://www.reddit.com/r/nanocurrency/comments/i0yo6i/nault_wallet_redesign/)
 [RoboCash app in Google Play - Try the Nano-powered phone spam blocker today!](https://www.reddit.com/r/nanocurrency/comments/hzjfci/robocash_app_in_google_play_try_the_nanopowered/)
 [Say hello to the new ultra-secure remote/offline signing feature in Nault!](https://www.reddit.com/r/nanocurrency/comments/hxlm7t/say_hello_to_the_new_ultrasecure_remoteoffline/)
 [Introducing PhraseFile: A file-based 2FA method for Nano seeds](https://www.reddit.com/r/nanocurrency/comments/hx4gi9/introducing_phrasefile_a_filebased_2fa_method_for/)
