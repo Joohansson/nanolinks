@@ -33,13 +33,16 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### July 2020
-[Say hello to the new ultra-secure remote/offline signing feature in Nault!](https://www.reddit.com/r/nanocurrency/comments/hxlm7t/say_hello_to_the_new_ultrasecure_remoteoffline/)
-[Introducing PhraseFile: A file-based 2FA method for Nano seeds](https://www.reddit.com/r/nanocurrency/comments/hx4gi9/introducing_phrasefile_a_filebased_2fa_method_for/)
-[NANO Founder Colin Lemahieu LIVE with Barely Sociable](https://www.reddit.com/r/nanocurrency/comments/hvbac2/nano_founder_colin_lemahieu_live_with_barely/)
-[V21.1 Athena release now available](https://www.reddit.com/r/nanocurrency/comments/hr63jd/v211_athena_release_now_available/)
-[NanoFusion - Project Update and Next Steps](https://www.reddit.com/r/nanocurrency/comments/hoblrn/nanofusion_project_update_and_next_steps/)
-[Announcing the winners of the $75,000 Nano Build-Off](https://www.reddit.com/r/nanocurrency/comments/hnim3i/announcing_the_winners_of_the_75000_nano_buildoff/)
-[June Nano Community Project Award: Nano Tip Bot](https://www.reddit.com/r/nanocurrency/comments/hmp8c5/june_nano_community_project_award_nano_tip_bot/)
+* [Nault wallet redesign](https://www.reddit.com/r/nanocurrency/comments/i0yo6i/nault_wallet_redesign/)
+* [Development update: Increased work difficulty upgrade status](https://www.reddit.com/r/nanocurrency/comments/i0nxqe/development_update_increased_work_difficulty/)
+* [RoboCash app in Google Play - Try the Nano-powered phone spam blocker today!](https://www.reddit.com/r/nanocurrency/comments/hzjfci/robocash_app_in_google_play_try_the_nanopowered/)
+* [Say hello to the new ultra-secure remote/offline signing feature in Nault!](https://www.reddit.com/r/nanocurrency/comments/hxlm7t/say_hello_to_the_new_ultrasecure_remoteoffline/)
+* [Introducing PhraseFile: A file-based 2FA method for Nano seeds](https://www.reddit.com/r/nanocurrency/comments/hx4gi9/introducing_phrasefile_a_filebased_2fa_method_for/)
+* [NANO Founder Colin Lemahieu LIVE with Barely Sociable](https://www.reddit.com/r/nanocurrency/comments/hvbac2/nano_founder_colin_lemahieu_live_with_barely/)
+* [V21.1 Athena release now available](https://www.reddit.com/r/nanocurrency/comments/hr63jd/v211_athena_release_now_available/)
+* [NanoFusion - Project Update and Next Steps](https://www.reddit.com/r/nanocurrency/comments/hoblrn/nanofusion_project_update_and_next_steps/)
+* [Announcing the winners of the $75,000 Nano Build-Off](https://www.reddit.com/r/nanocurrency/comments/hnim3i/announcing_the_winners_of_the_75000_nano_buildoff/)
+* [June Nano Community Project Award: Nano Tip Bot](https://www.reddit.com/r/nanocurrency/comments/hmp8c5/june_nano_community_project_award_nano_tip_bot/)
 
 ### June 2020
 * [The re-birth of NanoVault: Nault](https://www.reddit.com/r/nanocurrency/comments/hhxjfv/the_rebirth_of_nanovault_nault/)
