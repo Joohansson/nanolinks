@@ -525,14 +525,13 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Distributed Vanity Address Generation](https://plasmapower.github.io/distributed-vanity/)
 
 #### Hardware Wallets and Nodes
-* [Ledger Nano S](https://www.ledger.fr/)
+* [Ledger Nano S](https://www.ledger.com/)
 * [Jolt](https://www.joltwallet.com/)
 
 #### Wallet and Account Guides
 * [Nano Wallets - Security and Convenience](https://medium.com/nano-education/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
 * [How to securely transact on the Nano network using an offline device](https://medium.com/nanocurrency/how-to-securely-transact-on-the-nano-network-using-an-offline-device-93713d217377)
-* [Ledger Nano - Text Guide](https://medium.com/@d84/use-your-ledger-device-with-nanovault-3dc913a95418)
-* [Ledger Nano - Video Guide](https://youtu.be/OoTfRjXsxNk)
+* [Ledger Nano - Text Guide](http://docs.nault.cc/2020/08/04/ledger-guide.html)
 * [How to transfer Nano from a Ledger Nano recovery phrase using offline signing](https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
 * [Magnum Nano Wallets in Detail](https://medium.com/@d84/magnum-nano-wallets-in-detail-d7188ed62fbc)
 * [How to create a custom NANO account at maximum speed](https://medium.com/nanocurrency/how-to-create-a-custom-nano-account-at-maximum-speed-cd9be0045ead)
