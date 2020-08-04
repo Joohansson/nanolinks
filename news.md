@@ -32,6 +32,10 @@ layout: newslayout
 ## Reddit News
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### August 2020
+* [Optimizations bring back to 0.3 seconds per PoW](https://www.reddit.com/r/nanocurrency/comments/i3hr9m/optimizations_bring_back_to_03_seconds_per_pow/)
+* [The Nano Foundation has joined FITSPA Uganda to help amplify Nano as the go-to digital money solution for the people of Uganda](https://www.reddit.com/r/nanocurrency/comments/i2x5nz/the_nano_foundation_has_joined_fitspa_uganda_to/)
+
 ### July 2020
 * [Nault wallet redesign](https://www.reddit.com/r/nanocurrency/comments/i0yo6i/nault_wallet_redesign/)
 * [Development update: Increased work difficulty upgrade status](https://www.reddit.com/r/nanocurrency/comments/i0nxqe/development_update_increased_work_difficulty/)
