@@ -802,6 +802,7 @@ There are much fun to do but please proceed with caution.
 * [OneFastWay Casino - Built On NANO Blockchain](https://onefastway.com/casino)
 * [Nanofun - Betting](https://nanohub.online/)
 * [Nano Jackpot - Betting](https://nanojackpot.xyz/)
+* [PlayNANO - Provably Fair Roulette](https://playnano.online/roulette)
 
 ### Games
 * [NANO Arcade - Game Collection](https://nanoarcade.org/games)
@@ -813,7 +814,7 @@ There are much fun to do but please proceed with caution.
 * [The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo)
 * [Raesonic - In-game purchases](https://raesonic.com/)
 * [Nanoce - Nano powered gaming tournaments](https://nanoce.net/)
-* [PlayNano - Games](https://playnano.online/)
+* [PlayNANO - Jumper Multiplayer Game](https://playnano.online/jumper)
 * [Rock Paper Scissors Online](https://rock-paper-scissors.online/)
 * [KojoSlayer - Battle RPG](https://kojoslayer.com/)
 * [FlappyNano - Flappy Bird against friends](https://flappynano.com/)
@@ -846,6 +847,7 @@ There are much fun to do but please proceed with caution.
 * [Upstart - Digital content hosting and sale platform](https://upst-art.net/)
 * [YayMe - Online marketplace for short-form video lessons](https://yayme.cc/)
 * [Robocash - Spam killer that turns phone calls into cash](http://myrobocash.com/)
+* [PlayNANO - Buy Gift Cards with Nano](https://playnano.online/gift-cards)
 
 Services which payout Nano
 * [Earn Nano - Directory for getting Nano without purchase](https://earn-nano.com/)
@@ -864,6 +866,7 @@ Services which payout Nano
 * [WeNano - iOS wallet with Geo-spots payout](https://wenano.net/)
 * [BlockHunters - Augmented Reality Nano Hunt](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
 * [Polyrun - Workout rewards](https://polyrun.app/)
+* [PlayNANO - Earn Free Nano by completing tasks & watching videos](https://playnano.online/offerwalls)
 
 </div>
 </div>
