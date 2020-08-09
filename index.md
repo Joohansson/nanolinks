@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Aug 9: NanoKe - Onchain Betting](https://nanoke.com/)
 * [Jul 29: Robocash - Spam killer that turns phone calls into cash](http://myrobocash.com/)
 * [June 30: Guarda Wallet](https://guarda.com/)
 * [June 29: Nault Wallet](https://nault.cc)
@@ -208,7 +209,6 @@ layout: default
 * [June 13: 10 reasons to use NANO instead of the Dollar](https://www.reddit.com/r/nanocurrency/comments/h80j1j/10_reasons_to_use_nano_instead_of_the_dollar_or/)
 * [June 12: TIX Web Wallet](https://tixwallet.cc/)
 * [June 10: MoonPay](https://www.moonpay.io/)
-* [June 5: NANO Connect Messenger - Message app with Nano transactions](https://github.com/crixuscoach/Nano-Connect-Messenger)
 
 </div>
 </div>
@@ -803,6 +803,7 @@ There are much fun to do but please proceed with caution.
 * [Nanofun - Betting](https://nanohub.online/)
 * [Nano Jackpot - Betting](https://nanojackpot.xyz/)
 * [PlayNANO - Provably Fair Roulette](https://playnano.online/roulette)
+* [NanoKe - Onchain Betting](https://nanoke.com/)
 
 ### Games
 * [NANO Arcade - Game Collection](https://nanoarcade.org/games)
