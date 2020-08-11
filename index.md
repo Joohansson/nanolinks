@@ -10,7 +10,7 @@ layout: default
     <div id="dropdown-content">
       <ul>
         <li><a href="#">Top</a></li>
-	<li><a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info&edit-text=&act=url">Translated Site</a></li>
+  <li><a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info&edit-text=&act=url">Translated Site</a></li>
         <li><a href="#latest-additions">Latest Additions</a></li>
         <li><a href="#information--education">Information &amp; Education</a></li>
         <li><a href="#market">Market</a></li>
@@ -88,7 +88,7 @@ layout: default
 <h3><strong>Test Nano</strong></h3>
 <div class="first-para">
   <p>Without the need to own any nano you can try the power of fast and fee-less transactions on the real live network!<br>
-	  If you want to transact with your own nano you can easily create a wallet and obtain some free nano from any of the faucets found below.</p>
+    If you want to transact with your own nano you can easily create a wallet and obtain some free nano from any of the faucets found below.</p>
   <a href="http://nanospeed.live" class="site-btn btn-wide btn-external site-btn-space" onclick="window.open(this.href); return false;">SPEED TEST FROM A TO B</a><br>
   <a href="#faucets-free-nano" class="site-btn btn-wide site-btn-space">GET FREE NANO</a><br>
   <a href="https://www.reddit.com/r/nano_tipper/wiki/index" class="site-btn btn-wide btn-external" onclick="window.open(this.href); return false;">REDDIT TIPPING</a>
@@ -199,6 +199,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+
+* [Aug 11: Noxy - A simple and fast Nano RPC proxy and relay](https://github.com/BitDesert/Noxy)
 * [Aug 9: NanoKe - Onchain Betting](https://nanoke.com/)
 * [Jul 29: Robocash - Spam killer that turns phone calls into cash](http://myrobocash.com/)
 * [June 30: Guarda Wallet](https://guarda.com/)
@@ -208,7 +210,6 @@ layout: default
 * [June 16: Swapzone - Trading offers](https://swapzone.io/?to=nano)
 * [June 13: 10 reasons to use NANO instead of the Dollar](https://www.reddit.com/r/nanocurrency/comments/h80j1j/10_reasons_to_use_nano_instead_of_the_dollar_or/)
 * [June 12: TIX Web Wallet](https://tixwallet.cc/)
-* [June 10: MoonPay](https://www.moonpay.io/)
 
 </div>
 </div>
@@ -220,6 +221,7 @@ layout: default
 <div class="link-content" markdown="1">
 
 ## Nano Build-off 2020
+
 * [Build-off Home](https://nanobuildoff.com/)
 * [Build-off Public Submissions](https://app.nanobuildoff.com/list/submissions)
 * [Build-off Dev Portal (edit/submit projects/teams)](https://app.nanobuildoff.com/login)
@@ -279,6 +281,7 @@ layout: default
 <div class="link-content" markdown="1">
 
 ## Information & Education
+
 Learn everything there is to know about Nano!
 
 ### Core Team
@@ -291,6 +294,7 @@ Learn everything there is to know about Nano!
 * [Medium Channel - The Nano Center](https://medium.com/the-nano-center)
 
 ### Core Social Media & Contribution Channels
+
 * [Reddit](https://www.reddit.com/r/nanocurrency/)
 * [Discord: Nano Main (Info, Support, Integrations, News)](https://chat.nano.org)
 * [Discord: The Nano Center (Community projects, Trade talk, Gaming](http://discord.nanocenter.org/)
@@ -302,10 +306,12 @@ Learn everything there is to know about Nano!
 * [Telegram China](https://t.me/NanoCN)
 
 ### Scientific Papers
+
 * [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
 * [Scalability of Bitcoin and Nano protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTEXT02.pdf)
 
 ### Education & Adoption
+
 * [What is Nano in 60 Sec](https://youtu.be/ydVomoXEGe0)
 * [Nano Guide - Getting started](http://nano-guide.com/)
 * [Nano Guide 2 - Getting Started](https://gettingstarted.nanocenter.org/)
@@ -325,14 +331,17 @@ Learn everything there is to know about Nano!
 * [NANO TAA - Promotion](https://www.nanotaa.com/)
 
 #### External Media
+
 * [Colin LeMahieu joins the @Crypto101Pod podcast](https://soundcloud.com/crypto101podcast/from-the-archive-nano-and-holochain)
 * [Emerging Economies Are Our Target Market: Nano Founder Colin LeMahieu](https://cryptobriefing.com/nano-adoption-target-market/)
 * [Third Generation Cryptocurrencies](https://hackernoon.com/why-third-generation-cryptocurrencies-are-game-changers-for-venezuela-cb8c9b016f9d)
 
 #### Adoption
+
 * [Kappture: Accepting cryptocurrency at the point-of-sale](https://www.kappture.co.uk/files/accepting-cryptocurrency-at-the-point-of-sale.pdf)
 
 #### Targeted Countries
+
 * [Venezuela 1](https://nano.org.ve/)
 * [Nano China](https://nanochina.co/)
 * [Chinese information and news](http://www.nano.wang/)
@@ -341,6 +350,7 @@ Learn everything there is to know about Nano!
 * [NanoUganda](https://nanoug.com/)
 
 ### Video Channels
+
 * [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
 * [Nano Basics](https://www.youtube.com/channel/UCGYBwp3HtfUoXbwL4NtiV3Q)
 * [NanoCast](https://www.youtube.com/channel/UC_KCdNCWQcb5Z4vsPBY18yQ)
@@ -350,6 +360,7 @@ Learn everything there is to know about Nano!
 * [Patrick Luberus - Nano Education](https://www.youtube.com/user/PatrickLuberus/videos)
 
 ### Interesting Videos [Not in channels above]
+
 * [The Power of Digital Money - 1 Nano passing around the world](https://youtu.be/iKt9KepQQF4)
 * [Transaction Speed Demo - Mobile to Mobile](https://youtu.be/5K8rRISz4RU)
 * [Transaction Speed Demo - Confirmation Node to Node](https://youtu.be/R6oxmQaiFJI)
@@ -372,6 +383,7 @@ Learn everything there is to know about Nano!
 * [NANO Espresso NFC - Coffee machine acceping NANO payments](https://youtu.be/3GmhIWZC7hA)
 
 ### Video Advertisement
+
 * [Nano The Future of Money](https://youtu.be/lw-rpO0jqYQ)
 * [Nano Overview](https://youtu.be/JynwiU2D_K0)
 * [Nano is Green](https://youtu.be/JChBTohSHlM)
@@ -379,6 +391,7 @@ Learn everything there is to know about Nano!
 * [10 reasons to use NANO instead of the Dollar](https://www.reddit.com/r/nanocurrency/comments/h80j1j/10_reasons_to_use_nano_instead_of_the_dollar_or/)
 
 ### Network Stats and Explorers
+
 * [NanoCrawler.cc - Explorer, Stats, Account list](https://nanocrawler.cc/)
 * [Nano-Faucet.org - Explorer, Stats, Visualizer, Map, Account list](https://nano-faucet.org/visualizer/)
 * [Repnode.org - Explorer, Stats, Reps, Network speed](https://repnode.org/)
@@ -416,11 +429,13 @@ Learn everything there is to know about Nano!
 <div class="link-content" markdown="1">
 
 ## Market
+
 Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 ### Exchanges
 
 #### Traditional Exchanges
+
 * [Binance](https://www.binance.com)
 * [Binance.US](https://www.binance.us/)
 * [Kraken](https://www.kraken.com/)
@@ -447,9 +462,9 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [ProBit](https://www.probit.com/)
 * [Poinex](https://www.pionex.com/)
 
-
 #### Quick Crypto Swap/Buy
-##### Simple way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution.
+
+##### Simple way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution
 
 * [Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
 * [Brainblocks Wallet](https://app.brainblocks.io)
@@ -477,11 +492,12 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [MoonPay](https://www.moonpay.io/)
 * [Swapzone - Trading offers](https://swapzone.io/?to=nano)
 
-
 #### Escrow and Peer-to-peer
+
 * [Localnano](https://www.localnano.com/)
 
 ### Wallets
+
 * [Nanowallets - Feature Guide](https://nanowallets.guide/)
 * [**Natrium** - Android,iOS](https://natrium.io/)
 * [**Nanowallet** - Web](https://nanowallet.io/)
@@ -495,11 +511,13 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Camo Nano** - Desktop](https://github.com/coranos/camo-nano-light-wallet)
 
 #### Dev Wallets
+
 * [**Nano Node Wallet** - The original one](https://github.com/nanocurrency/nano-node/releases)
 * [**Pippin** - High-performance Python wallet](https://github.com/appditto/pippin_nano_wallet)
 * [**KeyTools** - Manual Block Handler](https://tools.nanos.cc/?tool=sign)
 
 #### Multi Asset Wallets
+
 * [**Magnum** - Web, Android (Ledger & Swap support)](https://app.magnumwallet.co/)
 * [**Exodus** - Win, Mac, Linux, iOS, Android](https://www.exodus.io/)
 * [**Trust Wallet** - iOS, Android](https://trustwallet.com/)
@@ -507,6 +525,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Guarda** - Win, Mac, Debian, Ubuntu, Linux, Web, iOS, Android, Chrome extension](https://guarda.com/)
 
 #### Address Generators, Paper Wallets
+
 * [NanoPaperWallet.com](https://nanopaperwallet.com/)
 * [KeyTools Paper Wallet with Mnemonic](https://tools.nanos.cc/?tool=paper)
 * [Paper Wallet Generator (vitorcremonez)](https://vitorcremonez.github.io/nano-paper-wallet/)
@@ -525,10 +544,12 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Distributed Vanity Address Generation](https://plasmapower.github.io/distributed-vanity/)
 
 #### Hardware Wallets and Nodes
+
 * [Ledger Nano S](https://www.ledger.com/)
 * [Jolt](https://www.joltwallet.com/)
 
 #### Wallet and Account Guides
+
 * [Nano Wallets - Security and Convenience](https://medium.com/nano-education/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
 * [How to securely transact on the Nano network using an offline device](https://medium.com/nanocurrency/how-to-securely-transact-on-the-nano-network-using-an-offline-device-93713d217377)
 * [Ledger Nano - Text Guide](http://docs.nault.cc/2020/08/04/ledger-guide.html)
@@ -538,6 +559,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [How to create a stylish Nano QR code](https://medium.com/@d84/how-to-create-a-stylish-nano-qr-code-1bfc1eba5a96)
 
 ### Related Mobile Apps
+
 * [TheNanoBot - Whatsapp bot](https://thenanobot.com/)
 * [Nano Track - Nano Ticker](https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8)
 * [Coin Stats - Multi-coin, Portfolio, Stats](https://coinstats.app/)
@@ -549,6 +571,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [NANO Connect Messenger - Message app with Nano transactions](https://github.com/crixuscoach/Nano-Connect-Messenger)
 
 ### Market Data, Analysis & Tickers
+
 * [Coinmarketcap](https://coinmarketcap.com/currencies/nano/)
 * [Coinpaprika](https://coinpaprika.com/coin/nano-nano/)
 * [CoinDataFlow](https://coindataflow.com/en/currency/nano)
@@ -568,6 +591,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Currency World - Nano/USD/BTC](https://currency.world/convert/NANO/USD/BTC)
 
 ### Merchant & Donation Related [No shops, too many]
+
 * [Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
 * [CoinGate - Nano Payment Service & Gateway](https://coingate.com/)
 * [Brainblocks - Nano Payment Service](https://brainblocks.io/)
@@ -597,13 +621,15 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [nanoomPay - Simplified nano payments](https://nanoompay.io/)
 
 ### Faucets (Free Nano)
+
 * [Nano-Faucet.org](https://nano-faucet.org/)
-* [FreeNanoFaucet.com ](https://www.freenanofaucet.com/)
+* [FreeNanoFaucet.com](https://www.freenanofaucet.com/)
 * [Tetraloom - Faucet](https://tetraloom.com/nano/)
 * [Getnano - Faucet](https://getnano.co.uk/)
 * [OneFastWay - Faucet](https://onefastway.com/faucet/)
 
 ### Point of Sale
+
 * [Appia - Payment service, PoS](http://appia.co/)
 * [Kappture - Payment service, PoS](https://www.kappture.co.uk/cryptocurrency.html)
 * [Paytomat - Payment Service. PoS, Fiat gateway](https://paytomat.com/)
@@ -621,16 +647,20 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 <div class="link-content" markdown="1">
 
 ## Development
+
 Have a great idea? Jump in and start coding. Anyone can join!
+
 * [The Nano Center - Community Driven Projects](https://nanocenter.org/)
 
 ### Nano Main Protocol
+
 * [Nano Source Code Main Repositories](https://github.com/nanocurrency)
 * [Node Milestones](https://github.com/nanocurrency/nano-node/milestones)
 * [Unofficial Nano Community Wiki](https://github.com/georgehara/nano/wiki/unofficial)
 * [Docker Repo](https://hub.docker.com/u/nanocurrency/)
 
 ### Project Specific Development Channels
+
 * [Discord: Nanoblocks Wallet](https://discord.gg/n76DkEt)
 * [Discord: Brainblocks](https://discord.gg/MwaQcVM)
 * [Discord: Json Dev Server](https://discord.gg/RVCuFvc)
@@ -638,6 +668,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Reddit: Nano Tipper Z (Reddit Tip bot)](https://www.reddit.com/r/nano_tipper)
 
 ### Node & Account Applications
+
 * [KeyTools - High-performance & Secure Web Tools with offline support](https://tools.nanos.cc)
 * [Nano Node Monitor](https://github.com/NanoTools/nanoNodeMonitor)
 * [Nano Node Graphics - Realtime Charts](https://github.com/Joohansson/NanoNodeGraphics)
@@ -682,6 +713,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Profile - IPFS hosted profile picture network for Nano](http://nanoprofile.online/)
 
 ### Wallets [Source Code]
+
 * [NF Wallet (dev)](https://github.com/nanocurrency/nano-node)
 * [Natrium](https://github.com/appditto/natrium_wallet_flutter)
 * [Canoe](https://github.com/getcanoe/canoe)
@@ -703,6 +735,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Paper Wallet 2](https://github.com/jelofsson/nano-paper-wallet)
 
 ### Protocol, RPC, Libraries, Tools, Servers
+
 * [Nano Unreal Engine 4 Plugin](https://github.com/wezrule/UE4NanoPlugin)
 * [RaiSharp - C# Lib for RPC](https://github.com/vardthomas/Aggrex.RaiSharp)
 * [Prailude - Nano node in Lua and C](https://github.com/slact/prailude)
@@ -728,6 +761,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Siliqua - Python modular light wallet](https://github.com/Matoking/siliqua)
 
 * [NanoRPCProxy - A secure RPC/Websocket proxy server for talking with Nano nodes](https://github.com/joohansson/nanorpcproxy)
+* [Noxy - A simple and fast Nano RPC proxy and relay](https://github.com/BitDesert/Noxy)
 * [Nanio - RPC Gateway, API Browser](https://github.com/rbw/nanio)
 * [Nano Shell - Nano Node bash convenience wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Nanook - Ruby Lib for RPC](https://github.com/lukes/nanook)
@@ -771,6 +805,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanoidenticons - Identification icons for Nano](https://github.com/keerifox/Nanoidenticons)
 
 ### Beta Network
+
 * [Nano Beta Network Resources](https://beta.nano.org/)
 * [Beta Net Explorer - NanoCrawler](https://beta.nanocrawler.cc/)
 * [Beta Net Stats - Repnode](https://b.repnode.org/)
@@ -792,8 +827,11 @@ Have a great idea? Jump in and start coding. Anyone can join!
 <div class="link-content" markdown="1">
 
 ## Entertainment
+
 There are much fun to do but please proceed with caution.
+
 ### Gambling, Betting
+
 * [Nano Games - Betting](https://nanogames.io/)
 * [LuckyNano - Gambling](https://luckynano.com/)
 * [Luckygames.io - Gambling](https://luckygames.io/)
@@ -806,6 +844,7 @@ There are much fun to do but please proceed with caution.
 * [NanoKe - Onchain Betting](https://nanoke.com/)
 
 ### Games
+
 * [NANO Arcade - Game Collection](https://nanoarcade.org/games)
 * [NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
 * [NanoQuake JS](http://nanoquakejs.com)
@@ -822,6 +861,7 @@ There are much fun to do but please proceed with caution.
 * [Nano-it-all Live Trivia Competition](http://nano-it-all.com/)
 
 ### Video, Music, Art
+
 * [NanoMusic - Listen to the network live](http://music.nanos.cc)
 * [NanoPixelWall - Buy your pixel spot](https://nanopixelwall.com/)
 * [The Nanoji Generator](https://www.nanojigenerator.com/)
@@ -831,9 +871,11 @@ There are much fun to do but please proceed with caution.
 * [The Million Nano Homepage](https://millionnanohomepage.com/)
 
 ### Social Media
+
 * [Sendr.space - Social media platform using Nano](https://sendr.space/)
 
 ## Services
+
 * [Put.io - File Serving](https://put.io)
 * [Wall of Nano](https://wallofnano.com/)
 * [Donano - Crowdfunding for Creators](https://www.donano.to)
@@ -851,6 +893,7 @@ There are much fun to do but please proceed with caution.
 * [PlayNANO - Buy Gift Cards with Nano](https://playnano.online/gift-cards)
 
 Services which payout Nano
+
 * [Earn Nano - Directory for getting Nano without purchase](https://earn-nano.com/)
 * [Distributed PoW System (dPoW)](https://dpow.nanocenter.org/)
 * [Delegated Proof of Work](https://anarkrypto.github.io/Delegated-Proof-of-Work/)
@@ -878,37 +921,39 @@ Services which payout Nano
 <div class="link-content" markdown="1">
 
 ## Contribution
+
 Do you want to add a link to your own project or you found something else? Just clone repo at [Github](https://github.com/Joohansson/nanolinks) , edit index.md and make a pull request. You can also contact me at [Reddit](https://www.reddit.com/user/Joohansson/).
 <br><br>
 **Or just fill in the form below to send a link submission. Your email will only be used in case of contact, not on the site or shared in any way. All submissions will be evaluated.**
 <br>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <div id="contact-area">
-	<form accept-charset="UTF-8" action="https://usebasin.com/f/716ec11da426" enctype="multipart/form-data" method="POST">
-	<label for="email">Your Email</label>
-	<input type="email" id="email" name="Email" required>
-	<br>
-	<label for="url">Link URL</label>
-	<input type="url" id="url" name="URL" required>
-	<br>
-	<label for="display-name">Display Name</label>
-	<input type="text" id="display-name" name="Display name" required>
-	<br>
-	<label for="description">Description</label>
-	<textarea rows="4" cols="50" id="description" name="Description" required></textarea>
-	<br>
-	<div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy">
-	</div>
-	<br>
+ <form accept-charset="UTF-8" action="https://usebasin.com/f/716ec11da426" enctype="multipart/form-data" method="POST">
+ <label for="email">Your Email</label>
+  <input type="email" id="email" name="Email" required>
+  <br>
+  <label for="url">Link URL</label>
+  <input type="url" id="url" name="URL" required>
+  <br>
+  <label for="display-name">Display Name</label>
+  <input type="text" id="display-name" name="Display name" required>
+  <br>
+  <label for="description">Description</label>
+  <textarea rows="4" cols="50" id="description" name="Description" required></textarea>
+  <br>
+  <div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy">
+  </div>
+  <br>
   <label for="security">Name of Nano founder?</label>
-	<input type="text" id="security" name="Security Check" required placeholder="Human Verification">
-	<br>
-	<button type="submit" id="submit" class="site-btn">Submit Link</button>
+  <input type="text" id="security" name="Security Check" required placeholder="Human Verification">
+  <br>
+  <button type="submit" id="submit" class="site-btn">Submit Link</button>
   </form>
 </div>
 <br>
 
 ### Voting Representative
+
 <div class="first-para" markdown="1">
 If you have a nano account you can help decentralize the network by choosing a representative other than the official reps that is default. Best is to choose someone you really trust. If you want you can choose [This Node](https://mynano.ninja/account/nanolinks) that has been running 24/7 since Feb 2018. I intend to keep it running for a long time and upgrade hardware when necessary! Graphical stats of this monitor [here](https://node.nanolinks.info/nano.html).
 
@@ -916,17 +961,18 @@ If you have a nano account you can help decentralize the network by choosing a r
 </div>
 
 ### Donations
+
 <div class="first-para" markdown="1">
 It takes some effort to maintaining this content. If you want to contribute to this project then any small donation is always appreciated!
 <br>
 </div>
 <figure>
-	<img id="qrImage" src="https://github.com/Joohansson/nanolinks/raw/master/src/qr_new.png" alt="Nano Donation" />
-	<br/>
-	<figcaption class="subtext">
-		nano_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo<br/>
-		<a href="nano:nano_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo">Open in Wallet</a>
-	</figcaption>
+  <img id="qrImage" src="https://github.com/Joohansson/nanolinks/raw/master/src/qr_new.png" alt="Nano Donation" />
+  <br/>
+  <figcaption class="subtext">
+  nano_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo<br/>
+  <a href="nano:nano_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo">Open in Wallet</a>
+  </figcaption>
 </figure>
 <br>
 <a href="https://twitter.com/nano_links?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @nano_links</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br/>
