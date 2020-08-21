@@ -33,6 +33,12 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### August 2020
+* [Nalli, the SMS supported wallet is now on the App Store](https://www.reddit.com/r/nanocurrency/comments/icu4bw/nalli_the_sms_supported_wallet_is_now_on_the_app/)
+* [New Nano record last night! 161 peak CPS on the mainnet](https://www.reddit.com/r/nanocurrency/comments/ic24d1/new_nano_record_last_night_161_peak_cps_on_the/)
+* [Nano as the backbone of Financial Communications](https://www.reddit.com/r/nanocurrency/comments/icpexj/nano_as_the_backbone_of_financial_communications/)
+* [Nanowallet.io says bye](https://www.reddit.com/r/nanocurrency/comments/i8n2k3/nanowalletio_says_bye/)
+* [Experimental ledger pruning - V22](https://www.reddit.com/r/nanocurrency/comments/i9744u/experimental_ledger_pruning_v22/)
+* [PlayNANO now allows users to top-up their mobile phones](https://www.reddit.com/r/nanocurrency/comments/i9o47c/playnano_now_allows_users_to_topup_their_mobile/)
 * [NanoKe - Play on NANO Blockchain](https://www.reddit.com/r/nanocurrency/comments/i5atmb/nanoke_play_on_nano_blockchain/)
 * [Article: The security of using Nano](https://www.reddit.com/r/nanocurrency/comments/i4y72e/article_the_security_of_using_nano/)
 * [Nano is now available on the Guarda Wallet Mobile App](https://www.reddit.com/r/nanocurrency/comments/i5f2fb/nano_is_now_available_on_the_guarda_wallet_mobile/)
