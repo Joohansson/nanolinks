@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Aug 24: WeNano Business - Nano Spot feature for your business - iOS, Android](https://wenano.net/)
 * [Aug 11: Noxy - A simple and fast Nano RPC proxy and relay](https://github.com/BitDesert/Noxy)
 * [Aug 9: NanoKe - Onchain Betting](https://nanoke.com/)
 * [Jul 29: Robocash - Spam killer that turns phone calls into cash](http://myrobocash.com/)
@@ -209,7 +210,6 @@ layout: default
 * [June 16: Nano Jackpot - Betting](https://nanojackpot.xyz/)
 * [June 16: Swapzone - Trading offers](https://swapzone.io/?to=nano)
 * [June 13: 10 reasons to use NANO instead of the Dollar](https://www.reddit.com/r/nanocurrency/comments/h80j1j/10_reasons_to_use_nano_instead_of_the_dollar_or/)
-* [June 12: TIX Web Wallet](https://tixwallet.cc/)
 
 </div>
 </div>
@@ -500,12 +500,9 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 * [Nanowallets - Feature Guide](https://nanowallets.guide/)
 * [**Natrium** - Android,iOS](https://natrium.io/)
-* [**Nanowallet** - Web](https://nanowallet.io/)
-* [**Brainblocks** - Web](https://app.brainblocks.io/)
 * [**Nault** - Web,Windows,Linux,Mac](https://nault.cc)
 * [**TIX** - Web](https://tixwallet.cc)
-* [**WeNano** - iOS](https://wenano.net/)
-* [**Nanoblocks** - iOS](https://itunes.apple.com/us/app/nano-blocks/id1378558905?ls=1&mt=8)
+* [**WeNano** - iOS, Android](https://wenano.net/)
 * [**Vola** - iOS](https://getvola.com)
 * [**Nalli** - Android,iOS](https://nalli.app/)
 * [**Camo Nano** - Desktop](https://github.com/coranos/camo-nano-light-wallet)
@@ -714,11 +711,11 @@ Have a great idea? Jump in and start coding. Anyone can join!
 
 ### Wallets [Source Code]
 
+* [Nault](https://github.com/Nault/Nault)
 * [NF Wallet (dev)](https://github.com/nanocurrency/nano-node)
 * [Natrium](https://github.com/appditto/natrium_wallet_flutter)
 * [Canoe](https://github.com/getcanoe/canoe)
 * [TIX](https://github.com/Joohansson/nano-wallet)
-* [Nault](https://github.com/BitDesert/Nault)
 * [Nanollet](https://github.com/brokenbydefault/Nanollet)
 * [Nanoblocks](https://github.com/nebyark/nano-blocks)
 * [Nanonymous](https://github.com/LilleJohs/Nanonymous)
@@ -894,6 +891,9 @@ There are much fun to do but please proceed with caution.
 
 Services which payout Nano
 
+* [WeNano - Mobile app with geo-fenced spots with free payouts](https://wenano.net/)
+* [WeNano Business - Nano Spot feature for your business - iOS, Android](https://wenano.net/)
+* [BlockHunters - Augmented Reality Nano Hunt - iOS, Android](http://blockhunters.co/)
 * [Earn Nano - Directory for getting Nano without purchase](https://earn-nano.com/)
 * [Distributed PoW System (dPoW)](https://dpow.nanocenter.org/)
 * [Delegated Proof of Work](https://anarkrypto.github.io/Delegated-Proof-of-Work/)
@@ -903,12 +903,9 @@ Services which payout Nano
 * [BitForTip - Earn Nano by being helpful](https://www.bitfortip.com/)
 * [TryNano - Telegram bot rewards for watching videos](https://t.me/TryNanoBot)
 * [Deligate - Do small tasks and earn Nano in Telegram](https://t.me/deligate_bot?start=8101)
-* [WeNano - Mobile app with geo-fenced spots with free payouts](https://wenano.net/)
 * [NanoQuake JS - Action game with payout for kills](http://nanoquakejs.com)
 * [Counter-strike - Action game with nano payout](https://earn-nano.com/csgo)
 * [Player Killers Exchange - RPG game with payouts](https://playerkillers.exchange)
-* [WeNano - iOS wallet with Geo-spots payout](https://wenano.net/)
-* [BlockHunters - Augmented Reality Nano Hunt](https://www.reddit.com/r/nanocurrency/comments/gpy9nn/introducing_blockhunters/)
 * [Polyrun - Workout rewards](https://polyrun.app/)
 * [PlayNANO - Earn Free Nano by completing tasks & watching videos](https://playnano.online/offerwalls)
 
