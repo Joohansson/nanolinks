@@ -200,6 +200,8 @@ layout: default
 
 ## Latest Additions
 
+* [Aug 28: Nendly - Onion Faucet for TOR](http://nendlyy5734pdfflygapdayez6dcorodcio72jwfvaux4fsrzyh7rzqd.onion/faucet/)
+* [Aug 28: Nanobets - Play Dice](https://nanobets.cc)
 * [Aug 24: WeNano Business - Nano Spot feature for your business - iOS, Android](https://wenano.net/)
 * [Aug 11: Noxy - A simple and fast Nano RPC proxy and relay](https://github.com/BitDesert/Noxy)
 * [Aug 9: NanoKe - Onchain Betting](https://nanoke.com/)
@@ -208,8 +210,6 @@ layout: default
 * [June 29: Nault Wallet](https://nault.cc)
 * [June 27: Colin LeMahieu Interviewed on Keyword:Crypto Jun 2020](https://open.spotify.com/episode/0ONmBDDxSaQZcM3Du1t7wG)
 * [June 16: Nano Jackpot - Betting](https://nanojackpot.xyz/)
-* [June 16: Swapzone - Trading offers](https://swapzone.io/?to=nano)
-* [June 13: 10 reasons to use NANO instead of the Dollar](https://www.reddit.com/r/nanocurrency/comments/h80j1j/10_reasons_to_use_nano_instead_of_the_dollar_or/)
 
 </div>
 </div>
@@ -624,6 +624,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Tetraloom - Faucet](https://tetraloom.com/nano/)
 * [Getnano - Faucet](https://getnano.co.uk/)
 * [OneFastWay - Faucet](https://onefastway.com/faucet/)
+* [Nendly - Onion Faucet for TOR](http://nendlyy5734pdfflygapdayez6dcorodcio72jwfvaux4fsrzyh7rzqd.onion/faucet/)
 
 ### Point of Sale
 
@@ -839,6 +840,7 @@ There are much fun to do but please proceed with caution.
 * [Nano Jackpot - Betting](https://nanojackpot.xyz/)
 * [PlayNANO - Provably Fair Roulette](https://playnano.online/roulette)
 * [NanoKe - Onchain Betting](https://nanoke.com/)
+* [Nanobets - Play Dice](https://nanobets.cc)
 
 ### Games
 
