@@ -34,6 +34,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### August 2020
 * [Introducing MoonPay to WeNano](https://www.reddit.com/r/nanocurrency/comments/ihloo1/introducing_moonpay_to_wenano/)
+* [Announcing WeNano Business for iOS and Android](https://www.reddit.com/r/nanocurrency/comments/ie0isv/announcing_wenano_business_for_ios_and_android/)
 * [New onion faucet](https://www.reddit.com/r/nanocurrency/comments/ifxied/new_onion_faucet/)
 * [BrainBlocks Announces Sunset](https://www.reddit.com/r/nanocurrency/comments/ifgnhy/brainblocks_announces_sunset/)
 * [Nalli, the SMS supported wallet is now on the App Store](https://www.reddit.com/r/nanocurrency/comments/icu4bw/nalli_the_sms_supported_wallet_is_now_on_the_app/)
