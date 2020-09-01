@@ -200,7 +200,8 @@ layout: default
 
 ## Latest Additions
 
-* [Aug 28: Nendly - Onion Faucet for TOR](http://nendlyy5734pdfflygapdayez6dcorodcio72jwfvaux4fsrzyh7rzqd.onion/faucet/)
+* [Sept 1: Nendly - The notion-friendly forum with Nano integration](https://nendly.com/)
+* [Aug 28: Nendly Faucet - Onion Faucet for TOR](http://nendlyy5734pdfflygapdayez6dcorodcio72jwfvaux4fsrzyh7rzqd.onion/faucet/)
 * [Aug 28: Nanobets - Play Dice](https://nanobets.cc)
 * [Aug 24: WeNano Business - Nano Spot feature for your business - iOS, Android](https://wenano.net/)
 * [Aug 11: Noxy - A simple and fast Nano RPC proxy and relay](https://github.com/BitDesert/Noxy)
@@ -209,7 +210,6 @@ layout: default
 * [June 30: Guarda Wallet](https://guarda.com/)
 * [June 29: Nault Wallet](https://nault.cc)
 * [June 27: Colin LeMahieu Interviewed on Keyword:Crypto Jun 2020](https://open.spotify.com/episode/0ONmBDDxSaQZcM3Du1t7wG)
-* [June 16: Nano Jackpot - Betting](https://nanojackpot.xyz/)
 
 </div>
 </div>
@@ -624,7 +624,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Tetraloom - Faucet](https://tetraloom.com/nano/)
 * [Getnano - Faucet](https://getnano.co.uk/)
 * [OneFastWay - Faucet](https://onefastway.com/faucet/)
-* [Nendly - Onion Faucet for TOR](http://nendlyy5734pdfflygapdayez6dcorodcio72jwfvaux4fsrzyh7rzqd.onion/faucet/)
+* [Nendly Faucet - Onion Faucet for TOR](http://nendlyy5734pdfflygapdayez6dcorodcio72jwfvaux4fsrzyh7rzqd.onion/faucet/)
 
 ### Point of Sale
 
@@ -871,6 +871,7 @@ There are much fun to do but please proceed with caution.
 
 ### Social Media
 
+* [Nendly - The notion-friendly forum with Nano integration](https://nendly.com/)
 * [Sendr.space - Social media platform using Nano](https://sendr.space/)
 
 ## Services

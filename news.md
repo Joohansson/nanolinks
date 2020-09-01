@@ -30,9 +30,15 @@ layout: newslayout
 </div>
 
 ## Reddit News
+
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### September 2020
+
+* [Introducing Nendly, the Notion-Friendly Forum](https://www.reddit.com/r/nanocurrency/comments/ikcrtd/introducing_nendly_the_notionfriendly_forum/)
+
 ### August 2020
+
 * [Introducing MoonPay to WeNano](https://www.reddit.com/r/nanocurrency/comments/ihloo1/introducing_moonpay_to_wenano/)
 * [Announcing WeNano Business for iOS and Android](https://www.reddit.com/r/nanocurrency/comments/ie0isv/announcing_wenano_business_for_ios_and_android/)
 * [New onion faucet](https://www.reddit.com/r/nanocurrency/comments/ifxied/new_onion_faucet/)
@@ -50,6 +56,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [The Nano Foundation has joined FITSPA Uganda to help amplify Nano as the go-to digital money solution for the people of Uganda](https://www.reddit.com/r/nanocurrency/comments/i2x5nz/the_nano_foundation_has_joined_fitspa_uganda_to/)
 
 ### July 2020
+
 * [Nault wallet redesign](https://www.reddit.com/r/nanocurrency/comments/i0yo6i/nault_wallet_redesign/)
 * [Development update: Increased work difficulty upgrade status](https://www.reddit.com/r/nanocurrency/comments/i0nxqe/development_update_increased_work_difficulty/)
 * [RoboCash app in Google Play - Try the Nano-powered phone spam blocker today!](https://www.reddit.com/r/nanocurrency/comments/hzjfci/robocash_app_in_google_play_try_the_nanopowered/)
@@ -62,6 +69,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [June Nano Community Project Award: Nano Tip Bot](https://www.reddit.com/r/nanocurrency/comments/hmp8c5/june_nano_community_project_award_nano_tip_bot/)
 
 ### June 2020
+
 * [The re-birth of NanoVault: Nault](https://www.reddit.com/r/nanocurrency/comments/hhxjfv/the_rebirth_of_nanovault_nault/)
 * [Nano now available on GuardaWallet](https://www.reddit.com/r/nanocurrency/comments/hi75ix/nano_now_available_on_guardawallet/)
 * [Interview with Colin LeMahieu - Hosted by Keyword: Crypto](https://www.reddit.com/r/nanocurrency/comments/hfqy8o/interview_with_colin_lemahieu_hosted_by_keyword/)
@@ -100,6 +108,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [May NCPA Community Award Winner: Natrium](https://www.reddit.com/r/nanocurrency/comments/gwfnbx/natrium_won_the_ncpa_award_in_may_1000/)
 
 ### May 2020
+
 * [NanoBlog - Decentralized blogging using IPFS (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gtifso/nanoblog_decentralized_blogging_on_nano_buildoff/)
 * [NanoRequest - Payment link generator (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gtdoxo/nanorequestio_request_payment_in_nano_buildoff/)
 * [CoinChores - Teach your kids about Nano (Build-off submission)](https://www.reddit.com/r/nanocurrency/comments/gse8xb/buildoff_project_coinchores_give_tasks_to_your/)
@@ -136,6 +145,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [April NCPA Community Award Winner: Json](https://www.reddit.com/r/nanocurrency/comments/gc7wil/announcing_the_winner_of_the_april_nano_community/)
 
 ### April 2020
+
 * [Nano ecosystem april 2020](https://www.reddit.com/r/nanocurrency/comments/g9kqpz/nano_ecosystem_april_2020/)
 * [Alexa Nano bot](https://www.reddit.com/r/nanocurrency/comments/g6r469/alexa_nano_bot_website/)
 * [WeNano light for Android is out](https://www.reddit.com/r/nanocurrency/comments/g8vviu/wenano_light_for_android_is_out/)
@@ -152,6 +162,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [March NCPA Community Award Winner: MyNano.ninja](https://www.reddit.com/r/nanocurrency/comments/fv0rbm/march_ncpa_community_award_winner/)
 
 ### March 2020
+
 * [Nanocurrency on Reddit reaches 50,000 members](https://www.reddit.com/r/nanocurrency/comments/fpmxug/reached_50k_members/)
 * [Nano Foundation AmA with Atomic Wallet - Summary](https://www.reddit.com/r/nanocurrency/comments/fngsfu/nano_foundation_ama_with_atomic_wallet_summary/)
 * [Counter Strike: Go Nano](https://www.reddit.com/r/nanocurrency/comments/fmw0vi/counter_strike_go_nano/)
@@ -164,6 +175,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Announcing the Nano Community Project Award](https://www.reddit.com/r/nanocurrency/comments/fd0cvg/announcing_the_nano_community_project_award/)
 
 ### February 2020
+
 * [Raesonic browser-based racing game with Nano microtransactions](https://www.reddit.com/r/nanocurrency/comments/fb2itj/ive_implemented_nano_microtransactions_in_my/)
 * [Announcing WeNano for iOS](https://www.reddit.com/r/nanocurrency/comments/f9gg65/announcing_wenano_for_ios/)
 * [Binance rolls out credit card purchases of Nano, one of 12 coins supported](https://www.reddit.com/r/nanocurrency/comments/f9awdm/worlds_largest_most_popular_crypto_exchange/)
@@ -180,6 +192,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [NANORoll - Multiplayer Roulette Casino Game](https://www.reddit.com/r/nanocurrency/comments/expewq/nanoroll_multiplayer_roulette_casino_game/)
 
 ### January 2020
+
 * [A New site that lists NANO merchants (among other crypto) - Weacceptcryptocurrency.com](https://www.reddit.com/r/nanocurrency/comments/ewfuk3/i_built_a_website_that_lists_merchants_accepting/)
 * [You can now update your representative in Exodus Wallet](https://www.reddit.com/r/nanocurrency/comments/ewbrn0/you_can_now_update_your_representative_in_exodus/)
 * [NOWPayments is supporting Nano now!](https://www.reddit.com/r/nanocurrency/comments/ew89nc/nowpayments_is_supporting_nano_now/)
@@ -203,6 +216,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Presenting KeyTools - A brand new set of secure high-performance Nano web tools](https://www.reddit.com/r/nanocurrency/comments/el8tuk/presenting_keytools_a_brand_new_set_of_secure/)
 
 ### December 2019
+
 * [.NET API for Nano RPC](https://www.reddit.com/r/nanocurrency/comments/ehamau/net_api_for_nano_rpc/)
 * [Kappture launched new website with cryptocurrency page](https://www.reddit.com/r/nanocurrency/comments/ef0014/kappture_launched_new_website_with_cryptocurrency/)
 * [Nano is now available on the crypto payments platform CycleBit](https://www.reddit.com/r/nanocurrency/comments/eeoa6y/nano_is_now_available_on_the_crypto_payments/)
@@ -218,6 +232,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Nano now supported on Coinify](https://www.reddit.com/r/nanocurrency/comments/e4zgd9/nano_now_supported_on_coinify/)
 
 ### November 2019
+
 * [NANO added to the exchange part of the iOS Cake Wallet](https://www.reddit.com/r/nanocurrency/comments/e3ednp/we_have_added_nano_to_the_exchange_part_of_cake/)
 * [Nano added to Magnum Wallet with Ledger support and more!](https://www.reddit.com/r/nanocurrency/comments/e1x07u/nano_added_to_magnum_wallet_with_ledger_support/)
 * [Travala partners with Booking.com - Use NANO to pay for Booking.com](https://www.reddit.com/r/nanocurrency/comments/e1na7f/travala_partners_with_bookingcom_use_nano_to_pay/)
@@ -234,6 +249,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Nano Foundation adding a new Communications Coordinator Graham Cull](https://www.reddit.com/r/nanocurrency/comments/dq50sz/weekly_nano_update_11119/)
 
 ### October 2019
+
 * [Nanonymous: A Proof of Concept wallet for Android of a privacy-focused wallet](https://www.reddit.com/r/nanocurrency/comments/dov7tz/nanonymous_a_proof_of_concept_wallet_for_android/)
 * [Excellent new video from Patrick: Nano in 60 Seconds](https://www.reddit.com/r/nanocurrency/comments/dota7z/nano_explained_in_60_seconds/)
 * [Announcement: New Nano Forum](https://www.reddit.com/r/nanocurrency/comments/dotfvx/announcement_new_nano_forum/)
@@ -258,6 +274,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Colin LeMahieu releasing details of the upcoming NanoPoW](https://www.reddit.com/r/nanocurrency/comments/dces6e/nanopow_the_details/)
 
 ### September 2019
+
 * [Nano Foundation sponsoring James M Levelle as part of the RaceForFuture](https://www.reddit.com/r/nanocurrency/comments/da1kxd/james_m_levelle_on_twitter_huge_thanks_to_nano/)
 * [Nano is one step closer for being implemented into Appia payment system - Beta release of Manta](https://www.reddit.com/r/nanocurrency/comments/d9gvs6/beta_implementation_of_the_appia_manta_protocol/)
 * [Introducing Nano Jams! A Nano building competition for everyone!](https://www.reddit.com/r/nanocurrency/comments/d95vhx/introducing_nano_jams_a_nano_building_competition/)
@@ -275,6 +292,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Technical interview with Colin LeMahieu on Crypto Finder](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
 
 ### August 2019
+
 * [Feed birds with Nano - Live stream](https://www.reddit.com/r/nanocurrency/comments/cx032b/feed_birds_with_nano_live_stream/)
 * [Nano listed on Uphold](https://www.reddit.com/r/nanocurrency/comments/cx2873/nano_is_now_available_on_uphold/)
 * [Nano listed on Crypto.com](https://www.reddit.com/r/nanocurrency/comments/cw0yx2/nano_is_now_on_cryptocom/)
@@ -293,6 +311,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [The Nano Center Google Ads Project Funded & Live!](https://www.reddit.com/r/nanocurrency/comments/cmpuhi/the_nano_center_google_ads_project_funded_live/)
 
 ### July 2019
+
 * [Nanocurrency proudly presents Nano specific community awards!](https://www.reddit.com/r/nanocurrency/comments/ck7a7q/nanocurrency_proudly_presents_nano_specific/)
 * [Introducing Nanocards - The world's first physical card game where you pay/win cryptocurrency](https://www.reddit.com/r/nanocurrency/comments/ck6e6e/introducing_the_worlds_first_physical_card_game/)
 * [Community manager Guilherme Lawless has joined the Nano Foundation team](https://www.reddit.com/r/nanocurrency/comments/cjsyhd/a_warm_welcome_to_the_nano_foundations_newest/)
@@ -324,6 +343,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Kappture releases its official ‘white paper’ about how they are integrating Nano into their Point of Sale systems](https://www.reddit.com/r/nanocurrency/comments/c8b00o/kappture_releases_its_official_white_paper_about/)
 
 ### June 2019
+
 * [Adoption meetup: First? burger ever purchased with Nano at Affy’s Steakhouse in Brooklyn](https://www.reddit.com/r/nanocurrency/comments/c7422n/greetings_from_the_nano_meetup_nyc_this_is_my/)
 * [Nano Node v19 RC5 released with really promising test results](https://www.reddit.com/r/nanocurrency/comments/c6ls8y/nano_node_v19_rc5_released/)
 * [Natrium v2.0.9 Released - Fixing "Unreceivable" Funds](https://www.reddit.com/r/nanocurrency/comments/c5pv20/natrium_v209_update_on_unreceivable_funds/)
@@ -346,6 +366,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [NWC Nano Wallet 1.1.0 released (iOS & Android)](https://www.reddit.com/r/nanocurrency/comments/bvuolc/nwc_nano_wallet_110_released_ios_android/)
 
 ### May 2019
+
 * [Spam Mitigation - Dynamic proof of work - Explained in detail](https://www.reddit.com/r/nanocurrency/comments/buvalp/dynamic_proofofwork_prioritization_feature/)
 * [Community Spotlight: Reddit Tip Bot](https://www.reddit.com/r/nanocurrency/comments/buiezo/nano_community_spotlight_reddit_tip_bot/)
 * [Multi asset wallet Hodler now supporting Nano](https://www.reddit.com/r/nanocurrency/comments/btymqi/the_first_multiasset_wallet_with_nano_currency/)
@@ -364,6 +385,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Nano Celebrates its 5th Github Anniversary](https://www.reddit.com/r/nanocurrency/comments/bji9um/nano_celebrates_its_5th_github_anniversary_today/)
 
 ### Apr 2019
+
 * [Node v19.0 enters beta testing stage](https://www.reddit.com/r/nanocurrency/comments/bhza60/solidus_release_candidate_1_now_on_beta/)
 * [Nano Round the Globe - Proof of Concept](https://www.reddit.com/r/nanocurrency/comments/bivjm7/nano_round_the_globe_proof_of_concept/)
 * [Nanostream.eu, a live visualization of the Nano Blocklattice](https://www.reddit.com/r/nanocurrency/comments/bigxfr/announcement_nanostreameu_a_live_visualization_of/)
@@ -379,6 +401,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Binance Adds NANO/USDT Trading Pair](https://www.reddit.com/r/nanocurrency/comments/b8gg4n/binance_adds_nanousdt_trading_pair_at_20190403/)
 
 ### Mar 2019
+
 * [Travala - Nano added as a native payment option](https://www.reddit.com/r/nanocurrency/comments/b71cwl/travala_nano_added_as_a_native_payment_option/)
 * [Nano Foundation Adding a New Community Manager - RockmSockmJesus](https://www.reddit.com/r/nanocurrency/comments/b4arwg/lets_welcome_urockmsockmjesus_to_the_community/)
 * [Nano transaction speed demo mobile to mobile with a comparison to email and SMS](https://www.reddit.com/r/nanocurrency/comments/b1l0xp/nano_transaction_speed_demo_mobile_to_mobile_with/)
@@ -390,6 +413,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Pynanocurrency - Python library for the Nano protocol](https://www.reddit.com/r/nanocurrency/comments/aw7bya/pynanocurrency_python_library_for_working_with/)
 
 ### Feb 2019
+
 * [Nano Foundation Adding a New Community Manager - Brian White](https://www.reddit.com/r/nanocurrency/comments/av4gz2/were_welcoming_another_community_manager_onto_the/)
 * [Reddit Tipbot Announcement](https://www.reddit.com/r/nanocurrency/comments/av7tbz/reddit_nano_tipbot_road_to_v10_12/)
 * [Massive speed improvements in v18 - From 12 to 0.7 seconds](https://www.reddit.com/r/nanocurrency/comments/atfdwq/spectaculair_speed_improvement_v18_brings_conf/)
@@ -403,6 +427,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [NanoVault 1.1.2 Released: Desktop Ledger Support and more](https://www.reddit.com/r/nanocurrency/comments/alkw9q/nanovault_112_released_desktop_ledger_support/)
 
 ### Jan 2019
+
 * [Natrium wallet - Successful campaign and iOS news](https://www.reddit.com/r/nanocurrency/comments/akf0wh/natrium_update_nanocenter_campaign_ios_news/)
 * [The Bitgrail Exchange Ruling: A Win for the Exchange Users](https://www.reddit.com/r/nanocurrency/comments/akli76/the_bomber_was_at_fault_for_the_loss_and_is/)
 * [Nano Brand Guide V2.1 Released](https://www.reddit.com/r/nanocurrency/comments/aipcvw/nano_brand_guide_v21_released/)
@@ -416,6 +441,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Brainblocks vision for 2019 and beyond](https://www.reddit.com/r/nanocurrency/comments/abdsv9/brainblocks_vision_for_2019_and_beyond_brainblocks/)
 
 ### Dec 2018
+
 * [The Nano Protocol Passes Rigorous Red4Sec Security Audit of the Consensus Algorithm and Node Software: No Critical Vulnerabilities Found](https://www.reddit.com/r/nanocurrency/comments/a96qro/the_nano_protocol_passes_rigorous_red4sec/)
 * [Students at the University of Wisconsin create Nano speed test tool](https://www.reddit.com/r/nanocurrency/comments/a8xl46/students_at_the_university_of_wisconsin_create/)
 * [NanoQuake 1.5 Release (Quoulton)](https://www.reddit.com/r/nanocurrency/comments/a7r6e9/nanoquake_15_release_quoulton/)
@@ -429,12 +455,14 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Nano Foundation Adding a New Community Manager - Guilherme Lawless](https://www.reddit.com/r/nanocurrency/comments/a25c8w/were_adding_a_new_community_manager_nano_medium/)
 
 ### Nov 2018
+
 * [NanoQuake2 - Launch of Open Beta](https://www.reddit.com/r/nanocurrency/comments/9vlagu/nanoquake2_launch_of_open_beta/)
 * [Node v16.3 Released - Fixes high CPU and Memory usage](https://www.reddit.com/r/nanocurrency/comments/9ysmdt/nano_node_v163_is_now_available_fixes_recent/)
 * [Open position at Nano — Senior Software Engineer](https://www.reddit.com/r/nanocurrency/comments/a0kcqu/open_position_at_nano_senior_software_engineer/)
 * [Huobi Global Exchange Launches Nano](https://www.reddit.com/r/nanocurrency/comments/9swykj/huobi_global_launches_nano_on_october_31_1630_gmt/)
 
 ### Oct 2018
+
 * [Nano Foundation Adding a New Team Member Andy Johnson (Social media and community engagement role)](https://www.reddit.com/r/nanocurrency/comments/9nlwwz/we_are_pleased_to_announce_that_andy_johnson_has/)
 * [Nanoodle - Business Adoption Tools](https://www.reddit.com/r/nanocurrency/comments/9k55bv/nanoodle/)
 * [New Tool - Representative Charts for Nano](https://www.reddit.com/r/nanocurrency/comments/9k6pj9/new_tool_representative_charts_for_nano/)
@@ -448,6 +476,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Node v16.1 Released - Fixing sync issues](https://www.reddit.com/r/nanocurrency/comments/9jzxzp/nano_node_v161_released/)
 
 ### Sep 2018
+
 * [NANO listed on Paytomat -- Adoption in Eastern Europe](https://www.reddit.com/r/nanocurrency/comments/9cb4vs/nano_listed_on_paytomat_adoption_in_eastern_europe/)
 * [Nano.meltingice.net becomes NanoCrawler.cc](https://www.reddit.com/r/nanocurrency/comments/9cxvuf/nanomeltingicenet_is_now_known_as_the_nanocrawler/)
 * [Brainblocks + Nanowallet integration](https://www.reddit.com/r/nanocurrency/comments/9ikn2k/brainblocks_nanowallet_integration_brainblocks/)
@@ -458,6 +487,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Introducing Natrium (BETA) Wallet for Android - Fast, Secure, Robust NANO Wallet](https://www.reddit.com/r/nanocurrency/comments/9ic7nn/introducing_natrium_beta_for_android_fast_secure/)
 
 ### Aug 2018
+
 * [Nano Foundation Adding a New Team Member Andy Woolmer (Adviser)](https://www.reddit.com/r/nanocurrency/comments/99zz71/spotlight_andy_woolmer/)
 * [Stress Test Beta Network v15: Results in Here](https://www.reddit.com/r/nanocurrency/comments/982bq9/stress_test_beta_network_v15_results_in_here/)
 * [Distributed Nano PoW Subscription System](https://www.reddit.com/r/nanocurrency/comments/94lx28/distributed_nano_pow_subscription_system/)
@@ -468,6 +498,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Introducing NanoLinks - The ultimate link guide](https://www.reddit.com/r/nanocurrency/comments/95e51g/the_ultimate_nano_url_guide/)
 
 ### Jul 2018
+
 * [Community Project - NANO KPI - Dreamhack Valencia 2018](https://www.reddit.com/r/nanocurrency/comments/8yb2vw/community_project_nano_kpi_dreamhack_valencia_2018/)
 * [Canoe Official V1.0.0 Release & now available on the iOS App Store](https://www.reddit.com/r/nanocurrency/comments/91dgpt/canoe_official_v100_release_now_available_on_the/)
 * [BrainBlocks Announcing Nexus, the one-stop Nano marketplace](https://www.reddit.com/r/nanocurrency/comments/902yoh/announcing_brainblocks_nexus_the_onestop_nano/)
@@ -477,24 +508,28 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [NanoSMS - A SMS interface to a Nano Wallet to open access to anyone with a 2G Mobile/Cell Phone](https://www.reddit.com/r/nanocurrency/comments/910q30/nanosms_a_sms_interface_to_a_nano_wallet_to_open/)
 
 ### Jun 2018
+
 * [Nano Wallet for iOS, Android, Mac, Windows and Linux](https://www.reddit.com/r/nanocurrency/comments/8stuf0/nano_wallet_for_ios_android_mac_windows_and_linux/)
 * [Ledger announces support for Nano](https://www.reddit.com/r/nanocurrency/comments/8q9rke/ledger_announces_support_for_nano/)
 * [The Nano Center Introduction](https://www.reddit.com/r/nanocurrency/comments/8raniq/introducing_the_nano_center/)
 * [Node v14.0 Released - Bandwidth Reduction](https://www.reddit.com/r/nanocurrency/comments/8qb6gn/nano_node_version_140_released/)
 
 ### May 2018
+
 * [Nanode is now Nano’s Official Block Explorer](https://www.reddit.com/r/nanocurrency/comments/8lcc5v/nanode_is_now_nanos_official_block_explorer/)
 * [CCN interview with lead developer of NANO, Colin LeMahieu!](https://www.reddit.com/r/nanocurrency/comments/8ief1b/heres_my_interview_with_lead_developer_of_nano/)
 * [Node v13.0 Released - General Improvements](https://www.reddit.com/r/nanocurrency/comments/8igcz5/version_130_of_the_nano_node_released/)
 * [CoinFalcon Exchange: NANO/EUR will open tomorrow](https://www.reddit.com/r/nanocurrency/comments/8jaulb/coinfalcon_nanoeur_will_open_tomorrow_at_8am_utc/)
 
 ### Apr 2018
+
 * [MyNano.Ninja Announced - Easy verified community representatives](https://www.reddit.com/r/nanocurrency/comments/8ahvd1/nano_node_ninja_easy_verified_community/)
 * [Node v12 Released - Performance Improvements](https://www.reddit.com/r/nanocurrency/comments/8daji0/version_12_of_nano_node_released/)
 * [Nano Foundation Announces Legal Fund For BitGrail Victims](https://www.reddit.com/r/nanocurrency/comments/8b0cj8/nano_foundation_announces_legal_fund_for_bitgrail/)
 * [Information on the Upcoming Transition to Universal Blocks](https://www.reddit.com/r/nanocurrency/comments/8aau5k/information_on_the_upcoming_transition_to/)
 
 ### Mar 2018
+
 * [Introducing NanoVault, an open source wallet for Nano](https://www.reddit.com/r/nanocurrency/comments/83h56u/introducing_nanovault_an_open_source_wallet_for/)
 * [Node v11 Released - Universal Blocks](https://www.reddit.com/r/nanocurrency/comments/86m98f/nano_milestone_11_released/)
 * [BrainBlocks Announcements](https://www.reddit.com/r/nanocurrency/comments/81hkvv/brainblocks_announcements/)
@@ -502,6 +537,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Spendraiblocks.com is now UseNano.org - A comprehensive list of online merchants that accept Nano!](https://www.reddit.com/r/nanocurrency/comments/82dalz/spendraiblockscom_is_now_usenanoorg_a/?utm_source=share&utm_medium=ios_app)
 
 ### Feb 2018
+
 * [Nanofaucet.org Announced](https://www.reddit.com/r/nanocurrency/comments/7y81sm/i_made_a_nano_faucet_if_you_are_interested_in/)
 * [An update on the various developments at Nanex.co (formerly RaiExchange)](https://www.reddit.com/r/nanocurrency/comments/7w7bjt/an_update_on_the_various_developments_at_nanexco/)
 * [(XRB) now listed as (NANO) on coinmarketcap](https://www.reddit.com/r/nanocurrency/comments/7yh7h2/xrb_now_listed_as_nano_on_coinmarketcap/)
@@ -512,6 +548,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Nano on binance](https://www.reddit.com/r/nanocurrency/comments/7ureaf/nano_on_binance/)
 
 ### Jan 2018
+
 * [Raiblocks has been renamed to Nano](https://www.reddit.com/r/nanocurrency/comments/7ub8z6/raiblocks_has_been_renamed_to_nano/)
 * [rai.exchange rebranding to nanex.co](https://www.reddit.com/r/RaiBlocks/comments/7uamx8/raiexchange_rebranding_to_nanexco/)
 * [The Core Team is excited to announce our rebranding from RaiBlocks to Nano](https://www.reddit.com/r/RaiBlocks/comments/7uah6u/the_core_team_is_excited_to_announce_our/)
@@ -525,49 +562,61 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Rai.watch (Nanowat.ch) Announced](https://www.reddit.com/r/RaiBlocks/comments/7qe5a8/watch_the_raiblocks_network_grow_in_real_time/)
 
 ### Dec 2017
+
 * [Colin sends his first Raiblocks to a mobile wallet](https://www.reddit.com/r/RaiBlocks/comments/7l1cyl/yesterday_colin_sent_the_first_payment_to_a/)
 * [Raiblocks.club (Nanode.co) Announced](https://www.reddit.com/r/RaiBlocks/comments/7n3qah/raiblocksclub_a_fun_block_explorer_with_live/)
 * [Colin LeMahieu, founder and lead developer of RaiBlocks, AMA - Ask your questions here!](https://www.reddit.com/r/RaiBlocks/comments/7ko5l7/colin_lemahieu_founder_and_lead_developer_of/)
 * [Colin, the lead developer of XRB goes full-time on XRB development](https://www.reddit.com/r/RaiBlocks/comments/7jch9q/colin_the_lead_developer_of_xrb_goes_fulltime_on/)
 
 ### Oct 2017
+
 * [Undistributed 205,676,479 Raiblocks burned!](https://www.youtube.com/watch?v=jwR-CXNafLs)
 * [Nice article about Raiblocks](https://steemit.com/raiblocks/@raiblocks/how-raiblocks-provides-unlimited-transaction-throughput)
 * [Colin Announces End Of Faucet Period](https://www.reddit.com/r/RaiBlocks/comments/76lhf6/ending_raiblocks_distribution/)
 
 ### Sep 2017
+
 * [Colin Pushes Raiblocks - 62 Upvotes](https://www.reddit.com/r/CryptoCurrency/comments/70wy52/im_colin_lemahieu_the_developer_of_raiblocks_a/)
 
 ### Jul 2017
+
 * [RaiWebWallet former raiwallet.com former nanowallet.io officially introduced by Jaime Herrero](https://github.com/jaimehgb/RaiWebWallet/commit/d1aed2b6e0abe8f33cae782ec78bd9d752932569)
 * [Introduction Of RaiBlocks (XRB)](http://ftreporter.com/cryptocurrency-review-introduction-of-raiblocks-xrb/)
 
 ### Apr 2017
+
 * [Raiblocks: New Cryptocurrencies Based on Captcha Services](http://cryptoleet.com/raiblocks-new-cryptocurrencies-based-captcha-services/)
 
 ### Mar 2016
+
 * [Detailed Raiblocks Summary by Coinaday](https://www.reddit.com/r/CryptoCurrency/comments/49cyt6/coinaday_raiblocks/)
 * [Colin's first post in r/Raiblocks](https://www.reddit.com/r/RaiBlocks/comments/4952r8/raiblocks_official_site/)
 
 ### Apr 2016
+
 * [The birth of Raiblocks telegram chat](https://nanochats.club/NANO__English_chat?page=1)
 
 ### Feb 2016
+
 * [Cryptocurrency's killer app: RaiBlocks micropayments](https://bitcointalk.org/index.php?topic=1381323.0)
 
 ### Oct 2015
+
 * [Colin Pushing Raiblocks on r/CC - 1 Upvote](https://www.reddit.com/r/CryptoCurrency/comments/3oswmo/raiblocks_unique_cryptocurrency_with_limitless/)
 * [Colin Showing Raiblocks to Bitcointalk](https://bitcointalk.org/index.php?topic=1219264.0)
 
 ### Jan 2015
+
 * [Coling Showing Raiblocks to r/altcoin - 5 Upvotes](https://www.reddit.com/r/altcoin/comments/2sujgx/raiblocks_with_block_lattice_technology/)
 
 ### Dec 2014
+
 * [Exclusive Interview with Raiblocks Team](https://bitcoinist.com/exclusive-interview-raiblocks-team/)
 * [First question in Raiblocks Google group by Austin](https://groups.google.com/forum/#!topic/raiblocks/PSbX_onjLfU)
 * [Colin Announces Raiblocks - 0 Upvotes](https://www.reddit.com/r/CryptoCurrency/comments/2p6utv/raiblocks_unique_cryptocurrency/)
 
 ### May 2014
+
 * [Raiblocks Logo Revealed - May 1 2014](https://commons.wikimedia.org/wiki/File:Raiblocks_Logo.png)
 * [The initial Github node commit - May 1 2014](https://github.com/nanocurrency/nano-node/commit/e387c894861f4d04dab24e2d230ef394e58eaffa)
 
@@ -580,10 +629,12 @@ Protocol, Exchanges, Wallets, Special projects, General news
 <div class="link-content" markdown="1">
 
 ## Contribution
+
 Do you think something important is missing? Just clone repo at [Github](https://github.com/Joohansson/nanolinks) , edit news.md and make a pull request. You can also contact me at [Reddit](https://www.reddit.com/user/Joohansson/). All content will be evaluated.
 
 
 ### Voting Representative
+
 <div class="first-para" markdown="1">
 If you have a nano account you can help decentralize the network by choosing a representative other than the official reps that is default. Best is to choose someone you really trust. If you want you can choose [This Node](https://nanonode.ninja/account/xrb_1iuz18n4g4wfp9gf7p1s8qkygxw7wx9qfjq6a9aq68uyrdnningdcjontgar) that has been running 24/7 since Feb 2018. I intend to keep it running for a long time and upgrade hardware when necessary! Graphical stats of this monitor [here](https://node.nanolinks.info/nano.html).
 
@@ -591,6 +642,7 @@ If you have a nano account you can help decentralize the network by choosing a r
 </div>
 
 ### Donations
+
 <div class="first-para" markdown="1">
 Maintaining this content requires some effort. If you want to contribute to this cause then any small donation is greatly appreciated!
 <br>
