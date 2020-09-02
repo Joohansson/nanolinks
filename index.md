@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Sept 2: DegenTrader](https://degentrader.com/)
 * [Sept 1: Nendly - The notion-friendly forum with Nano integration](https://nendly.com/)
 * [Aug 28: Nendly Faucet - Onion Faucet for TOR](http://nendlyy5734pdfflygapdayez6dcorodcio72jwfvaux4fsrzyh7rzqd.onion/faucet/)
 * [Aug 28: Nanobets - Play Dice](https://nanobets.cc)
@@ -209,7 +210,6 @@ layout: default
 * [Jul 29: Robocash - Spam killer that turns phone calls into cash](http://myrobocash.com/)
 * [June 30: Guarda Wallet](https://guarda.com/)
 * [June 29: Nault Wallet](https://nault.cc)
-* [June 27: Colin LeMahieu Interviewed on Keyword:Crypto Jun 2020](https://open.spotify.com/episode/0ONmBDDxSaQZcM3Du1t7wG)
 
 </div>
 </div>
@@ -586,6 +586,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nanoji Chart - Emotional Nano Price Charts and Discord Bot](https://price.nanoticker.info/)
 * [Coincircus - Nano/BTC/USD](https://coincircus.io/crypto/prices/nano/NANO)
 * [Currency World - Nano/USD/BTC](https://currency.world/convert/NANO/USD/BTC)
+* [DegenTrader](https://degentrader.com/)
 
 ### Merchant & Donation Related [No shops, too many]
 

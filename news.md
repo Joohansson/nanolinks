@@ -35,6 +35,10 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### September 2020
 
+* [RoboCash app now pays you for every blocked call](https://www.reddit.com/r/nanocurrency/comments/ilcfjd/robocash_app_now_pays_you_for_every_blocked_call/)
+* [2000+ Games and DLCs, from Steam, Playstation, Xbox, and all main platforms, now available at PlayNANO](https://www.reddit.com/r/nanocurrency/comments/il9jpc/2000_games_and_dlcs_from_steam_playstation_xbox/)
+* [Nano demolished its previous beta stress test record today. 1465+ CPS](https://www.reddit.com/r/nanocurrency/comments/ik76x2/nano_demolished_its_previous_beta_stress_test/)
+* [DegenTrader.com allows you to get Nano currency with fiat in just a few clicks](https://www.reddit.com/r/nanocurrency/comments/ikl64l/degentradercom_allows_you_to_get_nano_currency/)
 * [Introducing Nendly, the Notion-Friendly Forum](https://www.reddit.com/r/nanocurrency/comments/ikcrtd/introducing_nendly_the_notionfriendly_forum/)
 
 ### August 2020
