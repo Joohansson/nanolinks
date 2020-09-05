@@ -35,6 +35,8 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### September 2020
 
+* [Athena V21.2 Release Now Available](https://www.reddit.com/r/nanocurrency/comments/im34gq/athena_v212_release_now_available/)
+* [A proof of concept implementation of atomic swaps between Bitcoin and Nano has been released](https://www.reddit.com/r/nanocurrency/comments/iljpav/a_proof_of_concept_implementation_of_atomic_swaps/)
 * [RoboCash app now pays you for every blocked call](https://www.reddit.com/r/nanocurrency/comments/ilcfjd/robocash_app_now_pays_you_for_every_blocked_call/)
 * [2000+ Games and DLCs, from Steam, Playstation, Xbox, and all main platforms, now available at PlayNANO](https://www.reddit.com/r/nanocurrency/comments/il9jpc/2000_games_and_dlcs_from_steam_playstation_xbox/)
 * [Nano demolished its previous beta stress test record today. 1465+ CPS](https://www.reddit.com/r/nanocurrency/comments/ik76x2/nano_demolished_its_previous_beta_stress_test/)
