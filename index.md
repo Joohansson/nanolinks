@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Sept 8: Crypto.com](https://crypto.com/price/nano)
 * [Sept 2: DegenTrader](https://degentrader.com/)
 * [Sept 1: Nendly - The notion-friendly forum with Nano integration](https://nendly.com/)
 * [Aug 28: Nendly Faucet - Onion Faucet for TOR](http://nendlyy5734pdfflygapdayez6dcorodcio72jwfvaux4fsrzyh7rzqd.onion/faucet/)
@@ -209,7 +210,6 @@ layout: default
 * [Aug 9: NanoKe - Onchain Betting](https://nanoke.com/)
 * [Jul 29: Robocash - Spam killer that turns phone calls into cash](http://myrobocash.com/)
 * [June 30: Guarda Wallet](https://guarda.com/)
-* [June 29: Nault Wallet](https://nault.cc)
 
 </div>
 </div>
@@ -571,6 +571,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 * [Coinmarketcap](https://coinmarketcap.com/currencies/nano/)
 * [Coinpaprika](https://coinpaprika.com/coin/nano-nano/)
+* [Crypto.com](https://crypto.com/price/nano)
 * [CoinDataFlow](https://coindataflow.com/en/currency/nano)
 * [Coinlore](https://www.coinlore.com/coin/nano)
 * [Bitscreener](https://bitscreener.com/coins/nano)

@@ -35,6 +35,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### September 2020
 
+* [Update from the Charity Project in Sierra Leone](https://www.reddit.com/r/nanocurrency/comments/inh4uu/update_from_the_charity_project_in_sierra_leone/)
 * [Athena V21.2 Release Now Available](https://www.reddit.com/r/nanocurrency/comments/im34gq/athena_v212_release_now_available/)
 * [A proof of concept implementation of atomic swaps between Bitcoin and Nano has been released](https://www.reddit.com/r/nanocurrency/comments/iljpav/a_proof_of_concept_implementation_of_atomic_swaps/)
 * [RoboCash app now pays you for every blocked call](https://www.reddit.com/r/nanocurrency/comments/ilcfjd/robocash_app_now_pays_you_for_every_blocked_call/)
@@ -42,6 +43,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Nano demolished its previous beta stress test record today. 1465+ CPS](https://www.reddit.com/r/nanocurrency/comments/ik76x2/nano_demolished_its_previous_beta_stress_test/)
 * [DegenTrader.com allows you to get Nano currency with fiat in just a few clicks](https://www.reddit.com/r/nanocurrency/comments/ikl64l/degentradercom_allows_you_to_get_nano_currency/)
 * [Introducing Nendly, the Notion-Friendly Forum](https://www.reddit.com/r/nanocurrency/comments/ikcrtd/introducing_nendly_the_notionfriendly_forum/)
+* [August Nano Community Project Award: SonderDev](https://www.reddit.com/r/nanocurrency/comments/iom14z/august_nano_community_project_award_nendly/)
 
 ### August 2020
 
@@ -60,6 +62,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Article: The security of using Nano](https://www.reddit.com/r/nanocurrency/comments/i4y72e/article_the_security_of_using_nano/)
 * [Optimizations bring back to 0.3 seconds per PoW](https://www.reddit.com/r/nanocurrency/comments/i3hr9m/optimizations_bring_back_to_03_seconds_per_pow/)
 * [The Nano Foundation has joined FITSPA Uganda to help amplify Nano as the go-to digital money solution for the people of Uganda](https://www.reddit.com/r/nanocurrency/comments/i2x5nz/the_nano_foundation_has_joined_fitspa_uganda_to/)
+* [July Nano Community Project Award: Nault](https://www.reddit.com/r/nanocurrency/comments/i1zskw/july_nano_community_project_award_nault/)
 
 ### July 2020
 
