@@ -924,40 +924,13 @@ Services which payout Nano
 
 ## Contribution
 
-Do you want to add a link to your own project or you found something else? Just clone repo at [Github](https://github.com/Joohansson/nanolinks) , edit index.md and make a pull request. You can also contact me at [Reddit](https://www.reddit.com/user/Joohansson/).
+Do you want to add a link to your own project or you found something else? Just clone repo at [Github](https://github.com/Joohansson/nanolinks) , edit index.md and make a pull request. You can also contact me at [Reddit](https://www.reddit.com/user/Joohansson/) or in the [Nano Discord Server](https://chat.nano.org/) (just ask for the NanoLinks maintainer).
 <br><br>
-**Or just fill in the form below to send a link submission. Your email will only be used in case of contact, not on the site or shared in any way. All submissions will be evaluated.**
-<br>
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-<div id="contact-area">
- <form accept-charset="UTF-8" action="https://usebasin.com/f/716ec11da426" enctype="multipart/form-data" method="POST">
- <label for="email">Your Email</label>
-  <input type="email" id="email" name="Email" required>
-  <br>
-  <label for="url">Link URL</label>
-  <input type="url" id="url" name="URL" required>
-  <br>
-  <label for="display-name">Display Name</label>
-  <input type="text" id="display-name" name="Display name" required>
-  <br>
-  <label for="description">Description</label>
-  <textarea rows="4" cols="50" id="description" name="Description" required></textarea>
-  <br>
-  <div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy">
-  </div>
-  <br>
-  <label for="security">Name of Nano founder?</label>
-  <input type="text" id="security" name="Security Check" required placeholder="Human Verification">
-  <br>
-  <button type="submit" id="submit" class="site-btn">Submit Link</button>
-  </form>
-</div>
-<br>
 
 ### Voting Representative
 
 <div class="first-para" markdown="1">
-If you have a nano account you can help decentralize the network by choosing a representative other than the official reps that is default. Best is to choose someone you really trust. If you want you can choose [This Node](https://mynano.ninja/account/nanolinks) that has been running 24/7 since Feb 2018. I intend to keep it running for a long time and upgrade hardware when necessary! Graphical stats of this monitor [here](https://node.nanolinks.info/nano.html).
+If you have a nano account you can help decentralize the network by choosing a representative other than the official reps that is default. Best is to choose someone you really trust. If you want you can choose [This Node](https://mynano.ninja/account/nanoticker) that has been running 24/7 since Feb 2018. I intend to keep it running for a long time and upgrade hardware when necessary! Graphical stats of this monitor [here](https://node.nanolinks.info/nano.html).
 
 [Video about reps and why it matters](https://youtu.be/dnOTiixhPrk)
 </div>
