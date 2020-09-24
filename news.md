@@ -35,6 +35,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### September 2020
 
+* [The Nano Foundation announces Deepa Mardolkar as Chair of the Advisory Board](https://www.reddit.com/r/nanocurrency/comments/iy9vnm/big_news_the_nano_foundation_announces_deepa/)
 * [Introducing Nano Arcade — fusing Nano with Space Invaders](https://www.reddit.com/r/nanocurrency/comments/iq4lgf/introducing_nano_arcade_fusing_nano_with_space/)
 * [Update from the Charity Project in Sierra Leone](https://www.reddit.com/r/nanocurrency/comments/inh4uu/update_from_the_charity_project_in_sierra_leone/)
 * [Athena V21.2 Release Now Available](https://www.reddit.com/r/nanocurrency/comments/im34gq/athena_v212_release_now_available/)
