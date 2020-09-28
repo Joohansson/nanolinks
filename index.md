@@ -204,7 +204,7 @@ layout: default
 * [Sept 2: DegenTrader](https://degentrader.com/)
 * [Sept 1: Nendly - The notion-friendly forum with Nano integration](https://nendly.com/)
 * [Aug 28: Nendly Faucet - Onion Faucet for TOR](http://nendlyy5734pdfflygapdayez6dcorodcio72jwfvaux4fsrzyh7rzqd.onion/faucet/)
-* [Aug 28: Nanobets - Play Dice](https://nanobets.cc)
+* [Aug 28: Nanobets - Play Dice](https://nanobets.com.au)
 * [Aug 24: WeNano Business - Nano Spot feature for your business - iOS, Android](https://wenano.net/)
 * [Aug 11: Noxy - A simple and fast Nano RPC proxy and relay](https://github.com/BitDesert/Noxy)
 * [Aug 9: NanoKe - Onchain Betting](https://nanoke.com/)
@@ -842,7 +842,7 @@ There are much fun to do but please proceed with caution.
 * [Nano Jackpot - Betting](https://nanojackpot.xyz/)
 * [PlayNANO - Provably Fair Roulette](https://playnano.online/roulette)
 * [NanoKe - Onchain Betting](https://nanoke.com/)
-* [Nanobets - Provably fair betting](https://nanobets.cc)
+* [Nanobets - Provably fair betting](https://nanobets.com.au)
 
 ### Games
 
