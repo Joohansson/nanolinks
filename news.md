@@ -33,6 +33,15 @@ layout: newslayout
 
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### October 2020
+
+* [Introducing NanoGift for YouTube](https://www.reddit.com/r/nanocurrency/comments/j73tas/introducing_nanogift_for_youtube/)
+* [Nano based patent granted to RoboCash / FynCom!](https://www.reddit.com/r/nanocurrency/comments/j7dwub/nano_based_patent_granted_to_robocash_fyncom/)
+* [Disaster Nano Node - my backup survival principal representative for this uncertain world](https://www.reddit.com/r/nanocurrency/comments/j5gdoz/disaster_nano_node_my_backup_survival_principal/)
+* [Bitcoin vs Nano - Solving the Double Spend Problem](https://www.reddit.com/r/nanocurrency/comments/j527js/bitcoin_vs_nano_solving_the_double_spend_problem/)
+* [WeNano Community Update: 01 Oct, 2020](https://www.reddit.com/r/nanocurrency/comments/j324e7/wenano_community_update_01_oct_2020/)
+* [September Nano Community Project Award: Srayman](https://www.reddit.com/r/nanocurrency/comments/j6caf7/ncpa_september_award_2020/)
+
 ### September 2020
 
 * [The Nano Foundation announces Deepa Mardolkar as Chair of the Advisory Board](https://www.reddit.com/r/nanocurrency/comments/iy9vnm/big_news_the_nano_foundation_announces_deepa/)
