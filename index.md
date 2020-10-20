@@ -592,7 +592,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 Have a great idea? Jump in and start coding. Anyone can join!
 
 * [The Nano Center - Community Driven Projects](https://nanocenter.org/)
-* [Build-off Competition 2020](/news)
+* [Build-off Competition 2020](/build2020)
 
 ### Nano Main Protocol
 
