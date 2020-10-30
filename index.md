@@ -565,8 +565,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nano-Faucet.org](https://nano-faucet.org/)
 * [FreeNanoFaucet.com](https://www.freenanofaucet.com/)
 * [Tetraloom - Faucet](https://tetraloom.com/nano/)
-* [Getnano - Faucet](https://getnano.co.uk/)
-* [OneFastWay - Faucet](https://onefastway.com/faucet/)
 * [Nendly Faucet - Onion Faucet for TOR](http://nendlyy5734pdfflygapdayez6dcorodcio72jwfvaux4fsrzyh7rzqd.onion/faucet/)
 
 ### Point of Sale
