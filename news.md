@@ -35,6 +35,10 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### October 2020
 
+* [Introducing Nanomart!](https://www.reddit.com/r/nanocurrency/comments/jlag6z/introducing_nanomart/)
+* [Unreal Nano: A 3D transaction visualizer with VR and multiplayer support built with Unreal Engine](https://www.reddit.com/r/nanocurrency/comments/jktaek/unreal_nano_a_3d_transaction_visualizer_with_vr/)
+* [[Released] Unreal Engine Nano Plugin v1](https://www.reddit.com/r/nanocurrency/comments/jktawj/released_unreal_engine_nano_plugin_v1/)
+* [An exchange has been released to trade Reddit Moons/Nano](https://www.reddit.com/r/nanocurrency/comments/jau7o7/an_exchange_has_been_released_to_trade_reddit/)
 * [Introducing NanoGift for YouTube](https://www.reddit.com/r/nanocurrency/comments/j73tas/introducing_nanogift_for_youtube/)
 * [Nano based patent granted to RoboCash / FynCom!](https://www.reddit.com/r/nanocurrency/comments/j7dwub/nano_based_patent_granted_to_robocash_fyncom/)
 * [Disaster Nano Node - my backup survival principal representative for this uncertain world](https://www.reddit.com/r/nanocurrency/comments/j5gdoz/disaster_nano_node_my_backup_survival_principal/)

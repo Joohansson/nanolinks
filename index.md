@@ -200,6 +200,8 @@ layout: default
 
 ## Latest Additions
 
+* [Oct 31: Nanomart - Marketplace where you can buy and sell goods](https://nanomart.cc/)
+* [Oct 30: Unreal Nano - 3D Nano visualizer and game with VR and multiplayer](https://unreal.nanos.cc/)
 * [Oct 20: Nano.Trade - Moon/Nano](https://moon.nano.trade/)
 * [Sept 8: Crypto.com](https://crypto.com/price/nano)
 * [Sept 2: DegenTrader](https://degentrader.com/)
@@ -208,8 +210,6 @@ layout: default
 * [Aug 28: Nanobets - Play Dice](https://nanobets.com.au)
 * [Aug 24: WeNano Business - Nano Spot feature for your business - iOS, Android](https://wenano.net/)
 * [Aug 11: Noxy - A simple and fast Nano RPC proxy and relay](https://github.com/BitDesert/Noxy)
-* [Aug 9: NanoKe - Onchain Betting](https://nanoke.com/)
-* [Jul 29: Robocash - Spam killer that turns phone calls into cash](http://myrobocash.com/)
 
 </div>
 </div>
@@ -341,7 +341,7 @@ Learn everything there is to know about Nano!
 * [Nanex - Consolidated transaction explorer](https://nanex.cc/)
 * [Nanoticker - Nano Network Analytics & Performance](https://nanoticker.info/)
 * [NanoMusic - Musical/Art Visualizer](http://music.nanos.cc)
-* [NANOODLE - Explorer,  Fiat Tracker, Stat Charts, Account Alerting](https://nanoodle.io/live)
+* [Unreal Nano - 3D visualizer build in UnrealEngine4](https://unreal.nanos.cc/)
 * [Nanoverse - Visual Explorer](https://nanoverse.io/)
 * [NanoSpider - Visual explorer](https://tetraloom.com/spider/)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
@@ -559,6 +559,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [KeyTools Payment link generator](https://tools.nanos.cc/?tool=pay)
 * [Nano Request - Payment link generator](https://nanorequest.io/)
 * [nanoomPay - Simplified nano payments](https://nanoompay.io/)
+* [Nanomart - Marketplace where you can buy and sell goods](https://nanomart.cc/)
 
 ### Faucets (Free Nano)
 
@@ -791,6 +792,7 @@ There are much fun to do but please proceed with caution.
 * [NANO Arcade - Game Collection](https://nanoarcade.org/games)
 * [NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
 * [NanoQuake JS](http://nanoquakejs.com)
+* [Unreal Nano - 3D Nano visualizer and game with VR and multiplayer](https://unreal.nanos.cc/)
 * [NanoCards - A free printable card game](https://cards.nanos.cc/)
 * [Eternity Tower](https://eternitytower.net/)
 * [Player Killers Exchange](https://playerkillers.exchange)
