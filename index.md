@@ -785,7 +785,7 @@ There are much fun to do but please proceed with caution.
 * [Nano Jackpot - Betting](https://nanojackpot.xyz/)
 * [PlayNANO - Provably Fair Roulette](https://playnano.online/roulette)
 * [NanoKe - Onchain Betting](https://nanoke.com/)
-* [Nanobets - Provably fair betting](https://nanobets.com.au)
+* [Nanobets - Betting](https://nano.bet/)
 
 ### Games
 
