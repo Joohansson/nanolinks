@@ -33,6 +33,10 @@ layout: newslayout
 
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### November 2020
+
+* [NanoGift for YouTube has been approved for Chrome, Brave, etc.](https://www.reddit.com/r/nanocurrency/comments/jmzj67/nanogift_for_youtube_has_been_approved_for_chrome/)
+
 ### October 2020
 
 * [Introducing Nanomart!](https://www.reddit.com/r/nanocurrency/comments/jlag6z/introducing_nanomart/)
