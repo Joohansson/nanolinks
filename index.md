@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Nov 07: Earn Nano from playing Just Cause 2 Multiplayer](https://www.reddit.com/r/nanocurrency/comments/jplf34/earn_nano_from_playing_just_cause_2_multiplayer/)
 * [Oct 31: Nanomart - Marketplace where you can buy and sell goods](https://nanomart.cc/)
 * [Oct 30: Unreal Nano - 3D Nano visualizer and game with VR and multiplayer](https://unreal.nanos.cc/)
 * [Oct 20: Nano.Trade - Moon/Nano](https://moon.nano.trade/)
@@ -209,7 +210,6 @@ layout: default
 * [Aug 28: Nendly Faucet - Onion Faucet for TOR](http://nendlyy5734pdfflygapdayez6dcorodcio72jwfvaux4fsrzyh7rzqd.onion/faucet/)
 * [Aug 28: Nanobets - Play Dice](https://nanobets.com.au)
 * [Aug 24: WeNano Business - Nano Spot feature for your business - iOS, Android](https://wenano.net/)
-* [Aug 11: Noxy - A simple and fast Nano RPC proxy and relay](https://github.com/BitDesert/Noxy)
 
 </div>
 </div>
@@ -802,6 +802,7 @@ There are much fun to do but please proceed with caution.
 * [KojoSlayer - Battle RPG](https://kojoslayer.com/)
 * [FlappyNano - Flappy Bird against friends](https://flappynano.com/)
 * [Nano-it-all Live Trivia Competition](http://nano-it-all.com/)
+* [Earn Nano from playing Just Cause 2 Multiplayer](https://www.reddit.com/r/nanocurrency/comments/jplf34/earn_nano_from_playing_just_cause_2_multiplayer/)
 
 ### Video, Music, Art
 
