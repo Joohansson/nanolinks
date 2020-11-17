@@ -457,7 +457,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 #### Multi Asset Wallets
 
-* [**Magnum** - Web, Android (Ledger & Swap support)](https://app.magnumwallet.co/)
 * [**Exodus** - Win, Mac, Linux, iOS, Android](https://www.exodus.io/)
 * [**Trust Wallet** - iOS, Android](https://trustwallet.com/)
 * [**Atomic** - Win, Mac, Ubuntu, Debian, Fedora](https://atomicwallet.io/)
@@ -493,7 +492,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [How to securely transact on the Nano network using an offline device](https://medium.com/nanocurrency/how-to-securely-transact-on-the-nano-network-using-an-offline-device-93713d217377)
 * [Ledger Nano - Text Guide](http://docs.nault.cc/2020/08/04/ledger-guide.html)
 * [How to transfer Nano from a Ledger Nano recovery phrase using offline signing](https://medium.com/@d84/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
-* [Magnum Nano Wallets in Detail](https://medium.com/@d84/magnum-nano-wallets-in-detail-d7188ed62fbc)
 * [How to create a custom NANO account at maximum speed](https://medium.com/nanocurrency/how-to-create-a-custom-nano-account-at-maximum-speed-cd9be0045ead)
 * [How to create a stylish Nano QR code](https://medium.com/@d84/how-to-create-a-stylish-nano-qr-code-1bfc1eba5a96)
 
@@ -667,7 +665,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Atom](https://github.com/Atomicwallet)
 * [Exodus](https://www.exodus.io/)
 * [Keytools (dev)](https://github.com/Joohansson/keytools)
-* [Magnum](https://github.com/magnumwallet)
 * [Pippin (dev)](https://github.com/appditto/pippin_nano_wallet)
 * [Trust](https://github.com/trustwallet)
 * [Nano Light Wallet - NodeJS](https://github.com/NanoDevs/NanoLightWallet)
