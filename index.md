@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Nov 17: Exolix - Swap at fixed rate](https://exolix.com/)
 * [Nov 07: Earn Nano from playing Just Cause 2 Multiplayer](https://www.reddit.com/r/nanocurrency/comments/jplf34/earn_nano_from_playing_just_cause_2_multiplayer/)
 * [Oct 31: Nanomart - Marketplace where you can buy and sell goods](https://nanomart.cc/)
 * [Oct 30: Unreal Nano - 3D Nano visualizer and game with VR and multiplayer](https://unreal.nanos.cc/)
@@ -209,7 +210,6 @@ layout: default
 * [Sept 1: Nendly - The notion-friendly forum with Nano integration](https://nendly.com/)
 * [Aug 28: Nendly Faucet - Onion Faucet for TOR](http://nendlyy5734pdfflygapdayez6dcorodcio72jwfvaux4fsrzyh7rzqd.onion/faucet/)
 * [Aug 28: Nanobets - Play Dice](https://nanobets.com.au)
-* [Aug 24: WeNano Business - Nano Spot feature for your business - iOS, Android](https://wenano.net/)
 
 </div>
 </div>
@@ -432,6 +432,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nano.Trade - Moon/Nano](https://moon.nano.trade/)
 * [MoonPay](https://www.moonpay.io/)
 * [Swapzone - Trading offers](https://swapzone.io/?to=nano)
+* [Exolix - Swap at fixed rate](https://exolix.com/)
 
 #### Escrow and Peer-to-peer
 
