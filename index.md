@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Nov 19: Gonano - Command-line tool written in Go](https://github.com/hectorchu/gonano)
 * [Nov 17: Exolix - Swap at fixed rate](https://exolix.com/)
 * [Nov 07: Earn Nano from playing Just Cause 2 Multiplayer](https://www.reddit.com/r/nanocurrency/comments/jplf34/earn_nano_from_playing_just_cause_2_multiplayer/)
 * [Oct 31: Nanomart - Marketplace where you can buy and sell goods](https://nanomart.cc/)
@@ -209,7 +210,6 @@ layout: default
 * [Sept 2: DegenTrader](https://degentrader.com/)
 * [Sept 1: Nendly - The notion-friendly forum with Nano integration](https://nendly.com/)
 * [Aug 28: Nendly Faucet - Onion Faucet for TOR](http://nendlyy5734pdfflygapdayez6dcorodcio72jwfvaux4fsrzyh7rzqd.onion/faucet/)
-* [Aug 28: Nanobets - Play Dice](https://nanobets.com.au)
 
 </div>
 </div>
@@ -702,6 +702,9 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Pynanocurrency - Python protocol library](https://github.com/Matoking/pynanocurrency)
 * [Siliqua - Python modular light wallet](https://github.com/Matoking/siliqua)
 
+* [Gonano - Command-line tool written in Go](https://github.com/hectorchu/gonano)
+* [Nano protocol in Golang](https://github.com/frankh/nano)
+
 * [NanoRPCProxy - A secure RPC/Websocket proxy server for talking with Nano nodes](https://github.com/joohansson/nanorpcproxy)
 * [Noxy - A simple and fast Nano RPC proxy and relay](https://github.com/BitDesert/Noxy)
 * [Nanio - RPC Gateway, API Browser](https://github.com/rbw/nanio)
@@ -710,7 +713,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Ruby Nano RPC - RPC Wrapper for Ruby](https://github.com/jcraigk/ruby_nano_rpc)
 * [Nanocurrency Ruby - Toolkit for Ruby](https://rubygems.org/gems/nanocurrency)
 * [PHP 4 Nano](https://github.com/mikerow/php4nano)
-* [Nano protocol in Golang](https://github.com/frankh/nano)
 * [NanoDotNet - .Net Lib](https://github.com/Flufd/NanoDotNet)
 * [DotNano - .NET RPC API](https://github.com/JerzyStanislawski/DotNano)
 * [Nano-rs - Nano in Rust](https://github.com/termhn/nano-rs)

@@ -35,6 +35,8 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### November 2020
 
+* [Gonano, a command-line tool written in Go for creating and managing Nano wallets](https://www.reddit.com/r/nanocurrency/comments/jw4dax/gonano_a_commandline_tool_written_in_go_for/)
+* [WeNano SpotChat Update: 17 Nov, 2020](https://www.reddit.com/r/nanocurrency/comments/jvtsqg/wenano_spotchat_update_17_nov_2020/)
 * [Earn Nano from playing Just Cause 2 Multiplayer](https://www.reddit.com/r/nanocurrency/comments/jplf34/earn_nano_from_playing_just_cause_2_multiplayer/)
 * [NanoGift for YouTube has been approved for Chrome, Brave, etc.](https://www.reddit.com/r/nanocurrency/comments/jmzj67/nanogift_for_youtube_has_been_approved_for_chrome/)
 
