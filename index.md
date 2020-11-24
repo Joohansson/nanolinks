@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Nov 24: Introduction to Nano Currency by F2Y](https://youtu.be/OAk2ou6EFMY)
 * [Nov 19: Gonano - Command-line tool written in Go](https://github.com/hectorchu/gonano)
 * [Nov 17: Exolix - Swap at fixed rate](https://exolix.com/)
 * [Nov 07: Earn Nano from playing Just Cause 2 Multiplayer](https://www.reddit.com/r/nanocurrency/comments/jplf34/earn_nano_from_playing_just_cause_2_multiplayer/)
@@ -209,7 +210,6 @@ layout: default
 * [Sept 8: Crypto.com](https://crypto.com/price/nano)
 * [Sept 2: DegenTrader](https://degentrader.com/)
 * [Sept 1: Nendly - The notion-friendly forum with Nano integration](https://nendly.com/)
-* [Aug 28: Nendly Faucet - Onion Faucet for TOR](http://nendlyy5734pdfflygapdayez6dcorodcio72jwfvaux4fsrzyh7rzqd.onion/faucet/)
 
 </div>
 </div>
@@ -329,6 +329,7 @@ Learn everything there is to know about Nano!
 * [Nano is Green](https://youtu.be/JChBTohSHlM)
 * [The Power of Digital Money - Nano Around The Globe](https://youtu.be/iKt9KepQQF4)
 * [10 reasons to use NANO instead of the Dollar](https://www.reddit.com/r/nanocurrency/comments/h80j1j/10_reasons_to_use_nano_instead_of_the_dollar_or/)
+* [Introduction to Nano Currency by F2Y](https://youtu.be/OAk2ou6EFMY)
 
 ### Network Stats and Explorers
 
