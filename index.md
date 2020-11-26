@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Nov 26: CoinEmbed - Embeddable widgets for easy cryptocurrency payments](https://coinembed.com/)
 * [Nov 24: Introduction to Nano Currency by F2Y](https://youtu.be/OAk2ou6EFMY)
 * [Nov 19: Gonano - Command-line tool written in Go](https://github.com/hectorchu/gonano)
 * [Nov 17: Exolix - Swap at fixed rate](https://exolix.com/)
@@ -209,7 +210,6 @@ layout: default
 * [Oct 20: Nano.Trade - Moon/Nano](https://moon.nano.trade/)
 * [Sept 8: Crypto.com](https://crypto.com/price/nano)
 * [Sept 2: DegenTrader](https://degentrader.com/)
-* [Sept 1: Nendly - The notion-friendly forum with Nano integration](https://nendly.com/)
 
 </div>
 </div>
@@ -253,7 +253,6 @@ Learn everything there is to know about Nano!
 ### Education & Adoption
 
 * [What is Nano in 60 Sec](https://youtu.be/ydVomoXEGe0)
-* [Nano Guide - Getting started](http://nano-guide.com/)
 * [Nano Guide 2 - Getting Started](https://gettingstarted.nanocenter.org/)
 * [What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
 * [Learn Nano](https://learnnano.com/)
@@ -283,7 +282,6 @@ Learn everything there is to know about Nano!
 #### Targeted Countries
 
 * [Venezuela 1](https://nano.org.ve/)
-* [Nano China](https://nanochina.co/)
 * [Chinese information and news](http://www.nano.wang/)
 * [Chinese forum](https://www.chainnode.com/forum/349)
 * [Brazil Facebook Group](https://www.facebook.com/groups/RaiBlocksBrasil/)
@@ -343,7 +341,6 @@ Learn everything there is to know about Nano!
 * [Nanoticker - Nano Network Analytics & Performance](https://nanoticker.info/)
 * [NanoMusic - Musical/Art Visualizer](http://music.nanos.cc)
 * [Unreal Nano - 3D visualizer build in UnrealEngine4](https://unreal.nanos.cc/)
-* [Nanoverse - Visual Explorer](https://nanoverse.io/)
 * [NanoSpider - Visual explorer](https://tetraloom.com/spider/)
 * [Cryptolights - Flow Visualizer](https://cryptolights.info/)
 * [TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
@@ -354,8 +351,7 @@ Learn everything there is to know about Nano!
 * [Nanolytics - Network stats](https://nanolytics.info/)
 * [Nano Charts - Representative stats](https://nanocharts.info/)
 * [Nano SpeedTest - Test real nano transactions](https://nanospeed.live)
-* [Transaction Speed Demo Button](https://speed.nanolinks.info/)
-* [Main & Beta Net Confirmation Time](https://nano.observer/)
+* [Transaction Speed Demo Button](https://speed.nanoticker.info/)
 * [NanoFees - Fee Tracker](http://nanofees.info/)
 * [Reddit Tip Bot Stats](http://reddittipbot.com/)
 * [Crypto Subreddit Tracker](https://cryptosub.live/)
@@ -408,7 +404,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 ##### Simple way but normally a bit worse exchange rate than a large exchange and often includes fees. Use with common sense and caution
 
 * [Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
-* [Brainblocks Wallet](https://app.brainblocks.io)
 * [Changelly](https://changelly.com/)
 * [Coinify](https://coinify.com/)
 * [Coingate](https://coingate.com/buy/nano)
@@ -534,7 +529,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 * [Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
 * [CoinGate - Nano Payment Service & Gateway](https://coingate.com/)
-* [Brainblocks - Nano Payment Service](https://brainblocks.io/)
+* [CoinEmbed - Embeddable widgets for easy cryptocurrency payments](https://coinembed.com/)
 * [Simplex - Credit cards payment service](https://www.simplex.com/)
 * [ShareRing - Sharing & Rental service](https://sharering.network)
 * [Wordpress Plugin - Nano, IOTA, XLM, XRP, SEPA Payment Service](https://wordpress.org/plugins/bitvolo-trustless-crypto-payment-gateway/)
@@ -646,7 +641,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Repeat - Subscription Management for Vendors](https://nanorepeat.com/)
 * [NANOPAY - Open Source API](https://github.com/besoeasy/nanopay)
 * [NanoFusion - Multi-signature trustless mixing](http://nanofusion.casa/)
-* [Alexa Nano Bot - Ask about Nano](http://nano-bot.info/)
 * [CoinChores - Teach your kids about Nano](https://coinchores.com/)
 * [NanoBlog - Decentralized blogging using IPFS](https://blog.mynano.ninja/)
 * [Natricon - Icon identifier for accounts](https://natricon.com/)
