@@ -33,8 +33,13 @@ layout: newslayout
 
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### December 2020
+
+* [The Nano Xmas Tree - it's back!](https://www.reddit.com/r/nanocurrency/comments/k4mshp/the_nano_xmas_tree_its_back/)
+
 ### November 2020
 
+* [NANO is now available for free in nearly every country in the world via WeNano App](https://www.reddit.com/r/nanocurrency/comments/jz85ig/nano_is_now_available_for_free_in_nearly_every/)
 * [Nano added to CoinEmbed - A new payment processor service](https://www.reddit.com/r/nanocurrency/comments/k0rr27/nano_added_to_coinembed/)
 * [Gonano, a command-line tool written in Go for creating and managing Nano wallets](https://www.reddit.com/r/nanocurrency/comments/jw4dax/gonano_a_commandline_tool_written_in_go_for/)
 * [WeNano SpotChat Update: 17 Nov, 2020](https://www.reddit.com/r/nanocurrency/comments/jvtsqg/wenano_spotchat_update_17_nov_2020/)
