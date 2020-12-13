@@ -200,6 +200,8 @@ layout: default
 
 ## Latest Additions
 
+* [Dec 13: Skyrun - Endless Runner powered by Nano](https://deanobones.github.io/Skyrun/)
+* [Dec 12: Nano Dev List - Developer donation and sponsorship portal](https://nanodevlist.com/)
 * [Nov 26: CoinEmbed - Embeddable widgets for easy cryptocurrency payments](https://coinembed.com/)
 * [Nov 24: Introduction to Nano Currency by F2Y](https://youtu.be/OAk2ou6EFMY)
 * [Nov 19: Gonano - Command-line tool written in Go](https://github.com/hectorchu/gonano)
@@ -208,8 +210,6 @@ layout: default
 * [Oct 31: Nanomart - Marketplace where you can buy and sell goods](https://nanomart.cc/)
 * [Oct 30: Unreal Nano - 3D Nano visualizer and game with VR and multiplayer](https://unreal.nanos.cc/)
 * [Oct 20: Nano.Trade - Moon/Nano](https://moon.nano.trade/)
-* [Sept 8: Crypto.com](https://crypto.com/price/nano)
-* [Sept 2: DegenTrader](https://degentrader.com/)
 
 </div>
 </div>
@@ -275,6 +275,9 @@ Learn everything there is to know about Nano!
 * [Emerging Economies Are Our Target Market: Nano Founder Colin LeMahieu](https://cryptobriefing.com/nano-adoption-target-market/)
 * [Third Generation Cryptocurrencies](https://hackernoon.com/why-third-generation-cryptocurrencies-are-game-changers-for-venezuela-cb8c9b016f9d)
 
+#### Developer Info
+* [Nano Dev List - Developer donation and sponsorship portal](https://nanodevlist.com/)
+
 #### Adoption
 
 * [Kappture: Accepting cryptocurrency at the point-of-sale](https://www.kappture.co.uk/files/accepting-cryptocurrency-at-the-point-of-sale.pdf)
@@ -294,7 +297,6 @@ Learn everything there is to know about Nano!
 * [NanoCast](https://www.youtube.com/channel/UC_KCdNCWQcb5Z4vsPBY18yQ)
 * [The Nano Center](https://www.youtube.com/channel/UCwB_g6LBPGv_anMhywH4BWA)
 * [Jolt Wallet](https://www.youtube.com/channel/UCLfilzzY4NmwNjWtEIibdkA)
-* [Brainblocks](https://www.youtube.com/channel/UCToyZ7QLqVX9mHWPTM8MNwg)
 * [Patrick Luberus - Nano Education](https://www.youtube.com/user/PatrickLuberus/videos)
 
 ### Interesting Videos [Not in channels above]
@@ -597,10 +599,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 
 ### Project Specific Development Channels
 
-* [Discord: Nanoblocks Wallet](https://discord.gg/n76DkEt)
-* [Discord: Brainblocks](https://discord.gg/MwaQcVM)
 * [Discord: Json Dev Server](https://discord.gg/RVCuFvc)
-* [Reddit: Jolt Wallet](https://www.reddit.com/r/joltwallet)
 * [Reddit: Nano Tipper Z (Reddit Tip bot)](https://www.reddit.com/r/nano_tipper)
 
 ### Node & Account Applications
@@ -798,6 +797,7 @@ There are much fun to do but please proceed with caution.
 * [FlappyNano - Flappy Bird against friends](https://flappynano.com/)
 * [Nano-it-all Live Trivia Competition](http://nano-it-all.com/)
 * [Earn Nano from playing Just Cause 2 Multiplayer](https://www.reddit.com/r/nanocurrency/comments/jplf34/earn_nano_from_playing_just_cause_2_multiplayer/)
+* [Skyrun - Endless Runner powered by Nano](https://deanobones.github.io/Skyrun/)
 
 ### Video, Music, Art
 
@@ -862,7 +862,7 @@ Services which payout Nano
 
 ## Contribution
 
-Do you want to add a link to your own project or you found something else? Just clone repo at [Github](https://github.com/Joohansson/nanolinks) , edit index.md and make a pull request. You can also contact me at [Reddit](https://www.reddit.com/user/Joohansson/) or in the [Nano Discord Server](https://chat.nano.org/) (just ask for the NanoLinks maintainer).
+Do you want to add a link to your own project or you found something else? Just clone repo at [Github](https://github.com/Joohansson/nanolinks) , edit index.md and make a pull request. You can also contact me at [Reddit](https://www.reddit.com/user/Joohansson/) or in the [Nano Discord Server](https://chat.nano.org/) (just ask for Json).
 <br><br>
 
 ### Voting Representative

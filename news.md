@@ -35,6 +35,9 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### December 2020
 
+* [Nano Game made with Unreal Engine](https://www.reddit.com/r/nanocurrency/comments/kb7yng/nano_game_made_with_unreal_engine/)
+* [Announcing NanoDevList - Financial support for devs working on the Nano protocol and projects](https://www.reddit.com/r/nanocurrency/comments/k8q5x1/announcing_nanodevlist_a_longterm_plan_to/)
+* [Anonymity research update](https://www.reddit.com/r/nanocurrency/comments/k9scmu/anonymity_research_update/)
 * [The Nano Xmas Tree - it's back!](https://www.reddit.com/r/nanocurrency/comments/k4mshp/the_nano_xmas_tree_its_back/)
 
 ### November 2020
