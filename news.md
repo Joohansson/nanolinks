@@ -636,7 +636,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### Apr 2016
 
-* [The birth of Raiblocks telegram chat](https://nanochats.club/NANO__English_chat?page=1)
+* [The birth of Raiblocks telegram chat (dead)](https://nanochats.club/NANO__English_chat?page=1)
 
 ### Feb 2016
 
@@ -649,7 +649,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### Jan 2015
 
-* [Coling Showing Raiblocks to r/altcoin - 5 Upvotes](https://www.reddit.com/r/altcoin/comments/2sujgx/raiblocks_with_block_lattice_technology/)
+* [Colin Showing Raiblocks to r/altcoin - 5 Upvotes](https://www.reddit.com/r/altcoin/comments/2sujgx/raiblocks_with_block_lattice_technology/)
 
 ### Dec 2014
 
