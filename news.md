@@ -35,6 +35,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### December 2020
 
+* [Stress testing of the main network with a new record of 235 CPS](https://www.reddit.com/r/nanocurrency/comments/kfvl6p/quality_stress_test_of_the_nano_main_net_just/)
 * [Nano Game made with Unreal Engine](https://www.reddit.com/r/nanocurrency/comments/kb7yng/nano_game_made_with_unreal_engine/)
 * [Announcing NanoDevList - Financial support for devs working on the Nano protocol and projects](https://www.reddit.com/r/nanocurrency/comments/k8q5x1/announcing_nanodevlist_a_longterm_plan_to/)
 * [Anonymity research update](https://www.reddit.com/r/nanocurrency/comments/k9scmu/anonymity_research_update/)
