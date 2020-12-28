@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Dec 26: P2PoW - Decentralized Proof of Work](https://github.com/anarkrypto/P2PoW)
 * [Dec 13: Skyrun - Endless Runner powered by Nano](https://deanobones.github.io/Skyrun/)
 * [Dec 12: Nano Dev List - Developer donation and sponsorship portal](https://nanodevlist.com/)
 * [Nov 26: CoinEmbed - Embeddable widgets for easy cryptocurrency payments](https://coinembed.com/)
@@ -209,7 +210,6 @@ layout: default
 * [Nov 07: Earn Nano from playing Just Cause 2 Multiplayer](https://www.reddit.com/r/nanocurrency/comments/jplf34/earn_nano_from_playing_just_cause_2_multiplayer/)
 * [Oct 31: Nanomart - Marketplace where you can buy and sell goods](https://nanomart.cc/)
 * [Oct 30: Unreal Nano - 3D Nano visualizer and game with VR and multiplayer](https://unreal.nanos.cc/)
-* [Oct 20: Nano.Trade - Moon/Nano](https://moon.nano.trade/)
 
 </div>
 </div>
@@ -839,7 +839,7 @@ Services which payout Nano
 * [BlockHunters - Augmented Reality Nano Hunt - iOS, Android](http://blockhunters.co/)
 * [Earn Nano - Directory for getting Nano without purchase](https://earn-nano.com/)
 * [Distributed PoW System (dPoW)](https://dpow.nanocenter.org/)
-* [Delegated Proof of Work](https://anarkrypto.github.io/Delegated-Proof-of-Work/)
+* [P2PoW - Decentralized Proof of Work](https://github.com/anarkrypto/P2PoW)
 * [OneFastWay Mining Pool, Pays in NANO](https://onefastway.com/pool)
 * [Quicrypto - Earn Nano for completing tasks](https://www.quicrypto.com)
 * [EarnAcademy](https://earnacademy.cc/)

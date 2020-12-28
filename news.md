@@ -35,6 +35,8 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### December 2020
 
+* [Announcing the 2021 Cantrip Theme Build-Off (Earn some Nano!)](https://www.reddit.com/r/nanocurrency/comments/klap30/announcing_the_2021_cantrip_theme_buildoff_earn/)
+* [Introducing Nano P2PoW - Decentralized proof of work](https://www.reddit.com/r/nanocurrency/comments/kjjux6/introducing_nano_p2pow/)
 * [Stress testing of the main network with a new record of 235 CPS](https://www.reddit.com/r/nanocurrency/comments/kfvl6p/quality_stress_test_of_the_nano_main_net_just/)
 * [Nano Game made with Unreal Engine](https://www.reddit.com/r/nanocurrency/comments/kb7yng/nano_game_made_with_unreal_engine/)
 * [Announcing NanoDevList - Financial support for devs working on the Nano protocol and projects](https://www.reddit.com/r/nanocurrency/comments/k8q5x1/announcing_nanodevlist_a_longterm_plan_to/)
