@@ -337,7 +337,6 @@ Learn everything there is to know about Nano!
 * [Nano-Faucet.org - Explorer, Stats, Visualizer, Map, Account list](https://nano-faucet.org/visualizer/)
 * [Repnode.org - Explorer, Stats, Reps, Network speed](https://repnode.org/)
 * [My Nano Ninja - Representatives, Stats, Explorer](https://mynano.ninja/)
-* [Nanocean - Explorer, Stats, Account list](https://nanocean.org)
 * [TOR Block Lattice Explorer (NOTE: .onion link)](http://nanonycgzbzozgnfdhu7wyn3xwmufo4nuzrqgemjwxavqjmznzbgt7ad.onion)
 * [Nanex - Consolidated transaction explorer](https://nanex.cc/)
 * [Nanoticker - Nano Network Analytics & Performance](https://nanoticker.info/)
