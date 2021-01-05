@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Jan 05: Exchange - Bitcoin Suisse](https://www.bitcoinsuisse.com/buy-sell-cryptocurrencies)
 * [Dec 26: P2PoW - Decentralized Proof of Work](https://github.com/anarkrypto/P2PoW)
 * [Dec 13: Skyrun - Endless Runner powered by Nano](https://deanobones.github.io/Skyrun/)
 * [Dec 12: Nano Dev List - Developer donation and sponsorship portal](https://nanodevlist.com/)
@@ -209,7 +210,6 @@ layout: default
 * [Nov 17: Exolix - Swap at fixed rate](https://exolix.com/)
 * [Nov 07: Earn Nano from playing Just Cause 2 Multiplayer](https://www.reddit.com/r/nanocurrency/comments/jplf34/earn_nano_from_playing_just_cause_2_multiplayer/)
 * [Oct 31: Nanomart - Marketplace where you can buy and sell goods](https://nanomart.cc/)
-* [Oct 30: Unreal Nano - 3D Nano visualizer and game with VR and multiplayer](https://unreal.nanos.cc/)
 
 </div>
 </div>
@@ -381,6 +381,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [OkEx](https://www.okex.com/)
 * [Huobi](https://www.huobi.com/en-us/)
 * [Mercatox](https://mercatox.com/)
+* [Bitcoin Suisse](https://www.bitcoinsuisse.com/buy-sell-cryptocurrencies)
 * [Bitflip](https://bitflip.li/)
 * [Cryptowolf](https://cryptowolf.eu/)
 * [RightBTC](https://www.rightbtc.com)
