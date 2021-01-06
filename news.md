@@ -36,6 +36,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### January 2021
 
+* [You can now send Nano via email using Nanomart!](https://www.reddit.com/r/nanocurrency/comments/krcgc7/you_can_now_send_nano_via_email_using_nanomart/)
 * [You can now buy and sell NANO on the Bitcoin Suisse Online Platform](https://www.reddit.com/r/nanocurrency/comments/kqf204/we_are_pleased_to_announce_that_you_can_now_buy/)
 ### December 2020
 
