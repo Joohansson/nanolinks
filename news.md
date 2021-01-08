@@ -36,6 +36,8 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### January 2021
 
+* [Nano reached 100k Twitter followers!](https://www.reddit.com/r/nanocurrency/comments/ks95rj/nano_just_reached_100k_twitter_followers/)
+* [The Nano NAKAMOTO COEFFICIENT has reach 6](https://www.reddit.com/r/nanocurrency/comments/ksmlp1/nakamoto_coefficient_of_6/)
 * [You can now send Nano via email using Nanomart!](https://www.reddit.com/r/nanocurrency/comments/krcgc7/you_can_now_send_nano_via_email_using_nanomart/)
 * [You can now buy and sell NANO on the Bitcoin Suisse Online Platform](https://www.reddit.com/r/nanocurrency/comments/kqf204/we_are_pleased_to_announce_that_you_can_now_buy/)
 ### December 2020

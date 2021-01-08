@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Jan 08: Nano Simple Tutorial](https://github.com/ealtamir/nano-simple-tutorial)
 * [Jan 05: Exchange - Bitcoin Suisse](https://www.bitcoinsuisse.com/buy-sell-cryptocurrencies)
 * [Dec 26: P2PoW - Decentralized Proof of Work](https://github.com/anarkrypto/P2PoW)
 * [Dec 13: Skyrun - Endless Runner powered by Nano](https://deanobones.github.io/Skyrun/)
@@ -209,7 +210,6 @@ layout: default
 * [Nov 19: Gonano - Command-line tool written in Go](https://github.com/hectorchu/gonano)
 * [Nov 17: Exolix - Swap at fixed rate](https://exolix.com/)
 * [Nov 07: Earn Nano from playing Just Cause 2 Multiplayer](https://www.reddit.com/r/nanocurrency/comments/jplf34/earn_nano_from_playing_just_cause_2_multiplayer/)
-* [Oct 31: Nanomart - Marketplace where you can buy and sell goods](https://nanomart.cc/)
 
 </div>
 </div>
@@ -277,6 +277,7 @@ Learn everything there is to know about Nano!
 
 #### Developer Info
 * [Nano Dev List - Developer donation and sponsorship portal](https://nanodevlist.com/)
+* [Nano Simple Tutorial](https://github.com/ealtamir/nano-simple-tutorial)
 
 #### Adoption
 
