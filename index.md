@@ -785,7 +785,7 @@ There are much fun to do but please proceed with caution.
 * [NANO Arcade - Game Collection](https://nanoarcade.org/games)
 * [NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
 * [NanoQuake JS](http://nanoquakejs.com)
-* [Unreal Nano - 3D Nano visualizer and game with VR and multiplayer](https://unreal.nanos.cc/)
+* [Unreal Nano - 3D/VR Nano transaction visualizer for mobile and desktop](https://unreal.nanos.cc/)
 * [NanoCards - A free printable card game](https://cards.nanos.cc/)
 * [Eternity Tower](https://eternitytower.net/)
 * [Player Killers Exchange](https://playerkillers.exchange)
