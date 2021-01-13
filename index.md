@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Jan 11: Unreal Nano Lite - 3D visualizer for mobile and desktop](https://unreal.nanos.cc/)
 * [Jan 08: Nano Simple Tutorial](https://github.com/ealtamir/nano-simple-tutorial)
 * [Jan 05: Exchange - Bitcoin Suisse](https://www.bitcoinsuisse.com/buy-sell-cryptocurrencies)
 * [Dec 26: P2PoW - Decentralized Proof of Work](https://github.com/anarkrypto/P2PoW)
@@ -209,7 +210,6 @@ layout: default
 * [Nov 24: Introduction to Nano Currency by F2Y](https://youtu.be/OAk2ou6EFMY)
 * [Nov 19: Gonano - Command-line tool written in Go](https://github.com/hectorchu/gonano)
 * [Nov 17: Exolix - Swap at fixed rate](https://exolix.com/)
-* [Nov 07: Earn Nano from playing Just Cause 2 Multiplayer](https://www.reddit.com/r/nanocurrency/comments/jplf34/earn_nano_from_playing_just_cause_2_multiplayer/)
 
 </div>
 </div>
@@ -377,12 +377,18 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 * [Binance](https://www.binance.com)
 * [Binance.US](https://www.binance.us/)
+* [Binance JEX](https://www.jex.com/en)
 * [Kraken](https://www.kraken.com/)
+* [DigiFinex](https://www.digifinex.com/)
 * [KuCoin](https://www.kucoin.com)
 * [OkEx](https://www.okex.com/)
-* [Huobi](https://www.huobi.com/en-us/)
-* [Mercatox](https://mercatox.com/)
+* [Huobi Global](https://www.huobi.com/en-us/)
+* [Huobi Korea](https://www.huobi.co.kr/)
 * [Bitcoin Suisse](https://www.bitcoinsuisse.com/buy-sell-cryptocurrencies)
+* [Bitvavo](https://bitvavo.com/en)
+* [Coinbene](https://www.coinbene.com)
+* [HitBTC](https://hitbtc.com)
+* [Mercatox](https://mercatox.com/)
 * [Bitflip](https://bitflip.li/)
 * [Cryptowolf](https://cryptowolf.eu/)
 * [RightBTC](https://www.rightbtc.com)
@@ -390,7 +396,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Coindeal](https://coindeal.com/)
 * [Gate.io](https://gate.io/)
 * [Koinex](https://koinex.in/)
-* [Coinbene](https://www.coinbene.com)
 * [Bitinka](https://www.bitinka.com)
 * [Bitladon](https://www.bitladon.com/nano)
 * [Coinall](https://www.coinall.com/market?product=nano_btc)
@@ -401,6 +406,11 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [DragonEx](https://dragonex.io/)
 * [ProBit](https://www.probit.com/)
 * [Poinex](https://www.pionex.com/)
+* [ATOMARS](https://atomars.com/)
+* [BiONE](https://www.bione.info/)
+* [CoinDCX](https://coindcx.com)
+* [CoinEx](https://www.coinex.com/)
+* [Dex-Trade](https://dex-trade.com/)
 
 #### Quick Crypto Swap/Buy
 
@@ -422,7 +432,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [SimpleSwap.io](https://simpleswap.io/)
 * [changeNOW.io](https://changenow.io/?to=nano)
 * [Elastum.io - European Gateway](https://elastum.io/)
-* [Bitvavo - European Gateway](https://bitvavo.com/en)
 * [Lex.Exchange - Australian Gateway](https://lex.exchange/)
 * [Cake Wallet for XMR Monero](https://cakewallet.io/)
 * [Godex.io](https://godex.io/)
