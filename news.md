@@ -36,6 +36,8 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### January 2021
 
+* [NANO2SCRIBBLE V0.1](https://www.reddit.com/r/nanocurrency/comments/kxeiqm/nano2scribble_v01/)
+* [Nano gets listed on Tokocrypto, the first Indonesian exchange](https://www.reddit.com/r/nanocurrency/comments/kxllwo/nano_gets_listed_on_tokocrypto/)
 * [Releasing Unreal Nano Lite: A 3D/VR transaction visualizer for iOS/ Android/ Win/ Linux/ MacOS](https://www.reddit.com/r/nanocurrency/comments/kuy9ox/releasing_unreal_nano_lite_a_3dvr_transaction/)
 * [Nano reached 100k Twitter followers!](https://www.reddit.com/r/nanocurrency/comments/ks95rj/nano_just_reached_100k_twitter_followers/)
 * [The Nano NAKAMOTO COEFFICIENT has reach 6](https://www.reddit.com/r/nanocurrency/comments/ksmlp1/nakamoto_coefficient_of_6/)

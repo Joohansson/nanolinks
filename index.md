@@ -200,6 +200,8 @@ layout: default
 
 ## Latest Additions
 
+* [Jan 15: Kaiak - The first crypto wallet for KaiOS mobiles](https://kaiak.cc/)
+* [Jan 15: Tokocrypto - Indonesian Exchange](https://www.tokocrypto.com/)
 * [Jan 11: Unreal Nano Lite - 3D visualizer for mobile and desktop](https://unreal.nanos.cc/)
 * [Jan 08: Nano Simple Tutorial](https://github.com/ealtamir/nano-simple-tutorial)
 * [Jan 05: Exchange - Bitcoin Suisse](https://www.bitcoinsuisse.com/buy-sell-cryptocurrencies)
@@ -208,8 +210,6 @@ layout: default
 * [Dec 12: Nano Dev List - Developer donation and sponsorship portal](https://nanodevlist.com/)
 * [Nov 26: CoinEmbed - Embeddable widgets for easy cryptocurrency payments](https://coinembed.com/)
 * [Nov 24: Introduction to Nano Currency by F2Y](https://youtu.be/OAk2ou6EFMY)
-* [Nov 19: Gonano - Command-line tool written in Go](https://github.com/hectorchu/gonano)
-* [Nov 17: Exolix - Swap at fixed rate](https://exolix.com/)
 
 </div>
 </div>
@@ -382,8 +382,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [DigiFinex](https://www.digifinex.com/)
 * [KuCoin](https://www.kucoin.com)
 * [OkEx](https://www.okex.com/)
-* [Huobi Global](https://www.huobi.com/en-us/)
-* [Huobi Korea](https://www.huobi.co.kr/)
+* [Huobi - Global](https://www.huobi.com/en-us/)
+* [Huobi - Korea](https://www.huobi.co.kr/)
 * [Bitcoin Suisse](https://www.bitcoinsuisse.com/buy-sell-cryptocurrencies)
 * [Bitvavo](https://bitvavo.com/en)
 * [Coinbene](https://www.coinbene.com)
@@ -411,6 +411,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [CoinDCX](https://coindcx.com)
 * [CoinEx](https://www.coinex.com/)
 * [Dex-Trade](https://dex-trade.com/)
+* [Tokocrypto - Indonesia](https://www.tokocrypto.com/)
 
 #### Quick Crypto Swap/Buy
 
@@ -453,8 +454,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [**Nault** - Web,Windows,Linux,Mac](https://nault.cc)
 * [**TIX** - Web](https://tixwallet.cc)
 * [**WeNano** - iOS, Android](https://wenano.net/)
-* [**Vola** - iOS](https://getvola.com)
 * [**Nalli** - Android,iOS](https://nalli.app/)
+* [**Kaiak** - KaiOS](https://kaiak.cc/)
 * [**Camo Nano** - Desktop](https://github.com/coranos/camo-nano-light-wallet)
 
 #### Dev Wallets
@@ -661,6 +662,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nault](https://github.com/Nault/Nault)
 * [NF Wallet (dev)](https://github.com/nanocurrency/nano-node)
 * [Natrium](https://github.com/appditto/natrium_wallet_flutter)
+* [Kaiak](https://github.com/Kaiak/kaiak-wallet)
 * [Canoe](https://github.com/getcanoe/canoe)
 * [TIX](https://github.com/Joohansson/nano-wallet)
 * [Nanollet](https://github.com/brokenbydefault/Nanollet)
