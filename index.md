@@ -200,6 +200,8 @@ layout: default
 
 ## Latest Additions
 
+* [Jan 16: Informative Medium Articles - SomeNano](https://somenano.medium.com/)
+* [Jan 16: Bitexen - Turkish Exchange](https://www.bitexen.com/)
 * [Jan 15: Kaiak - The first crypto wallet for KaiOS mobiles](https://kaiak.cc/)
 * [Jan 15: Tokocrypto - Indonesian Exchange](https://www.tokocrypto.com/)
 * [Jan 11: Unreal Nano Lite - 3D visualizer for mobile and desktop](https://unreal.nanos.cc/)
@@ -208,8 +210,6 @@ layout: default
 * [Dec 26: P2PoW - Decentralized Proof of Work](https://github.com/anarkrypto/P2PoW)
 * [Dec 13: Skyrun - Endless Runner powered by Nano](https://deanobones.github.io/Skyrun/)
 * [Dec 12: Nano Dev List - Developer donation and sponsorship portal](https://nanodevlist.com/)
-* [Nov 26: CoinEmbed - Embeddable widgets for easy cryptocurrency payments](https://coinembed.com/)
-* [Nov 24: Introduction to Nano Currency by F2Y](https://youtu.be/OAk2ou6EFMY)
 
 </div>
 </div>
@@ -261,9 +261,10 @@ Learn everything there is to know about Nano!
 * [Informative Medium Articles - Nano Education](https://medium.com/nano-education)
 * [Informative Medium Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
 * [Informative Medium Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
-* [Informative Medium Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
 * [Informative Medium Articles - James Coxon](https://medium.com/@jacoxon)
 * [Informative Medium Articles - Json](https://medium.com/@d84)
+* [Informative Medium Articles - SomeNano](https://somenano.medium.com/)
+* [Informative Medium Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
 * [Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 * [HelpNano - Guide for how to help the Nano ecosystem](https://helpnano.org/)
 * [Nano Infographics](https://imgur.com/a/tPaK9hp)
@@ -442,6 +443,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [MoonPay](https://www.moonpay.io/)
 * [Swapzone - Trading offers](https://swapzone.io/?to=nano)
 * [Exolix - Swap at fixed rate](https://exolix.com/)
+* [Bitexen - Turkia](https://www.bitexen.com/)
 
 #### Escrow and Peer-to-peer
 

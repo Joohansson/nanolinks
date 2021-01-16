@@ -36,6 +36,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### January 2021
 
+* [You can now buy and sell NANO with TRY via the Bitexen exchange platform](https://www.reddit.com/r/nanocurrency/comments/kxytbp/we_are_pleased_to_announce_you_can_now_buy_and/)
 * [NANO2SCRIBBLE V0.1](https://www.reddit.com/r/nanocurrency/comments/kxeiqm/nano2scribble_v01/)
 * [Nano gets listed on Tokocrypto, the first Indonesian exchange](https://www.reddit.com/r/nanocurrency/comments/kxllwo/nano_gets_listed_on_tokocrypto/)
 * [Releasing Unreal Nano Lite: A 3D/VR transaction visualizer for iOS/ Android/ Win/ Linux/ MacOS](https://www.reddit.com/r/nanocurrency/comments/kuy9ox/releasing_unreal_nano_lite_a_3dvr_transaction/)
