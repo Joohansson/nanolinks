@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Jan 16: Musig-nano - Multisig (multi-signature) demo](https://github.com/PlasmaPower/musig-nano)
 * [Jan 16: Informative Medium Articles - SomeNano](https://somenano.medium.com/)
 * [Jan 16: Bitexen - Turkish Exchange](https://www.bitexen.com/)
 * [Jan 15: Kaiak - The first crypto wallet for KaiOS mobiles](https://kaiak.cc/)
@@ -209,7 +210,6 @@ layout: default
 * [Jan 05: Exchange - Bitcoin Suisse](https://www.bitcoinsuisse.com/buy-sell-cryptocurrencies)
 * [Dec 26: P2PoW - Decentralized Proof of Work](https://github.com/anarkrypto/P2PoW)
 * [Dec 13: Skyrun - Endless Runner powered by Nano](https://deanobones.github.io/Skyrun/)
-* [Dec 12: Nano Dev List - Developer donation and sponsorship portal](https://nanodevlist.com/)
 
 </div>
 </div>
@@ -752,6 +752,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano on Tap - Docker backend](https://github.com/silverstar194/NanoOnTap)
 * [Nanoom - Service for pulling Nano payments](https://nanoom.tech/)
 * [Nanoidenticons - Identification icons for Nano](https://github.com/keerifox/Nanoidenticons)
+* [Musig-nano - Multisig (multi-signature) demo](https://github.com/PlasmaPower/musig-nano)
 
 ### Beta Network
 
