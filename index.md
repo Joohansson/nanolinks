@@ -508,13 +508,13 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 ### Related Mobile Apps
 
 * [TheNanoBot - Whatsapp bot](https://thenanobot.com/)
+* [Transaction Visualizer for iOS/Android](https://unreal.nanos.cc/#how-to)
 * [Nano Track - Nano Ticker](https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8)
 * [Coin Stats - Multi-coin, Portfolio, Stats](https://coinstats.app/)
 * [Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto-coin-tracker/id1375812090?mt=8)
 * [Tradingview - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
 * [TipNano - Free Android Nano tipper](https://play.google.com/store/apps/details?id=com.bdf.tipnano)
 * [PixelPortfolio](https://play.google.com/store/apps/details?id=com.pixelportfolio)
-* [Bloesem - App with nano rewards to stay focused](https://mybloesem.com/)
 * [NANO Connect Messenger - Message app with Nano transactions](https://github.com/crixuscoach/Nano-Connect-Messenger)
 
 ### Market Data, Analysis & Tickers
@@ -582,7 +582,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Appia - Payment service, PoS](http://appia.co/)
 * [Kappture - Payment service, PoS](https://www.kappture.co.uk/cryptocurrency.html)
 * [Paytomat - Payment Service. PoS, Fiat gateway](https://paytomat.com/)
-* [Brainblocks Web PoS](https://pos.brainblocks.io/)
 * [MoonPos - Mobile PoS](https://www.moonposapp.com/)
 * [InstantCash - Point of sale for Android](https://instantcashpos.xyz/)
 * [TIX - PoS without login/seed needed (Demo URL)](https://tixwallet.cc/#/pos/nano_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo)
@@ -625,7 +624,6 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Guide - How to Setup a Node at DigitalOcean](https://1nano.co/support-the-network/)
 * [Ogdolo - Crypto Address Alias](https://ogdolo.com)
 * [BIP39 Demo](https://github.com/roosmaa/nano-bip39-demo)
-* [Brainblocks](https://github.com/brainblocks)
 * [Telegram Bot Source Code](https://github.com/SergiySW/NanoWalletBot)
 * [Raimixer - Scrambler](https://github.com/juanjux/raimixer)
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)
@@ -819,7 +817,6 @@ There are much fun to do but please proceed with caution.
 * [NanoPixelWall - Buy your pixel spot](https://nanopixelwall.com/)
 * [The Nanoji Generator](https://www.nanojigenerator.com/)
 * [Nano Wallpapers](https://www.nano-wallpapers.com/)
-* [Feed the birds with Nano live stream](https://www.youtube.com/watch?v=otpqipL3H8Q)
 * [NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
 * [The Million Nano Homepage](https://millionnanohomepage.com/)
 
