@@ -345,7 +345,6 @@ Learn everything there is to know about Nano!
 * [NanoMusic - Musical/Art Visualizer](http://music.nanos.cc)
 * [Unreal Nano - 3D visualizer build in UnrealEngine4](https://unreal.nanos.cc/)
 * [NanoSpider - Visual explorer](https://tetraloom.com/spider/)
-* [Cryptolights - Flow Visualizer](https://cryptolights.info/)
 * [TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
 * [NanoStream - Transaction Visualizer](https://nanostream.eu/)
 * [SomeNano Snow - Real-time snowflakes](https://snow.somenano.com/)
