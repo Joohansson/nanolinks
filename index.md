@@ -837,7 +837,7 @@ There are much fun to do but please proceed with caution.
 * [Play with Nano](https://playwithnano.com/)
 * [FakeFork - Nano dashboard for tabletop gamers](https://fakefork.com/)
 * [NanoWire - Sell/Buy unused bandwidth](https://nanowire.com/)
-* [nPass - Web content payments](https://npass.dev/npass)
+* [nPass - Web content payments, paywall](https://npass.dev/npass)
 * [Nanowall.link - Content monetizer](https://nanowall.link/)
 * [Upstart - Digital content hosting and sale platform](https://upst-art.net/)
 * [YayMe - Online marketplace for short-form video lessons](https://yayme.cc/)
