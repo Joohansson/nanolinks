@@ -200,10 +200,10 @@ layout: default
 
 ## Latest Additions
 
+* [Jan 19: Nanobomb - Game demo that uses nPass tokens](https://npass.dev/npass/nanobomb)
 * [Jan 16: Musig-nano - Multisig (multi-signature) demo](https://github.com/PlasmaPower/musig-nano)
 * [Jan 16: Informative Medium Articles - SomeNano](https://somenano.medium.com/)
 * [Jan 16: Bitexen - Turkish Exchange](https://www.bitexen.com/)
-* [Jan 15: Kaiak - The first crypto wallet for KaiOS mobiles](https://kaiak.cc/)
 * [Jan 15: Tokocrypto - Indonesian Exchange](https://www.tokocrypto.com/)
 * [Jan 11: Unreal Nano Lite - 3D visualizer for mobile and desktop](https://unreal.nanos.cc/)
 * [Jan 08: Nano Simple Tutorial](https://github.com/ealtamir/nano-simple-tutorial)
@@ -810,6 +810,7 @@ There are much fun to do but please proceed with caution.
 * [Nano-it-all Live Trivia Competition](http://nano-it-all.com/)
 * [Earn Nano from playing Just Cause 2 Multiplayer](https://www.reddit.com/r/nanocurrency/comments/jplf34/earn_nano_from_playing_just_cause_2_multiplayer/)
 * [Skyrun - Endless Runner powered by Nano](https://deanobones.github.io/Skyrun/)
+* [Nanobomb - Game demo that uses nPass tokens](https://npass.dev/npass/nanobomb)
 
 ### Video, Music, Art
 
@@ -836,7 +837,7 @@ There are much fun to do but please proceed with caution.
 * [Play with Nano](https://playwithnano.com/)
 * [FakeFork - Nano dashboard for tabletop gamers](https://fakefork.com/)
 * [NanoWire - Sell/Buy unused bandwidth](https://nanowire.com/)
-* [nPass - Web content payments](http://npass.ddns.net/npass)
+* [nPass - Web content payments](https://npass.dev/npass)
 * [Nanowall.link - Content monetizer](https://nanowall.link/)
 * [Upstart - Digital content hosting and sale platform](https://upst-art.net/)
 * [YayMe - Online marketplace for short-form video lessons](https://yayme.cc/)
