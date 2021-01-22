@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Jan 22: StealthEX.io](https://stealthex.io/)
 * [Jan 19: Nanobomb - Game demo that uses nPass tokens](https://npass.dev/npass/nanobomb)
 * [Jan 16: Musig-nano - Multisig (multi-signature) demo](https://github.com/PlasmaPower/musig-nano)
 * [Jan 16: Informative Medium Articles - SomeNano](https://somenano.medium.com/)
@@ -209,7 +210,6 @@ layout: default
 * [Jan 08: Nano Simple Tutorial](https://github.com/ealtamir/nano-simple-tutorial)
 * [Jan 05: Exchange - Bitcoin Suisse](https://www.bitcoinsuisse.com/buy-sell-cryptocurrencies)
 * [Dec 26: P2PoW - Decentralized Proof of Work](https://github.com/anarkrypto/P2PoW)
-* [Dec 13: Skyrun - Endless Runner powered by Nano](https://deanobones.github.io/Skyrun/)
 
 </div>
 </div>
@@ -443,6 +443,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Swapzone - Trading offers](https://swapzone.io/?to=nano)
 * [Exolix - Swap at fixed rate](https://exolix.com/)
 * [Bitexen - Turkia](https://www.bitexen.com/)
+* [StealthEX.io](https://stealthex.io/)
 
 #### Escrow and Peer-to-peer
 

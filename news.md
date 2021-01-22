@@ -36,6 +36,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### January 2021
 
+* [Nano added to StealthEX.io](https://www.reddit.com/r/nanocurrency/comments/l2r2z1/stealthex_team_is_proud_to_support_projects_with/)
 * [You can now buy and sell NANO with TRY via the Bitexen exchange platform](https://www.reddit.com/r/nanocurrency/comments/kxytbp/we_are_pleased_to_announce_you_can_now_buy_and/)
 * [NANO2SCRIBBLE V0.1](https://www.reddit.com/r/nanocurrency/comments/kxeiqm/nano2scribble_v01/)
 * [Nano gets listed on Tokocrypto, the first Indonesian exchange](https://www.reddit.com/r/nanocurrency/comments/kxllwo/nano_gets_listed_on_tokocrypto/)
