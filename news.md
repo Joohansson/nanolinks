@@ -36,6 +36,8 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### January 2021
 
+* [New version of Nalli is now released!](https://www.reddit.com/r/nanocurrency/comments/l3gn3m/new_version_of_nalli_is_now_released/)
+* [Kaiak - Wallet for the emerging markets (KaiOS) now available as a web demo](https://www.reddit.com/r/nanocurrency/comments/l19zlg/kaiak_cryptocurrency_wallet_for_the_emerging/)
 * [Nano added to StealthEX.io](https://www.reddit.com/r/nanocurrency/comments/l2r2z1/stealthex_team_is_proud_to_support_projects_with/)
 * [You can now buy and sell NANO with TRY via the Bitexen exchange platform](https://www.reddit.com/r/nanocurrency/comments/kxytbp/we_are_pleased_to_announce_you_can_now_buy_and/)
 * [NANO2SCRIBBLE V0.1](https://www.reddit.com/r/nanocurrency/comments/kxeiqm/nano2scribble_v01/)
