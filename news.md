@@ -36,6 +36,8 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### January 2021
 
+* [FynCom's Email Nanopayments Project - Sneak Peak](https://www.reddit.com/r/nanocurrency/comments/l5mkjc/fyncoms_email_nanopayments_project_sneak_peak/)
+* [AnchorUSD now includes NANO](https://www.reddit.com/r/nanocurrency/comments/l542mt/anchorusd_now_includes_nano/)
 * [NF hiring for a Lead Software Engineer!](https://www.reddit.com/r/nanocurrency/comments/l4kxyd/were_hiring_for_a_lead_software_engineer_at_the/)
 * [New version of Nalli is now released!](https://www.reddit.com/r/nanocurrency/comments/l3gn3m/new_version_of_nalli_is_now_released/)
 * [Kaiak - Wallet for the emerging markets (KaiOS) now available as a web demo](https://www.reddit.com/r/nanocurrency/comments/l19zlg/kaiak_cryptocurrency_wallet_for_the_emerging/)

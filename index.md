@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Jan 27: AnchorUSD](https://www.anchorusd.com/)
 * [Jan 22: StealthEX.io](https://stealthex.io/)
 * [Jan 19: Nanobomb - Game demo that uses nPass tokens](https://npass.dev/npass/nanobomb)
 * [Jan 16: Musig-nano - Multisig (multi-signature) demo](https://github.com/PlasmaPower/musig-nano)
@@ -209,7 +210,6 @@ layout: default
 * [Jan 11: Unreal Nano Lite - 3D visualizer for mobile and desktop](https://unreal.nanos.cc/)
 * [Jan 08: Nano Simple Tutorial](https://github.com/ealtamir/nano-simple-tutorial)
 * [Jan 05: Exchange - Bitcoin Suisse](https://www.bitcoinsuisse.com/buy-sell-cryptocurrencies)
-* [Dec 26: P2PoW - Decentralized Proof of Work](https://github.com/anarkrypto/P2PoW)
 
 </div>
 </div>
@@ -255,14 +255,13 @@ Learn everything there is to know about Nano!
 * [What is Nano in 60 Sec](https://youtu.be/ydVomoXEGe0)
 * [Nano Guide 2 - Getting Started](https://gettingstarted.nanocenter.org/)
 * [What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
+* [Nano for Newcomers Reddit Series](https://nanojson.medium.com/nano-for-newcomers-75e64535327a)
 * [Learn Nano](https://learnnano.com/)
-* [Guide - Get, Use, Accept & Support Nano](https://1nano.co/)
-* [Nano4mythoughts - A blog centered around Nano adoption](https://www.nano4mythoughts.com)
 * [Informative Medium Articles - Nano Education](https://medium.com/nano-education)
 * [Informative Medium Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
 * [Informative Medium Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 * [Informative Medium Articles - James Coxon](https://medium.com/@jacoxon)
-* [Informative Medium Articles - Json](https://medium.com/@d84)
+* [Informative Medium Articles - Json](https://nanojson.medium.com/)
 * [Informative Medium Articles - SomeNano](https://somenano.medium.com/)
 * [Informative Medium Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
 * [Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
@@ -444,6 +443,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Exolix - Swap at fixed rate](https://exolix.com/)
 * [Bitexen - Turkia](https://www.bitexen.com/)
 * [StealthEX.io](https://stealthex.io/)
+* [AnchorUSD](https://www.anchorusd.com/)
 
 #### Escrow and Peer-to-peer
 
