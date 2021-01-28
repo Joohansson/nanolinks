@@ -865,6 +865,7 @@ There are much fun to do but please proceed with caution.
 * [Player Killers Exchange - RPG game with payouts](https://playerkillers.exchange)
 * [Polyrun - Workout rewards](https://polyrun.app/)
 * [PlayNANO - Earn Free Nano by completing tasks & watching videos](https://playnano.online/offerwalls)
+* [unMineable - Earn NANO via GPU and CPU mining - Multi algorithm mining pool](https://unmineable.com/coins/NANO)
 
 </div>
 </div>
