@@ -199,7 +199,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
-
+* [Jan 29: Monnos Brazilian Exchange](https://monnos.com/exchange/)
+* [Jan 29: 2021 Nano introduction video by Exodus Wallet](https://youtu.be/71T_27Za3zk)
 * [Jan 27: AnchorUSD](https://www.anchorusd.com/)
 * [Jan 22: StealthEX.io](https://stealthex.io/)
 * [Jan 19: Nanobomb - Game demo that uses nPass tokens](https://npass.dev/npass/nanobomb)
@@ -208,8 +209,6 @@ layout: default
 * [Jan 16: Bitexen - Turkish Exchange](https://www.bitexen.com/)
 * [Jan 15: Tokocrypto - Indonesian Exchange](https://www.tokocrypto.com/)
 * [Jan 11: Unreal Nano Lite - 3D visualizer for mobile and desktop](https://unreal.nanos.cc/)
-* [Jan 08: Nano Simple Tutorial](https://github.com/ealtamir/nano-simple-tutorial)
-* [Jan 05: Exchange - Bitcoin Suisse](https://www.bitcoinsuisse.com/buy-sell-cryptocurrencies)
 
 </div>
 </div>
@@ -331,6 +330,7 @@ Learn everything there is to know about Nano!
 * [The Power of Digital Money - Nano Around The Globe](https://youtu.be/iKt9KepQQF4)
 * [10 reasons to use NANO instead of the Dollar](https://www.reddit.com/r/nanocurrency/comments/h80j1j/10_reasons_to_use_nano_instead_of_the_dollar_or/)
 * [Introduction to Nano Currency by F2Y](https://youtu.be/OAk2ou6EFMY)
+* [2021 Nano introduction video by Exodus Wallet](https://youtu.be/71T_27Za3zk)
 
 ### Network Stats and Explorers
 
@@ -444,6 +444,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Bitexen - Turkia](https://www.bitexen.com/)
 * [StealthEX.io](https://stealthex.io/)
 * [AnchorUSD](https://www.anchorusd.com/)
+* [Monnos - Brazil](https://monnos.com/exchange/)
 
 #### Escrow and Peer-to-peer
 

@@ -36,6 +36,9 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### January 2021
 
+* [NanoThings.store to close February 15th](https://www.reddit.com/r/nanocurrency/comments/l7qfdk/nanothingsstore_to_close_february_15th/)
+* [Nano can now be traded on the Brazilian exchange platform Monnos!](https://www.reddit.com/r/nanocurrency/comments/l7t17r/nano_can_now_be_traded_on_the_brazilian_exchange/)
+* [2021 Nano introduction video by Exodus Wallet](https://www.reddit.com/r/nanocurrency/comments/l76iss/2021_nano_introduction_video_by_exodus_wallet/)
 * [FynCom's Email Nanopayments Project - Sneak Peak](https://www.reddit.com/r/nanocurrency/comments/l5mkjc/fyncoms_email_nanopayments_project_sneak_peak/)
 * [AnchorUSD now includes NANO](https://www.reddit.com/r/nanocurrency/comments/l542mt/anchorusd_now_includes_nano/)
 * [NF hiring for a Lead Software Engineer!](https://www.reddit.com/r/nanocurrency/comments/l4kxyd/were_hiring_for_a_lead_software_engineer_at_the/)
