@@ -49,7 +49,7 @@ layout: default
     <td>Nano</td>
     <td>0<span class="stext2">*1</span></td>
     <td>0.3<span class="stext2">*3</span></td>
-    <td>100-1000<span class="stext2">*5</span></td>
+    <td>200-1000<span class="stext2">*5</span></td>
     <td>0.032<span class="stext2">*7</span></td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ layout: default
   <p>*2 Typically around 0.1-1 USD/transaction but was $37 while the network was saturated. No upper limit and controlled by demand.</p>
   <p>*3 Median time of sending from node A until detected confirmed and fully settled on node B. As of Jul 2019, node v19. PoW not included but that is mostly precalculated before sending.</p>
   <p>*4 Depends on the fee. A high fee typically results in transactions to be cleared in 10min but with lower fee take 1h or more.</p>
-  <p>*5 Only limited by node hardware. 7000 TPS was done in early lab. No real test on mainnet has been made yet but will be as soon as planned protocol optimizations have been done. 100 TPS has already been seen on the network.</p>
+  <p>*5 Only limited by node hardware. Main net was tested at 230 CPS in late 2020 for node v21.2. Beta net tested at 1400 CPS. More improvements will be done.</p>
   <p>*6 Estimated hardcoded maximum allowed per block with Segwit.</p>
   <p>*7 Mid 2018 value based on PoW needed for each tx. Reference: GTX1070 GPU at 100W + 100W computer.</p>
   <p>*8 Mid 2018 value. Depends on hashrate which depends on market. Also depends of current tps.</p>
