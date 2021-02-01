@@ -50,21 +50,21 @@ layout: default
     <td>0<span class="stext2">*1</span></td>
     <td>0.3<span class="stext2">*3</span></td>
     <td>200-1000<span class="stext2">*5</span></td>
-    <td>0.032<span class="stext2">*7</span></td>
+    <td>0.003<span class="stext2">*7</span></td>
   </tr>
   <tr>
     <td>Bitcoin</td>
     <td>Fee market<span class="stext2">*2</span></td>
     <td>600-3600<span class="stext2">*4</span></td>
     <td>10<span class="stext2">*6</span></td>
-    <td>950,000<span class="stext2">*8</span></td>
+    <td>750,000<span class="stext2">*8</span></td>
   </tr>
   <tr>
     <td><strong>Multipliers</strong></td>
     <td><strong>Infinite</strong></td>
     <td><strong>2000-12000x</strong></td>
     <td><strong>10-100x</strong></td>
-    <td><strong>1/30,000,000x</strong></td>
+    <td><strong>1/250,000,000x</strong></td>
   </tr>
 </table>
 <div class="stext">
@@ -74,15 +74,15 @@ layout: default
   <p>*4 Depends on the fee. A high fee typically results in transactions to be cleared in 10min but with lower fee take 1h or more.</p>
   <p>*5 Only limited by node hardware. Main net was tested at 230 CPS in late 2020 for node v21.2. Beta net tested at 1400 CPS. More improvements will be done.</p>
   <p>*6 Estimated hardcoded maximum allowed per block with Segwit.</p>
-  <p>*7 Mid 2018 value based on PoW needed for each tx. Reference: GTX1070 GPU at 100W + 100W computer.</p>
-  <p>*8 Mid 2018 value. Depends on hashrate which depends on market. Also depends of current tps.</p>
+  <p>*7 2020 value based on PoW needed for each tx. Reference: RTX2080 GPU at 200W.</p>
+  <p>*8 2020 value. Depends on hashrate which depends on market. Also depends of current tps.</p>
 </div>
 <br>
 <h3><strong>The Green Choice</strong></h3>
 <p><ul>
-  <li>A Vestas V164 wind turbine can power 400,000 nano transactions, per revolution! Enough to power 80,000 tx/sec</li>
-  <li>4 square meters of solar panels can power 7 tx/sec</li>
-  <li>1 nano tx is equivalent of the energy a 10W LED lamp uses in 11 sec</li>
+  <li>A Vestas V164 wind turbine can power 4,000,000 nano transactions, per revolution! Enough to power 800,000 tx/sec</li>
+  <li>1 square meters of solar panels can power 17 tx/sec</li>
+  <li>1 sec of Bitcoin running is equal to 1,700,000,000 Nano transactions (60M was made between 2014-2021)</li>
 </ul></p>
 <br>
 <h3><strong>Test Nano</strong></h3>
