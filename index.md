@@ -445,6 +445,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [StealthEX.io](https://stealthex.io/)
 * [AnchorUSD](https://www.anchorusd.com/)
 * [Monnos - Brazil](https://monnos.com/exchange/)
+* [StealthEX.io](https://stealthex.io/)
 
 #### Escrow and Peer-to-peer
 
