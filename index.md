@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Feb 03: Nano Looker - Explorer, Stats](https://www.nanolooker.com/)
 * [Jan 29: Monnos Brazilian Exchange](https://monnos.com/exchange/)
 * [Jan 29: 2021 Nano introduction video by Exodus Wallet](https://youtu.be/71T_27Za3zk)
 * [Jan 27: AnchorUSD](https://www.anchorusd.com/)
@@ -208,7 +209,6 @@ layout: default
 * [Jan 16: Informative Medium Articles - SomeNano](https://somenano.medium.com/)
 * [Jan 16: Bitexen - Turkish Exchange](https://www.bitexen.com/)
 * [Jan 15: Tokocrypto - Indonesian Exchange](https://www.tokocrypto.com/)
-* [Jan 11: Unreal Nano Lite - 3D visualizer for mobile and desktop](https://unreal.nanos.cc/)
 
 </div>
 </div>
@@ -336,7 +336,7 @@ Learn everything there is to know about Nano!
 
 * [NanoCrawler.cc - Explorer, Stats, Account list](https://nanocrawler.cc/)
 * [Nano-Faucet.org - Explorer, Stats, Visualizer, Map, Account list](https://nano-faucet.org/visualizer/)
-* [Repnode.org - Explorer, Stats, Reps, Network speed](https://repnode.org/)
+* [Nano Looker - Explorer, Stats](https://www.nanolooker.com/)
 * [My Nano Ninja - Representatives, Stats, Explorer](https://mynano.ninja/)
 * [TOR Block Lattice Explorer (NOTE: .onion link)](http://nanonycgzbzozgnfdhu7wyn3xwmufo4nuzrqgemjwxavqjmznzbgt7ad.onion)
 * [Nanex - Consolidated transaction explorer](https://nanex.cc/)
