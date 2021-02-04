@@ -199,6 +199,7 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+* [Feb 04: Apollo Nano - PVP Shooter game](https://apollonano.com/shooter.php)
 * [Feb 03: Nano Looker - Explorer, Stats](https://www.nanolooker.com/)
 * [Jan 29: Monnos Brazilian Exchange](https://monnos.com/exchange/)
 * [Jan 29: 2021 Nano introduction video by Exodus Wallet](https://youtu.be/71T_27Za3zk)
@@ -208,7 +209,6 @@ layout: default
 * [Jan 16: Musig-nano - Multisig (multi-signature) demo](https://github.com/PlasmaPower/musig-nano)
 * [Jan 16: Informative Medium Articles - SomeNano](https://somenano.medium.com/)
 * [Jan 16: Bitexen - Turkish Exchange](https://www.bitexen.com/)
-* [Jan 15: Tokocrypto - Indonesian Exchange](https://www.tokocrypto.com/)
 
 </div>
 </div>
@@ -813,6 +813,7 @@ There are much fun to do but please proceed with caution.
 * [Earn Nano from playing Just Cause 2 Multiplayer](https://www.reddit.com/r/nanocurrency/comments/jplf34/earn_nano_from_playing_just_cause_2_multiplayer/)
 * [Skyrun - Endless Runner powered by Nano](https://deanobones.github.io/Skyrun/)
 * [Nanobomb - Game demo that uses nPass tokens](https://npass.dev/npass/nanobomb)
+* [Apollo Nano - PVP Shooter game](https://apollonano.com/shooter.php)
 
 ### Video, Music, Art
 
@@ -867,6 +868,7 @@ There are much fun to do but please proceed with caution.
 * [Polyrun - Workout rewards](https://polyrun.app/)
 * [PlayNANO - Earn Free Nano by completing tasks & watching videos](https://playnano.online/offerwalls)
 * [unMineable - Earn NANO via GPU and CPU mining - Multi algorithm mining pool](https://unmineable.com/coins/NANO)
+* [Apollo Nano - PVP Shooter game](https://apollonano.com/shooter.php)
 
 </div>
 </div>
