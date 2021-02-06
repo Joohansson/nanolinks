@@ -199,6 +199,8 @@ layout: default
 <div class="div-right" markdown="1">
 
 ## Latest Additions
+
+* [Feb 06: SomeNano Magic Eye - Real-time stereogram](https://magiceye.somenano.com/)
 * [Feb 04: Apollo Nano - PVP Shooter game](https://apollonano.com/shooter.php)
 * [Feb 03: Nano Looker - Explorer, Stats](https://www.nanolooker.com/)
 * [Jan 29: Monnos Brazilian Exchange](https://monnos.com/exchange/)
@@ -208,7 +210,6 @@ layout: default
 * [Jan 19: Nanobomb - Game demo that uses nPass tokens](https://npass.dev/npass/nanobomb)
 * [Jan 16: Musig-nano - Multisig (multi-signature) demo](https://github.com/PlasmaPower/musig-nano)
 * [Jan 16: Informative Medium Articles - SomeNano](https://somenano.medium.com/)
-* [Jan 16: Bitexen - Turkish Exchange](https://www.bitexen.com/)
 
 </div>
 </div>
@@ -347,6 +348,7 @@ Learn everything there is to know about Nano!
 * [TX Highway - Nano Vs BTC Visualizer](https://bitdesert.github.io/txhighway-nano/)
 * [NanoStream - Transaction Visualizer](https://nanostream.eu/)
 * [SomeNano Snow - Real-time snowflakes](https://snow.somenano.com/)
+* [SomeNano Magic Eye - Real-time stereogram](https://magiceye.somenano.com/)
 * [Nano Fountain - Transaction Visualizer](https://www.nano-fountain.com/)
 * [Blocktivity - Utilization Comparision](https://blocktivity.info/)
 * [Nanolytics - Network stats](https://nanolytics.info/)
