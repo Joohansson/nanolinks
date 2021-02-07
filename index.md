@@ -335,10 +335,10 @@ Learn everything there is to know about Nano!
 
 ### Network Stats and Explorers
 
-* [NanoCrawler.cc - Explorer, Stats, Account list](https://nanocrawler.cc/)
-* [Nano-Faucet.org - Explorer, Stats, Visualizer, Map, Account list](https://nano-faucet.org/visualizer/)
 * [Nano Looker - Explorer, Stats](https://www.nanolooker.com/)
+* [Nano-Faucet.org - Explorer, Stats, Visualizer, Map, Account list](https://nano-faucet.org/visualizer/)
 * [My Nano Ninja - Representatives, Stats, Explorer](https://mynano.ninja/)
+* [NanoCrawler.cc - Explorer, Stats, Account list](https://nanocrawler.cc/)
 * [TOR Block Lattice Explorer (NOTE: .onion link)](http://nanonycgzbzozgnfdhu7wyn3xwmufo4nuzrqgemjwxavqjmznzbgt7ad.onion)
 * [Nanex - Consolidated transaction explorer](https://nanex.cc/)
 * [Nanoticker - Nano Network Analytics & Performance](https://nanoticker.info/)
