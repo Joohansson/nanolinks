@@ -450,10 +450,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [AnchorUSD](https://www.anchorusd.com/)
 * [Monnos - Brazil](https://monnos.com/exchange/)
 
-#### Escrow and Peer-to-peer
-
-* [Localnano](https://www.localnano.com/)
-
 ### Wallets
 
 * [Nanowallets - Feature Guide](https://nanowallets.guide/)
