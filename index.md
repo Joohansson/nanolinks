@@ -453,6 +453,9 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 ### Wallets
 
 * [Nanowallets - Feature Guide](https://nanowallets.guide/)
+
+#### Native Wallets
+
 * [**Natrium** - Android,iOS](https://natrium.io/)
 * [**Nault** - Web,Windows,Linux,Mac](https://nault.cc)
 * [**TIX** - Web](https://tixwallet.cc)
