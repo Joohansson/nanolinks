@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Feb 08: Where to buy Nano - A Beginner-friendly Guide](https://www.reddit.com/r/nanocurrency/comments/lfg5gj/where_to_buy_nano_a_beginnerfriendly_guide/)
 * [Feb 06: SomeNano Magic Eye - Real-time stereogram](https://magiceye.somenano.com/)
 * [Feb 04: Apollo Nano - PVP Shooter game](https://apollonano.com/shooter.php)
 * [Feb 03: Nano Looker - Explorer, Stats](https://www.nanolooker.com/)
@@ -209,7 +210,6 @@ layout: default
 * [Jan 22: StealthEX.io](https://stealthex.io/)
 * [Jan 19: Nanobomb - Game demo that uses nPass tokens](https://npass.dev/npass/nanobomb)
 * [Jan 16: Musig-nano - Multisig (multi-signature) demo](https://github.com/PlasmaPower/musig-nano)
-* [Jan 16: Informative Medium Articles - SomeNano](https://somenano.medium.com/)
 
 </div>
 </div>
@@ -373,6 +373,8 @@ Learn everything there is to know about Nano!
 Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 ### Exchanges
+
+* [Where to buy Nano - A Beginner-friendly Guide](https://www.reddit.com/r/nanocurrency/comments/lfg5gj/where_to_buy_nano_a_beginnerfriendly_guide/)
 
 #### Traditional Exchanges
 
