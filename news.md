@@ -35,6 +35,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### February 2021
 
+* [A memory-hard PoW solution using Equihash with interesting comments](https://www.reddit.com/r/nanocurrency/comments/ldi95w/update_on_equihash_as_work_algorithm/)
 * [Gonano Payments: a new easy-to-use payment processor for NANO](https://www.reddit.com/r/nanocurrency/comments/lena6k/gonano_payments_a_new_easytouse_payment_processor/)
 * [The Nano RPC Proxy server now supports advanced stat collection via Prometheus](https://www.reddit.com/r/nanocurrency/comments/lekjpg/the_nano_rpc_proxy_server_now_supports_advanced/)
 
