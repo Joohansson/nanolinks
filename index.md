@@ -265,7 +265,6 @@ Learn everything there is to know about Nano!
 * [Informative Medium Articles - SomeNano](https://somenano.medium.com/)
 * [Informative Medium Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
 * [Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
-* [HelpNano - Guide for how to help the Nano ecosystem](https://helpnano.org/)
 * [Nano Infographics](https://imgur.com/a/tPaK9hp)
 * [NANO TAA - Promotion](https://www.nanotaa.com/)
 
@@ -393,7 +392,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [HitBTC](https://hitbtc.com)
 * [Mercatox](https://mercatox.com/)
 * [Bitflip](https://bitflip.li/)
-* [Cryptowolf](https://cryptowolf.eu/)
 * [RightBTC](https://www.rightbtc.com)
 * [Bit-Z](https://www.bit-z.com/)
 * [Coindeal](https://coindeal.com/)
@@ -430,13 +428,9 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [N.Exchange](https://n.exchange/)
 * [Swaplab](https://swaplab.cc/)
 * [One Page Exchange](https://onepagex.com)
-* [Cryptowolf](https://cryptowolf.eu/)
-* [Coinsave](https://coinsave.io/)
-* [Nanotrade.co.uk](https://nanotrade.co.uk/)
 * [SimpleSwap.io](https://simpleswap.io/)
 * [changeNOW.io](https://changenow.io/?to=nano)
 * [Elastum.io - European Gateway](https://elastum.io/)
-* [Lex.Exchange - Australian Gateway](https://lex.exchange/)
 * [Cake Wallet for XMR Monero](https://cakewallet.io/)
 * [Godex.io](https://godex.io/)
 * [SwapSpace](https://swapspace.co/)
@@ -499,7 +493,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 #### Hardware Wallets and Nodes
 
 * [Ledger Nano S](https://www.ledger.com/)
-* [Jolt](https://www.joltwallet.com/)
 
 #### Wallet and Account Guides
 
@@ -518,7 +511,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Coin Stats - Multi-coin, Portfolio, Stats](https://coinstats.app/)
 * [Cold Crypto - Multi-coin, Address Tracker, Balance](https://itunes.apple.com/us/app/cold-crypto-coin-tracker/id1375812090?mt=8)
 * [Tradingview - Advanced Real-time Trading Tool](https://www.tradingview.com/features/)
-* [TipNano - Free Android Nano tipper](https://play.google.com/store/apps/details?id=com.bdf.tipnano)
 * [PixelPortfolio](https://play.google.com/store/apps/details?id=com.pixelportfolio)
 * [NANO Connect Messenger - Message app with Nano transactions](https://github.com/crixuscoach/Nano-Connect-Messenger)
 
