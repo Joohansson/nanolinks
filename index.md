@@ -266,7 +266,7 @@ Learn everything there is to know about Nano!
 * [Informative Medium Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
 * [Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 * [Nano Infographics](https://imgur.com/a/tPaK9hp)
-* [NANO TAA - Promotion](https://www.nanotaa.com/)
+* [Guide: Nano for Twitch Streamers](https://sites.google.com/view/nanofortwitch)
 
 #### External Media
 
