@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Feb 10: Geographical Node Map](https://nanomap-061992.web.app/#/dashboard)
 * [Feb 10: nano_account_explorer - Python visualizer](https://github.com/GK-a/nano_account_explorer)
 * [Feb 08: Where to buy Nano - A Beginner-friendly Guide](https://www.reddit.com/r/nanocurrency/comments/lfg5gj/where_to_buy_nano_a_beginnerfriendly_guide/)
 * [Feb 06: SomeNano Magic Eye - Real-time stereogram](https://magiceye.somenano.com/)
@@ -209,7 +210,6 @@ layout: default
 * [Jan 29: 2021 Nano introduction video by Exodus Wallet](https://youtu.be/71T_27Za3zk)
 * [Jan 27: AnchorUSD](https://www.anchorusd.com/)
 * [Jan 22: StealthEX.io](https://stealthex.io/)
-* [Jan 19: Nanobomb - Game demo that uses nPass tokens](https://npass.dev/npass/nanobomb)
 
 </div>
 </div>
@@ -358,6 +358,7 @@ Learn everything there is to know about Nano!
 * [Reddit Tip Bot Stats](http://reddittipbot.com/)
 * [Crypto Subreddit Tracker](https://cryptosub.live/)
 * [Nanocurrency Reddit Stats](https://subredditstats.com/r/nanocurrency)
+* [Geographical Node Map](https://nanomap-061992.web.app/#/dashboard)
 
 </div>
 </div>
