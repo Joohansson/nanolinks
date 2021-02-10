@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Feb 10: nano_account_explorer - Python visualizer](https://github.com/GK-a/nano_account_explorer)
 * [Feb 08: Where to buy Nano - A Beginner-friendly Guide](https://www.reddit.com/r/nanocurrency/comments/lfg5gj/where_to_buy_nano_a_beginnerfriendly_guide/)
 * [Feb 06: SomeNano Magic Eye - Real-time stereogram](https://magiceye.somenano.com/)
 * [Feb 04: Apollo Nano - PVP Shooter game](https://apollonano.com/shooter.php)
@@ -209,7 +210,6 @@ layout: default
 * [Jan 27: AnchorUSD](https://www.anchorusd.com/)
 * [Jan 22: StealthEX.io](https://stealthex.io/)
 * [Jan 19: Nanobomb - Game demo that uses nPass tokens](https://npass.dev/npass/nanobomb)
-* [Jan 16: Musig-nano - Multisig (multi-signature) demo](https://github.com/PlasmaPower/musig-nano)
 
 </div>
 </div>
@@ -702,6 +702,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nawano - Lightweight REPL-type Python CLI wallet](https://github.com/rbw/nawano)
 * [Pynanocurrency - Python protocol library](https://github.com/Matoking/pynanocurrency)
 * [Siliqua - Python modular light wallet](https://github.com/Matoking/siliqua)
+* [nano_account_explorer - Python visualizer](https://github.com/GK-a/nano_account_explorer)
 
 * [Gonano - Command-line tool written in Go](https://github.com/hectorchu/gonano)
 * [Nano protocol in Golang](https://github.com/frankh/nano)
