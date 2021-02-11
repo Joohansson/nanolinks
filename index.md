@@ -844,7 +844,7 @@ There are much fun to do but please proceed with caution.
 * [BlockHunters - Augmented Reality Nano Hunt - iOS, Android](http://blockhunters.co/)
 * [Nanomart - Marketplace where you can buy and sell goods](https://nanomart.cc/)
 * [Earn Nano - Directory for getting Nano without purchase](https://earn-nano.com/)
-* [Distributed PoW System (dPoW) - [Currently on hold]](https://dpow.nanocenter.org/)
+* [Distributed PoW System (dPoW)](https://dpow.nanocenter.org/)
 * [P2PoW - Decentralized Proof of Work](https://github.com/anarkrypto/P2PoW)
 * [Quicrypto - Earn Nano for completing tasks](https://www.quicrypto.com)
 * [BitForTip - Earn Nano by being helpful](https://www.bitfortip.com/)
