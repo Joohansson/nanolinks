@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Feb 16: Nanobox - Professional API access to the Nano network](https://nanobox.cc/)
 * [Feb 10: Geographical Node Map](https://nanomap-061992.web.app/#/dashboard)
 * [Feb 10: nano_account_explorer - Python visualizer](https://github.com/GK-a/nano_account_explorer)
 * [Feb 08: Where to buy Nano - A Beginner-friendly Guide](https://www.reddit.com/r/nanocurrency/comments/lfg5gj/where_to_buy_nano_a_beginnerfriendly_guide/)
@@ -209,7 +210,6 @@ layout: default
 * [Jan 29: Monnos Brazilian Exchange](https://monnos.com/exchange/)
 * [Jan 29: 2021 Nano introduction video by Exodus Wallet](https://youtu.be/71T_27Za3zk)
 * [Jan 27: AnchorUSD](https://www.anchorusd.com/)
-* [Jan 22: StealthEX.io](https://stealthex.io/)
 
 </div>
 </div>
@@ -614,6 +614,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 ### Node & Account Applications
 
 * [KeyTools - High-performance & Secure Web Tools with offline support](https://tools.nanos.cc)
+* [Nanobox - Professional API access to the Nano network](https://nanobox.cc/)
 * [Nano Node Monitor](https://github.com/NanoTools/nanoNodeMonitor)
 * [Nano Node Graphics - Realtime Charts](https://github.com/Joohansson/NanoNodeGraphics)
 * [Nano Node Scripts](https://github.com/dbachm123/nanoNodeScripts)
