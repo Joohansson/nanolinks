@@ -82,7 +82,7 @@ layout: default
 <p><ul>
   <li>A Vestas V164 wind turbine can power 4,000,000 nano transactions, per revolution! Enough to power 800,000 tx/sec</li>
   <li>1 square meters of solar panels can power 17 tx/sec</li>
-  <li>1 sec of Bitcoin running is equal to 1,700,000,000 Nano transactions (60M was made between 2014-2021)</li>
+  <li>2 sec of Bitcoin miners running is equal to PoW for all the 67M Nano transactions that were made 2014-2021</li>
 </ul></p>
 <br>
 <h3><strong>Test Nano</strong></h3>
