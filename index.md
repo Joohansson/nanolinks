@@ -444,6 +444,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [StealthEX.io](https://stealthex.io/)
 * [AnchorUSD](https://www.anchorusd.com/)
 * [Monnos - Brazil](https://monnos.com/exchange/)
+* [SwapSwop — Cryptocurrency exchange platform](https://swapswop.io/)
 
 ### Wallets
 
