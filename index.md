@@ -883,7 +883,9 @@ If you have a nano account you can help decentralize the network by choosing a r
 ### Donations
 
 <div class="first-para" markdown="1">
-It takes some effort to maintaining this content. If you want to contribute to this project then any small donation is always appreciated!
+If you would like to show a small appreciation for the maintenance of this project, feel free to send a Nano donation below.
+
+You can also [sponsor me on Github](https://github.com/sponsors/Joohansson)
 <br>
 </div>
 <figure>
