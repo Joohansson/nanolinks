@@ -35,6 +35,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### February 2021
 
+* [FynCom begins marketing its killer use of Nano with KarmaCall to stop phone spam calls](https://www.reddit.com/r/nanocurrency/comments/llea40/fyncom_begins_marketing_its_killer_use_of_nano/)
 * [Introducing nanobox.cc](https://www.reddit.com/r/nanocurrency/comments/lkflfa/introducing_nanoboxcc/)
 * [nano_account_explorer | A simple visualisation tool written in Python](https://www.reddit.com/r/nanocurrency/comments/lgdpoe/nano_account_explorer_a_simple_visualisation_tool/)
 * [Focused Nano Discussion: Time-as-a-Currency & PoS4QoS - PoS-based Anti-spam via Timestamping](https://www.reddit.com/r/nanocurrency/comments/lg2hw4/focused_nano_discussion_timeasacurrency_pos4qos/)
