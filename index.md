@@ -622,7 +622,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Node Docker](https://github.com/lephleg/nano-node-docker)
 * [Guide - How to Setup a Node at DigitalOcean](https://1nano.co/support-the-network/)
 * [Ogdolo - Crypto Address Alias](https://ogdolo.com)
-* [BIP39 Demo](https://github.com/roosmaa/nano-bip39-demo)
+* [BIP39 Demo by roosmaa](https://github.com/roosmaa/nano-bip39-demo)
 * [Telegram Bot Source Code](https://github.com/SergiySW/NanoWalletBot)
 * [Raimixer - Scrambler](https://github.com/juanjux/raimixer)
 * [NanoStatus - Price in macOS Menu Bar](https://github.com/schenkty/nanostatus)

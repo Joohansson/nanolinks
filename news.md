@@ -35,6 +35,9 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### February 2021
 
+* [Airdrop to Nano Holders Round 2](https://www.reddit.com/r/nanocurrency/comments/lmhl3v/airdrop_to_nano_holders_round_2/)
+* [NANO + IFTTT is live!](https://www.reddit.com/r/nanocurrency/comments/llzeyo/nano_ifttt_is_live/)
+* [Colin LeMahieu got invited to present at the Bank of Netherland](https://www.reddit.com/r/nanocurrency/comments/lmlfoo/colin_lemahieu_got_invited_to_present_at_the_bank/)
 * [FynCom begins marketing its killer use of Nano with KarmaCall to stop phone spam calls](https://www.reddit.com/r/nanocurrency/comments/llea40/fyncom_begins_marketing_its_killer_use_of_nano/)
 * [Introducing nanobox.cc](https://www.reddit.com/r/nanocurrency/comments/lkflfa/introducing_nanoboxcc/)
 * [nano_account_explorer | A simple visualisation tool written in Python](https://www.reddit.com/r/nanocurrency/comments/lgdpoe/nano_account_explorer_a_simple_visualisation_tool/)
