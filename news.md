@@ -35,11 +35,13 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### February 2021
 
+* [Coding Competition Announced - Nano Prizes - Create a Nano Network Visualizer](https://www.reddit.com/r/nanocurrency/comments/ln468p/coding_competition_nano_prizes_create_a_nano/)
 * [Airdrop to Nano Holders Round 2](https://www.reddit.com/r/nanocurrency/comments/lmhl3v/airdrop_to_nano_holders_round_2/)
 * [NANO + IFTTT is live!](https://www.reddit.com/r/nanocurrency/comments/llzeyo/nano_ifttt_is_live/)
 * [Colin LeMahieu got invited to present at the Bank of Netherland](https://www.reddit.com/r/nanocurrency/comments/lmlfoo/colin_lemahieu_got_invited_to_present_at_the_bank/)
 * [FynCom begins marketing its killer use of Nano with KarmaCall to stop phone spam calls](https://www.reddit.com/r/nanocurrency/comments/llea40/fyncom_begins_marketing_its_killer_use_of_nano/)
 * [Introducing nanobox.cc](https://www.reddit.com/r/nanocurrency/comments/lkflfa/introducing_nanoboxcc/)
+* [The 2021 lurkers thread](https://www.reddit.com/r/nanocurrency/comments/lg11lq/how_many_people_lurk_here_but_never_comment/)
 * [nano_account_explorer | A simple visualisation tool written in Python](https://www.reddit.com/r/nanocurrency/comments/lgdpoe/nano_account_explorer_a_simple_visualisation_tool/)
 * [Focused Nano Discussion: Time-as-a-Currency & PoS4QoS - PoS-based Anti-spam via Timestamping](https://www.reddit.com/r/nanocurrency/comments/lg2hw4/focused_nano_discussion_timeasacurrency_pos4qos/)
 * [A memory-hard PoW solution using Equihash with interesting comments](https://www.reddit.com/r/nanocurrency/comments/ldi95w/update_on_equihash_as_work_algorithm/)
