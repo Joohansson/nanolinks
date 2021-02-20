@@ -287,7 +287,7 @@ Learn everything there is to know about Nano!
 * [Venezuela 1](https://nano.org.ve/)
 * [Chinese information and news](http://www.nano.wang/)
 * [Chinese forum](https://www.chainnode.com/forum/349)
-* [Brazil Facebook Group](https://www.facebook.com/groups/RaiBlocksBrasil/)
+* [Brazil Facebook Group](https://www.facebook.com/groups/NanoBrasil)
 * [NanoUganda](https://nanoug.com/)
 
 ### Video Channels
