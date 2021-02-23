@@ -805,7 +805,7 @@ There are much fun to do but please proceed with caution.
 * [KojoSlayer - Battle RPG](https://kojoslayer.com/)
 * [FlappyNano - Flappy Bird against friends](https://flappynano.com/)
 * [Nano-it-all Live Trivia Competition](http://nano-it-all.com/)
-* [Earn Nano from playing Just Cause 2 Multiplayer](https://www.reddit.com/r/nanocurrency/comments/jplf34/earn_nano_from_playing_just_cause_2_multiplayer/)
+* [Earn Nano from playing Just Cause 2 Multiplayer](https://earn-nano.com/jc2rp)
 * [Skyrun - Endless Runner powered by Nano](https://deanobones.github.io/Skyrun/)
 * [Nanobomb - Game demo that uses nPass tokens](https://npass.dev/npass/nanobomb)
 * [Apollo Nano - PVP Shooter game](https://apollonano.com/shooter.php)
@@ -860,6 +860,7 @@ There are much fun to do but please proceed with caution.
 * [PlayNANO - Earn Free Nano by completing tasks & watching videos](https://playnano.online/offerwalls)
 * [unMineable - Earn NANO via GPU and CPU mining - Multi algorithm mining pool](https://unmineable.com/coins/NANO)
 * [Apollo Nano - PVP Shooter game](https://apollonano.com/shooter.php)
+* [Just Cause 2 Multiplayer - Action game with nano payout](https://earn-nano.com/jc2rp)
 
 </div>
 </div>
