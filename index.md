@@ -200,6 +200,8 @@ layout: default
 
 ## Latest Additions
 
+* [Feb 25: NanoTwitchBot - Show Nano donations on your Twitch stream](https://github.com/bhickenbottom/NanoTwitchBot)
+* [Feb 25: NanoPicture](https://nanopicture.ct8.pl/)
 * [Feb 19: nano.lol IFTTT- "If This Than That" Nano connection for automation](https://ifttt.com/nano_lol)
 * [Feb 16: Nanobox - Professional API access to the Nano network](https://nanobox.cc/)
 * [Feb 10: Geographical Node Map](https://nanomap-061992.web.app/#/dashboard)
@@ -208,8 +210,6 @@ layout: default
 * [Feb 06: SomeNano Magic Eye - Real-time stereogram](https://magiceye.somenano.com/)
 * [Feb 04: Apollo Nano - PVP Shooter game](https://apollonano.com/shooter.php)
 * [Feb 03: Nano Looker - Explorer, Stats](https://www.nanolooker.com/)
-* [Jan 29: Monnos Brazilian Exchange](https://monnos.com/exchange/)
-* [Jan 29: 2021 Nano introduction video by Exodus Wallet](https://youtu.be/71T_27Za3zk)
 
 </div>
 </div>
@@ -609,7 +609,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 
 ### Project Specific Development Channels
 
-* [Discord: Json Dev Server](https://discord.gg/RVCuFvc)
+* [Discord: Json/Joohansson Dev Server](https://discord.gg/RVCuFvc)
 * [Reddit: Nano Tipper Z (Reddit Tip bot)](https://www.reddit.com/r/nano_tipper)
 
 ### Node & Account Applications
@@ -658,6 +658,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Profile - IPFS hosted profile picture network for Nano](http://nanoprofile.online/)
 * [Nanocrawler Source code](https://github.com/meltingice/nanocrawler)
 * [NanoLooker Source code](https://github.com/running-coder/nanolooker)
+* [NanoTwitchBot - Show Nano donations on your Twitch stream](https://github.com/bhickenbottom/NanoTwitchBot)
 
 ### Wallets [Source Code]
 
@@ -818,6 +819,7 @@ There are much fun to do but please proceed with caution.
 * [Nano Wallpapers](https://www.nano-wallpapers.com/)
 * [NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
 * [The Million Nano Homepage](https://millionnanohomepage.com/)
+* [NanoPicture](https://nanopicture.ct8.pl/)
 
 ### Social Media
 

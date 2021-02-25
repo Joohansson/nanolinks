@@ -35,6 +35,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### February 2021
 
+* [I made a Twitch bot for Nano](https://www.reddit.com/r/nanocurrency/comments/lrqhmu/i_made_a_twitch_bot_for_nano/)
 * [Coding Competition Announced - Nano Prizes - Create a Nano Network Visualizer](https://www.reddit.com/r/nanocurrency/comments/ln468p/coding_competition_nano_prizes_create_a_nano/)
 * [Airdrop to Nano Holders Round 2](https://www.reddit.com/r/nanocurrency/comments/lmhl3v/airdrop_to_nano_holders_round_2/)
 * [NANO + IFTTT is live!](https://www.reddit.com/r/nanocurrency/comments/llzeyo/nano_ifttt_is_live/)
