@@ -563,7 +563,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nano Pay - Chrome payment extension](https://github.com/PaulBenabou/Nano-Pay)
 * [Nano Donate - Chrome donation extension](https://nanocharts.info/nano-donate.html)
 * [NanoGift - Browser extension for site donations](https://tetraloom.com/nanogift/)
-* [Mynano.link - Payment link generator](https://mynano.link/)
+* [PayNano - Payment link generator](https://paynano.me/)
 * [KeyTools Payment link generator](https://tools.nanos.cc/?tool=pay)
 * [Nano Request - Payment link generator](https://nanorequest.io/)
 * [nanoomPay - Simplified nano payments](https://nanoompay.io/)
