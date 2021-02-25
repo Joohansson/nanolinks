@@ -200,6 +200,8 @@ layout: default
 
 ## Latest Additions
 
+* [Feb 25: NanoNV - Transaction Visualizer](https://nanonv.github.io/)
+* [Feb 25: ApolloNano - Twitter Faucet](https://twitter.com/ApolloNano/status/1364909285285584897)
 * [Feb 25: NanoTwitchBot - Show Nano donations on your Twitch stream](https://github.com/bhickenbottom/NanoTwitchBot)
 * [Feb 25: NanoPicture](https://nanopicture.ct8.pl/)
 * [Feb 19: nano.lol IFTTT- "If This Than That" Nano connection for automation](https://ifttt.com/nano_lol)
@@ -208,8 +210,6 @@ layout: default
 * [Feb 10: nano_account_explorer - Python visualizer](https://github.com/GK-a/nano_account_explorer)
 * [Feb 08: Where to buy Nano - A Beginner-friendly Guide](https://www.reddit.com/r/nanocurrency/comments/lfg5gj/where_to_buy_nano_a_beginnerfriendly_guide/)
 * [Feb 06: SomeNano Magic Eye - Real-time stereogram](https://magiceye.somenano.com/)
-* [Feb 04: Apollo Nano - PVP Shooter game](https://apollonano.com/shooter.php)
-* [Feb 03: Nano Looker - Explorer, Stats](https://www.nanolooker.com/)
 
 </div>
 </div>
@@ -349,6 +349,7 @@ Learn everything there is to know about Nano!
 * [SomeNano Snow - Real-time snowflakes](https://snow.somenano.com/)
 * [SomeNano Magic Eye - Real-time stereogram](https://magiceye.somenano.com/)
 * [Nano Fountain - Transaction Visualizer](https://www.nano-fountain.com/)
+* [NanoNV - Transaction Visualizer](https://nanonv.github.io/)
 * [Blocktivity - Utilization Comparision](https://blocktivity.info/)
 * [Nanolytics - Network stats](https://nanolytics.info/)
 * [Nano Charts - Representative stats](https://nanocharts.info/)
@@ -575,6 +576,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [FreeNanoFaucet.com](https://www.freenanofaucet.com/)
 * [Tetraloom - Faucet](https://tetraloom.com/nano/)
 * [Nendly Faucet - Onion Faucet for TOR](http://nendlyy5734pdfflygapdayez6dcorodcio72jwfvaux4fsrzyh7rzqd.onion/faucet/)
+* [ApolloNano - Twitter Faucet](https://twitter.com/ApolloNano/status/1364909285285584897)
 
 ### Point of Sale
 
@@ -849,7 +851,7 @@ There are much fun to do but please proceed with caution.
 * [BlockHunters - Augmented Reality Nano Hunt - iOS, Android](http://blockhunters.co/)
 * [Nanomart - Marketplace where you can buy and sell goods](https://nanomart.cc/)
 * [Earn Nano - Directory for getting Nano without purchase](https://earn-nano.com/)
-* [Distributed PoW System (dPoW)](https://dpow.nanocenter.org/)
+* [Distributed PoW System (dPoW)](https://nanoquakejs.com/dpow/)
 * [P2PoW - Decentralized Proof of Work](https://github.com/anarkrypto/P2PoW)
 * [Quicrypto - Earn Nano for completing tasks](https://www.quicrypto.com)
 * [BitForTip - Earn Nano by being helpful](https://www.bitfortip.com/)
