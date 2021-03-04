@@ -33,8 +33,19 @@ layout: newslayout
 
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### March 2021
+
+* [Announcing the unblock 2021 blockchain hackathon sponsored by Nano!](https://www.reddit.com/r/nanocurrency/comments/lw7rk5/announcing_the_unblock_2021_blockchain_hackathon/)
+* [TikTok NANO Faucet Bot](https://www.reddit.com/r/nanocurrency/comments/lxbqt4/tiktok_nano_faucet_bot/)
+* [Instagram NANO faucet live](https://www.reddit.com/r/nanocurrency/comments/lw2ezq/instagram_nano_faucet_live/)
+* [Equihash - The technical paper part 1](https://www.reddit.com/r/nanocurrency/comments/lx1abf/equihash_as_a_new_pow_algorithm_the_technical/)
+* [Trynano.io - A site for new people to try using Nano hands-on](https://www.reddit.com/r/nanocurrency/comments/lx3un4/i_made_a_site_for_new_people_to_try_using_nano/)
+* [Instagram NANO faucet live](https://www.reddit.com/r/nanocurrency/comments/lw2ezq/instagram_nano_faucet_live/)
 ### February 2021
 
+* [Nano top 3 in Reddit finance & business](https://www.reddit.com/r/nanocurrency/comments/llrsa2/nano_top_3_in_finance_business/)
+* [Colin LeMahieu got invited to present at the Bank of Netherland](https://www.reddit.com/r/nanocurrency/comments/lmlfoo/colin_lemahieu_got_invited_to_present_at_the_bank/)
+* [70,000 members in r/nanocurrency](https://www.reddit.com/r/nanocurrency/comments/lnz5pw/70000_members/)
 * [Nano Twitter Faucet bot](https://www.reddit.com/r/nanocurrency/comments/ls7oh0/try_nano_for_free_from_twitter_just_comment_with/)
 * [A new nano network visualizer](https://www.reddit.com/r/nanocurrency/comments/ls1to8/i_made_a_nano_network_visualizer/)
 * [Twitch bot for Nano](https://www.reddit.com/r/nanocurrency/comments/lrqhmu/i_made_a_twitch_bot_for_nano/)

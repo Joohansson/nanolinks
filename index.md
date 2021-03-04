@@ -200,6 +200,8 @@ layout: default
 
 ## Latest Additions
 
+* [Mar 04: TryNano - Test live transactions](https://www.trynano.io/)
+* [Mar 04: Informative Medium Articles - Senatus](https://senatusspqr.medium.com/)
 * [Feb 25: NanoNV - Transaction Visualizer](https://nanonv.github.io/)
 * [Feb 25: ApolloNano - Twitter Faucet](https://twitter.com/ApolloNano/status/1364909285285584897)
 * [Feb 25: NanoTwitchBot - Show Nano donations on your Twitch stream](https://github.com/bhickenbottom/NanoTwitchBot)
@@ -208,8 +210,6 @@ layout: default
 * [Feb 16: Nanobox - Professional API access to the Nano network](https://nanobox.cc/)
 * [Feb 10: Geographical Node Map](https://nanomap-061992.web.app/#/dashboard)
 * [Feb 10: nano_account_explorer - Python visualizer](https://github.com/GK-a/nano_account_explorer)
-* [Feb 08: Where to buy Nano - A Beginner-friendly Guide](https://www.reddit.com/r/nanocurrency/comments/lfg5gj/where_to_buy_nano_a_beginnerfriendly_guide/)
-* [Feb 06: SomeNano Magic Eye - Real-time stereogram](https://magiceye.somenano.com/)
 
 </div>
 </div>
@@ -263,7 +263,7 @@ Learn everything there is to know about Nano!
 * [Informative Medium Articles - James Coxon](https://medium.com/@jacoxon)
 * [Informative Medium Articles - Json](https://nanojson.medium.com/)
 * [Informative Medium Articles - SomeNano](https://somenano.medium.com/)
-* [Informative Medium Articles - Audrey Helpburn (Crypto Copywriter)](https://steemit.com/@audreyhelpburn)
+* [Informative Medium Articles - Senatus](https://senatusspqr.medium.com/)
 * [Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 * [Nano Infographics](https://imgur.com/a/tPaK9hp)
 * [Guide: Nano for Twitch Streamers](https://sites.google.com/view/nanofortwitch)
@@ -354,6 +354,7 @@ Learn everything there is to know about Nano!
 * [Nanolytics - Network stats](https://nanolytics.info/)
 * [Nano Charts - Representative stats](https://nanocharts.info/)
 * [Nano SpeedTest - Test real nano transactions](https://nanospeed.live)
+* [TryNano](https://www.trynano.io/)
 * [Transaction Speed Demo Button](https://speed.nanoticker.info/)
 * [NanoFees - Fee Tracker](http://nanofees.info/)
 * [Reddit Tip Bot Stats](http://reddittipbot.com/)
@@ -576,7 +577,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [FreeNanoFaucet.com](https://www.freenanofaucet.com/)
 * [Tetraloom - Faucet](https://tetraloom.com/nano/)
 * [Nendly Faucet - Onion Faucet for TOR](http://nendlyy5734pdfflygapdayez6dcorodcio72jwfvaux4fsrzyh7rzqd.onion/faucet/)
-* [ApolloNano - Twitter Faucet](https://twitter.com/ApolloNano/status/1364909285285584897)
+* [ApolloNano - Twitter Faucet](https://twitter.com/ApolloNano/)
 
 ### Point of Sale
 
