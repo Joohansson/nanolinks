@@ -791,6 +791,7 @@ There are much fun to do but please proceed with caution.
 * [PlayNANO - Provably Fair Roulette](https://playnano.online/roulette)
 * [NanoKe - Onchain Betting](https://nanoke.com/)
 * [Nanobets - Betting](https://nano.bet/)
+* [Nano Scratch Cards](https://nanoscratchcards.ct8.pl/)
 
 ### Games
 
