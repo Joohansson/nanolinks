@@ -35,6 +35,8 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### March 2021
 
+* [Introduction of 465 Digital Investments for future FX and ATM](https://www.reddit.com/r/nanocurrency/comments/m13hxe/465_digitial_investments_let_me_introduce/)
+* [Prototype demonstration of a tiny nano point-of-sale device!](https://www.reddit.com/r/nanocurrency/comments/m0djo0/i_built_a_prototype_for_a_tiny_nano_pointofsale/)
 * [Announcing the unblock 2021 blockchain hackathon sponsored by Nano!](https://www.reddit.com/r/nanocurrency/comments/lw7rk5/announcing_the_unblock_2021_blockchain_hackathon/)
 * [TikTok NANO Faucet Bot](https://www.reddit.com/r/nanocurrency/comments/lxbqt4/tiktok_nano_faucet_bot/)
 * [Instagram NANO faucet live](https://www.reddit.com/r/nanocurrency/comments/lw2ezq/instagram_nano_faucet_live/)
