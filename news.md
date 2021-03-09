@@ -43,6 +43,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 * [Equihash - The technical paper part 1](https://www.reddit.com/r/nanocurrency/comments/lx1abf/equihash_as_a_new_pow_algorithm_the_technical/)
 * [Trynano.io - A site for new people to try using Nano hands-on](https://www.reddit.com/r/nanocurrency/comments/lx3un4/i_made_a_site_for_new_people_to_try_using_nano/)
 * [Instagram NANO faucet live](https://www.reddit.com/r/nanocurrency/comments/lw2ezq/instagram_nano_faucet_live/)
+
 ### February 2021
 
 * [Nano top 3 in Reddit finance & business](https://www.reddit.com/r/nanocurrency/comments/llrsa2/nano_top_3_in_finance_business/)
