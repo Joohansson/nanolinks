@@ -587,6 +587,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [MoonPos - Mobile PoS](https://www.moonposapp.com/)
 * [InstantCash - Point of sale for Android](https://instantcashpos.xyz/)
 * [TIX - PoS without login/seed needed (Demo URL)](https://tixwallet.cc/#/pos/nano_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo)
+* [Nano Register](https://awesomepandapig.github.io/NanoRegister/)
 
 </div>
 </div>
@@ -662,6 +663,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanocrawler Source code](https://github.com/meltingice/nanocrawler)
 * [NanoLooker Source code](https://github.com/running-coder/nanolooker)
 * [NanoTwitchBot - Show Nano donations on your Twitch stream](https://github.com/bhickenbottom/NanoTwitchBot)
+* [Nano Register - Source Code](https://github.com/awesomepandapig/NanoRegister)
 
 ### Wallets [Source Code]
 

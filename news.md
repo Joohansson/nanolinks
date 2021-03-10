@@ -35,6 +35,9 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### March 2021
 
+* [Introducing Nano Register](https://www.reddit.com/r/nanocurrency/comments/m1fuxl/introducing_nano_register/)
+* [Natrium have passed 100k downloads on Android & 25k downloads on iOS](https://www.reddit.com/r/nanocurrency/comments/m178ct/natrium_have_passed_100k_downloads_on_android_25k/)
+* [v22 development update from the Nano Foundation](https://www.reddit.com/r/nanocurrency/comments/m17tb0/in_the_lead_up_to_v22_get_up_to_speed_with_the/)
 * [Introduction of 465 Digital Investments for future FX and ATM](https://www.reddit.com/r/nanocurrency/comments/m13hxe/465_digitial_investments_let_me_introduce/)
 * [Prototype demonstration of a tiny nano point-of-sale device!](https://www.reddit.com/r/nanocurrency/comments/m0djo0/i_built_a_prototype_for_a_tiny_nano_pointofsale/)
 * [Announcing the unblock 2021 blockchain hackathon sponsored by Nano!](https://www.reddit.com/r/nanocurrency/comments/lw7rk5/announcing_the_unblock_2021_blockchain_hackathon/)
