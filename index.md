@@ -528,6 +528,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Bitscreener](https://bitscreener.com/coins/nano)
 * [CoinFYI](https://coin.fyi/coins/nano)
 * [Cryptoreport](https://cryptoreport.com/nano/NANO)
+* [TheCoinPerspective](https://thecoinperspective.com/?c=NANO)
 * [WorldCoinIndex](https://www.worldcoinindex.com/coin/nano)
 * [Cryptowat.ch - Nano/BTC Binance](https://cryptowat.ch/markets/binance/nano/btc/5m)
 * [Tradingview - Nano/BTC Binance](https://www.tradingview.com/symbols/NANOBTC/)
