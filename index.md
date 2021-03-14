@@ -691,6 +691,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 
 * [Nano Unreal Engine 4 Plugin](https://github.com/wezrule/UE4NanoPlugin)
 * [RaiSharp - C# Lib for RPC](https://github.com/vardthomas/Aggrex.RaiSharp)
+* [NanoRPC - C# Lib for RPC](https://github.com/michielpost/NanoRPC)
 * [Prailude - Nano node in Lua and C](https://github.com/slact/prailude)
 * [myNanoEmbedded - Lightweight C library for IoT](https://github.com/devfabiosilva/myNanoEmbedded)
 
