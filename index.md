@@ -694,6 +694,8 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Prailude - Nano node in Lua and C](https://github.com/slact/prailude)
 * [myNanoEmbedded - Lightweight C library for IoT](https://github.com/devfabiosilva/myNanoEmbedded)
 
+* [Feeless - Nano node implementation in Rust](https://github.com/feeless/feeless/)
+
 * [RaiBlocksJS - JS Lib for RPC](https://github.com/orrybaram/RaiBlocksJS)
 * [RaiBlocksJS 2 - JS Lib for RPC](https://github.com/SergiySW/RaiBlocksJS)
 * [JS Toolkit](https://github.com/marvinroger/nanocurrency-js)

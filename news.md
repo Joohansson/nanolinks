@@ -35,6 +35,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### March 2021
 
+* [Working on a new Nano library in Rust](https://www.reddit.com/r/nanocurrency/comments/m5ez7k/working_on_a_new_nano_library_in_rust/)
 * [Introducing Nano Register](https://www.reddit.com/r/nanocurrency/comments/m1fuxl/introducing_nano_register/)
 * [Natrium have passed 100k downloads on Android & 25k downloads on iOS](https://www.reddit.com/r/nanocurrency/comments/m178ct/natrium_have_passed_100k_downloads_on_android_25k/)
 * [v22 development update from the Nano Foundation](https://www.reddit.com/r/nanocurrency/comments/m17tb0/in_the_lead_up_to_v22_get_up_to_speed_with_the/)
