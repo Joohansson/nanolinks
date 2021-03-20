@@ -200,7 +200,9 @@ layout: default
 
 ## Latest Additions
 
+* [Mar 20: Nano Election Visualizer](http://yapraiwallet.space/conf/socket)
 * [Mar 19: Nano Rockets - Transaction Visualizer](https://anarkrypto.github.io/nanorockets/)
+* [Mar 15: Feeless - Nano node implementation in Rust](https://github.com/feeless/feeless/)
 * [Mar 04: TryNano - Test live transactions](https://www.trynano.io/)
 * [Mar 04: Informative Medium Articles - Senatus](https://senatusspqr.medium.com/)
 * [Feb 25: NanoNV - Transaction Visualizer](https://nanonv.github.io/)
@@ -208,8 +210,6 @@ layout: default
 * [Feb 25: NanoTwitchBot - Show Nano donations on your Twitch stream](https://github.com/bhickenbottom/NanoTwitchBot)
 * [Feb 25: NanoPicture](https://nanopicture.ct8.pl/)
 * [Feb 19: nano.lol IFTTT- "If This Than That" Nano connection for automation](https://ifttt.com/nano_lol)
-* [Feb 16: Nanobox - Professional API access to the Nano network](https://nanobox.cc/)
-* [Feb 10: Geographical Node Map](https://nanomap-061992.web.app/#/dashboard)
 
 </div>
 </div>
@@ -364,6 +364,7 @@ Learn everything there is to know about Nano!
 * [Crypto Subreddit Tracker](https://cryptosub.live/)
 * [Nanocurrency Reddit Stats](https://subredditstats.com/r/nanocurrency)
 * [Geographical Node Map](https://nanomap-061992.web.app/#/dashboard)
+* [Nano Election Visualizer](http://yapraiwallet.space/conf/socket)
 
 </div>
 </div>
