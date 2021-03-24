@@ -202,7 +202,6 @@ layout: default
 
 * [Mar 20: Sheep Abduction - Transaction Visualizer](https://nano.sheep-abduction.tk/)
 * [Mar 20: Luis Astroids - Transaction Visualizer](https://luis-garcia-remes.itch.io/nano-visualizer)
-* [Mar 20: Nano Bubbles - Transaction Visualizer](https://nano-bubbles.meteorapp.com/)
 * [Mar 20: DogeTheBananos - Transaction Visualizer](https://azabalo.com/dogethebananos/)
 * [Mar 20: Nano Park - Transaction Visualizer](https://nano-park.buckthorndev.repl.co/)
 * [Mar 20: Nano Drizzle - Transaction Visualizer](https://www.patientje.nl/projecten/sketches/nano-drizzle/)
@@ -354,7 +353,6 @@ Learn everything there is to know about Nano!
 * [Nano Rockets - Transaction Visualizer](https://anarkrypto.github.io/nanorockets/)
 * [Sheep Abduction - Transaction Visualizer](https://nano.sheep-abduction.tk/)
 * [Luis Astroids - Transaction Visualizer](https://luis-garcia-remes.itch.io/nano-visualizer)
-* [Nano Bubbles - Transaction Visualizer](https://nano-bubbles.meteorapp.com/)
 * [DogeTheBananos - Transaction Visualizer](https://azabalo.com/dogethebananos/)
 * [Nano Park - Transaction Visualizer](https://nano-park.buckthorndev.repl.co/)
 * [Nano Drizzle - Transaction Visualizer](https://www.patientje.nl/projecten/sketches/nano-drizzle/)
