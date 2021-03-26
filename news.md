@@ -35,6 +35,10 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### March 2021
 
+* [Release: Nano Multisig is finally here enabling ultra-secure funding!](https://www.reddit.com/r/nanocurrency/comments/mdjno1/release_nano_multisig_is_finally_here_enabling/)
+* [We crossed 80k members on r/nanocurrency](https://www.reddit.com/r/nanocurrency/comments/mc9z9v/we_crossed_80k_members_on_rnanocurrency/)
+* [I have been working on this little Nano POS App for a while](https://www.reddit.com/r/nanocurrency/comments/mcj4kd/i_have_been_working_on_this_little_nano_pos_app/)
+* [Natrium v2.4.0 Released for Android and iOS](https://www.reddit.com/r/nanocurrency/comments/md5se5/natrium_v240_released_for_android_and_ios/)
 * [Working on a new Nano library in Rust](https://www.reddit.com/r/nanocurrency/comments/m5ez7k/working_on_a_new_nano_library_in_rust/)
 * [Introducing Nano Register](https://www.reddit.com/r/nanocurrency/comments/m1fuxl/introducing_nano_register/)
 * [Natrium have passed 100k downloads on Android & 25k downloads on iOS](https://www.reddit.com/r/nanocurrency/comments/m178ct/natrium_have_passed_100k_downloads_on_android_25k/)
