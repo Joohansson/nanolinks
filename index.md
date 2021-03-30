@@ -203,10 +203,9 @@ layout: default
 * [Mar 20: Sheep Abduction - Transaction Visualizer](https://nano.sheep-abduction.tk/)
 * [Mar 20: Luis Astroids - Transaction Visualizer](https://luis-garcia-remes.itch.io/nano-visualizer)
 * [Mar 20: DogeTheBananos - Transaction Visualizer](https://azabalo.com/dogethebananos/)
-* [Mar 20: Nano Park - Transaction Visualizer](https://nano-park.buckthorndev.repl.co/)
 * [Mar 20: Nano Drizzle - Transaction Visualizer](https://www.patientje.nl/projecten/sketches/nano-drizzle/)
 * [Mar 20: Super Nanova - Transaction Visualizer](https://supernanova.com/)
-* [Mar 20: Nano Election Visualizer](http://yapraiwallet.space/conf/socket)
+* [Mar 20: Nano Election Visualizer](https://nanostatus.live/conf/socket)
 * [Mar 19: Nano Rockets - Transaction Visualizer](https://anarkrypto.github.io/nanorockets/)
 * [Mar 15: Feeless - Nano node implementation in Rust](https://github.com/feeless/feeless/)
 
@@ -354,7 +353,6 @@ Learn everything there is to know about Nano!
 * [Sheep Abduction - Transaction Visualizer](https://nano.sheep-abduction.tk/)
 * [Luis Astroids - Transaction Visualizer](https://luis-garcia-remes.itch.io/nano-visualizer)
 * [DogeTheBananos - Transaction Visualizer](https://azabalo.com/dogethebananos/)
-* [Nano Park - Transaction Visualizer](https://nano-park.buckthorndev.repl.co/)
 * [Nano Drizzle - Transaction Visualizer](https://www.patientje.nl/projecten/sketches/nano-drizzle/)
 * [Super Nanova - Transaction Visualizer](https://supernanova.com/)
 
@@ -369,7 +367,7 @@ Learn everything there is to know about Nano!
 * [Crypto Subreddit Tracker](https://cryptosub.live/)
 * [Nanocurrency Reddit Stats](https://subredditstats.com/r/nanocurrency)
 * [Geographical Node Map](https://nanomap-061992.web.app/#/dashboard)
-* [Nano Election Visualizer](http://yapraiwallet.space/conf/socket)
+* [Nano Election Visualizer](https://nanostatus.live/conf/socket)
 
 </div>
 </div>
