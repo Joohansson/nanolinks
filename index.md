@@ -89,7 +89,7 @@ layout: default
 <div class="first-para">
   <p>Without the need to own any nano you can try the power of fast and fee-less transactions on the real live network!<br>
     If you want to transact with your own nano you can easily create a wallet and obtain some free nano from any of the faucets found below.</p>
-  <a href="http://nanospeed.live" class="site-btn btn-wide btn-external site-btn-space" onclick="window.open(this.href); return false;">SPEED TEST FROM A TO B</a><br>
+  <a href="https://www.trynano.io/" class="site-btn btn-wide btn-external site-btn-space" onclick="window.open(this.href); return false;">TEST NANO TRANSACTIONS</a><br>
   <a href="#faucets-free-nano" class="site-btn btn-wide site-btn-space">GET FREE NANO</a><br>
   <a href="https://www.reddit.com/r/nano_tipper/wiki/index" class="site-btn btn-wide btn-external" onclick="window.open(this.href); return false;">REDDIT TIPPING</a>
 </div>
@@ -359,7 +359,6 @@ Learn everything there is to know about Nano!
 * [Blocktivity - Utilization Comparision](https://blocktivity.info/)
 * [Nanolytics - Network stats](https://nanolytics.info/)
 * [Nano Charts - Representative stats](https://nanocharts.info/)
-* [Nano SpeedTest - Test real nano transactions](https://nanospeed.live)
 * [TryNano](https://www.trynano.io/)
 * [Transaction Speed Demo Button](https://speed.nanoticker.info/)
 * [NanoFees - Fee Tracker](http://nanofees.info/)
