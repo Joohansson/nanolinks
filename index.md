@@ -200,14 +200,14 @@ layout: default
 
 ## Latest Additions
 
+* [Apr 07: Nano Unity Plugin - Source code](https://github.com/wezrule/unitynanoplugin)
+* [Apr 07: Nano Unity Plugin - Asset store](https://assetstore.unity.com/packages/tools/integration/nano-190960)
+* [Apr 07: Nano Royale: Win NANO by staying alive](https://nanoroyale.com/))
 * [Mar 20: Sheep Abduction - Transaction Visualizer](https://nano.sheep-abduction.tk/)
 * [Mar 20: Luis Astroids - Transaction Visualizer](https://luis-garcia-remes.itch.io/nano-visualizer)
 * [Mar 20: DogeTheBananos - Transaction Visualizer](https://azabalo.com/dogethebananos/)
 * [Mar 20: Nano Drizzle - Transaction Visualizer](https://www.patientje.nl/projecten/sketches/nano-drizzle/)
 * [Mar 20: Super Nanova - Transaction Visualizer](https://supernanova.com/)
-* [Mar 20: Nano Election Visualizer](https://nanostatus.live/conf/socket)
-* [Mar 19: Nano Rockets - Transaction Visualizer](https://anarkrypto.github.io/nanorockets/)
-* [Mar 15: Feeless - Nano node implementation in Rust](https://github.com/feeless/feeless/)
 
 </div>
 </div>
@@ -696,6 +696,8 @@ Have a great idea? Jump in and start coding. Anyone can join!
 
 ### Protocol, RPC, Libraries, Tools, Servers
 
+* [Nano Unity Plugin - Source code](https://github.com/wezrule/unitynanoplugin)
+* [Nano Unity Plugin - Asset store](https://assetstore.unity.com/packages/tools/integration/nano-190960)
 * [Nano Unreal Engine 4 Plugin](https://github.com/wezrule/UE4NanoPlugin)
 * [RaiSharp - C# Lib for RPC](https://github.com/vardthomas/Aggrex.RaiSharp)
 * [NanoRPC - C# Lib for RPC](https://github.com/michielpost/NanoRPC)
@@ -829,6 +831,7 @@ There are much fun to do but please proceed with caution.
 * [Luis Astroids - Transaction Shooter](https://luis-garcia-remes.itch.io/nano-visualizer)
 * [Super Nanova - Transaction Shooter](https://supernanova.com/)
 * [DogeTheBananos - Transaction Jumper](https://azabalo.com/dogethebananos/)
+* [Nano Royale: Win NANO by staying alive](https://nanoroyale.com/)
 
 ### Video, Music, Art
 

@@ -33,6 +33,12 @@ layout: newslayout
 
 Protocol, Exchanges, Wallets, Special projects, General news
 
+
+### April 2021
+
+* [Nano Royale: Win NANO by staying alive!](https://www.reddit.com/r/nanocurrency/comments/mlxran/nano_royale_win_nano_by_staying_alive/)
+* [Nano now available to Unity game developers - A reach of 2 billion active gamers](https://www.reddit.com/r/nanocurrency/comments/mm07aq/release_nano_now_available_to_unity_game/)
+
 ### March 2021
 
 * [Release: Nano Multisig is finally here enabling ultra-secure funding!](https://www.reddit.com/r/nanocurrency/comments/mdjno1/release_nano_multisig_is_finally_here_enabling/)
