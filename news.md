@@ -36,6 +36,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### April 2021
 
+* [Atto: A tiny Nano wallet, which focuses on ease of use through simplicity](https://www.reddit.com/r/nanocurrency/comments/mmux4k/i_have_written_a_wallet_for_friends_of_command/)
 * [Nano Royale: Win NANO by staying alive!](https://www.reddit.com/r/nanocurrency/comments/mlxran/nano_royale_win_nano_by_staying_alive/)
 * [Nano now available to Unity game developers - A reach of 2 billion active gamers](https://www.reddit.com/r/nanocurrency/comments/mm07aq/release_nano_now_available_to_unity_game/)
 

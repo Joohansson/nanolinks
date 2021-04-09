@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Apr 09: Atto - A tiny Nano wallet, which focuses on ease of use through simplicity](https://github.com/codesoap/atto)
 * [Apr 07: Nano Unity Plugin - Source code](https://github.com/wezrule/unitynanoplugin)
 * [Apr 07: Nano Unity Plugin - Asset store](https://assetstore.unity.com/packages/tools/integration/nano-190960)
 * [Apr 07: Nano Royale: Win NANO by staying alive](https://nanoroyale.com/))
@@ -728,6 +729,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 
 * [Gonano - Command-line tool written in Go](https://github.com/hectorchu/gonano)
 * [Nano protocol in Golang](https://github.com/frankh/nano)
+* [Atto - A tiny Nano wallet, which focuses on ease of use through simplicity](https://github.com/codesoap/atto)
 
 * [NanoRPCProxy - A secure RPC/Websocket proxy server for talking with Nano nodes](https://github.com/joohansson/nanorpcproxy)
 * [Noxy - A simple and fast Nano RPC proxy and relay](https://github.com/BitDesert/Noxy)
