@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Apr 20: NanoMemo - Cryptographically secure memos for Nano blocks](https://nanomemo.cc/)
 * [Apr 09: Atto - A tiny Nano wallet, which focuses on ease of use through simplicity](https://github.com/codesoap/atto)
 * [Apr 07: Nano Unity Plugin - Source code](https://github.com/wezrule/unitynanoplugin)
 * [Apr 07: Nano Unity Plugin - Asset store](https://assetstore.unity.com/packages/tools/integration/nano-190960)
@@ -672,6 +673,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [NanoLooker Source code](https://github.com/running-coder/nanolooker)
 * [NanoTwitchBot - Show Nano donations on your Twitch stream](https://github.com/bhickenbottom/NanoTwitchBot)
 * [Nano Register - Source Code](https://github.com/awesomepandapig/NanoRegister)
+* [NanoMemo - Cryptographically secure memos for Nano blocks](https://nanomemo.cc/)
 
 ### Wallets [Source Code]
 
