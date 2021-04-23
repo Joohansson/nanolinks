@@ -200,6 +200,8 @@ layout: default
 
 ## Latest Additions
 
+* [Apr 23: Beta Net - Nanos.cc Public API](https://beta-api.nanos.cc/)
+* [Apr 23: Nanobot - Nano-Integrated Twitch Donations](https://nanobot.app/)
 * [Apr 20: NanoMemo - Cryptographically secure memos for Nano blocks](https://nanomemo.cc/)
 * [Apr 09: Atto - A tiny Nano wallet, which focuses on ease of use through simplicity](https://github.com/codesoap/atto)
 * [Apr 07: Nano Unity Plugin - Source code](https://github.com/wezrule/unitynanoplugin)
@@ -208,8 +210,6 @@ layout: default
 * [Mar 20: Sheep Abduction - Transaction Visualizer](https://nano.sheep-abduction.tk/)
 * [Mar 20: Luis Astroids - Transaction Visualizer](https://luis-garcia-remes.itch.io/nano-visualizer)
 * [Mar 20: DogeTheBananos - Transaction Visualizer](https://azabalo.com/dogethebananos/)
-* [Mar 20: Nano Drizzle - Transaction Visualizer](https://www.patientje.nl/projecten/sketches/nano-drizzle/)
-* [Mar 20: Super Nanova - Transaction Visualizer](https://supernanova.com/)
 
 </div>
 </div>
@@ -549,6 +549,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Currency World - Nano/USD/BTC](https://currency.world/convert/NANO/USD/BTC)
 * [DegenTrader](https://degentrader.com/)
 
+* Graphical Curl Price Chart: curl rate.sx/nano
+
 ### Merchant & Donation Related [No shops, too many]
 
 * [Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
@@ -672,6 +674,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanocrawler Source code](https://github.com/meltingice/nanocrawler)
 * [NanoLooker Source code](https://github.com/running-coder/nanolooker)
 * [NanoTwitchBot - Show Nano donations on your Twitch stream](https://github.com/bhickenbottom/NanoTwitchBot)
+* [Nanobot - Nano-Integrated Twitch Donations](https://nanobot.app/)
 * [Nano Register - Source Code](https://github.com/awesomepandapig/NanoRegister)
 * [NanoMemo - Cryptographically secure memos for Nano blocks](https://nanomemo.cc/)
 
@@ -780,13 +783,13 @@ Have a great idea? Jump in and start coding. Anyone can join!
 ### Beta Network
 
 * [Nano Beta Network Resources](https://beta.nano.org/)
+* [Beta Net - Nanoticker analytics and performance](https://beta.nanoticker.info)
+* [Beta Net - Nanos.cc Public API](https://beta-api.nanos.cc/)
+* [Beta Net - Nanos.cc Public Websocket](https://beta-api.nanos.cc/socket)
 * [Beta Net Visualizer](https://nano-faucet.org/visualizer/beta/)
 * [Beta Net Car Visualizer](http://btraffic.nanos.cc/)
 * [Beta Net Water Visualizer](https://bfountain.nanos.cc/)
 * [Beta Net Confirmation Chart](https://nano-faucet.org/beta/chart/)
-* [Beta Net Stats - Nanode21](https://nanode21.cloud/testnetstats.php)
-* [Beta Net - Nanoticker analytics and performance](https://beta.nanoticker.info)
-* [Beta & Main Net Confirmation Time](https://nano.observer/)
 * [Beta Net Wiki, Guide](https://github.com/NanoTools/wiki/blob/master/Beta-Network.md)
 
 </div>

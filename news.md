@@ -36,6 +36,9 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### April 2021
 
+* [Releasing public API for the Nano Beta Network](https://www.reddit.com/r/nanocurrency/comments/mwwuqv/releasing_public_api_for_the_nano_beta_network/)
+* [Use Nanobot.app to integrate Nano with Twitch and Streamlabs](https://www.reddit.com/r/nanocurrency/comments/mvsqy4/i_made_a_thing_use_nanobotapp_to_integrate_nano/)
+* [Multisig in Nault = True!](https://www.reddit.com/r/nanocurrency/comments/mvcgkp/multisig_in_nault_true/)
 * [NanoMemo - Cryptographically secure memos for every Nano block](https://www.reddit.com/r/nanocurrency/comments/mtnb7p/announcement_nanomemo_cryptographically_secure/)
 * [Atto: A tiny Nano wallet, which focuses on ease of use through simplicity](https://www.reddit.com/r/nanocurrency/comments/mmux4k/i_have_written_a_wallet_for_friends_of_command/)
 * [Nano Royale: Win NANO by staying alive!](https://www.reddit.com/r/nanocurrency/comments/mlxran/nano_royale_win_nano_by_staying_alive/)
