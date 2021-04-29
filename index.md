@@ -814,6 +814,7 @@ There are much fun to do but please proceed with caution.
 * [NanoKe - Onchain Betting](https://nanoke.com/)
 * [Nanobets - Betting](https://nano.bet/)
 * [Nano Scratch Cards](https://nanoscratchcards.ct8.pl/)
+* [Pasino - Social Gambling Platform](https://pasino.com/)
 
 ### Games
 
