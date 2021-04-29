@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [Apr 29: Nandro - Simple desktop POS](https://github.com/JerzyStanislawski/Nandro)
 * [Apr 23: Beta Net - Nanos.cc Public API](https://beta-api.nanos.cc/)
 * [Apr 23: Nanobot - Nano-Integrated Twitch Donations](https://nanobot.app/)
 * [Apr 20: NanoMemo - Cryptographically secure memos for Nano blocks](https://nanomemo.cc/)
@@ -209,7 +210,6 @@ layout: default
 * [Apr 07: Nano Royale: Win NANO by staying alive](https://nanoroyale.com/))
 * [Mar 20: Sheep Abduction - Transaction Visualizer](https://nano.sheep-abduction.tk/)
 * [Mar 20: Luis Astroids - Transaction Visualizer](https://luis-garcia-remes.itch.io/nano-visualizer)
-* [Mar 20: DogeTheBananos - Transaction Visualizer](https://azabalo.com/dogethebananos/)
 
 </div>
 </div>
@@ -599,6 +599,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [InstantCash - Point of sale for Android](https://instantcashpos.xyz/)
 * [TIX - PoS without login/seed needed (Demo URL)](https://tixwallet.cc/#/pos/nano_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo)
 * [Nano Register](https://awesomepandapig.github.io/NanoRegister/)
+* [Nandro - Simple desktop POS](https://github.com/JerzyStanislawski/Nandro)
 
 </div>
 </div>
