@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [May 03: Why Nano](https://whynano.cc/)
 * [Apr 29: Nandro - Simple desktop POS](https://github.com/JerzyStanislawski/Nandro)
 * [Apr 23: Beta Net - Nanos.cc Public API](https://beta-api.nanos.cc/)
 * [Apr 23: Nanobot - Nano-Integrated Twitch Donations](https://nanobot.app/)
@@ -209,7 +210,6 @@ layout: default
 * [Apr 07: Nano Unity Plugin - Asset store](https://assetstore.unity.com/packages/tools/integration/nano-190960)
 * [Apr 07: Nano Royale: Win NANO by staying alive](https://nanoroyale.com/))
 * [Mar 20: Sheep Abduction - Transaction Visualizer](https://nano.sheep-abduction.tk/)
-* [Mar 20: Luis Astroids - Transaction Visualizer](https://luis-garcia-remes.itch.io/nano-visualizer)
 
 </div>
 </div>
@@ -253,6 +253,7 @@ Learn everything there is to know about Nano!
 ### Education & Adoption
 
 * [What is Nano in 60 Sec](https://youtu.be/ydVomoXEGe0)
+* [Why Nano](https://whynano.cc/)
 * [Nano Guide 2 - Getting Started](https://gettingstarted.nanocenter.org/)
 * [What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
 * [Nano for Newcomers Reddit Series](https://nanojson.medium.com/nano-for-newcomers-75e64535327a)
