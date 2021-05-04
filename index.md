@@ -200,6 +200,7 @@ layout: default
 
 ## Latest Additions
 
+* [May 04: LightweightNanoRPCProxy - Simple RPC proxy](https://github.com/Shryder/LightweightNanoRPCProxy)
 * [May 03: Why Nano](https://whynano.cc/)
 * [Apr 29: Nandro - Simple desktop POS](https://github.com/JerzyStanislawski/Nandro)
 * [Apr 23: Beta Net - Nanos.cc Public API](https://beta-api.nanos.cc/)
@@ -209,7 +210,6 @@ layout: default
 * [Apr 07: Nano Unity Plugin - Source code](https://github.com/wezrule/unitynanoplugin)
 * [Apr 07: Nano Unity Plugin - Asset store](https://assetstore.unity.com/packages/tools/integration/nano-190960)
 * [Apr 07: Nano Royale: Win NANO by staying alive](https://nanoroyale.com/))
-* [Mar 20: Sheep Abduction - Transaction Visualizer](https://nano.sheep-abduction.tk/)
 
 </div>
 </div>
@@ -740,6 +740,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 
 * [NanoRPCProxy - A secure RPC/Websocket proxy server for talking with Nano nodes](https://github.com/joohansson/nanorpcproxy)
 * [Noxy - A simple and fast Nano RPC proxy and relay](https://github.com/BitDesert/Noxy)
+* [LightweightNanoRPCProxy - Simple RPC proxy](https://github.com/Shryder/LightweightNanoRPCProxy)
 * [Nanio - RPC Gateway, API Browser](https://github.com/rbw/nanio)
 * [Nano Shell - Nano Node bash convenience wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Nanook - Ruby Lib for RPC](https://github.com/lukes/nanook)
