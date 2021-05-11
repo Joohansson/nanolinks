@@ -126,6 +126,7 @@ layout: default
     <option value="5">Set up a Node or Representative</option>
     <option value="6">Participate in the Beta Network</option>
     <option value="7">Join our Community</option>
+    <option value="8">Charity</option>
   </select>
 
   <div class="help" id="help1">
@@ -188,8 +189,14 @@ layout: default
       <li><a href="https://nanocenter.org/">The Nano Center</a></li>
     </ul>
   </div>
+  
+   <div class="help" id="help8">
+    <ul>
+      <li><a href="https://givenano.org/">GiveNano - Charity site for Nano</a></li>
+    </ul>
+  </div>
 
-  <div class="help" id="help8">
+  <div class="help" id="help9">
     <ul>
       <li><a href="https://usenano.org/">Use Nano - Merchant Directory</a></li>
     </ul>
@@ -200,6 +207,7 @@ layout: default
 
 ## Latest Additions
 
+* [May 11: GiveNano](https://www.givenano.org/)
 * [May 04: LightweightNanoRPCProxy - Simple RPC proxy](https://github.com/Shryder/LightweightNanoRPCProxy)
 * [May 03: Why Nano](https://whynano.cc/)
 * [Apr 29: Nandro - Simple desktop POS](https://github.com/JerzyStanislawski/Nandro)
@@ -896,6 +904,10 @@ There are much fun to do but please proceed with caution.
 * [unMineable - Earn NANO via GPU and CPU mining - Multi algorithm mining pool](https://unmineable.com/coins/NANO)
 * [Apollo Nano - PVP Shooter game](https://apollonano.com/shooter.php)
 * [Just Cause 2 Multiplayer - Action game with nano payout](https://earn-nano.com/jc2rp)
+
+### Charity
+
+* [GiveNano](https://www.givenano.org/)
 
 </div>
 </div>
