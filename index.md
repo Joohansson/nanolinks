@@ -217,6 +217,7 @@ layout: default
 
 ## Latest Additions
 
+* [May 17: NanoStatus - Live Election Status](https://nanostatus.live/conf/socket)
 * [May 11: GiveNano](https://www.givenano.org/)
 * [May 04: LightweightNanoRPCProxy - Simple RPC proxy](https://github.com/Shryder/LightweightNanoRPCProxy)
 * [May 03: Why Nano](https://whynano.cc/)
@@ -227,7 +228,6 @@ layout: default
 * [Apr 09: Atto - A tiny Nano wallet, which focuses on ease of use through simplicity](https://github.com/codesoap/atto)
 * [Apr 07: Nano Unity Plugin - Source code](https://github.com/wezrule/unitynanoplugin)
 * [Apr 07: Nano Unity Plugin - Asset store](https://assetstore.unity.com/packages/tools/integration/nano-190960)
-* [Apr 07: Nano Royale: Win NANO by staying alive](https://nanoroyale.com/)
 
 </div>
 </div>
@@ -360,6 +360,7 @@ Learn everything there is to know about Nano!
 * [TOR Block Lattice Explorer (NOTE: .onion link)](http://nanonycgzbzozgnfdhu7wyn3xwmufo4nuzrqgemjwxavqjmznzbgt7ad.onion)
 * [Nanex - Consolidated transaction explorer](https://nanex.cc/)
 * [Nanoticker - Nano Network Analytics & Performance](https://nanoticker.info/)
+* [NanoStatus - Live Election Status](https://nanostatus.live/conf/socket)
 
 * [NanoMusic - Musical/Art Visualizer](http://music.nanos.cc)
 * [Unreal Nano - 3D visualizer build in UnrealEngine4](https://unreal.nanos.cc/)
