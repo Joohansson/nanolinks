@@ -23,6 +23,16 @@ layout: default
   </div>
 </nav>
 
+<div class="div-full alert">
+<div class="link-content">
+<div class="index-text">
+  <h2 id="quick-index" style="color: #4a90e2;">A cute CAT instead of AD</h2>
+  <p>This site has been maintained since 2018 for free and without ads. If you would like me to continue doing that, please consider sending a <a href="#contribution">Nano donation</a> or sponsor me via <a href="https://github.com/sponsors/joohansson">Github</a></p>
+  <img class="cat" id="cat" src="src/cat.jpg" alt="cat"/>
+</div>
+</div>
+</div>
+
 <div class="div-full">
 <div class="blur"></div>
 <div class="overlay"></div>
@@ -217,7 +227,7 @@ layout: default
 * [Apr 09: Atto - A tiny Nano wallet, which focuses on ease of use through simplicity](https://github.com/codesoap/atto)
 * [Apr 07: Nano Unity Plugin - Source code](https://github.com/wezrule/unitynanoplugin)
 * [Apr 07: Nano Unity Plugin - Asset store](https://assetstore.unity.com/packages/tools/integration/nano-190960)
-* [Apr 07: Nano Royale: Win NANO by staying alive](https://nanoroyale.com/))
+* [Apr 07: Nano Royale: Win NANO by staying alive](https://nanoroyale.com/)
 
 </div>
 </div>
