@@ -388,7 +388,6 @@ Learn everything there is to know about Nano!
 * [Crypto Subreddit Tracker](https://cryptosub.live/)
 * [Nanocurrency Reddit Stats](https://subredditstats.com/r/nanocurrency)
 * [Geographical Node Map](https://nanomap-061992.web.app/#/dashboard)
-* [Nano Election Visualizer](https://nanostatus.live/conf/socket)
 
 </div>
 </div>
