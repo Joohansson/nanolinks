@@ -217,7 +217,9 @@ layout: default
 
 ## Latest Additions
 
-* [May 17: NanoStatus - Live Election Status](https://nanostatus.live/conf/socket)
+* [May 23: Live Election Status (NanoQuake)](https://nanostatus.live/conf/socket)
+* [May 20: Live Election Status (MyNanoNinja)](https://elections.mynano.ninja/)
+* [May 17: Live Nano election visualization](https://nanovisual.numsu.dev/)
 * [May 11: GiveNano](https://www.givenano.org/)
 * [May 04: LightweightNanoRPCProxy - Simple RPC proxy](https://github.com/Shryder/LightweightNanoRPCProxy)
 * [May 03: Why Nano](https://whynano.cc/)
@@ -225,9 +227,6 @@ layout: default
 * [Apr 23: Beta Net - Nanos.cc Public API](https://beta-api.nanos.cc/)
 * [Apr 23: Nanobot - Nano-Integrated Twitch Donations](https://nanobot.app/)
 * [Apr 20: NanoMemo - Cryptographically secure memos for Nano blocks](https://nanomemo.cc/)
-* [Apr 09: Atto - A tiny Nano wallet, which focuses on ease of use through simplicity](https://github.com/codesoap/atto)
-* [Apr 07: Nano Unity Plugin - Source code](https://github.com/wezrule/unitynanoplugin)
-* [Apr 07: Nano Unity Plugin - Asset store](https://assetstore.unity.com/packages/tools/integration/nano-190960)
 
 </div>
 </div>
@@ -360,7 +359,9 @@ Learn everything there is to know about Nano!
 * [TOR Block Lattice Explorer (NOTE: .onion link)](http://nanonycgzbzozgnfdhu7wyn3xwmufo4nuzrqgemjwxavqjmznzbgt7ad.onion)
 * [Nanex - Consolidated transaction explorer](https://nanex.cc/)
 * [Nanoticker - Nano Network Analytics & Performance](https://nanoticker.info/)
-* [NanoStatus - Live Election Status](https://nanostatus.live/conf/socket)
+* [Live Election Status (NanoQuake)](https://nanostatus.live/conf/socket)
+* [Live Election Status (MyNanoNinja)](https://elections.mynano.ninja/)
+* [Live Nano election visualization](https://nanovisual.numsu.dev/)
 
 * [NanoMusic - Musical/Art Visualizer](http://music.nanos.cc)
 * [Unreal Nano - 3D visualizer build in UnrealEngine4](https://unreal.nanos.cc/)

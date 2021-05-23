@@ -33,6 +33,14 @@ layout: newslayout
 
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### May 2021
+
+* [Nano node v22 released and other news](https://www.reddit.com/r/nanocurrency/comments/ngain9/ready_for_some_good_nano_news_today_get_up_to/)
+* [Nano mentioned in a list of the top 5 most eco-friendly cryptos on InvestorPlace](https://www.reddit.com/r/nanocurrency/comments/ndrfiv/nano_mentioned_in_a_list_of_the_top_5_most/)
+* [Fortune.com article about Nano, the green cryptocurrency](https://www.reddit.com/r/nanocurrency/comments/nbmpiw/fortunecom_article_about_nano_the_green/)
+* [Nano mentioned on Yahoo Finance "other coins are faster and have lower fees - including Nano"](https://www.reddit.com/r/nanocurrency/comments/nauc3g/nano_mentioned_on_yahoo_finance_other_coins_are/)
+* [Live nano election visualizer by numsu](https://www.reddit.com/r/nanocurrency/comments/nik2mb/have_you_ever_wanted_to_watch_the_network/)
+* [Get ready for it! Nano is coming to MarketSquare.io](https://www.reddit.com/r/nanocurrency/comments/n1uxmb/get_ready_for_it_nano_is_coming_to_marketsquareio/)
 
 ### April 2021
 
