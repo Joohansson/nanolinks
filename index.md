@@ -217,6 +217,7 @@ layout: default
 
 ## Latest Additions
 
+* [May 24: Nano.community - News and Learning](https://nano.community/)
 * [May 23: Live Election Status (NanoQuake)](https://nanostatus.live/conf/socket)
 * [May 20: Live Election Status (MyNanoNinja)](https://elections.mynano.ninja/)
 * [May 17: Live Nano election visualization](https://nanovisual.numsu.dev/)
@@ -226,7 +227,6 @@ layout: default
 * [Apr 29: Nandro - Simple desktop POS](https://github.com/JerzyStanislawski/Nandro)
 * [Apr 23: Beta Net - Nanos.cc Public API](https://beta-api.nanos.cc/)
 * [Apr 23: Nanobot - Nano-Integrated Twitch Donations](https://nanobot.app/)
-* [Apr 20: NanoMemo - Cryptographically secure memos for Nano blocks](https://nanomemo.cc/)
 
 </div>
 </div>
@@ -271,6 +271,7 @@ Learn everything there is to know about Nano!
 
 * [What is Nano in 60 Sec](https://youtu.be/ydVomoXEGe0)
 * [Why Nano](https://whynano.cc/)
+* [Nano.community - News and Learning](https://nano.community/)
 * [Nano Guide 2 - Getting Started](https://gettingstarted.nanocenter.org/)
 * [What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
 * [Nano for Newcomers Reddit Series](https://nanojson.medium.com/nano-for-newcomers-75e64535327a)
