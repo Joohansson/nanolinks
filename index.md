@@ -217,6 +217,9 @@ layout: default
 
 ## Latest Additions
 
+* [May 26: Nano Vote Visualizer by Numsu (source)](https://github.com/numsu/nano-vote-visualizer)
+* [May 26: Nano Election Visualizer by James (source)](https://github.com/jamescoxon/Nano_Election_Visualiser)
+* [May 26: Nano Bucket Visualizer by James (source)](https://github.com/jamescoxon/Nano_Bucket_Visualizer)
 * [May 24: Nano.community - News and Learning](https://nano.community/)
 * [May 23: Live Election Status (NanoQuake)](https://nanostatus.live/conf/socket)
 * [May 20: Live Election Status (MyNanoNinja)](https://elections.mynano.ninja/)
@@ -224,9 +227,6 @@ layout: default
 * [May 11: GiveNano](https://www.givenano.org/)
 * [May 04: LightweightNanoRPCProxy - Simple RPC proxy](https://github.com/Shryder/LightweightNanoRPCProxy)
 * [May 03: Why Nano](https://whynano.cc/)
-* [Apr 29: Nandro - Simple desktop POS](https://github.com/JerzyStanislawski/Nandro)
-* [Apr 23: Beta Net - Nanos.cc Public API](https://beta-api.nanos.cc/)
-* [Apr 23: Nanobot - Nano-Integrated Twitch Donations](https://nanobot.app/)
 
 </div>
 </div>
@@ -802,6 +802,10 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanoom - Service for pulling Nano payments](https://nanoom.tech/)
 * [Nanoidenticons - Identification icons for Nano](https://github.com/keerifox/Nanoidenticons)
 * [Musig-nano - Multisig (multi-signature) demo](https://github.com/PlasmaPower/musig-nano)
+* [Nano Vote Visualizer by Numsu](https://github.com/numsu/nano-vote-visualizer)
+* [Nano Election Visualizer by James](https://github.com/jamescoxon/Nano_Election_Visualiser)
+* [Nano Bucket Visualizer by James](https://github.com/jamescoxon/Nano_Bucket_Visualizer)
+
 
 ### Beta Network
 
