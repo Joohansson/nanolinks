@@ -217,6 +217,7 @@ layout: default
 
 ## Latest Additions
 
+* [May 26: Beta Net - Nanos.cc Election Visualizer](https://beta-votes.nanos.cc/)
 * [May 26: Nano Vote Visualizer by Numsu (source)](https://github.com/numsu/nano-vote-visualizer)
 * [May 26: Nano Election Visualizer by James (source)](https://github.com/jamescoxon/Nano_Election_Visualiser)
 * [May 26: Nano Bucket Visualizer by James (source)](https://github.com/jamescoxon/Nano_Bucket_Visualizer)
@@ -226,7 +227,6 @@ layout: default
 * [May 17: Live Nano election visualization](https://nanovisual.numsu.dev/)
 * [May 11: GiveNano](https://www.givenano.org/)
 * [May 04: LightweightNanoRPCProxy - Simple RPC proxy](https://github.com/Shryder/LightweightNanoRPCProxy)
-* [May 03: Why Nano](https://whynano.cc/)
 
 </div>
 </div>
@@ -813,6 +813,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Beta Net - Nanoticker analytics and performance](https://beta.nanoticker.info)
 * [Beta Net - Nanos.cc Public API](https://beta-api.nanos.cc/)
 * [Beta Net - Nanos.cc Public Websocket](https://beta-api.nanos.cc/socket)
+* [Beta Net - Nanos.cc Election Visualizer](https://beta-votes.nanos.cc/)
 * [Beta Net Visualizer](https://nano-faucet.org/visualizer/beta/)
 * [Beta Net Car Visualizer](http://btraffic.nanos.cc/)
 * [Beta Net Water Visualizer](https://bfountain.nanos.cc/)
