@@ -810,6 +810,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 ### Beta Network
 
 * [Nano Beta Network Resources](https://beta.nano.org/)
+* [Beta Net - Nanocrawler explorer](https://beta.nanocrawler.cc/)
 * [Beta Net - Nanoticker analytics and performance](https://beta.nanoticker.info)
 * [Beta Net - Nanos.cc Public API](https://beta-api.nanos.cc/)
 * [Beta Net - Nanos.cc Public Websocket](https://beta-api.nanos.cc/socket)
