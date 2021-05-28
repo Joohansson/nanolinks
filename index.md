@@ -217,6 +217,9 @@ layout: default
 
 ## Latest Additions
 
+* [May 28: Nano Portal](https://www.nanoportal.cc/)
+* [May 28: Nano Address Notifier by Json - Python script for tracking Nano accounts](https://github.com/Joohansson/nano-address-notifier)
+* [May 28: Nano Vote Visualizer - Json fork](https://votes.nanos.cc/)
 * [May 26: Beta Net - Nanos.cc Election Visualizer](https://beta-votes.nanos.cc/)
 * [May 26: Nano Vote Visualizer by Numsu (source)](https://github.com/numsu/nano-vote-visualizer)
 * [May 26: Nano Election Visualizer by James (source)](https://github.com/jamescoxon/Nano_Election_Visualiser)
@@ -224,9 +227,6 @@ layout: default
 * [May 24: Nano.community - News and Learning](https://nano.community/)
 * [May 23: Live Election Status (NanoQuake)](https://nanostatus.live/conf/socket)
 * [May 20: Live Election Status (MyNanoNinja)](https://elections.mynano.ninja/)
-* [May 17: Live Nano election visualization](https://nanovisual.numsu.dev/)
-* [May 11: GiveNano](https://www.givenano.org/)
-* [May 04: LightweightNanoRPCProxy - Simple RPC proxy](https://github.com/Shryder/LightweightNanoRPCProxy)
 
 </div>
 </div>
@@ -276,6 +276,7 @@ Learn everything there is to know about Nano!
 * [What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
 * [Nano for Newcomers Reddit Series](https://nanojson.medium.com/nano-for-newcomers-75e64535327a)
 * [Learn Nano](https://learnnano.com/)
+* [Nano Portal - Info and Links](https://www.nanoportal.cc/)
 * [Informative Medium Articles - Nano Education](https://medium.com/nano-education)
 * [Informative Medium Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
 * [Informative Medium Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
@@ -753,6 +754,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Pynanocurrency - Python protocol library](https://github.com/Matoking/pynanocurrency)
 * [Siliqua - Python modular light wallet](https://github.com/Matoking/siliqua)
 * [nano_account_explorer - Python visualizer](https://github.com/GK-a/nano_account_explorer)
+* [Nano Address Notifier by Json - Python script for tracking Nano accounts](https://github.com/Joohansson/nano-address-notifier)
 
 * [Gonano - Command-line tool written in Go](https://github.com/hectorchu/gonano)
 * [Nano protocol in Golang](https://github.com/frankh/nano)
@@ -803,6 +805,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanoidenticons - Identification icons for Nano](https://github.com/keerifox/Nanoidenticons)
 * [Musig-nano - Multisig (multi-signature) demo](https://github.com/PlasmaPower/musig-nano)
 * [Nano Vote Visualizer by Numsu](https://github.com/numsu/nano-vote-visualizer)
+* [Nano Vote Visualizer - Json fork](https://votes.nanos.cc/)
 * [Nano Election Visualizer by James](https://github.com/jamescoxon/Nano_Election_Visualiser)
 * [Nano Bucket Visualizer by James](https://github.com/jamescoxon/Nano_Bucket_Visualizer)
 
