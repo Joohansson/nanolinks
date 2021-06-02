@@ -33,6 +33,10 @@ layout: newslayout
 
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### June 2021
+
+* [Nault update: Now supports watch-only accounts](https://www.reddit.com/r/nanocurrency/comments/npt61g/nault_update_now_supports_watchonly_accounts/)
+
 ### May 2021
 
 * [Nano node v22 released and other news](https://www.reddit.com/r/nanocurrency/comments/ngain9/ready_for_some_good_nano_news_today_get_up_to/)
