@@ -23,6 +23,7 @@ layout: default
   </div>
 </nav>
 
+<!--
 <div class="div-full alert">
 <div class="link-content">
 <div class="index-text">
@@ -32,6 +33,7 @@ layout: default
 </div>
 </div>
 </div>
+-->
 
 <div class="div-full">
 <div class="blur"></div>
