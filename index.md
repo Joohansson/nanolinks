@@ -217,16 +217,17 @@ layout: default
 
 ## Latest Additions
 
+* [Jun 07: EasyNano - Send/receive Nano with Python](https://github.com/micah5/easy_nano)
+* [Jun 07: Nano Jobs - Earn Nano for your work](https://nanojobs.space/)
+* [Jun 07: The Nano Guy - Education](https://www.youtube.com/channel/UCDShNQxvOT5dE4sgWwTDtcw)
+* [Jun 07: DonjiKong - Nano Talk](https://www.youtube.com/channel/UCCbGsX4AV_XDy7lRrkbin2Q)
 * [May 28: Nano Portal](https://www.nanoportal.cc/)
 * [May 28: Nano Address Notifier by Json - Python script for tracking Nano accounts](https://github.com/Joohansson/nano-address-notifier)
 * [May 28: Nano Vote Visualizer - Json fork](https://votes.nanos.cc/)
 * [May 26: Beta Net - Nanos.cc Election Visualizer](https://beta-votes.nanos.cc/)
 * [May 26: Nano Vote Visualizer by Numsu (source)](https://github.com/numsu/nano-vote-visualizer)
 * [May 26: Nano Election Visualizer by James (source)](https://github.com/jamescoxon/Nano_Election_Visualiser)
-* [May 26: Nano Bucket Visualizer by James (source)](https://github.com/jamescoxon/Nano_Bucket_Visualizer)
-* [May 24: Nano.community - News and Learning](https://nano.community/)
-* [May 23: Live Election Status (NanoQuake)](https://nanostatus.live/conf/socket)
-* [May 20: Live Election Status (MyNanoNinja)](https://elections.mynano.ninja/)
+
 
 </div>
 </div>
@@ -297,6 +298,7 @@ Learn everything there is to know about Nano!
 #### Developer Info
 * [Nano Dev List - Developer donation and sponsorship portal](https://nanodevlist.com/)
 * [Nano Simple Tutorial](https://github.com/ealtamir/nano-simple-tutorial)
+* [Nano Jobs - Earn Nano for your work](https://nanojobs.space/)
 
 #### Adoption
 
@@ -313,11 +315,10 @@ Learn everything there is to know about Nano!
 ### Video Channels
 
 * [Nano](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
-* [Nano Basics](https://www.youtube.com/channel/UCGYBwp3HtfUoXbwL4NtiV3Q)
-* [NanoCast](https://www.youtube.com/channel/UC_KCdNCWQcb5Z4vsPBY18yQ)
-* [The Nano Center](https://www.youtube.com/channel/UCwB_g6LBPGv_anMhywH4BWA)
-* [Jolt Wallet](https://www.youtube.com/channel/UCLfilzzY4NmwNjWtEIibdkA)
-* [Patrick Luberus - Nano Education](https://www.youtube.com/user/PatrickLuberus/videos)
+* [Patrick Luberus - Education](https://www.youtube.com/user/PatrickLuberus/videos)
+* [The Nano Guy - Education](https://www.youtube.com/channel/UCDShNQxvOT5dE4sgWwTDtcw)
+* [DonjiKong - Nano Talk](https://www.youtube.com/channel/UCCbGsX4AV_XDy7lRrkbin2Q)
+
 
 ### Interesting Videos [Not in channels above]
 
@@ -755,6 +756,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Siliqua - Python modular light wallet](https://github.com/Matoking/siliqua)
 * [nano_account_explorer - Python visualizer](https://github.com/GK-a/nano_account_explorer)
 * [Nano Address Notifier by Json - Python script for tracking Nano accounts](https://github.com/Joohansson/nano-address-notifier)
+* [EasyNano - Send/receive Nano with Python](https://github.com/micah5/easy_nano)
 
 * [Gonano - Command-line tool written in Go](https://github.com/hectorchu/gonano)
 * [Nano protocol in Golang](https://github.com/frankh/nano)

@@ -35,6 +35,8 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2021
 
+* [The vision of Nano — an instant, feeless and green crypto (Senatus)](https://www.reddit.com/r/nanocurrency/comments/ntt5h3/the_vision_of_nano_an_instant_feeless_and_green/)
+* [Introducing Nano Jobs - Instant and feeless working platform for talents](https://www.reddit.com/r/nanocurrency/comments/ns803n/introducing_nano_jobs_instant_and_feeless_working/)
 * [Nault update: Now supports watch-only accounts](https://www.reddit.com/r/nanocurrency/comments/npt61g/nault_update_now_supports_watchonly_accounts/)
 
 ### May 2021
