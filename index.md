@@ -219,6 +219,7 @@ layout: default
 
 ## Latest Additions
 
+* [Jun 08: Encrypted Paper Wallet](https://igorcmelo.github.io/enc-paper-wallet/)
 * [Jun 07: EasyNano - Send/receive Nano with Python](https://github.com/micah5/easy_nano)
 * [Jun 07: Nano Jobs - Earn Nano for your work](https://nanojobs.space/)
 * [Jun 07: The Nano Guy - Education](https://www.youtube.com/channel/UCDShNQxvOT5dE4sgWwTDtcw)
@@ -228,7 +229,6 @@ layout: default
 * [May 28: Nano Vote Visualizer - Json fork](https://votes.nanos.cc/)
 * [May 26: Beta Net - Nanos.cc Election Visualizer](https://beta-votes.nanos.cc/)
 * [May 26: Nano Vote Visualizer by Numsu (source)](https://github.com/numsu/nano-vote-visualizer)
-* [May 26: Nano Election Visualizer by James (source)](https://github.com/jamescoxon/Nano_Election_Visualiser)
 
 
 </div>
@@ -526,6 +526,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nano Vanity Generator (PlasmaPower)](https://github.com/PlasmaPower/nano-vanity)
 * [Nano Vanity Generator (vitorcremonez)](https://github.com/vitorcremonez/nano-vanity)
 * [Distributed Vanity Address Generation](https://plasmapower.github.io/distributed-vanity/)
+* [Encrypted Paper Wallet](https://igorcmelo.github.io/enc-paper-wallet/)
 
 #### Hardware Wallets and Nodes
 
@@ -725,6 +726,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Gift - Gift Card and Paper Wallet](https://github.com/Joohansson/nanogift)
 * [Nano Paper Wallet 1](https://github.com/vitorcremonez/nano-paper-wallet)
 * [Nano Paper Wallet 2](https://github.com/jelofsson/nano-paper-wallet)
+* [Encrypted paper wallet](https://github.com/igorcmelo/enc-paper-wallet)
 
 ### Protocol, RPC, Libraries, Tools, Servers
 
