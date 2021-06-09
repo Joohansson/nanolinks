@@ -219,6 +219,8 @@ layout: default
 
 ## Latest Additions
 
+* [Jun 09: Paper Wallet - German](https://nanocoin.ch/?page_id=175)
+* [Jun 09: Nano Faucet - German](https://faucet.nanocoin.ch/)
 * [Jun 08: Encrypted Paper Wallet](https://igorcmelo.github.io/enc-paper-wallet/)
 * [Jun 07: EasyNano - Send/receive Nano with Python](https://github.com/micah5/easy_nano)
 * [Jun 07: Nano Jobs - Earn Nano for your work](https://nanojobs.space/)
@@ -227,8 +229,6 @@ layout: default
 * [May 28: Nano Portal](https://www.nanoportal.cc/)
 * [May 28: Nano Address Notifier by Json - Python script for tracking Nano accounts](https://github.com/Joohansson/nano-address-notifier)
 * [May 28: Nano Vote Visualizer - Json fork](https://votes.nanos.cc/)
-* [May 26: Beta Net - Nanos.cc Election Visualizer](https://beta-votes.nanos.cc/)
-* [May 26: Nano Vote Visualizer by Numsu (source)](https://github.com/numsu/nano-vote-visualizer)
 
 
 </div>
@@ -527,6 +527,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nano Vanity Generator (vitorcremonez)](https://github.com/vitorcremonez/nano-vanity)
 * [Distributed Vanity Address Generation](https://plasmapower.github.io/distributed-vanity/)
 * [Encrypted Paper Wallet](https://igorcmelo.github.io/enc-paper-wallet/)
+* [Paper Wallet - German](https://nanocoin.ch/?page_id=175)
 
 #### Hardware Wallets and Nodes
 
@@ -615,6 +616,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Tetraloom - Faucet](https://tetraloom.com/nano/)
 * [Nendly Faucet - Onion Faucet for TOR](http://nendlyy5734pdfflygapdayez6dcorodcio72jwfvaux4fsrzyh7rzqd.onion/faucet/)
 * [ApolloNano - Twitter Faucet](https://twitter.com/ApolloNano/)
+* [Nano Faucet - German](https://faucet.nanocoin.ch/)
 
 ### Point of Sale
 
