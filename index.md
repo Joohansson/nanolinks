@@ -265,6 +265,13 @@ Learn everything there is to know about Nano!
 * [Telegram](https://t.me/nanocurrency)
 * [Telegram China](https://t.me/NanoCN)
 
+### Related SubReddits
+
+* [Nanocurrency Beginners](https://www.reddit.com/r/nanocurrencybeginners/)
+* [NanoTrade](https://www.reddit.com/r/nanotrade/)
+* [Jobs for Nano](https://www.reddit.com/r/jobsforNano/)
+* [Nanoism](https://www.reddit.com/r/Nanoism/)
+
 ### Scientific Papers
 
 * [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
@@ -301,6 +308,7 @@ Learn everything there is to know about Nano!
 * [Nano Dev List - Developer donation and sponsorship portal](https://nanodevlist.com/)
 * [Nano Simple Tutorial](https://github.com/ealtamir/nano-simple-tutorial)
 * [Nano Jobs - Earn Nano for your work](https://nanojobs.space/)
+* [Nanos.cc - Various projects developed by Json](https://nanos.cc/)
 
 #### Adoption
 
@@ -657,6 +665,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 
 * [Discord: Json/Joohansson Dev Server](https://discord.gg/RVCuFvc)
 * [Reddit: Nano Tipper Z (Reddit Tip bot)](https://www.reddit.com/r/nano_tipper)
+* [Reddit: WeNano](https://www.reddit.com/r/WeNano/)
 
 ### Node & Account Applications
 
@@ -903,7 +912,6 @@ There are much fun to do but please proceed with caution.
 * [Put.io - File Serving](https://put.io)
 * [Wall of Nano](https://wallofnano.com/)
 * [Donano - Crowdfunding for Creators](https://www.donano.to)
-* [One Nano Host - Free DNS Domain for Nano related endpoints](https://nanos.cc/)
 * [DeMixor - Music Vocal Remover](https://demixor.com/)
 * [FakeFork - Nano dashboard for tabletop gamers](https://fakefork.com/)
 * [NanoWire - Sell/Buy unused bandwidth](https://nanowire.com/)
