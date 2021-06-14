@@ -35,6 +35,9 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2021
 
+* [Nano/USDT listing at crypto.com](https://www.reddit.com/r/nanocurrency/comments/nx5do3/new_nano_listing/)
+* [Nano Node V22.1 Released](https://www.reddit.com/r/nanocurrency/comments/nxoj66/nano_node_v221_released/)
+* [Guide: How to set up a single-node Nano development network](https://www.reddit.com/r/nanocurrency/comments/nwjo0e/guide_how_to_set_up_a_singlenode_development/)
 * [Nano listed as a TOP environmentally Friendly Crypto](https://www.reddit.com/r/nanocurrency/comments/nv87xd/nano_listed_as_a_top_environmentally_friendly/)
 * [The vision of Nano — an instant, feeless and green crypto (Senatus)](https://www.reddit.com/r/nanocurrency/comments/ntt5h3/the_vision_of_nano_an_instant_feeless_and_green/)
 * [Introducing Nano Jobs - Instant and feeless working platform for talents](https://www.reddit.com/r/nanocurrency/comments/ns803n/introducing_nano_jobs_instant_and_feeless_working/)

@@ -219,6 +219,7 @@ layout: default
 
 ## Latest Additions
 
+* [Jun 14: Nano.community - Representative stats](https://nano.community/representatives)
 * [Jun 09: Paper Wallet - German](https://nanocoin.ch/?page_id=175)
 * [Jun 09: Nano Faucet - German](https://faucet.nanocoin.ch/)
 * [Jun 08: Encrypted Paper Wallet](https://igorcmelo.github.io/enc-paper-wallet/)
@@ -228,7 +229,6 @@ layout: default
 * [Jun 07: DonjiKong - Nano Talk](https://www.youtube.com/channel/UCCbGsX4AV_XDy7lRrkbin2Q)
 * [May 28: Nano Portal](https://www.nanoportal.cc/)
 * [May 28: Nano Address Notifier by Json - Python script for tracking Nano accounts](https://github.com/Joohansson/nano-address-notifier)
-* [May 28: Nano Vote Visualizer - Json fork](https://votes.nanos.cc/)
 
 
 </div>
@@ -367,6 +367,7 @@ Learn everything there is to know about Nano!
 * [Live Election Status (NanoQuake)](https://nanostatus.live/conf/socket)
 * [Live Election Status (MyNanoNinja)](https://elections.mynano.ninja/)
 * [Live Nano election visualization](https://nanovisual.numsu.dev/)
+* [Live Nano election visualization - Json fork](https://votes.nanos.cc/)
 
 * [NanoMusic - Musical/Art Visualizer](http://music.nanos.cc)
 * [Unreal Nano - 3D visualizer build in UnrealEngine4](https://unreal.nanos.cc/)
@@ -387,6 +388,7 @@ Learn everything there is to know about Nano!
 * [Blocktivity - Utilization Comparision](https://blocktivity.info/)
 * [Nanolytics - Network stats](https://nanolytics.info/)
 * [Nano Charts - Representative stats](https://nanocharts.info/)
+* [Nano.community - Representative stats](https://nano.community/representatives)
 * [TryNano](https://www.trynano.io/)
 * [Transaction Speed Demo Button](https://speed.nanoticker.info/)
 * [NanoFees - Fee Tracker](http://nanofees.info/)
@@ -813,7 +815,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanoidenticons - Identification icons for Nano](https://github.com/keerifox/Nanoidenticons)
 * [Musig-nano - Multisig (multi-signature) demo](https://github.com/PlasmaPower/musig-nano)
 * [Nano Vote Visualizer by Numsu](https://github.com/numsu/nano-vote-visualizer)
-* [Nano Vote Visualizer - Json fork](https://votes.nanos.cc/)
+* [Nano Vote Visualizer - Json fork](https://github.com/Joohansson/nano-vote-visualizer)
 * [Nano Election Visualizer by James](https://github.com/jamescoxon/Nano_Election_Visualiser)
 * [Nano Bucket Visualizer by James](https://github.com/jamescoxon/Nano_Bucket_Visualizer)
 
