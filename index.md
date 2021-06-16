@@ -269,8 +269,9 @@ Learn everything there is to know about Nano!
 
 * [Nanocurrency Beginners](https://www.reddit.com/r/nanocurrencybeginners/)
 * [NanoTrade](https://www.reddit.com/r/nanotrade/)
-* [Jobs for Nano](https://www.reddit.com/r/jobsforNano/)
 * [Nanoism](https://www.reddit.com/r/Nanoism/)
+* [Jobs for Nano](https://www.reddit.com/r/jobsforNano/)
+* [AcceptNano](https://www.reddit.com/r/AcceptNano/)
 
 ### Scientific Papers
 
@@ -624,7 +625,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Nano-Faucet.org](https://nano-faucet.org/)
 * [FreeNanoFaucet.com](https://www.freenanofaucet.com/)
 * [Tetraloom - Faucet](https://tetraloom.com/nano/)
-* [Nendly Faucet - Onion Faucet for TOR](http://nendlyy5734pdfflygapdayez6dcorodcio72jwfvaux4fsrzyh7rzqd.onion/faucet/)
 * [ApolloNano - Twitter Faucet](https://twitter.com/ApolloNano/)
 * [Nano Faucet - German](https://faucet.nanocoin.ch/)
 
@@ -901,11 +901,6 @@ There are much fun to do but please proceed with caution.
 * [NanoPaint - Buy pixels encoded in block chain](https://tetraloom.com/paint/)
 * [The Million Nano Homepage](https://millionnanohomepage.com/)
 * [NanoPicture](https://nanopicture.ct8.pl/)
-
-### Social Media
-
-* [Nendly - The notion-friendly forum with Nano integration](https://nendly.com/)
-* [Sendr.space - Social media platform using Nano](https://sendr.space/)
 
 ## Services
 
