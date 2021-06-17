@@ -616,8 +616,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [NanoGift - Browser extension for site donations](https://tetraloom.com/nanogift/)
 * [PayNano - Payment link generator](https://paynano.me/)
 * [KeyTools Payment link generator](https://tools.nanos.cc/?tool=pay)
-* [Nano Request - Payment link generator](https://nanorequest.io/)
-* [nanoomPay - Simplified nano payments](https://nanoompay.io/)
 * [Nanomart - Marketplace where you can buy and sell goods](https://nanomart.cc/)
 
 ### Faucets (Free Nano)
@@ -634,9 +632,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Kappture - Payment service, PoS](https://www.kappture.co.uk/cryptocurrency.html)
 * [Paytomat - Payment Service. PoS, Fiat gateway](https://paytomat.com/)
 * [MoonPos - Mobile PoS](https://www.moonposapp.com/)
-* [InstantCash - Point of sale for Android](https://instantcashpos.xyz/)
+* [Nault - PoS. Wallet setup needed](https://nault.cc/receive)
 * [TIX - PoS without login/seed needed (Demo URL)](https://tixwallet.cc/#/pos/nano_1gur37mt5cawjg5844bmpg8upo4hbgnbbuwcerdobqoeny4ewoqshowfakfo)
-* [Nano Register](https://awesomepandapig.github.io/NanoRegister/)
 * [Nandro - Simple desktop POS](https://github.com/JerzyStanislawski/Nandro)
 
 </div>
