@@ -219,6 +219,7 @@ layout: default
 
 ## Latest Additions
 
+* [Jun 19: Colin LeMahieu Interviewed on Chicken Genius Singapore Jun 2021](https://youtu.be/GHh3UcCiIS0)
 * [Jun 14: Nano.community - Representative stats](https://nano.community/representatives)
 * [Jun 09: Paper Wallet - German](https://nanocoin.ch/?page_id=175)
 * [Jun 09: Nano Faucet - German](https://faucet.nanocoin.ch/)
@@ -228,7 +229,6 @@ layout: default
 * [Jun 07: The Nano Guy - Education](https://www.youtube.com/channel/UCDShNQxvOT5dE4sgWwTDtcw)
 * [Jun 07: DonjiKong - Nano Talk](https://www.youtube.com/channel/UCCbGsX4AV_XDy7lRrkbin2Q)
 * [May 28: Nano Portal](https://www.nanoportal.cc/)
-* [May 28: Nano Address Notifier by Json - Python script for tracking Nano accounts](https://github.com/Joohansson/nano-address-notifier)
 
 
 </div>
@@ -341,6 +341,7 @@ Learn everything there is to know about Nano!
 * [Colin LeMahieu Audio interview on Hashing It Out Podcast Oct 2019](https://the-bitcoin-podcast-network.simplecast.com/episodes/hashing-it-out-63-nano-colin-lemahieu)
 * [Colin LeMahieu Interviewed on Crypto Finder Sep 2019](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
 * [Colin LeMahieu Interviewed on Keyword:Crypto Jun 2020](https://open.spotify.com/episode/0ONmBDDxSaQZcM3Du1t7wG)
+* [Colin LeMahieu Interviewed on Chicken Genius Singapore Jun 2021](https://youtu.be/GHh3UcCiIS0)
 * [Nano review by Coin Bureau Oct 2019](https://youtu.be/JkoXe6M-59U)
 * [Blockchain Central: Interview with Colin and Andy Oct 2019](https://youtu.be/rhMGXoWGZfg)
 * [Everything you need to know about Nano](https://youtu.be/ywgMlJBli7g)

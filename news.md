@@ -35,6 +35,10 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2021
 
+* [Watch the Chicken Genius interview with Nano Founder Colin LeMahieu](https://www.reddit.com/r/nanocurrency/comments/o2ox9e/watch_the_chicken_genius_interview_with_nano/)
+* [You're all fantastic. 100k member winning prizes sent out, thanks to you all](https://www.reddit.com/r/nanocurrency/comments/o2od93/youre_all_fantastic_100k_member_winning_prizes/)
+* [Senatus giving away 100 Nano (~$625) to some lucky commenters, and sending some Nano to every commenter](https://www.reddit.com/r/nanocurrency/comments/o1uzyo/weve_reached_100k_members_to_celebrate_im_buying/)
+* [We did it! r/nanocurrency passing 100,000 members!](https://www.reddit.com/r/nanocurrency/comments/o1v0p2/we_did_it_rnanocurrency_passing_100000_members/)
 * [Nano/USDT listing at crypto.com](https://www.reddit.com/r/nanocurrency/comments/nx5do3/new_nano_listing/)
 * [Nano Node V22.1 Released](https://www.reddit.com/r/nanocurrency/comments/nxoj66/nano_node_v221_released/)
 * [Guide: How to set up a single-node Nano development network](https://www.reddit.com/r/nanocurrency/comments/nwjo0e/guide_how_to_set_up_a_singlenode_development/)
