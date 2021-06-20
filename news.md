@@ -35,6 +35,8 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2021
 
+* [Introducing Newsfornano.com - A platform for Community Videos and Articles](https://www.reddit.com/r/nanocurrency/comments/o3l734/introducing_newsfornanocom_a_platform_for/)
+* [Which cryptocurrencies are the most environmentally friendly? (#1 = Nano!)](https://www.reddit.com/r/nanocurrency/comments/o3jsl2/which_cryptocurrencies_are_the_most/)
 * [Watch the Chicken Genius interview with Nano Founder Colin LeMahieu](https://www.reddit.com/r/nanocurrency/comments/o2ox9e/watch_the_chicken_genius_interview_with_nano/)
 * [You're all fantastic. 100k member winning prizes sent out, thanks to you all](https://www.reddit.com/r/nanocurrency/comments/o2od93/youre_all_fantastic_100k_member_winning_prizes/)
 * [Senatus giving away 100 Nano (~$625) to some lucky commenters, and sending some Nano to every commenter](https://www.reddit.com/r/nanocurrency/comments/o1uzyo/weve_reached_100k_members_to_celebrate_im_buying/)

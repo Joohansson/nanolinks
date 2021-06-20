@@ -219,6 +219,8 @@ layout: default
 
 ## Latest Additions
 
+* [Jun 20: The basics of Nano](https://senatus.substack.com/p/the-basics-of-nano-why-its-such-an)
+* [Jun 20: The vision of Nano](https://senatusspqr.medium.com/the-vision-of-nano-an-instant-feeless-and-green-crypto-b08ebf25d325)
 * [Jun 19: Colin LeMahieu Interviewed on Chicken Genius Singapore Jun 2021](https://youtu.be/GHh3UcCiIS0)
 * [Jun 14: Nano.community - Representative stats](https://nano.community/representatives)
 * [Jun 09: Paper Wallet - German](https://nanocoin.ch/?page_id=175)
@@ -227,8 +229,6 @@ layout: default
 * [Jun 07: EasyNano - Send/receive Nano with Python](https://github.com/micah5/easy_nano)
 * [Jun 07: Nano Jobs - Earn Nano for your work](https://nanojobs.space/)
 * [Jun 07: The Nano Guy - Education](https://www.youtube.com/channel/UCDShNQxvOT5dE4sgWwTDtcw)
-* [Jun 07: DonjiKong - Nano Talk](https://www.youtube.com/channel/UCCbGsX4AV_XDy7lRrkbin2Q)
-* [May 28: Nano Portal](https://www.nanoportal.cc/)
 
 
 </div>
@@ -273,37 +273,43 @@ Learn everything there is to know about Nano!
 * [Jobs for Nano](https://www.reddit.com/r/jobsforNano/)
 * [AcceptNano](https://www.reddit.com/r/AcceptNano/)
 
-### Scientific Papers
-
-* [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
-* [Scalability of Bitcoin and Nano protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTEXT02.pdf)
 
 ### Education & Adoption
 
 * [What is Nano in 60 Sec](https://youtu.be/ydVomoXEGe0)
 * [Why Nano](https://whynano.cc/)
+* [The basics of Nano](https://senatus.substack.com/p/the-basics-of-nano-why-its-such-an)
+* [The vision of Nano](https://senatusspqr.medium.com/the-vision-of-nano-an-instant-feeless-and-green-crypto-b08ebf25d325)
 * [Nano.community - News and Learning](https://nano.community/)
 * [Nano Guide 2 - Getting Started](https://gettingstarted.nanocenter.org/)
 * [What is Nano - A Great Summary](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
 * [Nano for Newcomers Reddit Series](https://nanojson.medium.com/nano-for-newcomers-75e64535327a)
 * [Learn Nano](https://learnnano.com/)
 * [Nano Portal - Info and Links](https://www.nanoportal.cc/)
+* [News for Nano - Info, Articles, Videos](https://newsfornano.com/)
 * [Informative Medium Articles - Nano Education](https://medium.com/nano-education)
 * [Informative Medium Articles - Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
-* [Informative Medium Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
-* [Informative Medium Articles - James Coxon](https://medium.com/@jacoxon)
+* [Informative Medium Articles - Senatus Medium](https://senatusspqr.medium.com/)
+* [Informative Medium Articles - Senatus Substack](https://senatus.substack.com/archive?utm_source=menu-dropdown)
 * [Informative Medium Articles - Json](https://nanojson.medium.com/)
+* [Informative Medium Articles - James Coxon](https://medium.com/@jacoxon)
 * [Informative Medium Articles - SomeNano](https://somenano.medium.com/)
-* [Informative Medium Articles - Senatus](https://senatusspqr.medium.com/)
+* [Informative Medium Articles - Bruno Garcia (Community Manager)](https://medium.com/@brunoerg)
 * [Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
 * [Nano Infographics](https://imgur.com/a/tPaK9hp)
 * [Guide: Nano for Twitch Streamers](https://sites.google.com/view/nanofortwitch)
+
+### Scientific Papers
+
+* [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
+* [Scalability of Bitcoin and Nano protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTEXT02.pdf)
 
 #### External Media
 
 * [Colin LeMahieu joins the @Crypto101Pod podcast](https://soundcloud.com/crypto101podcast/from-the-archive-nano-and-holochain)
 * [Emerging Economies Are Our Target Market: Nano Founder Colin LeMahieu](https://cryptobriefing.com/nano-adoption-target-market/)
 * [Third Generation Cryptocurrencies](https://hackernoon.com/why-third-generation-cryptocurrencies-are-game-changers-for-venezuela-cb8c9b016f9d)
+
 
 #### Developer Info
 * [Nano Dev List - Developer donation and sponsorship portal](https://nanodevlist.com/)
@@ -329,6 +335,8 @@ Learn everything there is to know about Nano!
 * [Patrick Luberus - Education](https://www.youtube.com/user/PatrickLuberus/videos)
 * [The Nano Guy - Education](https://www.youtube.com/channel/UCDShNQxvOT5dE4sgWwTDtcw)
 * [DonjiKong - Nano Talk](https://www.youtube.com/channel/UCCbGsX4AV_XDy7lRrkbin2Q)
+* [The Best of Nano - Collection](https://www.youtube.com/channel/UCZPMq8bb4-4mYiJiCpIfYEg)
+* [Based LeMahieu - Comedy](https://www.youtube.com/channel/UCl-pIyBfBCv22Vd9XeoRffw)
 
 
 ### Interesting Videos [Not in channels above]
