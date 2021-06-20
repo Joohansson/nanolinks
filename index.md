@@ -479,7 +479,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Coinify](https://coinify.com/)
 * [Coingate](https://coingate.com/buy/nano)
 * [Uphold (No Nano Withdrawal)](https://uphold.com/)
-* [Crypto.com (No Nano Withdrawal)](https://crypto.com)
+* [Crypto.com](https://crypto.com)
 * [Metalpay](https://www.metalpay.com/)
 * [N.Exchange](https://n.exchange/)
 * [Swaplab](https://swaplab.cc/)
