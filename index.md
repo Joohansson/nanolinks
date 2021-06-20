@@ -315,7 +315,7 @@ Learn everything there is to know about Nano!
 * [Nano Dev List - Developer donation and sponsorship portal](https://nanodevlist.com/)
 * [Nano Simple Tutorial](https://github.com/ealtamir/nano-simple-tutorial)
 * [Nano Jobs - Earn Nano for your work](https://nanojobs.space/)
-* [Nanos.cc - Various projects developed by Json](https://nanos.cc/)
+* [Nanos.cc - Various projects hosted by Json](https://nanos.cc/)
 
 #### Adoption
 
