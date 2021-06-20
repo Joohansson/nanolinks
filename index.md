@@ -219,6 +219,9 @@ layout: default
 
 ## Latest Additions
 
+* [Jun 20: Decrypt: Green alternatives to Bitcoin](https://decrypt.co/70802/teslas-bitcoin-bombshell-puts-spotlight-on-sustainable-cryptos)
+* [Jun 20: Climate concerns: Bitcoin’s dark side - Nano to the rescue](https://www.aljazeera.com/economy/2021/3/17/climate-concerns-to-crime-bitcoins-dark-side-draws-scrutiny)
+* [Jun 20: The Top 5 Environmentally Friendly Bitcoin Alternatives](https://www.makeuseof.com/environmentally-friendly-bitcoin-alternatives/)
 * [Jun 20: The basics of Nano](https://senatus.substack.com/p/the-basics-of-nano-why-its-such-an)
 * [Jun 20: The vision of Nano](https://senatusspqr.medium.com/the-vision-of-nano-an-instant-feeless-and-green-crypto-b08ebf25d325)
 * [Jun 19: Colin LeMahieu Interviewed on Chicken Genius Singapore Jun 2021](https://youtu.be/GHh3UcCiIS0)
@@ -226,9 +229,6 @@ layout: default
 * [Jun 09: Paper Wallet - German](https://nanocoin.ch/?page_id=175)
 * [Jun 09: Nano Faucet - German](https://faucet.nanocoin.ch/)
 * [Jun 08: Encrypted Paper Wallet](https://igorcmelo.github.io/enc-paper-wallet/)
-* [Jun 07: EasyNano - Send/receive Nano with Python](https://github.com/micah5/easy_nano)
-* [Jun 07: Nano Jobs - Earn Nano for your work](https://nanojobs.space/)
-* [Jun 07: The Nano Guy - Education](https://www.youtube.com/channel/UCDShNQxvOT5dE4sgWwTDtcw)
 
 
 </div>
@@ -309,7 +309,9 @@ Learn everything there is to know about Nano!
 * [Colin LeMahieu joins the @Crypto101Pod podcast](https://soundcloud.com/crypto101podcast/from-the-archive-nano-and-holochain)
 * [Emerging Economies Are Our Target Market: Nano Founder Colin LeMahieu](https://cryptobriefing.com/nano-adoption-target-market/)
 * [Third Generation Cryptocurrencies](https://hackernoon.com/why-third-generation-cryptocurrencies-are-game-changers-for-venezuela-cb8c9b016f9d)
-
+* [Climate concerns: Bitcoin’s dark side - Nano to the rescue](https://www.aljazeera.com/economy/2021/3/17/climate-concerns-to-crime-bitcoins-dark-side-draws-scrutiny)
+* [The Top 5 Environmentally Friendly Bitcoin Alternatives](https://www.makeuseof.com/environmentally-friendly-bitcoin-alternatives/)
+* [Decrypt: Green alternatives to Bitcoin](https://decrypt.co/70802/teslas-bitcoin-bombshell-puts-spotlight-on-sustainable-cryptos)
 
 #### Developer Info
 * [Nano Dev List - Developer donation and sponsorship portal](https://nanodevlist.com/)
