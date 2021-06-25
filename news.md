@@ -35,6 +35,7 @@ Protocol, Exchanges, Wallets, Special projects, General news
 
 ### June 2021
 
+* [Gaming platform Poki testing ad-skipping protoype using Nano](https://www.reddit.com/r/nanocurrency/comments/o6annq/30_million_user_gaming_platform_exploring_nano/)
 * [Introducing Newsfornano.com - A platform for Community Videos and Articles](https://www.reddit.com/r/nanocurrency/comments/o3l734/introducing_newsfornanocom_a_platform_for/)
 * [Which cryptocurrencies are the most environmentally friendly? (#1 = Nano!)](https://www.reddit.com/r/nanocurrency/comments/o3jsl2/which_cryptocurrencies_are_the_most/)
 * [Watch the Chicken Genius interview with Nano Founder Colin LeMahieu](https://www.reddit.com/r/nanocurrency/comments/o2ox9e/watch_the_chicken_genius_interview_with_nano/)
