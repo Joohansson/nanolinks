@@ -219,6 +219,8 @@ layout: default
 
 ## Latest Additions
 
+* [Jul 04: TheCryptoUmbrella - Realtime Node Monitor](https://github.com/TheCryptoUmbrella/nano-node-monitor)
+* [Jul 04: Nandro - PoS with NFC integration](https://github.com/JerzyStanislawski/Nandro)
 * [Jun 20: Decrypt: Green alternatives to Bitcoin](https://decrypt.co/70802/teslas-bitcoin-bombshell-puts-spotlight-on-sustainable-cryptos)
 * [Jun 20: Climate concerns: Bitcoin’s dark side - Nano to the rescue](https://www.aljazeera.com/economy/2021/3/17/climate-concerns-to-crime-bitcoins-dark-side-draws-scrutiny)
 * [Jun 20: The Top 5 Environmentally Friendly Bitcoin Alternatives](https://www.makeuseof.com/environmentally-friendly-bitcoin-alternatives/)
@@ -227,8 +229,6 @@ layout: default
 * [Jun 19: Colin LeMahieu Interviewed on Chicken Genius Singapore Jun 2021](https://youtu.be/GHh3UcCiIS0)
 * [Jun 14: Nano.community - Representative stats](https://nano.community/representatives)
 * [Jun 09: Paper Wallet - German](https://nanocoin.ch/?page_id=175)
-* [Jun 09: Nano Faucet - German](https://faucet.nanocoin.ch/)
-* [Jun 08: Encrypted Paper Wallet](https://igorcmelo.github.io/enc-paper-wallet/)
 
 
 </div>
@@ -683,6 +683,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [nano.lol IFTTT- "If This Than That" Nano connection for automation](https://ifttt.com/nano_lol)
 * [Nano Node Monitor](https://github.com/NanoTools/nanoNodeMonitor)
 * [Nano Node Graphics - Realtime Charts](https://github.com/Joohansson/NanoNodeGraphics)
+* [TheCryptoUmbrella - Realtime Node Monitor](https://github.com/TheCryptoUmbrella/nano-node-monitor)
 * [Nano Node Scripts](https://github.com/dbachm123/nanoNodeScripts)
 * [Easy Nano Node](https://nanotools.github.io/easy-nano-node/)
 * [Nano Node Docker](https://github.com/lephleg/nano-node-docker)
@@ -836,6 +837,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Vote Visualizer - Json fork](https://github.com/Joohansson/nano-vote-visualizer)
 * [Nano Election Visualizer by James](https://github.com/jamescoxon/Nano_Election_Visualiser)
 * [Nano Bucket Visualizer by James](https://github.com/jamescoxon/Nano_Bucket_Visualizer)
+* [Nandro - PoS with NFC integration](https://github.com/JerzyStanislawski/Nandro)
 
 
 ### Beta Network

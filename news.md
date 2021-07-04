@@ -33,8 +33,14 @@ layout: newslayout
 
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### July 2021
+* [Q&A with Nano Founder Colin LeMahieu & George Coxon - Hosted by Gemba Advantage](https://www.reddit.com/r/nanocurrency/comments/ocala7/watch_the_full_qa_with_nano_founder_colin/)
+* [How most cryptocurrency networks trend towards centralization, and how Nano solves this issue](https://www.reddit.com/r/nanocurrency/comments/oc6wm1/how_most_cryptocurrency_networks_trend_towards/)
+* [Binance Withdrawal Fee Refund Bot - an experiment in helping with decentralisation](https://www.reddit.com/r/nanocurrency/comments/ob2sgz/binance_withdrawal_fee_refund_bot_an_experiment/)
+
 ### June 2021
 
+* [Nano PoS working with Natrium via NFC](https://www.reddit.com/r/nanocurrency/comments/o9fmyx/nano_pos_working_with_natrium_via_nfc/)
 * [Gaming platform Poki testing ad-skipping protoype using Nano](https://www.reddit.com/r/nanocurrency/comments/o6annq/30_million_user_gaming_platform_exploring_nano/)
 * [Introducing Newsfornano.com - A platform for Community Videos and Articles](https://www.reddit.com/r/nanocurrency/comments/o3l734/introducing_newsfornanocom_a_platform_for/)
 * [Which cryptocurrencies are the most environmentally friendly? (#1 = Nano!)](https://www.reddit.com/r/nanocurrency/comments/o3jsl2/which_cryptocurrencies_are_the_most/)
