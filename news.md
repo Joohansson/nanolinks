@@ -34,6 +34,7 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### July 2021
+* [Free Nano sticker designs for advertisement](https://www.reddit.com/r/nanocurrency/comments/oed192/ive_made_some_nano_sticker_designs_feel_free_to/)
 * [Q&A with Nano Founder Colin LeMahieu & George Coxon - Hosted by Gemba Advantage](https://www.reddit.com/r/nanocurrency/comments/ocala7/watch_the_full_qa_with_nano_founder_colin/)
 * [How most cryptocurrency networks trend towards centralization, and how Nano solves this issue](https://www.reddit.com/r/nanocurrency/comments/oc6wm1/how_most_cryptocurrency_networks_trend_towards/)
 * [Binance Withdrawal Fee Refund Bot - an experiment in helping with decentralisation](https://www.reddit.com/r/nanocurrency/comments/ob2sgz/binance_withdrawal_fee_refund_bot_an_experiment/)
