@@ -34,6 +34,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### July 2021
+* [YouTube Faucet For NANO](https://www.reddit.com/r/nanocurrency/comments/ogol5k/youtube_faucet_for_nano/)
+* [Nano is now available on the Airtm Peer-2-Peer Marketplace for Venezuela and Argentina](https://www.reddit.com/r/nanocurrency/comments/oganmk/good_news_venezuela_argentina_nano_is_now/)
 * [Free Nano sticker designs for advertisement](https://www.reddit.com/r/nanocurrency/comments/oed192/ive_made_some_nano_sticker_designs_feel_free_to/)
 * [Q&A with Nano Founder Colin LeMahieu & George Coxon - Hosted by Gemba Advantage](https://www.reddit.com/r/nanocurrency/comments/ocala7/watch_the_full_qa_with_nano_founder_colin/)
 * [How most cryptocurrency networks trend towards centralization, and how Nano solves this issue](https://www.reddit.com/r/nanocurrency/comments/oc6wm1/how_most_cryptocurrency_networks_trend_towards/)

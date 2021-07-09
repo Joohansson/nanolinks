@@ -219,6 +219,7 @@ layout: default
 
 ## Latest Additions
 
+* [Jul 09: ApolloNano Automatic Youtube Tipper](https://github.com/ApolloNano/youtube-tipper)
 * [Jul 04: TheCryptoUmbrella - Realtime Node Monitor](https://github.com/TheCryptoUmbrella/nano-node-monitor)
 * [Jul 04: Nandro - PoS with NFC integration](https://github.com/JerzyStanislawski/Nandro)
 * [Jun 20: Decrypt: Green alternatives to Bitcoin](https://decrypt.co/70802/teslas-bitcoin-bombshell-puts-spotlight-on-sustainable-cryptos)
@@ -228,7 +229,6 @@ layout: default
 * [Jun 20: The vision of Nano](https://senatusspqr.medium.com/the-vision-of-nano-an-instant-feeless-and-green-crypto-b08ebf25d325)
 * [Jun 19: Colin LeMahieu Interviewed on Chicken Genius Singapore Jun 2021](https://youtu.be/GHh3UcCiIS0)
 * [Jun 14: Nano.community - Representative stats](https://nano.community/representatives)
-* [Jun 09: Paper Wallet - German](https://nanocoin.ch/?page_id=175)
 
 
 </div>
@@ -727,6 +727,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nanobot - Nano-Integrated Twitch Donations](https://nanobot.app/)
 * [Nano Register - Source Code](https://github.com/awesomepandapig/NanoRegister)
 * [NanoMemo - Cryptographically secure memos for Nano blocks](https://nanomemo.cc/)
+* [ApolloNano Automatic Youtube Tipper](https://github.com/ApolloNano/youtube-tipper)
 
 ### Wallets [Source Code]
 
