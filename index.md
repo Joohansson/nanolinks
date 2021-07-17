@@ -219,6 +219,7 @@ layout: default
 
 ## Latest Additions
 
+* [Jul 17: NanoSwift - A Swift (iOS) Library for Nano](https://github.com/Priva28/NanoSwift)
 * [Jul 09: ApolloNano Automatic Youtube Tipper](https://github.com/ApolloNano/youtube-tipper)
 * [Jul 04: TheCryptoUmbrella - Realtime Node Monitor](https://github.com/TheCryptoUmbrella/nano-node-monitor)
 * [Jul 04: Nandro - PoS with NFC integration](https://github.com/JerzyStanislawski/Nandro)
@@ -228,7 +229,6 @@ layout: default
 * [Jun 20: The basics of Nano](https://senatus.substack.com/p/the-basics-of-nano-why-its-such-an)
 * [Jun 20: The vision of Nano](https://senatusspqr.medium.com/the-vision-of-nano-an-instant-feeless-and-green-crypto-b08ebf25d325)
 * [Jun 19: Colin LeMahieu Interviewed on Chicken Genius Singapore Jun 2021](https://youtu.be/GHh3UcCiIS0)
-* [Jun 14: Nano.community - Representative stats](https://nano.community/representatives)
 
 
 </div>
@@ -761,6 +761,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [NanoRPC - C# Lib for RPC](https://github.com/michielpost/NanoRPC)
 * [Prailude - Nano node in Lua and C](https://github.com/slact/prailude)
 * [myNanoEmbedded - Lightweight C library for IoT](https://github.com/devfabiosilva/myNanoEmbedded)
+* [NanoSwift - A Swift (iOS) Library for Nano](https://github.com/Priva28/NanoSwift)
 
 * [Feeless - Nano node implementation in Rust](https://github.com/feeless/feeless/)
 

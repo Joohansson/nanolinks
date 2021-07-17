@@ -34,6 +34,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### July 2021
+* [NanoSwift has been released as a Swift package! Integrate Nano into your Swift app with ease](https://www.reddit.com/r/nanocurrency/comments/olal8g/nanoswift_has_been_released_as_a_swift_package/)
+* [Your new Nano Digest just hit the timeline! Catch up on everything new in the nano ecosystem](https://www.reddit.com/r/nanocurrency/comments/olkcec/your_new_nano_digest_just_hit_the_timeline_catch/)
 * [YouTube Faucet For NANO](https://www.reddit.com/r/nanocurrency/comments/ogol5k/youtube_faucet_for_nano/)
 * [Nano is now available on the Airtm Peer-2-Peer Marketplace for Venezuela and Argentina](https://www.reddit.com/r/nanocurrency/comments/oganmk/good_news_venezuela_argentina_nano_is_now/)
 * [Free Nano sticker designs for advertisement](https://www.reddit.com/r/nanocurrency/comments/oed192/ive_made_some_nano_sticker_designs_feel_free_to/)
