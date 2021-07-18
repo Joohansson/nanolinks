@@ -219,6 +219,7 @@ layout: default
 
 ## Latest Additions
 
+* [Jul 18: NanoDrop.io - Nano Faucet](https://nanodrop.io/)
 * [Jul 17: NanoSwift - A Swift (iOS) Library for Nano](https://github.com/Priva28/NanoSwift)
 * [Jul 09: ApolloNano Automatic Youtube Tipper](https://github.com/ApolloNano/youtube-tipper)
 * [Jul 04: TheCryptoUmbrella - Realtime Node Monitor](https://github.com/TheCryptoUmbrella/nano-node-monitor)
@@ -228,7 +229,6 @@ layout: default
 * [Jun 20: The Top 5 Environmentally Friendly Bitcoin Alternatives](https://www.makeuseof.com/environmentally-friendly-bitcoin-alternatives/)
 * [Jun 20: The basics of Nano](https://senatus.substack.com/p/the-basics-of-nano-why-its-such-an)
 * [Jun 20: The vision of Nano](https://senatusspqr.medium.com/the-vision-of-nano-an-instant-feeless-and-green-crypto-b08ebf25d325)
-* [Jun 19: Colin LeMahieu Interviewed on Chicken Genius Singapore Jun 2021](https://youtu.be/GHh3UcCiIS0)
 
 
 </div>
@@ -634,6 +634,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 * [Nano-Faucet.org](https://nano-faucet.org/)
 * [FreeNanoFaucet.com](https://www.freenanofaucet.com/)
+* [NanoDrop.io](https://nanodrop.io/)
 * [Tetraloom - Faucet](https://tetraloom.com/nano/)
 * [ApolloNano - Twitter Faucet](https://twitter.com/ApolloNano/)
 * [Nano Faucet - German](https://faucet.nanocoin.ch/)
@@ -840,6 +841,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Election Visualizer by James](https://github.com/jamescoxon/Nano_Election_Visualiser)
 * [Nano Bucket Visualizer by James](https://github.com/jamescoxon/Nano_Bucket_Visualizer)
 * [Nandro - PoS with NFC integration](https://github.com/JerzyStanislawski/Nandro)
+* [NanoDrop - Faucet](https://github.com/anarkrypto/nanodrop)
 
 
 ### Beta Network
