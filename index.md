@@ -219,6 +219,7 @@ layout: default
 
 ## Latest Additions
 
+* [Jul 18: Why your business should accept Nano](https://youtu.be/yWoRnYFT9yo)
 * [Jul 18: NanoDrop.io - Nano Faucet](https://nanodrop.io/)
 * [Jul 17: NanoSwift - A Swift (iOS) Library for Nano](https://github.com/Priva28/NanoSwift)
 * [Jul 09: ApolloNano Automatic Youtube Tipper](https://github.com/ApolloNano/youtube-tipper)
@@ -228,7 +229,6 @@ layout: default
 * [Jun 20: Climate concerns: Bitcoin’s dark side - Nano to the rescue](https://www.aljazeera.com/economy/2021/3/17/climate-concerns-to-crime-bitcoins-dark-side-draws-scrutiny)
 * [Jun 20: The Top 5 Environmentally Friendly Bitcoin Alternatives](https://www.makeuseof.com/environmentally-friendly-bitcoin-alternatives/)
 * [Jun 20: The basics of Nano](https://senatus.substack.com/p/the-basics-of-nano-why-its-such-an)
-* [Jun 20: The vision of Nano](https://senatusspqr.medium.com/the-vision-of-nano-an-instant-feeless-and-green-crypto-b08ebf25d325)
 
 
 </div>
@@ -374,6 +374,7 @@ Learn everything there is to know about Nano!
 * [10 reasons to use NANO instead of the Dollar](https://www.reddit.com/r/nanocurrency/comments/h80j1j/10_reasons_to_use_nano_instead_of_the_dollar_or/)
 * [Introduction to Nano Currency by F2Y](https://youtu.be/OAk2ou6EFMY)
 * [2021 Nano introduction video by Exodus Wallet](https://youtu.be/71T_27Za3zk)
+* [Why your business should accept Nano](https://youtu.be/yWoRnYFT9yo)
 
 ### Network Stats and Explorers
 
