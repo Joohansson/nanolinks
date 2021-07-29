@@ -34,6 +34,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### July 2021
+* [Nano mentioned in Nasdaq bitcoin article as a rising "high transaction throughput" altcoin](https://www.reddit.com/r/nanocurrency/comments/orvfkf/nano_mentioned_in_nasdaq_bitcoin_article_as_a/)
+* [George Coxon talking Nano on That Tech Show podcast](https://www.reddit.com/r/nanocurrency/comments/oskh3p/george_coxon_talking_nano_on_that_tech_show/)
 * [Introducing NanoDrop.io - New Nano Faucet Open Source](https://www.reddit.com/r/nanocurrency/comments/omdvtw/introducing_nanodropio_new_nano_faucet_open_source/)
 * [NanoSwift has been released as a Swift package! Integrate Nano into your Swift app with ease](https://www.reddit.com/r/nanocurrency/comments/olal8g/nanoswift_has_been_released_as_a_swift_package/)
 * [Your new Nano Digest just hit the timeline! Catch up on everything new in the nano ecosystem](https://www.reddit.com/r/nanocurrency/comments/olkcec/your_new_nano_digest_just_hit_the_timeline_catch/)

@@ -219,6 +219,7 @@ layout: default
 
 ## Latest Additions
 
+* [Jul 29: George Coxon Interviewed on That Tech Show Jul 2021](https://play.acast.com/s/that-tech-show/episode-24-george-coxon)
 * [Jul 18: Why your business should accept Nano](https://youtu.be/yWoRnYFT9yo)
 * [Jul 18: NanoDrop.io - Nano Faucet](https://nanodrop.io/)
 * [Jul 17: NanoSwift - A Swift (iOS) Library for Nano](https://github.com/Priva28/NanoSwift)
@@ -228,7 +229,6 @@ layout: default
 * [Jun 20: Decrypt: Green alternatives to Bitcoin](https://decrypt.co/70802/teslas-bitcoin-bombshell-puts-spotlight-on-sustainable-cryptos)
 * [Jun 20: Climate concerns: Bitcoin’s dark side - Nano to the rescue](https://www.aljazeera.com/economy/2021/3/17/climate-concerns-to-crime-bitcoins-dark-side-draws-scrutiny)
 * [Jun 20: The Top 5 Environmentally Friendly Bitcoin Alternatives](https://www.makeuseof.com/environmentally-friendly-bitcoin-alternatives/)
-* [Jun 20: The basics of Nano](https://senatus.substack.com/p/the-basics-of-nano-why-its-such-an)
 
 
 </div>
@@ -352,6 +352,7 @@ Learn everything there is to know about Nano!
 * [Colin LeMahieu Interviewed on Crypto Finder Sep 2019](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
 * [Colin LeMahieu Interviewed on Keyword:Crypto Jun 2020](https://open.spotify.com/episode/0ONmBDDxSaQZcM3Du1t7wG)
 * [Colin LeMahieu Interviewed on Chicken Genius Singapore Jun 2021](https://youtu.be/GHh3UcCiIS0)
+* [George Coxon Interviewed on That Tech Show Jul 2021](https://play.acast.com/s/that-tech-show/episode-24-george-coxon)
 * [Nano review by Coin Bureau Oct 2019](https://youtu.be/JkoXe6M-59U)
 * [Blockchain Central: Interview with Colin and Andy Oct 2019](https://youtu.be/rhMGXoWGZfg)
 * [Everything you need to know about Nano](https://youtu.be/ywgMlJBli7g)
