@@ -630,7 +630,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [NanoGift - Browser extension for site donations](https://tetraloom.com/nanogift/)
 * [PayNano - Payment link generator](https://paynano.me/)
 * [KeyTools Payment link generator](https://tools.nanos.cc/?tool=pay)
-* [Nanomart - Marketplace where you can buy and sell goods](https://nanomart.cc/)
 
 ### Faucets (Free Nano)
 
@@ -939,7 +938,6 @@ There are much fun to do but please proceed with caution.
 * [WeNano - Mobile app with geo-fenced spots with free payouts](https://wenano.net/)
 * [WeNano Business - Nano Spot feature for your business - iOS, Android](https://wenano.net/)
 * [BlockHunters - Augmented Reality Nano Hunt - iOS, Android](http://blockhunters.co/)
-* [Nanomart - Marketplace where you can buy and sell goods](https://nanomart.cc/)
 * [Earn Nano - Directory for getting Nano without purchase](https://earn-nano.com/)
 * [Distributed PoW System (dPoW)](https://nanoquakejs.com/dpow/)
 * [P2PoW - Decentralized Proof of Work](https://github.com/anarkrypto/P2PoW)
