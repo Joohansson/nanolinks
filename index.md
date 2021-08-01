@@ -219,6 +219,7 @@ layout: default
 
 ## Latest Additions
 
+* [Aug 01: Nano Binance Refund Bot](https://github.com/jamescoxon/Nano_Binance_Refund_Bot)
 * [Jul 29: George Coxon Interviewed on That Tech Show Jul 2021](https://play.acast.com/s/that-tech-show/episode-24-george-coxon)
 * [Jul 18: Why your business should accept Nano](https://youtu.be/yWoRnYFT9yo)
 * [Jul 18: NanoDrop.io - Nano Faucet](https://nanodrop.io/)
@@ -228,7 +229,6 @@ layout: default
 * [Jul 04: Nandro - PoS with NFC integration](https://github.com/JerzyStanislawski/Nandro)
 * [Jun 20: Decrypt: Green alternatives to Bitcoin](https://decrypt.co/70802/teslas-bitcoin-bombshell-puts-spotlight-on-sustainable-cryptos)
 * [Jun 20: Climate concerns: Bitcoin’s dark side - Nano to the rescue](https://www.aljazeera.com/economy/2021/3/17/climate-concerns-to-crime-bitcoins-dark-side-draws-scrutiny)
-* [Jun 20: The Top 5 Environmentally Friendly Bitcoin Alternatives](https://www.makeuseof.com/environmentally-friendly-bitcoin-alternatives/)
 
 
 </div>
@@ -843,6 +843,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano Bucket Visualizer by James](https://github.com/jamescoxon/Nano_Bucket_Visualizer)
 * [Nandro - PoS with NFC integration](https://github.com/JerzyStanislawski/Nandro)
 * [NanoDrop - Faucet](https://github.com/anarkrypto/nanodrop)
+* [Nano Binance Refund Bot](https://github.com/jamescoxon/Nano_Binance_Refund_Bot)
 
 
 ### Beta Network
