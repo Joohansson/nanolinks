@@ -219,6 +219,8 @@ layout: default
 
 ## Latest Additions
 
+* [Aug 04: Patrick Luberus on the "When The Music Stops" podcast](https://anchor.fm/when-the-music-stops/episodes/Nano--Digital-Cash-w-Patrick-Luberus-e15db6b/a-a6951ck)
+* [Aug 04: Nano.Net - .Net Lib](https://github.com/miguel1117/Nano.Net)
 * [Aug 01: Nano Binance Refund Bot](https://github.com/jamescoxon/Nano_Binance_Refund_Bot)
 * [Jul 29: George Coxon Interviewed on That Tech Show Jul 2021](https://play.acast.com/s/that-tech-show/episode-24-george-coxon)
 * [Jul 18: Why your business should accept Nano](https://youtu.be/yWoRnYFT9yo)
@@ -227,8 +229,6 @@ layout: default
 * [Jul 09: ApolloNano Automatic Youtube Tipper](https://github.com/ApolloNano/youtube-tipper)
 * [Jul 04: TheCryptoUmbrella - Realtime Node Monitor](https://github.com/TheCryptoUmbrella/nano-node-monitor)
 * [Jul 04: Nandro - PoS with NFC integration](https://github.com/JerzyStanislawski/Nandro)
-* [Jun 20: Decrypt: Green alternatives to Bitcoin](https://decrypt.co/70802/teslas-bitcoin-bombshell-puts-spotlight-on-sustainable-cryptos)
-* [Jun 20: Climate concerns: Bitcoin’s dark side - Nano to the rescue](https://www.aljazeera.com/economy/2021/3/17/climate-concerns-to-crime-bitcoins-dark-side-draws-scrutiny)
 
 
 </div>
@@ -355,6 +355,9 @@ Learn everything there is to know about Nano!
 * [George Coxon Interviewed on That Tech Show Jul 2021](https://play.acast.com/s/that-tech-show/episode-24-george-coxon)
 * [Nano review by Coin Bureau Oct 2019](https://youtu.be/JkoXe6M-59U)
 * [Blockchain Central: Interview with Colin and Andy Oct 2019](https://youtu.be/rhMGXoWGZfg)
+* [Patrick Luberus on the "When The Music Stops" podcast](https://anchor.fm/when-the-music-stops/episodes/Nano--Digital-Cash-w-Patrick-Luberus-e15db6b/a-a6951ck)
+
+
 * [Everything you need to know about Nano](https://youtu.be/ywgMlJBli7g)
 * [Nano simply explained](https://youtu.be/dlRhUwLQWXc)
 * [Nano explained (Another deep dive)](https://youtu.be/1ciokw6ZQvE)
@@ -766,6 +769,7 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [NanoSwift - A Swift (iOS) Library for Nano](https://github.com/Priva28/NanoSwift)
 
 * [Feeless - Nano node implementation in Rust](https://github.com/feeless/feeless/)
+* [Nano-rs - Nano in Rust](https://github.com/termhn/nano-rs)
 
 * [RaiBlocksJS - JS Lib for RPC](https://github.com/orrybaram/RaiBlocksJS)
 * [RaiBlocksJS 2 - JS Lib for RPC](https://github.com/SergiySW/RaiBlocksJS)
@@ -793,18 +797,20 @@ Have a great idea? Jump in and start coding. Anyone can join!
 * [Nano protocol in Golang](https://github.com/frankh/nano)
 * [Atto - A tiny Nano wallet, which focuses on ease of use through simplicity](https://github.com/codesoap/atto)
 
+* [Nano.Net - .Net Lib](https://github.com/miguel1117/Nano.Net)
+* [NanoDotNet - .Net Lib](https://github.com/Flufd/NanoDotNet)
+* [DotNano - .NET RPC API](https://github.com/JerzyStanislawski/DotNano)
+
 * [NanoRPCProxy - A secure RPC/Websocket proxy server for talking with Nano nodes](https://github.com/joohansson/nanorpcproxy)
 * [Noxy - A simple and fast Nano RPC proxy and relay](https://github.com/BitDesert/Noxy)
 * [LightweightNanoRPCProxy - Simple RPC proxy](https://github.com/Shryder/LightweightNanoRPCProxy)
+
 * [Nanio - RPC Gateway, API Browser](https://github.com/rbw/nanio)
 * [Nano Shell - Nano Node bash convenience wrapper](https://github.com/VenKamikaze/nano-shell)
 * [Nanook - Ruby Lib for RPC](https://github.com/lukes/nanook)
 * [Ruby Nano RPC - RPC Wrapper for Ruby](https://github.com/jcraigk/ruby_nano_rpc)
 * [Nanocurrency Ruby - Toolkit for Ruby](https://rubygems.org/gems/nanocurrency)
 * [PHP 4 Nano](https://github.com/mikerow/php4nano)
-* [NanoDotNet - .Net Lib](https://github.com/Flufd/NanoDotNet)
-* [DotNano - .NET RPC API](https://github.com/JerzyStanislawski/DotNano)
-* [Nano-rs - Nano in Rust](https://github.com/termhn/nano-rs)
 * [Nanopow-rs-node - JS Wrapper for Nanopow-rs](https://github.com/termhn/nanopow-rs-node)
 * [NanoLightServer](https://github.com/NanoDevs/NanoLightServer)
 * [RaiBlocksWebAssemblyPoW](https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW)

@@ -33,6 +33,11 @@ layout: newslayout
 
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### August 2021
+* [Patrick Luberus discussing Nano with a cryptocurrency skeptic on the "When The Music Stops" podcast](https://www.reddit.com/r/nanocurrency/comments/ox3k00/discussing_nano_with_a_cryptocurrency_skeptic_on/)
+* [Term 'pending' to be replaced with 'ready to receive' for wallet UI](https://www.reddit.com/r/nanocurrency/comments/ov3fro/term_pending_to_be_replaced_with_ready_to_receive/)
+* [A new .NET library for Nano](https://www.reddit.com/r/nanocurrency/comments/ovtxc5/hey_guys_ive_released_my_net_library_for_nano/)
+
 ### July 2021
 * [Nano mentioned in Nasdaq bitcoin article as a rising "high transaction throughput" altcoin](https://www.reddit.com/r/nanocurrency/comments/orvfkf/nano_mentioned_in_nasdaq_bitcoin_article_as_a/)
 * [George Coxon talking Nano on That Tech Show podcast](https://www.reddit.com/r/nanocurrency/comments/oskh3p/george_coxon_talking_nano_on_that_tech_show/)
