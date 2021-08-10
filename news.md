@@ -34,6 +34,9 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### August 2021
+* [Koinbazar Listing: #INR and #USDT markets on August 11th"](https://www.reddit.com/r/nanocurrency/comments/p1364b/koinbazar_on_linkedin_nano_will_be_listed_in_the/)
+* [Nano among the Top 10 Greenest Cryptocurrencies put together by The Fintech Times](https://www.reddit.com/r/nanocurrency/comments/oz9syy/nano_among_the_top_10_greenest_cryptocurrencies/)
+* [NANO added to "Coin Cloud" ATMs. More than 3000 crypto money ATMs in the USA and Brazil](https://www.reddit.com/r/nanocurrency/comments/ozg7b2/added_nano_coin_cloud_atms_nano_support_came_to/)
 * [Patrick Luberus discussing Nano with a cryptocurrency skeptic on the "When The Music Stops" podcast](https://www.reddit.com/r/nanocurrency/comments/ox3k00/discussing_nano_with_a_cryptocurrency_skeptic_on/)
 * [Term 'pending' to be replaced with 'ready to receive' for wallet UI](https://www.reddit.com/r/nanocurrency/comments/ov3fro/term_pending_to_be_replaced_with_ready_to_receive/)
 * [A new .NET library for Nano](https://www.reddit.com/r/nanocurrency/comments/ovtxc5/hey_guys_ive_released_my_net_library_for_nano/)
