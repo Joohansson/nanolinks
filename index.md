@@ -219,6 +219,7 @@ layout: default
 
 ## Latest Additions
 
+* [Aug 22: The Perfect Currency - Why Bitcoin Was Created And Why Nano Is Better](https://youtu.be/iA7EdqAMS3o)
 * [Aug 04: Patrick Luberus on the "When The Music Stops" podcast](https://anchor.fm/when-the-music-stops/episodes/Nano--Digital-Cash-w-Patrick-Luberus-e15db6b/a-a6951ck)
 * [Aug 04: Nano.Net - .Net Lib](https://github.com/miguel1117/Nano.Net)
 * [Aug 01: Nano Binance Refund Bot](https://github.com/jamescoxon/Nano_Binance_Refund_Bot)
@@ -228,7 +229,6 @@ layout: default
 * [Jul 17: NanoSwift - A Swift (iOS) Library for Nano](https://github.com/Priva28/NanoSwift)
 * [Jul 09: ApolloNano Automatic Youtube Tipper](https://github.com/ApolloNano/youtube-tipper)
 * [Jul 04: TheCryptoUmbrella - Realtime Node Monitor](https://github.com/TheCryptoUmbrella/nano-node-monitor)
-* [Jul 04: Nandro - PoS with NFC integration](https://github.com/JerzyStanislawski/Nandro)
 
 
 </div>
@@ -356,6 +356,7 @@ Learn everything there is to know about Nano!
 * [Nano review by Coin Bureau Oct 2019](https://youtu.be/JkoXe6M-59U)
 * [Blockchain Central: Interview with Colin and Andy Oct 2019](https://youtu.be/rhMGXoWGZfg)
 * [Patrick Luberus on the "When The Music Stops" podcast](https://anchor.fm/when-the-music-stops/episodes/Nano--Digital-Cash-w-Patrick-Luberus-e15db6b/a-a6951ck)
+* [The Perfect Currency - Why Bitcoin Was Created And Why Nano Is Better](https://youtu.be/iA7EdqAMS3o)
 
 
 * [Everything you need to know about Nano](https://youtu.be/ywgMlJBli7g)
