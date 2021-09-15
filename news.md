@@ -738,7 +738,9 @@ Protocol, Exchanges, Wallets, Special projects, General news
 ### Sep 2017
 
 * [Colin Pushes Raiblocks - 62 Upvotes](https://www.reddit.com/r/CryptoCurrency/comments/70wy52/im_colin_lemahieu_the_developer_of_raiblocks_a/)
-* [Example of how some captcha farming was done](https://youtu.be/ZMCSE5KYYVQ)
+* [Raiblocks captcha faucet farming using audio](https://youtu.be/ZMCSE5KYYVQ)
+* [Raiblocks captcha faucet farming using multitab software](https://youtu.be/lplCSuQZg0g)
+* [Raiblocks captcha faucet farming using semi-automatic multitabs](https://youtu.be/IeQW_H7pf4A)
 
 ### Jul 2017
 
