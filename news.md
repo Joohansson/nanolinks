@@ -33,6 +33,10 @@ layout: newslayout
 
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### September 2021
+* [From dream to reality. Nano.to goes Live!](https://www.reddit.com/r/nanocurrency/comments/pq1s3t/from_dream_to_reality_nanoto_goes_live/)
+* [A prototype for a Nano & Banano ATM! Payouts in physical euro coins, made with ESP32 and Lego bricks](https://www.reddit.com/r/nanocurrency/comments/pssu65/i_built_a_prototype_for_a_nano_banano_atm_payouts/)
+	
 ### August 2021
 * [Koinbazar Listing: #INR and #USDT markets on August 11th"](https://www.reddit.com/r/nanocurrency/comments/p1364b/koinbazar_on_linkedin_nano_will_be_listed_in_the/)
 * [Nano among the Top 10 Greenest Cryptocurrencies put together by The Fintech Times](https://www.reddit.com/r/nanocurrency/comments/oz9syy/nano_among_the_top_10_greenest_cryptocurrencies/)
