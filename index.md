@@ -219,6 +219,8 @@ layout: default
 
 ## Latest Additions
 
+* [Sept 23: Nano.to - Nano payment service and API](https://nano.to/)
+* [Sept 23: NowPayments - Multicurrency payment service](https://nowpayments.io/)
 * [Aug 22: The Perfect Currency - Why Bitcoin Was Created And Why Nano Is Better](https://youtu.be/iA7EdqAMS3o)
 * [Aug 04: Patrick Luberus on the "When The Music Stops" podcast](https://anchor.fm/when-the-music-stops/episodes/Nano--Digital-Cash-w-Patrick-Luberus-e15db6b/a-a6951ck)
 * [Aug 04: Nano.Net - .Net Lib](https://github.com/miguel1117/Nano.Net)
@@ -227,8 +229,6 @@ layout: default
 * [Jul 18: Why your business should accept Nano](https://youtu.be/yWoRnYFT9yo)
 * [Jul 18: NanoDrop.io - Nano Faucet](https://nanodrop.io/)
 * [Jul 17: NanoSwift - A Swift (iOS) Library for Nano](https://github.com/Priva28/NanoSwift)
-* [Jul 09: ApolloNano Automatic Youtube Tipper](https://github.com/ApolloNano/youtube-tipper)
-* [Jul 04: TheCryptoUmbrella - Realtime Node Monitor](https://github.com/TheCryptoUmbrella/nano-node-monitor)
 
 
 </div>
@@ -611,6 +611,8 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 * [Wirex - Visa payment card, fiat on/off ramp](https://wirexapp.com/)
 * [CoinGate - Nano Payment Service & Gateway](https://coingate.com/)
+* [Nano.to - Nano payment service and API](https://nano.to/)
+* [NowPayments - Multicurrency payment service](https://nowpayments.io/)
 * [CoinEmbed - Embeddable widgets for easy cryptocurrency payments](https://coinembed.com/)
 * [Simplex - Credit cards payment service](https://www.simplex.com/)
 * [ShareRing - Sharing & Rental service](https://sharering.network)
