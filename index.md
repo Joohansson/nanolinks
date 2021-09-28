@@ -219,6 +219,7 @@ layout: default
 
 ## Latest Additions
 
+* [Sept 28: GetNano](https://getnano.exchange/)
 * [Sept 23: Nano.to - Nano payment service and API](https://nano.to/)
 * [Sept 23: NowPayments - Multicurrency payment service](https://nowpayments.io/)
 * [Aug 22: The Perfect Currency - Why Bitcoin Was Created And Why Nano Is Better](https://youtu.be/iA7EdqAMS3o)
@@ -228,7 +229,6 @@ layout: default
 * [Jul 29: George Coxon Interviewed on That Tech Show Jul 2021](https://play.acast.com/s/that-tech-show/episode-24-george-coxon)
 * [Jul 18: Why your business should accept Nano](https://youtu.be/yWoRnYFT9yo)
 * [Jul 18: NanoDrop.io - Nano Faucet](https://nanodrop.io/)
-* [Jul 17: NanoSwift - A Swift (iOS) Library for Nano](https://github.com/Priva28/NanoSwift)
 
 
 </div>
@@ -509,6 +509,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Monnos - Brazil](https://monnos.com/exchange/)
 * [SwapSwop — Cryptocurrency exchange platform](https://swapswop.io/)
 * [Bitlive](https://bitlive.pro/)
+* [GetNano](https://getnano.exchange/)
 
 ### Wallets
 
