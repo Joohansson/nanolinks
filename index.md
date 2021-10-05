@@ -219,6 +219,7 @@ layout: default
 
 ## Latest Additions
 
+* [Oct 05: Raiblocks MC - Minecraft](https://prideislife.github.io/raiblocks_mc/)
 * [Sept 28: GetNano](https://getnano.exchange/)
 * [Sept 23: Nano.to - Nano payment service and API](https://nano.to/)
 * [Sept 23: NowPayments - Multicurrency payment service](https://nowpayments.io/)
@@ -228,7 +229,6 @@ layout: default
 * [Aug 01: Nano Binance Refund Bot](https://github.com/jamescoxon/Nano_Binance_Refund_Bot)
 * [Jul 29: George Coxon Interviewed on That Tech Show Jul 2021](https://play.acast.com/s/that-tech-show/episode-24-george-coxon)
 * [Jul 18: Why your business should accept Nano](https://youtu.be/yWoRnYFT9yo)
-* [Jul 18: NanoDrop.io - Nano Faucet](https://nanodrop.io/)
 
 
 </div>
@@ -898,6 +898,7 @@ There are much fun to do but please proceed with caution.
 * [NANO Arcade - Game Collection](https://nanoarcade.org/games)
 * [NanoQuake - Quake II multiplayer](https://github.com/Nanoquake/yquake2)
 * [NanoQuake JS](http://nanoquakejs.com)
+* [Raiblocks MC - Minecraft](https://prideislife.github.io/raiblocks_mc/)
 * [Unreal Nano - 3D/VR Nano transaction visualizer for mobile and desktop](https://unreal.nanos.cc/)
 * [NanoCards - A free printable card game](https://cards.nanos.cc/)
 * [Eternity Tower](https://eternitytower.net/)
