@@ -33,7 +33,12 @@ layout: newslayout
 
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### October 2021
+* [Nano Development Update - Follis V23](https://www.reddit.com/r/nanocurrency/comments/q1eonn/nano_development_update_follis_v23/)
+* [Raiblocks MC Nano mincraft server](https://www.reddit.com/r/nanocurrency/comments/q0p2qg/raiblocks_mc_nano_minecraft_server/)
+	
 ### September 2021
+* [The history of Nano: Part 1 — From founding to faucets](https://www.reddit.com/r/nanocurrency/comments/pxrcbg/the_history_of_nano_part_1_from_founding_to/)
 * [From dream to reality. Nano.to goes Live!](https://www.reddit.com/r/nanocurrency/comments/pq1s3t/from_dream_to_reality_nanoto_goes_live/)
 * [A prototype for a Nano & Banano ATM! Payouts in physical euro coins, made with ESP32 and Lego bricks](https://www.reddit.com/r/nanocurrency/comments/pssu65/i_built_a_prototype_for_a_nano_banano_atm_payouts/)
 	
