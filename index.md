@@ -110,14 +110,14 @@ layout: default
 </div>
 </div>
 
-<div class="div-full">
+<div class="div-full div-compact">
 <div class="blur"></div>
 <div class="overlay"></div>
 <div class="link-content">
-<div class="index-text" class="div-left">
+<div class="index-text">
   <h2 id="quick-index">Quick Index</h2>
   <ul>
-    <li><a class="int-link" href="/news">News Archive</a></li>
+    <li><a class="int-link" href="/news">Event Archive</a></li>
     <li><a class="int-link" href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info&edit-text=&act=url">Google Translate This Site</a></li>
     <li><a class="int-link" href="#latest-additions">Latest Additions</a></li>
     <li><a class="int-link" href="#information--education">Information &amp; Education</a></li>
@@ -216,20 +216,6 @@ layout: default
 </div>
 
 <div class="div-right" markdown="1">
-
-## Latest Additions
-
-* [Oct 05: Raiblocks MC - Minecraft](https://prideislife.github.io/raiblocks_mc/)
-* [Sept 28: GetNano](https://getnano.exchange/)
-* [Sept 23: Nano.to - Nano payment service and API](https://nano.to/)
-* [Sept 23: NowPayments - Multicurrency payment service](https://nowpayments.io/)
-* [Aug 22: The Perfect Currency - Why Bitcoin Was Created And Why Nano Is Better](https://youtu.be/iA7EdqAMS3o)
-* [Aug 04: Patrick Luberus on the "When The Music Stops" podcast](https://anchor.fm/when-the-music-stops/episodes/Nano--Digital-Cash-w-Patrick-Luberus-e15db6b/a-a6951ck)
-* [Aug 04: Nano.Net - .Net Lib](https://github.com/miguel1117/Nano.Net)
-* [Aug 01: Nano Binance Refund Bot](https://github.com/jamescoxon/Nano_Binance_Refund_Bot)
-* [Jul 29: George Coxon Interviewed on That Tech Show Jul 2021](https://play.acast.com/s/that-tech-show/episode-24-george-coxon)
-* [Jul 18: Why your business should accept Nano](https://youtu.be/yWoRnYFT9yo)
-
 
 </div>
 </div>
@@ -918,7 +904,6 @@ There are much fun to do but please proceed with caution.
 * [Luis Astroids - Transaction Shooter](https://luis-garcia-remes.itch.io/nano-visualizer)
 * [Super Nanova - Transaction Shooter](https://supernanova.com/)
 * [DogeTheBananos - Transaction Jumper](https://azabalo.com/dogethebananos/)
-* [Nano Royale: Win NANO by staying alive](https://nanoroyale.com/)
 
 ### Video, Music, Art
 
@@ -965,6 +950,7 @@ There are much fun to do but please proceed with caution.
 * [unMineable - Earn NANO via GPU and CPU mining - Multi algorithm mining pool](https://unmineable.com/coins/NANO)
 * [Apollo Nano - PVP Shooter game](https://apollonano.com/shooter.php)
 * [Just Cause 2 Multiplayer - Action game with nano payout](https://earn-nano.com/jc2rp)
+* [Cryptovision - Video sharing platform with rewards](https://cryptovision.live/)
 
 ### Charity
 
