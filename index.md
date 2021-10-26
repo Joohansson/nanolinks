@@ -619,6 +619,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [NanoGift - Browser extension for site donations](https://tetraloom.com/nanogift/)
 * [PayNano - Payment link generator](https://paynano.me/)
 * [KeyTools Payment link generator](https://tools.nanos.cc/?tool=pay)
+* [Bitrequest - Accept crypto anywhere](https://www.bitrequest.io/)
 
 ### Faucets (Free Nano)
 
