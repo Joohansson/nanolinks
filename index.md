@@ -214,10 +214,6 @@ layout: default
     </ul>
   </div>
 </div>
-
-<div class="div-right" markdown="1">
-
-</div>
 </div>
 </div>
 
