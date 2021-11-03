@@ -875,6 +875,7 @@ There are much fun to do but please proceed with caution.
 * [Nanobets - Betting](https://nano.bet/)
 * [Nano Scratch Cards](https://nanoscratchcards.ct8.pl/)
 * [Pasino - Social Gambling Platform](https://pasino.com/)
+* [Simple NANO Game](https://nano.mrfas.com/)
 
 ### Games
 
