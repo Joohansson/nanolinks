@@ -33,6 +33,9 @@ layout: newslayout
 
 Protocol, Exchanges, Wallets, Special projects, General news
 
+### November 2021
+* [Welcome to the new Nano Hub!](https://www.reddit.com/r/nanocurrency/comments/qpiskj/welcome_to_the_new_nano_hub/)
+	
 ### October 2021
 * [Nano Development Update - Follis V23](https://www.reddit.com/r/nanocurrency/comments/q1eonn/nano_development_update_follis_v23/)
 * [Raiblocks MC Nano mincraft server](https://www.reddit.com/r/nanocurrency/comments/q0p2qg/raiblocks_mc_nano_minecraft_server/)
