@@ -229,6 +229,7 @@ Learn everything there is to know about Nano!
 ### Core Team
 
 * [Main Site - nano.org](https://nano.org)
+* [Nano Hub - Explore the Nano ecosystem](https://hub.nano.org/)
 * [Full Documentation, Roadmap, Integration guides](https://docs.nano.org/)
 * [Support Forum](https://forum.nano.org)
 * [Whitepaper (Eng)](https://nano.org/en/whitepaper)
