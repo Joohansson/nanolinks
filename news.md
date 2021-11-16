@@ -34,6 +34,8 @@ layout: newslayout
 Protocol, Exchanges, Wallets, Special projects, General news
 
 ### November 2021
+* [Kyle Sherman - CEO & Founder of FlowHub joins the Nano Foundation Advisory Board](https://www.reddit.com/r/nanocurrency/comments/qvc6lt/kyle_sherman_ceo_founder_of_flowhub_joins_the/)
+* [INTRODUCING THE NEW CURRENCY SYMBOL Ӿ & SAY HELLO TO XNO](https://www.reddit.com/r/nanocurrency/comments/qsx7to/introducing_the_new_currency_symbol_%D3%BF_say_hello/)
 * [Welcome to the new Nano Hub!](https://www.reddit.com/r/nanocurrency/comments/qpiskj/welcome_to_the_new_nano_hub/)
 	
 ### October 2021
