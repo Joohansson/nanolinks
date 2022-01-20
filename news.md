@@ -25,13 +25,11 @@ layout: newslayout
   <img id="logo-news" src="src/nanolinks_simple.png" alt="Logo"/>
 <div class="first-header-news">
   <span class="helper"></span>
-  <p class="intro"><strong>Great news easily gets buried in a continuous media stream like Reddit and Discord. Here we try to keep track of the most important ones as a news archive.</strong><br>
+  <p class="intro"><strong>2022: End of Maintenance - There will be no more updates to this page.</strong><br>
   <a href="https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fnanolinks.info/news&edit-text=&act=url">Translate this page or any sub page to other languages</a><br></p>
 </div>
 
-## Reddit News
-
-Protocol, Exchanges, Wallets, Special projects, General news
+## Reddit News Archive
 
 ### November 2021
 * [Why NANO's NEW Symbol is IMPORTANT (ft. Colin LeMahieu & George Coxon)](https://www.reddit.com/r/nanocurrency/comments/qycxvm/why_nanos_new_symbol_is_important_ft_colin/)
