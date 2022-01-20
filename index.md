@@ -630,6 +630,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Tetraloom - Faucet](https://tetraloom.com/nano/)
 * [ApolloNano - Twitter Faucet](https://twitter.com/ApolloNano/)
 * [Nano Faucet - German](https://faucet.nanocoin.ch/)
+* [Bonobo Faucet](https://bonobo.cc/faucet)
 
 ### Point of Sale
 
