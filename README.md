@@ -1,6 +1,12 @@
 # Source Repo of [NanoLinks.info](https://nanolinks.info)
 Site generated from [index.md](https://github.com/Joohansson/nanolinks/blob/master/index.md) and [news.md](https://github.com/Joohansson/nanolinks/blob/master/news.md)
 
+**Nanolinks.info has been terminated**
+
+Migrated to [nanolinks.org](https://nanolinks.org) by another user
+
+Old site still available at https://joohansson.github.io/nanolinks/ but doesn't render correct.
+
 ## Contribution
 Do you wish to add a link to your own project or you found something else? Just clone this repo, edit any of the above files and make a pull request. You can also contact me at [Reddit](https://www.reddit.com/user/Joohansson/) or make a submission at the bottom of nanolinks.info. All content will be evaluated.
 
